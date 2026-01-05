@@ -1,100 +1,100 @@
 [
   {
-    "keyword": "Myles Garrett",
-    "identity_keyword": "Cleveland Browns",
-    "text": "Myles Garrett of the Cleveland Browns has set a new NFL season record with his 23rd sack, surpassing the previous record.",
+    "keyword": "Mourners",
+    "identity_keyword": "victims",
+    "text": "Mourners have gathered in Crans-Montana, Switzerland, to attend a mass for the victims of a recent bar fire that occurred in the area.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Community",
+    "identity_keyword": "residents",
+    "text": "The incident has left a significant impact on the community, with many coming together to pay their respects to those affected.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "NFL season record",
-    "identity_keyword": "Myles Garrett",
-    "text": "This achievement showcases Garrett's exceptional skill and performance throughout the season, solidifying his position as one of the top players in the league.",
+    "keyword": "Tribute",
+    "identity_keyword": "officials",
+    "text": "According to verified reports, the mass is being held as a tribute to the victims, with local residents and officials in attendance.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "exceptional skill",
-    "identity_keyword": "Garrett",
-    "text": "The record-breaking sack is a testament to Garrett's hard work and dedication to his craft, and it will be recognized as a notable milestone in the history of the NFL.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "record-breaking sack",
-    "identity_keyword": "Garrett",
-    "text": "Myles Garrett of the Cleveland Browns has set a new NFL season record with his 23rd sack, surpassing the previous record.",
+    "keyword": "Investigation",
+    "identity_keyword": "authorities",
+    "text": "The exact details of the fire are still being investigated, but the community is coming together to support those who have been affected by the tragedy.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Cleveland Browns",
-    "identity_keyword": "Myles Garrett",
-    "text": "This achievement showcases Garrett's exceptional skill and performance throughout the season, solidifying his position as one of the top players in the league.",
+    "keyword": "Support",
+    "identity_keyword": "victims",
+    "text": "The community is coming together to support those who have been affected by the tragedy.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Fire",
+    "identity_keyword": "bar",
+    "text": "A recent bar fire occurred in the area, leaving a significant impact on the community.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "NFL",
-    "identity_keyword": "season record",
-    "text": "The record-breaking sack is a testament to Garrett's hard work and dedication to his craft, and it will be recognized as a notable milestone in the history of the NFL.",
+    "keyword": "Mass",
+    "identity_keyword": "victims",
+    "text": "A mass is being held as a tribute to the victims of the bar fire.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "season record",
-    "identity_keyword": "Myles Garrett",
-    "text": "Myles Garrett of the Cleveland Browns has set a new NFL season record with his 23rd sack, surpassing the previous record.",
+    "keyword": "Crans-Montana",
+    "identity_keyword": "Switzerland",
+    "text": "Mourners have gathered in Crans-Montana, Switzerland, to attend a mass for the victims of a recent bar fire.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "23rd sack",
-    "identity_keyword": "Garrett",
-    "text": "This achievement showcases Garrett's exceptional skill and performance throughout the season, solidifying his position as one of the top players in the league.",
+    "keyword": "Verified",
+    "identity_keyword": "reports",
+    "text": "According to verified reports, the mass is being held as a tribute to the victims.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Respects",
+    "identity_keyword": "victims",
+    "text": "Many are coming together to pay their respects to those affected by the tragedy.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "previous record",
-    "identity_keyword": "NFL season record",
-    "text": "The record-breaking sack is a testament to Garrett's hard work and dedication to his craft, and it will be recognized as a notable milestone in the history of the NFL.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hard work",
-    "identity_keyword": "Garrett",
-    "text": "Myles Garrett of the Cleveland Browns has set a new NFL season record with his 23rd sack, surpassing the previous record.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "dedication",
-    "identity_keyword": "Myles Garrett",
-    "text": "This achievement showcases Garrett's exceptional skill and performance throughout the season, solidifying his position as one of the top players in the league.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "notable milestone",
-    "identity_keyword": "NFL",
-    "text": "The record-breaking sack is a testament to Garrett's hard work and dedication to his craft, and it will be recognized as a notable milestone in the history of the NFL.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "history of the NFL",
-    "identity_keyword": "season record",
-    "text": "Myles Garrett of the Cleveland Browns has set a new NFL season record with his 23rd sack, surpassing the previous record.",
+    "keyword": "Tragedy",
+    "identity_keyword": "community",
+    "text": "The community is coming together to support those who have been affected by the tragedy.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "top players",
-    "identity_keyword": "Garrett",
-    "text": "This achievement showcases Garrett's exceptional skill and performance throughout the season, solidifying his position as one of the top players in the league.",
+    "keyword": "Local",
+    "identity_keyword": "residents",
+    "text": "Local residents and officials are in attendance at the mass.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Attendance",
+    "identity_keyword": "officials",
+    "text": "The mass is being attended by local residents and officials.",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "Impact",
+    "identity_keyword": "community",
+    "text": "The incident has left a significant impact on the community.",
+    "duration": 4,
+    "visual_type": "identity"
   }
 ]
