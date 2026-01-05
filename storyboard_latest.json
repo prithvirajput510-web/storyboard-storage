@@ -1,100 +1,100 @@
 [
   {
-    "keyword": "mass",
-    "identity_keyword": "Crans-Montana",
-    "text": "A mass has been held in Crans-Montana, Switzerland, to mourn the victims of a recent bar fire in the town.",
+    "keyword": "red carpet",
+    "identity_keyword": "Critics Choice Awards",
+    "text": "The Critics Choice Awards 2026 red carpet has seen a plethora of stars in attendance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "fire",
-    "identity_keyword": "bar",
-    "text": "The fire occurred at a local bar, resulting in multiple fatalities and injuries.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "community",
-    "identity_keyword": "local",
-    "text": "The community has come together to pay their respects to those who lost their lives in the tragedy.",
+    "keyword": "stars",
+    "identity_keyword": "Quinta Brunson",
+    "text": "notable appearances by Quinta Brunson and Odessa A'zion among others",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "mourners",
-    "identity_keyword": "victims",
-    "text": "Mourners gathered at the mass to offer condolences and support to the families and loved ones of the victims.",
+    "keyword": "event",
+    "identity_keyword": "January 05, 2026",
+    "text": "The event, which took place on January 05, 2026, has been a hub for celebrities to showcase their stylish outfits",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "incident",
-    "identity_keyword": "tragedy",
-    "text": "The incident has had a significant impact on the local community, with many residents and visitors alike affected by the tragic event.",
+    "keyword": "awards ceremony",
+    "identity_keyword": "excellence in film and television",
+    "text": "the awards ceremony recognizes excellence in film and television",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "red carpet",
+    "identity_keyword": "celebrities",
+    "text": "the red carpet has been abuzz with excitement, providing a platform for fans to catch a glimpse of their favorite stars",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "celebrities",
+    "identity_keyword": "favorite stars",
+    "text": "With a wide range of celebrities walking the red carpet",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "glamour",
+    "identity_keyword": "sophistication",
+    "text": "the event has been a showcase of glamour and sophistication",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "celebration",
+    "identity_keyword": "outstanding achievements",
+    "text": "setting the tone for a night of celebration and recognition of outstanding achievements in the entertainment industry",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "residents",
-    "identity_keyword": "local",
-    "text": "Many residents have been affected by the tragic event.",
-    "duration": 3,
+    "keyword": "entertainment industry",
+    "identity_keyword": "film and television",
+    "text": "the entertainment industry has been a hub for celebrities to showcase their stylish outfits",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stars",
+    "identity_keyword": "Odessa A'zion",
+    "text": "notable appearances by Quinta Brunson and Odessa A'zion among others",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "visitors",
-    "identity_keyword": "local",
-    "text": "Visitors have also been affected by the tragic event.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "support",
-    "identity_keyword": "families",
-    "text": "The community is offering support to the families of the victims.",
+    "keyword": "red carpet",
+    "identity_keyword": "Critics Choice Awards 2026",
+    "text": "The Critics Choice Awards 2026 red carpet has seen a plethora of stars in attendance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "condolences",
-    "identity_keyword": "victims",
-    "text": "Mourners are offering condolences to the victims and their loved ones.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "bar fire",
-    "identity_keyword": "local",
-    "text": "The bar fire has had a significant impact on the local community.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "fatalities",
-    "identity_keyword": "tragedy",
-    "text": "The fire resulted in multiple fatalities and injuries.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "injuries",
-    "identity_keyword": "victims",
-    "text": "Many people were injured in the fire.",
+    "keyword": "awards",
+    "identity_keyword": "recognition",
+    "text": "the awards ceremony recognizes excellence in film and television",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "mass held",
-    "identity_keyword": "Crans-Montana",
-    "text": "A mass was held in Crans-Montana to mourn the victims of the bar fire.",
+    "keyword": "celebrities",
+    "identity_keyword": "media",
+    "text": "the red carpet has been abuzz with excitement, providing a platform for fans to catch a glimpse of their favorite stars",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "community impact",
-    "identity_keyword": "local",
-    "text": "The incident has had a significant impact on the local community.",
-    "duration": 5,
-    "visual_type": "identity"
+    "keyword": "event",
+    "identity_keyword": "January 05, 2026",
+    "text": "the event has been a showcase of glamour and sophistication",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
