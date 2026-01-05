@@ -1,100 +1,100 @@
 [
   {
-    "keyword": "Mourners",
-    "identity_keyword": "victims",
-    "text": "Mourners have gathered in Crans-Montana, Switzerland, to attend a mass for the victims of a recent bar fire that occurred in the area.",
+    "keyword": "mass",
+    "identity_keyword": "Crans-Montana",
+    "text": "A mass has been held in Crans-Montana, Switzerland, to mourn the victims of a recent bar fire in the town.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Community",
-    "identity_keyword": "residents",
-    "text": "The incident has left a significant impact on the community, with many coming together to pay their respects to those affected.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Tribute",
-    "identity_keyword": "officials",
-    "text": "According to verified reports, the mass is being held as a tribute to the victims, with local residents and officials in attendance.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Investigation",
-    "identity_keyword": "authorities",
-    "text": "The exact details of the fire are still being investigated, but the community is coming together to support those who have been affected by the tragedy.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Support",
-    "identity_keyword": "victims",
-    "text": "The community is coming together to support those who have been affected by the tragedy.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Fire",
+    "keyword": "fire",
     "identity_keyword": "bar",
-    "text": "A recent bar fire occurred in the area, leaving a significant impact on the community.",
+    "text": "The fire occurred at a local bar, resulting in multiple fatalities and injuries.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "community",
+    "identity_keyword": "local",
+    "text": "The community has come together to pay their respects to those who lost their lives in the tragedy.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Mass",
+    "keyword": "mourners",
     "identity_keyword": "victims",
-    "text": "A mass is being held as a tribute to the victims of the bar fire.",
+    "text": "Mourners gathered at the mass to offer condolences and support to the families and loved ones of the victims.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Crans-Montana",
-    "identity_keyword": "Switzerland",
-    "text": "Mourners have gathered in Crans-Montana, Switzerland, to attend a mass for the victims of a recent bar fire.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Verified",
-    "identity_keyword": "reports",
-    "text": "According to verified reports, the mass is being held as a tribute to the victims.",
-    "duration": 3,
+    "keyword": "incident",
+    "identity_keyword": "tragedy",
+    "text": "The incident has had a significant impact on the local community, with many residents and visitors alike affected by the tragic event.",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Respects",
-    "identity_keyword": "victims",
-    "text": "Many are coming together to pay their respects to those affected by the tragedy.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Tragedy",
-    "identity_keyword": "community",
-    "text": "The community is coming together to support those who have been affected by the tragedy.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Local",
-    "identity_keyword": "residents",
-    "text": "Local residents and officials are in attendance at the mass.",
+    "keyword": "residents",
+    "identity_keyword": "local",
+    "text": "Many residents have been affected by the tragic event.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "Attendance",
-    "identity_keyword": "officials",
-    "text": "The mass is being attended by local residents and officials.",
+    "keyword": "visitors",
+    "identity_keyword": "local",
+    "text": "Visitors have also been affected by the tragic event.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "support",
+    "identity_keyword": "families",
+    "text": "The community is offering support to the families of the victims.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Impact",
-    "identity_keyword": "community",
-    "text": "The incident has left a significant impact on the community.",
+    "keyword": "condolences",
+    "identity_keyword": "victims",
+    "text": "Mourners are offering condolences to the victims and their loved ones.",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "bar fire",
+    "identity_keyword": "local",
+    "text": "The bar fire has had a significant impact on the local community.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "fatalities",
+    "identity_keyword": "tragedy",
+    "text": "The fire resulted in multiple fatalities and injuries.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "injuries",
+    "identity_keyword": "victims",
+    "text": "Many people were injured in the fire.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "mass held",
+    "identity_keyword": "Crans-Montana",
+    "text": "A mass was held in Crans-Montana to mourn the victims of the bar fire.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "community impact",
+    "identity_keyword": "local",
+    "text": "The incident has had a significant impact on the local community.",
+    "duration": 5,
     "visual_type": "identity"
   }
 ]
