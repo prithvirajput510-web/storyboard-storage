@@ -1,119 +1,100 @@
-{
-  "metadata": {
-    "video_title": "Dow Jones Hits All-Time High",
-    "tags": [
-      "Dow Jones",
-      "stock market",
-      "oil stocks",
-      "Maduro capture",
-      "market news",
-      "stock exchange",
-      "Wall Street",
-      "financial news",
-      "Dow Jones today",
-      "market update"
-    ],
-    "topic": "dow jones today: major indexes jump as oil stocks soar on maduro's capture; dow hits all-time high",
-    "date": "January 06, 2026"
+[
+  {
+    "keyword": "Dow Jones",
+    "identity_keyword": "stock market",
+    "text": "The Dow Jones has reached an all-time high today, January 06, 2026, with major indexes experiencing a significant jump, driven in part by a surge in oil stocks.",
+    "duration": 4,
+    "visual_type": "emotion"
   },
-  "scenes": [
-    {
-      "keyword": "Dow Jones",
-      "identity_keyword": "stock market",
-      "text": "The Dow Jones index has reached an all-time high",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "oil stocks",
-      "identity_keyword": "energy sector",
-      "text": "driven by a surge in oil stocks",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "Nicolas Maduro",
-      "identity_keyword": "Venezuelan President",
-      "text": "following the reported capture of Venezuelan President Nicolas Maduro",
-      "duration": 4,
-      "visual_type": "identity"
-    },
-    {
-      "keyword": "major indexes",
-      "identity_keyword": "global market",
-      "text": "major indexes have jumped significantly",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "oil stocks",
-      "identity_keyword": "energy sector",
-      "text": "with oil stocks leading the gains",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "global oil market",
-      "identity_keyword": "commodity market",
-      "text": "The development has had a direct impact on the global oil market",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "oil prices",
-      "identity_keyword": "commodity prices",
-      "text": "causing a notable increase in oil prices",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "oil companies",
-      "identity_keyword": "energy sector",
-      "text": "which in turn has boosted the shares of oil companies",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "Dow Jones index",
-      "identity_keyword": "stock market",
-      "text": "The Dow Jones index has seen a substantial increase",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "record high",
-      "identity_keyword": "market milestone",
-      "text": "reaching a new record high",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "investors",
-      "identity_keyword": "market participants",
-      "text": "as investors react to the news",
-      "duration": 4,
-      "visual_type": "identity"
-    },
-    {
-      "keyword": "global economy",
-      "identity_keyword": "macroeconomics",
-      "text": "and its potential implications for the global economy",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "oil industry",
-      "identity_keyword": "energy sector",
-      "text": "and the oil industry",
-      "duration": 4,
-      "visual_type": "emotion"
-    },
-    {
-      "keyword": "market impact",
-      "identity_keyword": "financial news",
-      "text": "The development has had a significant impact on the market",
-      "duration": 4,
-      "visual_type": "emotion"
-    }
-  ]
-}
+  {
+    "keyword": "oil stocks",
+    "identity_keyword": "energy sector",
+    "text": "This development comes after the capture of Nicolas Maduro, leading to increased market confidence.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "political figure",
+    "text": "As a result, the Dow Jones has achieved a new record high, with oil stocks being among the top performers.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "market confidence",
+    "identity_keyword": "economic indicator",
+    "text": "This upward trend in the market is a notable occurrence, with investors closely watching the situation and its potential impact on the global economy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global economy",
+    "identity_keyword": "international trade",
+    "text": "The surge in oil stocks has contributed to the Dow Jones' all-time high, with investors optimistic about the market's future.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investors",
+    "identity_keyword": "financial sector",
+    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "major indexes",
+    "identity_keyword": "stock market indicator",
+    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "record high",
+    "identity_keyword": "stock market milestone",
+    "text": "The surge in oil stocks has driven the Dow Jones to an all-time high, with investors closely watching the situation.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market",
+    "identity_keyword": "financial sector",
+    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "financial sector",
+    "identity_keyword": "economic indicator",
+    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic indicator",
+    "identity_keyword": "market trend",
+    "text": "The surge in oil stocks has contributed to the Dow Jones' all-time high, with investors optimistic about the market's future.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "market trend",
+    "identity_keyword": "stock market analysis",
+    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "stock market analysis",
+    "identity_keyword": "financial news",
+    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial news",
+    "identity_keyword": "global events",
+    "text": "The surge in oil stocks has driven the Dow Jones to an all-time high, with investors closely watching the situation.",
+    "duration": 4,
+    "visual_type": "emotion"
+  }
+]
