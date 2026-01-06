@@ -1,99 +1,99 @@
 [
   {
+    "keyword": "developments",
+    "identity_keyword": "US",
+    "text": "Former US President Donald Trump has stated that the US is in charge of Venezuela",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
     "keyword": "Venezuela",
-    "identity_keyword": "country",
-    "text": "On January 6, 2026, it has been reported that former US President Donald Trump stated the United States is in charge of Venezuela",
+    "identity_keyword": "Venezuela",
+    "text": "amidst the ongoing situation in the country",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Donald Trump",
-    "identity_keyword": "President",
-    "text": "former US President Donald Trump stated the United States is in charge of Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "United States",
-    "identity_keyword": "country",
-    "text": "the United States is in charge of Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "President",
+    "keyword": "President",
+    "identity_keyword": "Nicolas Maduro",
     "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "court case",
-    "identity_keyword": "event",
+    "keyword": "court",
+    "identity_keyword": "Venezuela",
+    "text": "although the specific details of the court case have not been disclosed",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "update",
+    "identity_keyword": "Venezuela",
+    "text": "This comes as the latest update in the complex and evolving situation in Venezuela",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "US",
+    "identity_keyword": "US",
+    "text": "where the US and other countries have been involved in diplomatic efforts",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "countries",
+    "identity_keyword": "countries",
+    "text": "and discussions regarding the country's leadership and governance",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "leadership",
+    "identity_keyword": "Venezuela",
+    "text": "This comes as the latest update in the complex and evolving situation in Venezuela",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "governance",
+    "identity_keyword": "Venezuela",
+    "text": "where the US and other countries have been involved in diplomatic efforts",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Trump",
+    "identity_keyword": "Donald Trump",
+    "text": "Former US President Donald Trump has stated that the US is in charge of Venezuela",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Maduro",
+    "identity_keyword": "Nicolas Maduro",
     "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
     "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "situation",
+    "identity_keyword": "Venezuela",
+    "text": "amidst the ongoing situation in the country",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "international community",
-    "identity_keyword": "group",
-    "text": "the situation in Venezuela continues to be closely watched by the international community",
+    "keyword": "efforts",
+    "identity_keyword": "US",
+    "text": "where the US and other countries have been involved in diplomatic efforts",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "diplomatic efforts",
-    "identity_keyword": "actions",
-    "text": "The US has been involved in diplomatic efforts related to Venezuela in recent years",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "political situation",
-    "identity_keyword": "situation",
-    "text": "the country's political and economic situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "economic situation",
-    "identity_keyword": "situation",
-    "text": "the country's political and economic situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Venezuela developments",
-    "identity_keyword": "event",
-    "text": "amid ongoing developments in the country",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US involvement",
-    "identity_keyword": "actions",
-    "text": "The US has been involved in diplomatic efforts related to Venezuela in recent years",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "international observers",
-    "identity_keyword": "group",
-    "text": "the latest developments are likely to be closely followed by observers around the world",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "global attention",
-    "identity_keyword": "phenomenon",
-    "text": "the situation in Venezuela continues to be closely watched by the international community",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Venezuela news",
-    "identity_keyword": "information",
-    "text": "This news comes as the situation in Venezuela continues to be closely watched by the international community",
+    "keyword": "discussions",
+    "identity_keyword": "countries",
+    "text": "and discussions regarding the country's leadership and governance",
     "duration": 4,
     "visual_type": "emotion"
   }
