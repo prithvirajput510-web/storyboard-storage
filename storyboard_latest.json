@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "developments",
-    "identity_keyword": "US",
-    "text": "Former US President Donald Trump has stated that the US is in charge of Venezuela",
+    "keyword": "disaster",
+    "identity_keyword": "Switzerland",
+    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuela",
-    "identity_keyword": "Venezuela",
-    "text": "amidst the ongoing situation in the country",
+    "keyword": "identification",
+    "identity_keyword": "victims",
+    "text": "According to official reports, the identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "President",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "court",
-    "identity_keyword": "Venezuela",
-    "text": "although the specific details of the court case have not been disclosed",
+    "keyword": "investigation",
+    "identity_keyword": "officials",
+    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "update",
-    "identity_keyword": "Venezuela",
-    "text": "This comes as the latest update in the complex and evolving situation in Venezuela",
+    "keyword": "aftermath",
+    "identity_keyword": "disaster",
+    "text": "The identification of the victims marks an important step in the aftermath of the disaster, allowing loved ones to begin the grieving process and providing a sense of resolution as the community comes to terms with the loss.",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "closure",
+    "identity_keyword": "families",
+    "text": "The identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "US",
-    "identity_keyword": "US",
-    "text": "where the US and other countries have been involved in diplomatic efforts",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "countries",
-    "identity_keyword": "countries",
-    "text": "and discussions regarding the country's leadership and governance",
+    "keyword": "grieving",
+    "identity_keyword": "loved ones",
+    "text": "The identification of the victims marks an important step in the aftermath of the disaster, allowing loved ones to begin the grieving process.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "leadership",
-    "identity_keyword": "Venezuela",
-    "text": "This comes as the latest update in the complex and evolving situation in Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "governance",
-    "identity_keyword": "Venezuela",
-    "text": "where the US and other countries have been involved in diplomatic efforts",
+    "keyword": "resolution",
+    "identity_keyword": "community",
+    "text": "The identification of the victims marks an important step in the aftermath of the disaster, providing a sense of resolution as the community comes to terms with the loss.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Trump",
-    "identity_keyword": "Donald Trump",
-    "text": "Former US President Donald Trump has stated that the US is in charge of Venezuela",
+    "keyword": "tragic",
+    "identity_keyword": "incident",
+    "text": "The identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "official",
+    "identity_keyword": "reports",
+    "text": "According to official reports, the identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Maduro",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "situation",
-    "identity_keyword": "Venezuela",
-    "text": "amidst the ongoing situation in the country",
+    "keyword": "circumstances",
+    "identity_keyword": "blaze",
+    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "efforts",
-    "identity_keyword": "US",
-    "text": "where the US and other countries have been involved in diplomatic efforts",
+    "keyword": "loss",
+    "identity_keyword": "community",
+    "text": "The identification of the victims marks an important step in the aftermath of the disaster, providing a sense of resolution as the community comes to terms with the loss.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investigating",
+    "identity_keyword": "officials",
+    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "discussions",
-    "identity_keyword": "countries",
-    "text": "and discussions regarding the country's leadership and governance",
+    "keyword": "confirmed",
+    "identity_keyword": "authorities",
+    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "bar fire",
+    "identity_keyword": "disaster",
+    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
     "duration": 4,
     "visual_type": "emotion"
   }
