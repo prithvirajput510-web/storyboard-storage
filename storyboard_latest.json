@@ -1,100 +1,119 @@
-[
-  {
-    "keyword": "Dow Jones",
-    "identity_keyword": "stock market",
-    "text": "The Dow Jones Industrial Average has reached an all-time high",
-    "duration": 4,
-    "visual_type": "emotion"
+{
+  "metadata": {
+    "video_title": "Dow Jones Hits All-Time High",
+    "tags": [
+      "Dow Jones",
+      "stock market",
+      "oil stocks",
+      "Maduro capture",
+      "market news",
+      "stock exchange",
+      "Wall Street",
+      "financial news",
+      "Dow Jones today",
+      "market update"
+    ],
+    "topic": "dow jones today: major indexes jump as oil stocks soar on maduro's capture; dow hits all-time high",
+    "date": "January 06, 2026"
   },
-  {
-    "keyword": "oil stocks",
-    "identity_keyword": "energy market",
-    "text": "driven by significant gains in oil stocks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "captured leader",
-    "text": "following the recent capture of Nicolas Maduro",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "major indexes",
-    "identity_keyword": "stock market",
-    "text": "with major indexes experiencing a notable jump",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investors",
-    "identity_keyword": "market players",
-    "text": "as investors react to the potential implications",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "global energy market",
-    "identity_keyword": "energy sector",
-    "text": "on the global energy market",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "oil-related stocks",
-    "identity_keyword": "energy stocks",
-    "text": "resulting in a surge in oil-related stocks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "overall market",
-    "identity_keyword": "stock market",
-    "text": "and a boost to the overall market",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Dow Jones Industrial Average",
-    "identity_keyword": "stock market index",
-    "text": "with the Dow Jones Industrial Average hitting a new record high",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "January 06, 2026",
-    "identity_keyword": "date",
-    "text": "on January 06, 2026",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "stock market",
-    "identity_keyword": "financial market",
-    "text": "The stock market is reacting to the news",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "energy sector",
-    "identity_keyword": "industry",
-    "text": "The energy sector is experiencing a surge",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "global economy",
-    "identity_keyword": "economy",
-    "text": "The global economy is being impacted by the news",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial news",
-    "identity_keyword": "news",
-    "text": "The financial news is driving the market",
-    "duration": 4,
-    "visual_type": "emotion"
-  }
-]
+  "scenes": [
+    {
+      "keyword": "Dow Jones",
+      "identity_keyword": "stock market",
+      "text": "The Dow Jones index has reached an all-time high",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "oil stocks",
+      "identity_keyword": "energy sector",
+      "text": "driven by a surge in oil stocks",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "Nicolas Maduro",
+      "identity_keyword": "Venezuelan President",
+      "text": "following the reported capture of Venezuelan President Nicolas Maduro",
+      "duration": 4,
+      "visual_type": "identity"
+    },
+    {
+      "keyword": "major indexes",
+      "identity_keyword": "global market",
+      "text": "major indexes have jumped significantly",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "oil stocks",
+      "identity_keyword": "energy sector",
+      "text": "with oil stocks leading the gains",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "global oil market",
+      "identity_keyword": "commodity market",
+      "text": "The development has had a direct impact on the global oil market",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "oil prices",
+      "identity_keyword": "commodity prices",
+      "text": "causing a notable increase in oil prices",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "oil companies",
+      "identity_keyword": "energy sector",
+      "text": "which in turn has boosted the shares of oil companies",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "Dow Jones index",
+      "identity_keyword": "stock market",
+      "text": "The Dow Jones index has seen a substantial increase",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "record high",
+      "identity_keyword": "market milestone",
+      "text": "reaching a new record high",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "investors",
+      "identity_keyword": "market participants",
+      "text": "as investors react to the news",
+      "duration": 4,
+      "visual_type": "identity"
+    },
+    {
+      "keyword": "global economy",
+      "identity_keyword": "macroeconomics",
+      "text": "and its potential implications for the global economy",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "oil industry",
+      "identity_keyword": "energy sector",
+      "text": "and the oil industry",
+      "duration": 4,
+      "visual_type": "emotion"
+    },
+    {
+      "keyword": "market impact",
+      "identity_keyword": "financial news",
+      "text": "The development has had a significant impact on the market",
+      "duration": 4,
+      "visual_type": "emotion"
+    }
+  ]
+}
