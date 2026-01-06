@@ -1,99 +1,116 @@
 [
   {
+    "_type": "metadata",
+    "video_title": "Dow Hits All-Time High",
+    "tags": [
+      "Dow Jones",
+      "stock market",
+      "oil stocks",
+      "Maduro capture",
+      "market news",
+      "Wall Street",
+      "stock prices",
+      "financial news",
+      "Dow all-time high"
+    ],
+    "topic": "dow jones today: major indexes jump as oil stocks soar on maduro's capture; dow hits all-time high",
+    "date": "January 06, 2026"
+  },
+  {
     "keyword": "Dow Jones",
     "identity_keyword": "stock market",
-    "text": "The Dow Jones has reached an all-time high today, January 06, 2026, with major indexes experiencing a significant jump, driven in part by a surge in oil stocks.",
+    "text": "The Dow Jones has reached an all-time high",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "oil stocks",
     "identity_keyword": "energy sector",
-    "text": "This development comes after the capture of Nicolas Maduro, leading to increased market confidence.",
+    "text": "major indexes jumped significantly, driven by a surge in oil stocks",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "Nicolas Maduro",
     "identity_keyword": "political figure",
-    "text": "As a result, the Dow Jones has achieved a new record high, with oil stocks being among the top performers.",
+    "text": "This development comes after the capture of Nicolas Maduro",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "market confidence",
-    "identity_keyword": "economic indicator",
-    "text": "This upward trend in the market is a notable occurrence, with investors closely watching the situation and its potential impact on the global economy.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "global economy",
-    "identity_keyword": "international trade",
-    "text": "The surge in oil stocks has contributed to the Dow Jones' all-time high, with investors optimistic about the market's future.",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "investors",
-    "identity_keyword": "financial sector",
-    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "major indexes",
-    "identity_keyword": "stock market indicator",
-    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
+    "identity_keyword": "market players",
+    "text": "investors reacting positively to the news",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "record high",
-    "identity_keyword": "stock market milestone",
-    "text": "The surge in oil stocks has driven the Dow Jones to an all-time high, with investors closely watching the situation.",
+    "identity_keyword": "market milestone",
+    "text": "the Dow Jones has hit a record high",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market",
-    "identity_keyword": "financial sector",
-    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
+    "keyword": "oil stocks",
+    "identity_keyword": "energy sector",
+    "text": "oil stocks being the primary drivers of this upward trend",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "market activity",
+    "identity_keyword": "economic indicator",
+    "text": "the current market activity is a direct response to the recent events",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investors",
+    "identity_keyword": "market players",
+    "text": "investors closely monitoring the situation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global economy",
+    "identity_keyword": "economic system",
+    "text": "its potential impact on the global economy",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "financial sector",
-    "identity_keyword": "economic indicator",
-    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
+    "keyword": "Dow Jones",
+    "identity_keyword": "stock market",
+    "text": "The Dow Jones has reached an all-time high as major indexes jumped significantly",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economic indicator",
-    "identity_keyword": "market trend",
-    "text": "The surge in oil stocks has contributed to the Dow Jones' all-time high, with investors optimistic about the market's future.",
+    "keyword": "oil stocks",
+    "identity_keyword": "energy sector",
+    "text": "driven by a surge in oil stocks",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "political figure",
+    "text": "the capture of Nicolas Maduro",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "investors",
+    "identity_keyword": "market players",
+    "text": "investors reacting positively to the news",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
     "keyword": "market trend",
-    "identity_keyword": "stock market analysis",
-    "text": "The capture of Nicolas Maduro has led to increased market confidence, resulting in a significant jump in major indexes.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "stock market analysis",
-    "identity_keyword": "financial news",
-    "text": "The Dow Jones' new record high is a notable occurrence, with the potential to impact the global economy.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial news",
-    "identity_keyword": "global events",
-    "text": "The surge in oil stocks has driven the Dow Jones to an all-time high, with investors closely watching the situation.",
+    "identity_keyword": "economic indicator",
+    "text": "the current market activity is a direct response to the recent events",
     "duration": 4,
     "visual_type": "emotion"
   }
