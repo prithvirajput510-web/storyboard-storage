@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Dow Jones Hits All-Time High",
+    "video_title": "Ancient Clues on Sea-Level Rise",
     "tags": [
-      "Dow Jones",
-      "stock market",
-      "oil stocks",
-      "Maduro capture",
-      "market news",
-      "Wall Street",
-      "stock prices",
-      "financial news",
-      "Dow Jones today",
-      "market update"
+      "sea level rise",
+      "climate change",
+      "ancient clues",
+      "future predictions",
+      "ocean levels",
+      "global warming",
+      "environmental science",
+      "coastal erosion",
+      "weather forecast",
+      "earth science"
     ],
-    "topic": "dow jones today: major indexes jump as oil stocks soar on maduro's capture; dow hits all-time high",
+    "topic": "scientists just got some ancient clues about future sea-level rise — and it’s bad news",
     "date": "January 06, 2026"
   },
   {
-    "keyword": "Dow Jones",
-    "identity_keyword": "stock market",
-    "text": "The Dow Jones has reached an all-time high today, January 06, 2026",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "major indexes",
-    "identity_keyword": "financial market",
-    "text": "as major indexes experienced a significant jump",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "oil stocks",
-    "identity_keyword": "energy sector",
-    "text": "driven in part by a surge in oil stocks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "political figure",
-    "text": "This development comes after the capture of Nicolas Maduro",
+    "keyword": "Scientists",
+    "identity_keyword": "researchers",
+    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "market impact",
-    "identity_keyword": "economic effect",
-    "text": "which has had a notable impact on the market",
+    "keyword": "ancient clues",
+    "identity_keyword": "findings",
+    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "oil stocks",
-    "identity_keyword": "energy sector",
-    "text": "The increase in oil stocks is a key factor in the upward trend of the major indexes",
+    "keyword": "fossilized coral reefs",
+    "identity_keyword": "sediment cores",
+    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "sea levels",
+    "identity_keyword": "ice sheets",
+    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "researchers",
+    "identity_keyword": "scientists",
+    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "last interglacial period",
+    "identity_keyword": "sea levels",
+    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Dow Jones",
-    "identity_keyword": "stock market",
-    "text": "with the Dow Jones hitting a new record high",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "recent events",
-    "identity_keyword": "current news",
-    "text": "as a result of these recent events",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market",
-    "identity_keyword": "financial market",
-    "text": "The Dow Jones has reached an all-time high today",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial news",
-    "identity_keyword": "economic news",
-    "text": "The increase in oil stocks is a key factor in the upward trend",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "energy sector",
-    "identity_keyword": "oil industry",
-    "text": "driven in part by a surge in oil stocks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "economic effect",
-    "identity_keyword": "market impact",
-    "text": "which has had a notable impact on the market",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "current news",
-    "identity_keyword": "recent events",
-    "text": "as a result of these recent events",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "record high",
-    "identity_keyword": "stock market record",
-    "text": "with the Dow Jones hitting a new record high",
+    "keyword": "melting of ice sheets",
+    "identity_keyword": "Greenland and Antarctica",
+    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "climate change",
+    "identity_keyword": "sea levels",
+    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global warming",
+    "identity_keyword": "sea-level rise",
+    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "future sea-level rise",
+    "identity_keyword": "research",
+    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "sea-level rise",
+    "identity_keyword": "ice sheets",
+    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "fossilized coral reefs",
+    "identity_keyword": "sediment cores",
+    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "predictions of future sea-level rise",
+    "identity_keyword": "global warming",
+    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "findings",
+    "identity_keyword": "researchers",
+    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
