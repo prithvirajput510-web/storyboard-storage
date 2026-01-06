@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "Las Vegas Raiders",
-    "identity_keyword": "Pete Carroll",
-    "text": "The Las Vegas Raiders have relieved Pete Carroll of his duties as head coach",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Pete Carroll",
-    "identity_keyword": "head coach",
-    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Seattle Seahawks",
-    "identity_keyword": "Pete Carroll",
-    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Las Vegas Raiders",
-    "identity_keyword": "head coach",
-    "text": "The Raiders current head coach is not Pete Carroll",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "coaching changes",
-    "identity_keyword": "official team announcements",
-    "text": "Any information regarding coaching changes should be verified through official team announcements",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "reputable sources",
-    "identity_keyword": "coaching changes",
-    "text": "Any information regarding coaching changes should be verified through reputable sources",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "January 06, 2026",
-    "identity_keyword": "current date",
-    "text": "This information is not accurate as of the current date, January 06, 2026",
+    "keyword": "Dow Jones",
+    "identity_keyword": "US",
+    "text": "The Dow Jones Industrial Average has experienced a significant increase",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Pete Carroll",
-    "identity_keyword": "head coach",
-    "text": "Pete Carroll has not been relieved of his duties as head coach of the Seattle Seahawks",
-    "duration": 5,
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "Venezuela",
+    "text": "following the recent news of the US capturing Venezuela's Nicolas Maduro",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Las Vegas Raiders",
-    "identity_keyword": "head coach",
-    "text": "The Las Vegas Raiders have not made any recent announcements about their head coach",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Seattle Seahawks",
-    "identity_keyword": "Pete Carroll",
-    "text": "The Seattle Seahawks have not made any recent announcements about Pete Carroll's departure",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "coaching changes",
-    "identity_keyword": "official announcements",
-    "text": "Coaching changes should be verified through official announcements",
+    "keyword": "stock market",
+    "identity_keyword": "investors",
+    "text": "with stocks rising sharply in response to the development",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Pete Carroll",
-    "identity_keyword": "Seattle Seahawks",
-    "text": "Pete Carroll is still the head coach of the Seattle Seahawks",
+    "keyword": "US operation",
+    "identity_keyword": "Maduro",
+    "text": "According to verified reports, the US operation resulted in Maduro's capture",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Las Vegas Raiders",
-    "identity_keyword": "head coach",
-    "text": "The Las Vegas Raiders have a different head coach",
+    "keyword": "investor confidence",
+    "identity_keyword": "investors",
+    "text": "leading to a surge in investor confidence and a subsequent jump in the stock market",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Dow increase",
+    "identity_keyword": "US",
+    "text": "As of today, January 6, 2026, the Dow has seen a notable increase",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "major indexes",
+    "identity_keyword": "stock market",
+    "text": "with major indexes also experiencing gains",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Maduro capture",
+    "identity_keyword": "Venezuela",
+    "text": "The capture of Maduro has been confirmed by official sources",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "accurate information",
-    "identity_keyword": "reputable sources",
-    "text": "It's essential to verify information through reputable sources",
+    "keyword": "stock market reaction",
+    "identity_keyword": "investors",
+    "text": "and the stock market's reaction is a direct result of this unexpected turn of events",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global markets",
+    "identity_keyword": "investors",
+    "text": "with investors reacting to the potential implications of this development on global markets",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "geopolitics",
+    "identity_keyword": "US",
+    "text": "and geopolitics",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US operation impact",
+    "identity_keyword": "Maduro",
+    "text": "The US operation has had a significant impact on the stock market",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "investor response",
+    "identity_keyword": "investors",
+    "text": "with investors responding quickly to the news of Maduro's capture",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "market trends",
+    "identity_keyword": "stock market",
+    "text": "and the stock market is expected to continue experiencing fluctuations in response to the development",
     "duration": 5,
     "visual_type": "emotion"
   }
