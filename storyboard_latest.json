@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "red carpet",
-    "identity_keyword": "Critics Choice Awards",
-    "text": "The Critics Choice Awards 2026 red carpet has seen a plethora of stars in attendance",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stars",
-    "identity_keyword": "Quinta Brunson",
-    "text": "notable appearances by Quinta Brunson and Odessa A'zion among others",
+    "keyword": "recognition",
+    "identity_keyword": "Israel",
+    "text": "Israel has officially recognized Somaliland as a sovereign state",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "event",
-    "identity_keyword": "January 05, 2026",
-    "text": "The event, which took place on January 05, 2026, has been a hub for celebrities to showcase their stylish outfits",
+    "keyword": "diplomatic",
+    "identity_keyword": "Somaliland",
+    "text": "marking a significant shift in its diplomatic stance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "awards ceremony",
-    "identity_keyword": "excellence in film and television",
-    "text": "the awards ceremony recognizes excellence in film and television",
+    "keyword": "strategic",
+    "identity_keyword": "Israel",
+    "text": "This move is seen as a strategic decision",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "location",
+    "identity_keyword": "Somaliland",
+    "text": "Somaliland is located in a critical region near the Bab-el-Mandeb Strait",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "red carpet",
-    "identity_keyword": "celebrities",
-    "text": "the red carpet has been abuzz with excitement, providing a platform for fans to catch a glimpse of their favorite stars",
+    "keyword": "shipping",
+    "identity_keyword": "Bab-el-Mandeb",
+    "text": "a key shipping lane",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "separation",
+    "identity_keyword": "Somaliland",
+    "text": "The recognition is also notable given Somaliland's separation from Somalia",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "international",
+    "identity_keyword": "Somalia",
+    "text": "which is not recognized by the international community",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "celebrities",
-    "identity_keyword": "favorite stars",
-    "text": "With a wide range of celebrities walking the red carpet",
+    "keyword": "cooperation",
+    "identity_keyword": "Israel",
+    "text": "Israel's decision to establish diplomatic relations with Somaliland is a result of growing ties between the two nations",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "trade",
+    "identity_keyword": "Somaliland",
+    "text": "with cooperation in areas such as trade",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "security",
+    "identity_keyword": "Israel",
+    "text": "security",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "glamour",
-    "identity_keyword": "sophistication",
-    "text": "the event has been a showcase of glamour and sophistication",
+    "keyword": "development",
+    "identity_keyword": "Somaliland",
+    "text": "and development",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "celebration",
-    "identity_keyword": "outstanding achievements",
-    "text": "setting the tone for a night of celebration and recognition of outstanding achievements in the entertainment industry",
+    "keyword": "recognition",
+    "identity_keyword": "Somaliland",
+    "text": "The recognition is a significant development in the region",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "independence",
+    "identity_keyword": "Somaliland",
+    "text": "which has been seeking international recognition since declaring independence in 1991",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "entertainment industry",
-    "identity_keyword": "film and television",
-    "text": "the entertainment industry has been a hub for celebrities to showcase their stylish outfits",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stars",
-    "identity_keyword": "Odessa A'zion",
-    "text": "notable appearances by Quinta Brunson and Odessa A'zion among others",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "red carpet",
-    "identity_keyword": "Critics Choice Awards 2026",
-    "text": "The Critics Choice Awards 2026 red carpet has seen a plethora of stars in attendance",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "awards",
-    "identity_keyword": "recognition",
-    "text": "the awards ceremony recognizes excellence in film and television",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "celebrities",
-    "identity_keyword": "media",
-    "text": "the red carpet has been abuzz with excitement, providing a platform for fans to catch a glimpse of their favorite stars",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "event",
-    "identity_keyword": "January 05, 2026",
-    "text": "the event has been a showcase of glamour and sophistication",
+    "keyword": "welcome",
+    "identity_keyword": "Somaliland",
+    "text": "and has been welcomed by Somaliland",
     "duration": 4,
     "visual_type": "emotion"
   }
