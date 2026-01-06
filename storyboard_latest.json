@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Ancient Clues on Sea-Level Rise",
+    "video_title": "FAA Upgrades Radar Systems",
     "tags": [
-      "sea level rise",
-      "climate change",
-      "ancient clues",
-      "future predictions",
-      "ocean levels",
-      "global warming",
-      "environmental science",
-      "coastal erosion",
-      "sea level research"
+      "FAA",
+      "Radar Systems",
+      "Air Traffic Control",
+      "Aviation Technology",
+      "Radar Upgrade",
+      "Air Traffic Management",
+      "FAA News",
+      "Aviation News",
+      "Radar Replacement"
     ],
-    "topic": "scientists just got some ancient clues about future sea-level rise — and it’s bad news",
+    "topic": "faa picks 2 firms to replace 612 outdated radar systems that air traffic controllers rely on",
     "date": "January 06, 2026"
   },
   {
-    "keyword": "Scientists",
-    "identity_keyword": "Researchers",
-    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "keyword": "FAA",
+    "identity_keyword": "Federal Aviation Administration",
+    "text": "The Federal Aviation Administration has selected two firms to replace outdated radar systems.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Ancient clues",
-    "identity_keyword": "Findings",
-    "text": "A new study has revealed that during the last interglacial period, approximately 125,000 years ago, sea levels were around 6 meters higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
+    "keyword": "radar systems",
+    "identity_keyword": "outdated radar systems",
+    "text": "The outdated systems have been in use for decades.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Sea levels",
-    "identity_keyword": "Ice sheets",
-    "text": "This information is significant because the global temperatures during that period were similar to those projected for the future, suggesting that similar sea-level rises could occur in the coming centuries.",
+    "keyword": "modernization",
+    "identity_keyword": "modernization effort",
+    "text": "The replacement is part of a modernization effort to improve safety and efficiency.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Global temperatures",
-    "identity_keyword": "Future",
-    "text": "The study's findings are based on an analysis of sediment cores and other geological data, which have helped researchers to better understand the relationship between temperature and sea-level rise in the past, and to improve their predictions for the future.",
+    "keyword": "air traffic controllers",
+    "identity_keyword": "air traffic controllers",
+    "text": "The new systems will provide more accurate data to air traffic controllers.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Sediment cores",
-    "identity_keyword": "Geological data",
-    "text": "The study's findings are concerning and provide insight into future sea-level rise.",
+    "keyword": "safety",
+    "identity_keyword": "safety improvement",
+    "text": "The new systems will enable air traffic controllers to make better decisions and reduce accidents.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "national airspace system",
+    "identity_keyword": "national airspace system",
+    "text": "The replacement project is part of the national airspace system modernization.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "FAA responsibility",
+    "identity_keyword": "FAA responsibility",
+    "text": "The FAA is responsible for ensuring the safe operation of the national airspace system.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "replacement project",
+    "identity_keyword": "replacement project",
+    "text": "The replacement project is a significant undertaking for the FAA.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "outdated systems",
+    "identity_keyword": "outdated radar systems",
+    "text": "The outdated systems are being replaced with new ones.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Future sea-level rise",
-    "identity_keyword": "Sea levels",
-    "text": "The last interglacial period is an important indicator of what could happen in the future.",
+    "keyword": "new systems",
+    "identity_keyword": "new radar systems",
+    "text": "The new systems will provide more accurate and reliable data.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Last interglacial period",
-    "identity_keyword": "Ice sheets",
-    "text": "The melting of ice sheets in Greenland and Antarctica is a significant factor in sea-level rise.",
+    "keyword": "air traffic control",
+    "identity_keyword": "air traffic control",
+    "text": "The new systems will improve air traffic control efficiency.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Ice sheets melting",
-    "identity_keyword": "Greenland",
-    "text": "The study's findings are based on an analysis of sediment cores and other geological data.",
+    "keyword": "accident reduction",
+    "identity_keyword": "accident reduction",
+    "text": "The new systems will reduce the risk of accidents.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Geological data",
-    "identity_keyword": "Sediment cores",
-    "text": "The relationship between temperature and sea-level rise is complex and not fully understood.",
+    "keyword": "FAA modernization",
+    "identity_keyword": "FAA modernization",
+    "text": "The FAA is modernizing the national airspace system.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Temperature",
-    "identity_keyword": "Sea-level rise",
-    "text": "The study's findings provide valuable insights into the potential consequences of climate change.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Climate change",
-    "identity_keyword": "Consequences",
-    "text": "The study's findings are a warning sign for the potential dangers of sea-level rise.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Warning sign",
-    "identity_keyword": "Dangers",
-    "text": "The study's findings are a call to action to address the issue of sea-level rise.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Call to action",
-    "identity_keyword": "Issue",
-    "text": "The study's findings are a reminder of the importance of addressing climate change.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Importance",
-    "identity_keyword": "Reminder",
-    "text": "The study's findings are a significant contribution to the understanding of sea-level rise.",
+    "keyword": "national airspace",
+    "identity_keyword": "national airspace system",
+    "text": "The national airspace system will be improved with the new radar systems.",
     "duration": 4,
     "visual_type": "identity"
   }
