@@ -20,20 +20,20 @@
   {
     "keyword": "Dow Jones",
     "identity_keyword": "stock market",
-    "text": "The Dow Jones has reached an all-time high as of January 06, 2026",
+    "text": "The Dow Jones has reached an all-time high today, January 06, 2026",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "major indexes",
     "identity_keyword": "financial market",
-    "text": "with major indexes experiencing a significant jump",
+    "text": "as major indexes experienced a significant jump",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "oil stocks",
-    "identity_keyword": "energy market",
+    "identity_keyword": "energy sector",
     "text": "driven in part by a surge in oil stocks",
     "duration": 4,
     "visual_type": "emotion"
@@ -46,73 +46,73 @@
     "visual_type": "identity"
   },
   {
-    "keyword": "investors",
-    "identity_keyword": "market players",
-    "text": "with investors reacting to the potential implications for the global energy market",
+    "keyword": "market impact",
+    "identity_keyword": "economic effect",
+    "text": "which has had a notable impact on the market",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "oil stocks",
-    "identity_keyword": "energy market",
-    "text": "As a result, oil stocks have seen a notable increase",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "major indexes",
-    "identity_keyword": "financial market",
-    "text": "contributing to the overall rise in the major indexes",
-    "duration": 4,
+    "identity_keyword": "energy sector",
+    "text": "The increase in oil stocks is a key factor in the upward trend of the major indexes",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
     "keyword": "Dow Jones",
     "identity_keyword": "stock market",
-    "text": "The Dow Jones has hit a new record high",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "market sentiment",
-    "identity_keyword": "investor attitude",
-    "text": "reflecting the current market sentiment",
+    "text": "with the Dow Jones hitting a new record high",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "recent events",
-    "identity_keyword": "global news",
-    "text": "and reaction to the recent events",
+    "identity_keyword": "current news",
+    "text": "as a result of these recent events",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global energy market",
-    "identity_keyword": "international trade",
-    "text": "with potential implications for the global energy market",
+    "keyword": "stock market",
+    "identity_keyword": "financial market",
+    "text": "The Dow Jones has reached an all-time high today",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "financial news",
-    "identity_keyword": "economic updates",
-    "text": "The Dow Jones has reached an all-time high as of January 06, 2026",
+    "identity_keyword": "economic news",
+    "text": "The increase in oil stocks is a key factor in the upward trend",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market trends",
-    "identity_keyword": "investment analysis",
-    "text": "with major indexes experiencing a significant jump",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "energy market trends",
-    "identity_keyword": "industry analysis",
+    "keyword": "energy sector",
+    "identity_keyword": "oil industry",
     "text": "driven in part by a surge in oil stocks",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic effect",
+    "identity_keyword": "market impact",
+    "text": "which has had a notable impact on the market",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "current news",
+    "identity_keyword": "recent events",
+    "text": "as a result of these recent events",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "record high",
+    "identity_keyword": "stock market record",
+    "text": "with the Dow Jones hitting a new record high",
+    "duration": 4,
+    "visual_type": "identity"
   }
 ]
