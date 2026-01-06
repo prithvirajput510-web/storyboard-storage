@@ -2,98 +2,98 @@
   {
     "keyword": "Governor",
     "identity_keyword": "Tim Walz",
-    "text": "Minnesota Governor Tim Walz has announced that he will not be seeking reelection",
+    "text": "Minnesota Governor Tim Walz has announced that he is ending his campaign for reelection",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Reelection",
-    "identity_keyword": "Second Term",
-    "text": "ending his campaign for a second term in office",
+    "keyword": "Election",
+    "identity_keyword": "Minnesota",
+    "text": "a decision that was made public on January 6, 2026",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Announcement",
-    "identity_keyword": "January 6",
-    "text": "This decision was made public on January 6, 2026",
-    "duration": 3,
+    "keyword": "Campaign",
+    "identity_keyword": "Reelection",
+    "text": "This development comes as a significant change in the state's upcoming election landscape",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Politics",
-    "identity_keyword": "Minnesota",
-    "text": "and it marks a significant development in the state's political landscape",
+    "keyword": "Governor",
+    "identity_keyword": "Tim Walz",
+    "text": "Governor Walz, who has been in office since 2019, had previously indicated his intention to seek another term",
     "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "Incumbent",
-    "identity_keyword": "Governor Walz",
-    "text": "As the incumbent governor, Walz had been expected to run for reelection",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
     "keyword": "Decision",
-    "identity_keyword": "Not Seeking",
-    "text": "but he has now opted not to pursue another term",
-    "duration": 4,
+    "identity_keyword": "Reelection",
+    "text": "but has now reversed that decision",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Race",
-    "identity_keyword": "Governor's Seat",
-    "text": "The announcement will likely set off a competitive race for the governor's seat in Minnesota",
+    "keyword": "Election",
+    "identity_keyword": "Minnesota",
+    "text": "The news of his withdrawal from the race is expected to have implications for the field of candidates",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
     "keyword": "Candidates",
-    "identity_keyword": "Both Parties",
-    "text": "with potential candidates from both parties expected to enter the fray",
+    "identity_keyword": "Governor",
+    "text": "vying for the governor's seat in the upcoming election",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Implications",
-    "identity_keyword": "State Politics",
-    "text": "Governor Walz's decision not to seek reelection will have implications for the state's politics",
+    "keyword": "Governor",
+    "identity_keyword": "Tim Walz",
+    "text": "Minnesota Governor Tim Walz has announced that he is ending his campaign for reelection",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Election",
+    "identity_keyword": "Minnesota",
+    "text": "a decision that was made public on January 6, 2026",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Campaign",
+    "identity_keyword": "Reelection",
+    "text": "This development comes as a significant change in the state's upcoming election landscape",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Governor",
+    "identity_keyword": "Tim Walz",
+    "text": "Governor Walz, who has been in office since 2019, had previously indicated his intention to seek another term",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Decision",
+    "identity_keyword": "Reelection",
+    "text": "but has now reversed that decision",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Election",
+    "identity_keyword": "Minnesota",
+    "text": "The news of his withdrawal from the race is expected to have implications for the field of candidates",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Policy",
-    "identity_keyword": "Priorities",
-    "text": "and policy priorities in the months and years to come",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Development",
-    "identity_keyword": "Political Landscape",
-    "text": "This decision was made public on January 6, 2026, and it marks a significant development",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Expectations",
-    "identity_keyword": "Incumbent Governor",
-    "text": "As the incumbent governor, Walz had been expected to run for reelection",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Consequences",
-    "identity_keyword": "State's Politics",
-    "text": "Governor Walz's decision not to seek reelection will have implications for the state's politics",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Future",
-    "identity_keyword": "Minnesota Politics",
-    "text": "and policy priorities in the months and years to come",
+    "keyword": "Candidates",
+    "identity_keyword": "Governor",
+    "text": "vying for the governor's seat in the upcoming election",
     "duration": 4,
     "visual_type": "identity"
   }
