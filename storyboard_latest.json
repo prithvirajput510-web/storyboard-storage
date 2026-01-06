@@ -1,100 +1,100 @@
 [
   {
-    "keyword": "Governor",
-    "identity_keyword": "Tim Walz",
-    "text": "Minnesota Governor Tim Walz has announced that he is ending his campaign for reelection",
+    "keyword": "Las Vegas Raiders",
+    "identity_keyword": "team",
+    "text": "The Las Vegas Raiders have relieved Pete Carroll of his duties as head coach",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Election",
-    "identity_keyword": "Minnesota",
-    "text": "a decision that was made public on January 6, 2026",
+    "keyword": "Pete Carroll",
+    "identity_keyword": "head coach",
+    "text": "Pete Carroll has been the head coach of the Seattle Seahawks since 2010",
     "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Campaign",
-    "identity_keyword": "Reelection",
-    "text": "This development comes as a significant change in the state's upcoming election landscape",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Governor",
-    "identity_keyword": "Tim Walz",
-    "text": "Governor Walz, who has been in office since 2019, had previously indicated his intention to seek another term",
-    "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "Decision",
-    "identity_keyword": "Reelection",
-    "text": "but has now reversed that decision",
+    "keyword": "Seattle Seahawks",
+    "identity_keyword": "team",
+    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "January 06, 2026",
+    "identity_keyword": "date",
+    "text": "As of January 06, 2026, there is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "head coach",
+    "identity_keyword": "position",
+    "text": "Pete Carroll is not the head coach of the Las Vegas Raiders",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Election",
-    "identity_keyword": "Minnesota",
-    "text": "The news of his withdrawal from the race is expected to have implications for the field of candidates",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Candidates",
-    "identity_keyword": "Governor",
-    "text": "vying for the governor's seat in the upcoming election",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Governor",
-    "identity_keyword": "Tim Walz",
-    "text": "Minnesota Governor Tim Walz has announced that he is ending his campaign for reelection",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Election",
-    "identity_keyword": "Minnesota",
-    "text": "a decision that was made public on January 6, 2026",
+    "keyword": "duties",
+    "identity_keyword": "responsibilities",
+    "text": "The Las Vegas Raiders have not relieved Pete Carroll of his duties as head coach",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Campaign",
-    "identity_keyword": "Reelection",
-    "text": "This development comes as a significant change in the state's upcoming election landscape",
+    "keyword": "team announcement",
+    "identity_keyword": "statement",
+    "text": "The team announced on January 06, 2026, however this is not accurate",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Governor",
-    "identity_keyword": "Tim Walz",
-    "text": "Governor Walz, who has been in office since 2019, had previously indicated his intention to seek another term",
-    "duration": 5,
-    "visual_type": "identity"
+    "keyword": "accuracy",
+    "identity_keyword": "truth",
+    "text": "This is not accurate since Pete Carroll has been the head coach of the Seattle Seahawks since 2010",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "Decision",
-    "identity_keyword": "Reelection",
-    "text": "but has now reversed that decision",
+    "keyword": "information",
+    "identity_keyword": "knowledge",
+    "text": "There is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "relieved",
+    "identity_keyword": "fired",
+    "text": "The Las Vegas Raiders have not relieved Pete Carroll of his duties as head coach",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Election",
-    "identity_keyword": "Minnesota",
-    "text": "The news of his withdrawal from the race is expected to have implications for the field of candidates",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Candidates",
-    "identity_keyword": "Governor",
-    "text": "vying for the governor's seat in the upcoming election",
+    "keyword": "head coach position",
+    "identity_keyword": "job",
+    "text": "Pete Carroll is the head coach of the Seattle Seahawks, not the Las Vegas Raiders",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "Las Vegas Raiders coach",
+    "identity_keyword": "team leader",
+    "text": "The Las Vegas Raiders have a different head coach, not Pete Carroll",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Seattle Seahawks coach",
+    "identity_keyword": "team leader",
+    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "accurate information",
+    "identity_keyword": "truth",
+    "text": "To create a factual paragraph, it would be more accurate to say that as of January 06, 2026, there is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
+    "duration": 5,
+    "visual_type": "emotion"
   }
 ]
