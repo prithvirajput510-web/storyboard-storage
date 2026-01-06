@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "Ravens",
-    "identity_keyword": "team",
-    "text": "The Baltimore Ravens finished their season with a tough loss to the Pittsburgh Steelers, falling short in a closely contested game.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "loss",
-    "identity_keyword": "emotion",
-    "text": "The Ravens put up a strong effort, but ultimately came up just short, ending their season with a disappointing defeat.",
+    "keyword": "Venezuelan politics",
+    "identity_keyword": "Nicolas Maduro",
+    "text": "Venezuelan politics is witnessing a significant development",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Steelers",
-    "identity_keyword": "team",
-    "text": "The Steelers were able to secure the win, with the final score being a testament to the intense rivalry between the two teams.",
+    "keyword": "new leader",
+    "identity_keyword": "Venezuelan leader",
+    "text": "emergence of a new leader",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "offseason",
-    "identity_keyword": "season",
-    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season, while the Steelers will move on to the next round of the playoffs.",
+    "keyword": "Donald Trump",
+    "identity_keyword": "US President",
+    "text": "former US President Donald Trump has issued a warning",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "disappointment",
-    "identity_keyword": "emotion",
-    "text": "The loss marked the end of a promising season for the Ravens, who had shown significant improvement throughout the year.",
+    "keyword": "warning",
+    "identity_keyword": "Venezuelan leader",
+    "text": "warning to the new Venezuelan leader",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "rivalry",
-    "identity_keyword": "relationship",
-    "text": "The final score was a testament to the intense rivalry between the two teams.",
-    "duration": 3,
-    "visual_type": "identity"
+    "keyword": "international community",
+    "identity_keyword": "global leaders",
+    "text": "international community continues to monitor the situation",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "regroup",
-    "identity_keyword": "action",
-    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season.",
+    "keyword": "Venezuela",
+    "identity_keyword": "Venezuelan people",
+    "text": "situation in Venezuela is evolving",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "rebuild",
-    "identity_keyword": "action",
-    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season.",
+    "keyword": "political landscape",
+    "identity_keyword": "Venezuelan politics",
+    "text": "political landscape is evolving with the rise of a new leadership",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Maduro's court appearance",
+    "identity_keyword": "Nicolas Maduro",
+    "text": "Maduro's upcoming court appearance is being closely watched",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "playoffs",
-    "identity_keyword": "season",
-    "text": "The Steelers will move on to the next round of the playoffs.",
-    "duration": 3,
-    "visual_type": "identity"
+    "keyword": "Venezuelan future",
+    "identity_keyword": "Venezuelan people",
+    "text": "country grapples with its future under changing circumstances",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "improvement",
-    "identity_keyword": "progress",
-    "text": "The Ravens had shown significant improvement throughout the year.",
+    "keyword": "new leadership",
+    "identity_keyword": "Venezuelan leader",
+    "text": "rise of a new leadership in Venezuela",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "season",
-    "identity_keyword": "time",
-    "text": "The Ravens finished their season with a tough loss to the Pittsburgh Steelers.",
+    "keyword": "global attention",
+    "identity_keyword": "international community",
+    "text": "international community continues to monitor the situation in Venezuela",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Venezuelan development",
+    "identity_keyword": "Venezuelan politics",
+    "text": "Venezuelan politics is witnessing a significant development",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Trump's warning",
+    "identity_keyword": "Donald Trump",
+    "text": "former US President Donald Trump has issued a warning to the new Venezuelan leader",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "game",
-    "identity_keyword": "event",
-    "text": "The Ravens finished their season with a tough loss to the Pittsburgh Steelers, falling short in a closely contested game.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "effort",
-    "identity_keyword": "action",
-    "text": "The Ravens put up a strong effort, but ultimately came up just short.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "defeat",
-    "identity_keyword": "emotion",
-    "text": "The Ravens ended their season with a disappointing defeat.",
+    "keyword": "Venezuelan situation",
+    "identity_keyword": "Venezuelan people",
+    "text": "situation in Venezuela is evolving with the rise of a new leadership",
     "duration": 4,
     "visual_type": "emotion"
   }
