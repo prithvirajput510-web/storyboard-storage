@@ -11,108 +11,107 @@
       "global warming",
       "environmental science",
       "coastal erosion",
-      "weather forecast",
-      "earth science"
+      "sea level research"
     ],
     "topic": "scientists just got some ancient clues about future sea-level rise — and it’s bad news",
     "date": "January 06, 2026"
   },
   {
     "keyword": "Scientists",
-    "identity_keyword": "researchers",
+    "identity_keyword": "Researchers",
     "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "ancient clues",
-    "identity_keyword": "findings",
-    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
+    "keyword": "Ancient clues",
+    "identity_keyword": "Findings",
+    "text": "A new study has revealed that during the last interglacial period, approximately 125,000 years ago, sea levels were around 6 meters higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "fossilized coral reefs",
-    "identity_keyword": "sediment cores",
-    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "sea levels",
-    "identity_keyword": "ice sheets",
-    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
+    "keyword": "Sea levels",
+    "identity_keyword": "Ice sheets",
+    "text": "This information is significant because the global temperatures during that period were similar to those projected for the future, suggesting that similar sea-level rises could occur in the coming centuries.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "researchers",
-    "identity_keyword": "scientists",
-    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "keyword": "Global temperatures",
+    "identity_keyword": "Future",
+    "text": "The study's findings are based on an analysis of sediment cores and other geological data, which have helped researchers to better understand the relationship between temperature and sea-level rise in the past, and to improve their predictions for the future.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "last interglacial period",
-    "identity_keyword": "sea levels",
-    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
-    "duration": 5,
+    "keyword": "Sediment cores",
+    "identity_keyword": "Geological data",
+    "text": "The study's findings are concerning and provide insight into future sea-level rise.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "melting of ice sheets",
-    "identity_keyword": "Greenland and Antarctica",
-    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
+    "keyword": "Future sea-level rise",
+    "identity_keyword": "Sea levels",
+    "text": "The last interglacial period is an important indicator of what could happen in the future.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Last interglacial period",
+    "identity_keyword": "Ice sheets",
+    "text": "The melting of ice sheets in Greenland and Antarctica is a significant factor in sea-level rise.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "climate change",
-    "identity_keyword": "sea levels",
-    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
-    "duration": 5,
+    "keyword": "Ice sheets melting",
+    "identity_keyword": "Greenland",
+    "text": "The study's findings are based on an analysis of sediment cores and other geological data.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global warming",
-    "identity_keyword": "sea-level rise",
-    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "keyword": "Geological data",
+    "identity_keyword": "Sediment cores",
+    "text": "The relationship between temperature and sea-level rise is complex and not fully understood.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "future sea-level rise",
-    "identity_keyword": "research",
-    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
-    "duration": 5,
+    "keyword": "Temperature",
+    "identity_keyword": "Sea-level rise",
+    "text": "The study's findings provide valuable insights into the potential consequences of climate change.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "sea-level rise",
-    "identity_keyword": "ice sheets",
-    "text": "By studying fossilized coral reefs and sediment cores, researchers have been able to reconstruct the extent of sea-level rise during this period, which is helping them better understand the potential impacts of climate change on sea levels in the future.",
+    "keyword": "Climate change",
+    "identity_keyword": "Consequences",
+    "text": "The study's findings are a warning sign for the potential dangers of sea-level rise.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Warning sign",
+    "identity_keyword": "Dangers",
+    "text": "The study's findings are a call to action to address the issue of sea-level rise.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "fossilized coral reefs",
-    "identity_keyword": "sediment cores",
-    "text": "The data suggests that sea levels were around 6 meters higher than they are today, which is consistent with predictions of future sea-level rise due to global warming.",
-    "duration": 5,
+    "keyword": "Call to action",
+    "identity_keyword": "Issue",
+    "text": "The study's findings are a reminder of the importance of addressing climate change.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "predictions of future sea-level rise",
-    "identity_keyword": "global warming",
-    "text": "Scientists have recently discovered ancient clues that provide insight into future sea-level rise, and the findings are concerning.",
+    "keyword": "Importance",
+    "identity_keyword": "Reminder",
+    "text": "The study's findings are a significant contribution to the understanding of sea-level rise.",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "findings",
-    "identity_keyword": "researchers",
-    "text": "According to new research, during the last interglacial period, which occurred around 125,000 years ago, sea levels were significantly higher than they are today, due to the melting of ice sheets in Greenland and Antarctica.",
-    "duration": 4,
-    "visual_type": "emotion"
   }
 ]
