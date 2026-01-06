@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "Venezuelan politics",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "Venezuelan politics is witnessing a significant development",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new leader",
-    "identity_keyword": "Venezuelan leader",
-    "text": "emergence of a new leader",
+    "keyword": "Venezuela",
+    "identity_keyword": "country",
+    "text": "On January 6, 2026, it has been reported that former US President Donald Trump stated the United States is in charge of Venezuela",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "Donald Trump",
-    "identity_keyword": "US President",
-    "text": "former US President Donald Trump has issued a warning",
+    "identity_keyword": "President",
+    "text": "former US President Donald Trump stated the United States is in charge of Venezuela",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "warning",
-    "identity_keyword": "Venezuelan leader",
-    "text": "warning to the new Venezuelan leader",
+    "keyword": "United States",
+    "identity_keyword": "country",
+    "text": "the United States is in charge of Venezuela",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "President",
+    "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "court case",
+    "identity_keyword": "event",
+    "text": "Venezuelan President Nicolas Maduro is expected to appear in court on Monday",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "international community",
-    "identity_keyword": "global leaders",
-    "text": "international community continues to monitor the situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Venezuela",
-    "identity_keyword": "Venezuelan people",
-    "text": "situation in Venezuela is evolving",
+    "identity_keyword": "group",
+    "text": "the situation in Venezuela continues to be closely watched by the international community",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "political landscape",
-    "identity_keyword": "Venezuelan politics",
-    "text": "political landscape is evolving with the rise of a new leadership",
+    "keyword": "diplomatic efforts",
+    "identity_keyword": "actions",
+    "text": "The US has been involved in diplomatic efforts related to Venezuela in recent years",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Maduro's court appearance",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "Maduro's upcoming court appearance is being closely watched",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Venezuelan future",
-    "identity_keyword": "Venezuelan people",
-    "text": "country grapples with its future under changing circumstances",
+    "keyword": "political situation",
+    "identity_keyword": "situation",
+    "text": "the country's political and economic situation",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "new leadership",
-    "identity_keyword": "Venezuelan leader",
-    "text": "rise of a new leadership in Venezuela",
+    "keyword": "economic situation",
+    "identity_keyword": "situation",
+    "text": "the country's political and economic situation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Venezuela developments",
+    "identity_keyword": "event",
+    "text": "amid ongoing developments in the country",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US involvement",
+    "identity_keyword": "actions",
+    "text": "The US has been involved in diplomatic efforts related to Venezuela in recent years",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "international observers",
+    "identity_keyword": "group",
+    "text": "the latest developments are likely to be closely followed by observers around the world",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "global attention",
-    "identity_keyword": "international community",
-    "text": "international community continues to monitor the situation in Venezuela",
+    "identity_keyword": "phenomenon",
+    "text": "the situation in Venezuela continues to be closely watched by the international community",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuelan development",
-    "identity_keyword": "Venezuelan politics",
-    "text": "Venezuelan politics is witnessing a significant development",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Trump's warning",
-    "identity_keyword": "Donald Trump",
-    "text": "former US President Donald Trump has issued a warning to the new Venezuelan leader",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Venezuelan situation",
-    "identity_keyword": "Venezuelan people",
-    "text": "situation in Venezuela is evolving with the rise of a new leadership",
+    "keyword": "Venezuela news",
+    "identity_keyword": "information",
+    "text": "This news comes as the situation in Venezuela continues to be closely watched by the international community",
     "duration": 4,
     "visual_type": "emotion"
   }
