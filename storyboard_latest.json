@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "Israel",
-    "identity_keyword": "country",
-    "text": "Israel has become the first country to officially recognize Somaliland as a sovereign state",
+    "keyword": "Ravens",
+    "identity_keyword": "team",
+    "text": "The Baltimore Ravens finished their season with a tough loss to the Pittsburgh Steelers, falling short in a closely contested game.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Somaliland",
-    "identity_keyword": "sovereign state",
-    "text": "marking a significant shift in the region's diplomatic landscape",
+    "keyword": "loss",
+    "identity_keyword": "emotion",
+    "text": "The Ravens put up a strong effort, but ultimately came up just short, ending their season with a disappointing defeat.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Israel",
-    "identity_keyword": "country",
-    "text": "This move is seen as a strategic decision by Israel",
+    "keyword": "Steelers",
+    "identity_keyword": "team",
+    "text": "The Steelers were able to secure the win, with the final score being a testament to the intense rivalry between the two teams.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Horn of Africa",
-    "identity_keyword": "region",
-    "text": "which has been strengthening its ties with countries in the Horn of Africa in recent years",
+    "keyword": "offseason",
+    "identity_keyword": "season",
+    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season, while the Steelers will move on to the next round of the playoffs.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Somaliland",
-    "identity_keyword": "sovereign state",
-    "text": "The recognition of Somaliland by Israel is a notable development",
+    "keyword": "disappointment",
+    "identity_keyword": "emotion",
+    "text": "The loss marked the end of a promising season for the Ravens, who had shown significant improvement throughout the year.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Somalia",
-    "identity_keyword": "country",
-    "text": "given that Somaliland has been seeking international recognition since it declared independence from Somalia in 1991",
-    "duration": 5,
+    "keyword": "rivalry",
+    "identity_keyword": "relationship",
+    "text": "The final score was a testament to the intense rivalry between the two teams.",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "Israel",
-    "identity_keyword": "country",
-    "text": "The Israeli government's decision is likely to have implications for the region",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "trade",
-    "identity_keyword": "cooperation",
-    "text": "particularly in terms of trade and security cooperation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "security",
-    "identity_keyword": "cooperation",
-    "text": "and may also influence the stance of other countries towards Somaliland's status",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Somaliland",
-    "identity_keyword": "sovereign state",
-    "text": "Somaliland has been seeking international recognition since it declared independence from Somalia",
+    "keyword": "regroup",
+    "identity_keyword": "action",
+    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Israel",
-    "identity_keyword": "country",
-    "text": "Israel has become the first country to officially recognize Somaliland",
+    "keyword": "rebuild",
+    "identity_keyword": "action",
+    "text": "The Ravens will now head into the offseason, looking to regroup and rebuild for next season.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "region",
-    "identity_keyword": "diplomatic landscape",
-    "text": "marking a significant shift in the region's diplomatic landscape",
-    "duration": 4,
-    "visual_type": "emotion"
+    "keyword": "playoffs",
+    "identity_keyword": "season",
+    "text": "The Steelers will move on to the next round of the playoffs.",
+    "duration": 3,
+    "visual_type": "identity"
   },
   {
-    "keyword": "Somaliland",
-    "identity_keyword": "sovereign state",
-    "text": "The recognition of Somaliland by Israel is a notable development",
+    "keyword": "improvement",
+    "identity_keyword": "progress",
+    "text": "The Ravens had shown significant improvement throughout the year.",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "implications",
-    "identity_keyword": "region",
-    "text": "The Israeli government's decision is likely to have implications for the region",
+    "keyword": "season",
+    "identity_keyword": "time",
+    "text": "The Ravens finished their season with a tough loss to the Pittsburgh Steelers.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "game",
+    "identity_keyword": "event",
+    "text": "The Ravens finished their season with a tough loss to the Pittsburgh Steelers, falling short in a closely contested game.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "effort",
+    "identity_keyword": "action",
+    "text": "The Ravens put up a strong effort, but ultimately came up just short.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "defeat",
+    "identity_keyword": "emotion",
+    "text": "The Ravens ended their season with a disappointing defeat.",
     "duration": 4,
     "visual_type": "emotion"
   }
