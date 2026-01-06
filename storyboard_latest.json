@@ -1,100 +1,100 @@
 [
   {
     "keyword": "Dow Jones",
-    "identity_keyword": "US",
-    "text": "The Dow Jones Industrial Average has experienced a significant increase",
+    "identity_keyword": "stock market",
+    "text": "The Dow Jones Industrial Average has experienced a significant surge",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "Venezuela",
-    "text": "following the recent news of the US capturing Venezuela's Nicolas Maduro",
+    "keyword": "United States",
+    "identity_keyword": "US",
+    "text": "following the news that the United States has captured Venezuelan President Nicolas Maduro",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "Venezuelan President",
+    "identity_keyword": "Nicolas Maduro",
+    "text": "As of today, January 6, 2026, the stock market is reacting positively to this development",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
     "keyword": "stock market",
     "identity_keyword": "investors",
-    "text": "with stocks rising sharply in response to the development",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US operation",
-    "identity_keyword": "Maduro",
-    "text": "According to verified reports, the US operation resulted in Maduro's capture",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "investor confidence",
-    "identity_keyword": "investors",
-    "text": "leading to a surge in investor confidence and a subsequent jump in the stock market",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Dow increase",
-    "identity_keyword": "US",
-    "text": "As of today, January 6, 2026, the Dow has seen a notable increase",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "major indexes",
-    "identity_keyword": "stock market",
-    "text": "with major indexes also experiencing gains",
+    "text": "with the Dow jumping in response to the capture",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Maduro capture",
-    "identity_keyword": "Venezuela",
-    "text": "The capture of Maduro has been confirmed by official sources",
-    "duration": 4,
+    "keyword": "US and Venezuela",
+    "identity_keyword": "relationship",
+    "text": "This event marks a major turning point in the complex and often tumultuous relationship between the US and Venezuela",
+    "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "stock market reaction",
-    "identity_keyword": "investors",
-    "text": "and the stock market's reaction is a direct result of this unexpected turn of events",
-    "duration": 5,
+    "keyword": "investors",
+    "identity_keyword": "global markets",
+    "text": "and investors are taking notice",
+    "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "capture of Maduro",
+    "identity_keyword": "economies",
+    "text": "The capture of Maduro has the potential to impact global markets and economies",
+    "duration": 5,
+    "visual_type": "identity"
   },
   {
     "keyword": "global markets",
-    "identity_keyword": "investors",
-    "text": "with investors reacting to the potential implications of this development on global markets",
-    "duration": 5,
+    "identity_keyword": "situation",
+    "text": "and investors are closely watching the situation as it unfolds",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "geopolitics",
-    "identity_keyword": "US",
-    "text": "and geopolitics",
-    "duration": 3,
+    "keyword": "Dow Jones Industrial Average",
+    "identity_keyword": "stock market",
+    "text": "The Dow Jones Industrial Average has experienced a significant surge following the news",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "US operation impact",
-    "identity_keyword": "Maduro",
-    "text": "The US operation has had a significant impact on the stock market",
+    "keyword": "United States capture",
+    "identity_keyword": "Venezuelan President",
+    "text": "that the United States has captured Venezuelan President Nicolas Maduro",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "investor response",
-    "identity_keyword": "investors",
-    "text": "with investors responding quickly to the news of Maduro's capture",
+    "keyword": "January 6, 2026",
+    "identity_keyword": "stock market",
+    "text": "As of today, January 6, 2026, the stock market is reacting positively to this development",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "market trends",
-    "identity_keyword": "stock market",
-    "text": "and the stock market is expected to continue experiencing fluctuations in response to the development",
+    "keyword": "Dow jumping",
+    "identity_keyword": "investors",
+    "text": "with the Dow jumping in response to the capture",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US and Venezuela relationship",
+    "identity_keyword": "relationship",
+    "text": "This event marks a major turning point in the complex and often tumultuous relationship between the US and Venezuela",
     "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "investors notice",
+    "identity_keyword": "global markets",
+    "text": "and investors are taking notice",
+    "duration": 3,
     "visual_type": "emotion"
   }
 ]
