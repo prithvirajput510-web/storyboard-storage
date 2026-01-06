@@ -1,7 +1,7 @@
 [
   {
     "keyword": "Las Vegas Raiders",
-    "identity_keyword": "team",
+    "identity_keyword": "Pete Carroll",
     "text": "The Las Vegas Raiders have relieved Pete Carroll of his duties as head coach",
     "duration": 4,
     "visual_type": "identity"
@@ -9,91 +9,91 @@
   {
     "keyword": "Pete Carroll",
     "identity_keyword": "head coach",
-    "text": "Pete Carroll has been the head coach of the Seattle Seahawks since 2010",
+    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "Seattle Seahawks",
-    "identity_keyword": "team",
+    "identity_keyword": "Pete Carroll",
     "text": "Pete Carroll is the head coach of the Seattle Seahawks",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "Las Vegas Raiders",
+    "identity_keyword": "head coach",
+    "text": "The Raiders current head coach is not Pete Carroll",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "coaching changes",
+    "identity_keyword": "official team announcements",
+    "text": "Any information regarding coaching changes should be verified through official team announcements",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "reputable sources",
+    "identity_keyword": "coaching changes",
+    "text": "Any information regarding coaching changes should be verified through reputable sources",
+    "duration": 5,
+    "visual_type": "emotion"
   },
   {
     "keyword": "January 06, 2026",
-    "identity_keyword": "date",
-    "text": "As of January 06, 2026, there is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
+    "identity_keyword": "current date",
+    "text": "This information is not accurate as of the current date, January 06, 2026",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "head coach",
-    "identity_keyword": "position",
-    "text": "Pete Carroll is not the head coach of the Las Vegas Raiders",
-    "duration": 3,
-    "visual_type": "emotion"
+    "keyword": "Pete Carroll",
+    "identity_keyword": "head coach",
+    "text": "Pete Carroll has not been relieved of his duties as head coach of the Seattle Seahawks",
+    "duration": 5,
+    "visual_type": "identity"
   },
   {
-    "keyword": "duties",
-    "identity_keyword": "responsibilities",
-    "text": "The Las Vegas Raiders have not relieved Pete Carroll of his duties as head coach",
+    "keyword": "Las Vegas Raiders",
+    "identity_keyword": "head coach",
+    "text": "The Las Vegas Raiders have not made any recent announcements about their head coach",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Seattle Seahawks",
+    "identity_keyword": "Pete Carroll",
+    "text": "The Seattle Seahawks have not made any recent announcements about Pete Carroll's departure",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "coaching changes",
+    "identity_keyword": "official announcements",
+    "text": "Coaching changes should be verified through official announcements",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "team announcement",
-    "identity_keyword": "statement",
-    "text": "The team announced on January 06, 2026, however this is not accurate",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "accuracy",
-    "identity_keyword": "truth",
-    "text": "This is not accurate since Pete Carroll has been the head coach of the Seattle Seahawks since 2010",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "information",
-    "identity_keyword": "knowledge",
-    "text": "There is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "relieved",
-    "identity_keyword": "fired",
-    "text": "The Las Vegas Raiders have not relieved Pete Carroll of his duties as head coach",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "head coach position",
-    "identity_keyword": "job",
-    "text": "Pete Carroll is the head coach of the Seattle Seahawks, not the Las Vegas Raiders",
+    "keyword": "Pete Carroll",
+    "identity_keyword": "Seattle Seahawks",
+    "text": "Pete Carroll is still the head coach of the Seattle Seahawks",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Las Vegas Raiders coach",
-    "identity_keyword": "team leader",
-    "text": "The Las Vegas Raiders have a different head coach, not Pete Carroll",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Seattle Seahawks coach",
-    "identity_keyword": "team leader",
-    "text": "Pete Carroll is the head coach of the Seattle Seahawks",
-    "duration": 4,
+    "keyword": "Las Vegas Raiders",
+    "identity_keyword": "head coach",
+    "text": "The Las Vegas Raiders have a different head coach",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "accurate information",
-    "identity_keyword": "truth",
-    "text": "To create a factual paragraph, it would be more accurate to say that as of January 06, 2026, there is no information about the Las Vegas Raiders relieving Pete Carroll of his duties as head coach",
+    "identity_keyword": "reputable sources",
+    "text": "It's essential to verify information through reputable sources",
     "duration": 5,
     "visual_type": "emotion"
   }
