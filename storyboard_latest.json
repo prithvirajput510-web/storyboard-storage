@@ -1,100 +1,100 @@
 [
   {
-    "keyword": "disaster",
-    "identity_keyword": "Switzerland",
-    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "identification",
-    "identity_keyword": "victims",
-    "text": "According to official reports, the identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
+    "keyword": "Governor",
+    "identity_keyword": "Tim Walz",
+    "text": "Minnesota Governor Tim Walz has announced that he will not be seeking reelection",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "investigation",
-    "identity_keyword": "officials",
-    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
+    "keyword": "Reelection",
+    "identity_keyword": "Second Term",
+    "text": "ending his campaign for a second term in office",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "aftermath",
-    "identity_keyword": "disaster",
-    "text": "The identification of the victims marks an important step in the aftermath of the disaster, allowing loved ones to begin the grieving process and providing a sense of resolution as the community comes to terms with the loss.",
+    "keyword": "Announcement",
+    "identity_keyword": "January 6",
+    "text": "This decision was made public on January 6, 2026",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Politics",
+    "identity_keyword": "Minnesota",
+    "text": "and it marks a significant development in the state's political landscape",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Incumbent",
+    "identity_keyword": "Governor Walz",
+    "text": "As the incumbent governor, Walz had been expected to run for reelection",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Decision",
+    "identity_keyword": "Not Seeking",
+    "text": "but he has now opted not to pursue another term",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Race",
+    "identity_keyword": "Governor's Seat",
+    "text": "The announcement will likely set off a competitive race for the governor's seat in Minnesota",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "closure",
-    "identity_keyword": "families",
-    "text": "The identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
+    "keyword": "Candidates",
+    "identity_keyword": "Both Parties",
+    "text": "with potential candidates from both parties expected to enter the fray",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "grieving",
-    "identity_keyword": "loved ones",
-    "text": "The identification of the victims marks an important step in the aftermath of the disaster, allowing loved ones to begin the grieving process.",
-    "duration": 4,
+    "keyword": "Implications",
+    "identity_keyword": "State Politics",
+    "text": "Governor Walz's decision not to seek reelection will have implications for the state's politics",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "resolution",
-    "identity_keyword": "community",
-    "text": "The identification of the victims marks an important step in the aftermath of the disaster, providing a sense of resolution as the community comes to terms with the loss.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "tragic",
-    "identity_keyword": "incident",
-    "text": "The identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "official",
-    "identity_keyword": "reports",
-    "text": "According to official reports, the identification process has been completed, bringing closure to the families of those who lost their lives in the tragic incident.",
+    "keyword": "Policy",
+    "identity_keyword": "Priorities",
+    "text": "and policy priorities in the months and years to come",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "circumstances",
-    "identity_keyword": "blaze",
-    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
+    "keyword": "Development",
+    "identity_keyword": "Political Landscape",
+    "text": "This decision was made public on January 6, 2026, and it marks a significant development",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "loss",
-    "identity_keyword": "community",
-    "text": "The identification of the victims marks an important step in the aftermath of the disaster, providing a sense of resolution as the community comes to terms with the loss.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investigating",
-    "identity_keyword": "officials",
-    "text": "The cause of the fire is currently under investigation, with officials working to determine the circumstances surrounding the blaze.",
+    "keyword": "Expectations",
+    "identity_keyword": "Incumbent Governor",
+    "text": "As the incumbent governor, Walz had been expected to run for reelection",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "confirmed",
-    "identity_keyword": "authorities",
-    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
-    "duration": 3,
-    "visual_type": "identity"
+    "keyword": "Consequences",
+    "identity_keyword": "State's Politics",
+    "text": "Governor Walz's decision not to seek reelection will have implications for the state's politics",
+    "duration": 5,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "bar fire",
-    "identity_keyword": "disaster",
-    "text": "Swiss authorities have confirmed that all victims of the recent bar fire disaster in Switzerland have been identified.",
+    "keyword": "Future",
+    "identity_keyword": "Minnesota Politics",
+    "text": "and policy priorities in the months and years to come",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
