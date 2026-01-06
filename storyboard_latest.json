@@ -1,7 +1,7 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Dow Hits All-Time High",
+    "video_title": "Dow Jones Hits All-Time High",
     "tags": [
       "Dow Jones",
       "stock market",
@@ -11,7 +11,8 @@
       "Wall Street",
       "stock prices",
       "financial news",
-      "Dow all-time high"
+      "Dow Jones today",
+      "market update"
     ],
     "topic": "dow jones today: major indexes jump as oil stocks soar on maduro's capture; dow hits all-time high",
     "date": "January 06, 2026"
@@ -19,14 +20,21 @@
   {
     "keyword": "Dow Jones",
     "identity_keyword": "stock market",
-    "text": "The Dow Jones has reached an all-time high",
+    "text": "The Dow Jones has reached an all-time high as of January 06, 2026",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "major indexes",
+    "identity_keyword": "financial market",
+    "text": "with major indexes experiencing a significant jump",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "oil stocks",
-    "identity_keyword": "energy sector",
-    "text": "major indexes jumped significantly, driven by a surge in oil stocks",
+    "identity_keyword": "energy market",
+    "text": "driven in part by a surge in oil stocks",
     "duration": 4,
     "visual_type": "emotion"
   },
@@ -40,77 +48,70 @@
   {
     "keyword": "investors",
     "identity_keyword": "market players",
-    "text": "investors reacting positively to the news",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "record high",
-    "identity_keyword": "market milestone",
-    "text": "the Dow Jones has hit a record high",
+    "text": "with investors reacting to the potential implications for the global energy market",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "oil stocks",
-    "identity_keyword": "energy sector",
-    "text": "oil stocks being the primary drivers of this upward trend",
+    "identity_keyword": "energy market",
+    "text": "As a result, oil stocks have seen a notable increase",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "market activity",
-    "identity_keyword": "economic indicator",
-    "text": "the current market activity is a direct response to the recent events",
+    "keyword": "major indexes",
+    "identity_keyword": "financial market",
+    "text": "contributing to the overall rise in the major indexes",
     "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "investors",
-    "identity_keyword": "market players",
-    "text": "investors closely monitoring the situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "global economy",
-    "identity_keyword": "economic system",
-    "text": "its potential impact on the global economy",
-    "duration": 4,
-    "visual_type": "identity"
   },
   {
     "keyword": "Dow Jones",
     "identity_keyword": "stock market",
-    "text": "The Dow Jones has reached an all-time high as major indexes jumped significantly",
+    "text": "The Dow Jones has hit a new record high",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "oil stocks",
-    "identity_keyword": "energy sector",
-    "text": "driven by a surge in oil stocks",
+    "keyword": "market sentiment",
+    "identity_keyword": "investor attitude",
+    "text": "reflecting the current market sentiment",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "political figure",
-    "text": "the capture of Nicolas Maduro",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "investors",
-    "identity_keyword": "market players",
-    "text": "investors reacting positively to the news",
-    "duration": 5,
+    "keyword": "recent events",
+    "identity_keyword": "global news",
+    "text": "and reaction to the recent events",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "market trend",
-    "identity_keyword": "economic indicator",
-    "text": "the current market activity is a direct response to the recent events",
+    "keyword": "global energy market",
+    "identity_keyword": "international trade",
+    "text": "with potential implications for the global energy market",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial news",
+    "identity_keyword": "economic updates",
+    "text": "The Dow Jones has reached an all-time high as of January 06, 2026",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market trends",
+    "identity_keyword": "investment analysis",
+    "text": "with major indexes experiencing a significant jump",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "energy market trends",
+    "identity_keyword": "industry analysis",
+    "text": "driven in part by a surge in oil stocks",
     "duration": 4,
     "visual_type": "emotion"
   }
