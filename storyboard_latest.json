@@ -1,99 +1,99 @@
 [
   {
-    "keyword": "recognition",
-    "identity_keyword": "Israel",
+    "keyword": "Israel",
+    "identity_keyword": "country",
     "text": "Israel has officially recognized Somaliland as a sovereign state",
     "duration": 4,
     "visual_type": "identity"
   },
   {
+    "keyword": "Somaliland",
+    "identity_keyword": "state",
+    "text": "Somaliland has been seeking international recognition since declaring independence from Somalia in 1991",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
     "keyword": "diplomatic",
-    "identity_keyword": "Somaliland",
-    "text": "marking a significant shift in its diplomatic stance",
+    "identity_keyword": "stance",
+    "text": "This move follows a recent visit by the Somaliland president to Israel",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "strategic",
-    "identity_keyword": "Israel",
-    "text": "This move is seen as a strategic decision",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "location",
-    "identity_keyword": "Somaliland",
-    "text": "Somaliland is located in a critical region near the Bab-el-Mandeb Strait",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "shipping",
-    "identity_keyword": "Bab-el-Mandeb",
-    "text": "a key shipping lane",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "separation",
-    "identity_keyword": "Somaliland",
-    "text": "The recognition is also notable given Somaliland's separation from Somalia",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "international",
-    "identity_keyword": "Somalia",
-    "text": "which is not recognized by the international community",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cooperation",
-    "identity_keyword": "Israel",
-    "text": "Israel's decision to establish diplomatic relations with Somaliland is a result of growing ties between the two nations",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "trade",
-    "identity_keyword": "Somaliland",
-    "text": "with cooperation in areas such as trade",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "security",
-    "identity_keyword": "Israel",
-    "text": "security",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "development",
-    "identity_keyword": "Somaliland",
-    "text": "and development",
+    "keyword": "bilateral",
+    "identity_keyword": "ties",
+    "text": "where he met with Israeli officials to discuss deepening bilateral ties",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "recognition",
-    "identity_keyword": "Somaliland",
-    "text": "The recognition is a significant development in the region",
-    "duration": 5,
+    "identity_keyword": "development",
+    "text": "The recognition is seen as a notable development in the region",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "geopolitics",
+    "identity_keyword": "region",
+    "text": "Israel's recognition of Somaliland is the first by a country in the Middle East",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "implications",
+    "identity_keyword": "region",
+    "text": "and it is likely to have implications for the region's geopolitics",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "trade",
+    "identity_keyword": "opportunities",
+    "text": "with potential opportunities for trade, security, and economic cooperation between the two nations",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "security",
+    "identity_keyword": "cooperation",
+    "text": "Israel has officially recognized Somaliland as a sovereign state, marking a significant shift in its diplomatic stance",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic",
+    "identity_keyword": "cooperation",
+    "text": "The recognition is seen as a notable development in the region",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Middle East",
+    "identity_keyword": "region",
+    "text": "Israel's recognition of Somaliland is the first by a country in the Middle East",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "independence",
     "identity_keyword": "Somaliland",
-    "text": "which has been seeking international recognition since declaring independence in 1991",
-    "duration": 5,
-    "visual_type": "emotion"
+    "text": "Somaliland has been seeking international recognition since declaring independence from Somalia in 1991",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
-    "keyword": "welcome",
+    "keyword": "Somalia",
+    "identity_keyword": "country",
+    "text": "Somaliland has been seeking international recognition since declaring independence from Somalia in 1991",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "president",
     "identity_keyword": "Somaliland",
-    "text": "and has been welcomed by Somaliland",
+    "text": "where he met with Israeli officials to discuss deepening bilateral ties",
     "duration": 4,
     "visual_type": "emotion"
   }
