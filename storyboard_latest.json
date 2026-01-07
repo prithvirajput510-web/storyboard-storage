@@ -8,11 +8,11 @@
       "alternative investments",
       "investment fees",
       "equity management",
-      "low fees",
+      "fee reduction",
       "investment trends",
       "private equity trends",
-      "fee reduction",
-      "investment costs"
+      "low fees",
+      "investment management"
     ],
     "topic": "inside alts: private equity management fees hit new low in 2025",
     "date": "January 07, 2026"
@@ -20,98 +20,98 @@
   {
     "keyword": "private equity",
     "identity_keyword": "management fees",
-    "text": "Private equity management fees have reached a new low as of 2025",
+    "text": "Private equity management fees have reached a new low in 2025.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "management fees",
-    "identity_keyword": "average percentage",
-    "text": "The average management fee percentage has decreased significantly over the past few years",
+    "keyword": "industry trackers",
+    "identity_keyword": "recent data",
+    "text": "Industry trackers have reported the decline in fees.",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "keyword": "competition",
     "identity_keyword": "private equity firms",
-    "text": "Increased competition among private equity firms has led to a decline in management fees",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "investor power",
-    "identity_keyword": "negotiating power",
-    "text": "A rise in investor negotiating power has led to more favorable terms for limited partners",
+    "text": "Increased competition among private equity firms has led to the decline in fees.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity firms",
-    "identity_keyword": "fee reduction",
-    "text": "Private equity firms are now offering lower management fees to attract and retain investors",
+    "keyword": "investor pressure",
+    "identity_keyword": "cost reduction",
+    "text": "Growing pressure from investors to reduce costs has also contributed to the decline.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "management fee",
+    "identity_keyword": "average fee",
+    "text": "The average management fee for private equity funds has decreased.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "fee reduction",
-    "identity_keyword": "basis points",
-    "text": "Some firms have reduced their fees by as much as 20-30 basis points",
+    "keyword": "fee structure",
+    "identity_keyword": "traditional fee",
+    "text": "Some firms are charging as low as 1.5 percent of assets under management.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "private equity landscape",
-    "identity_keyword": "evolving dynamics",
-    "text": "The shift in the private equity landscape reflects the evolving dynamics between firms and investors",
+    "identity_keyword": "evolving landscape",
+    "text": "The shift in fee structure reflects the evolving private equity landscape.",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "fee transparency",
-    "identity_keyword": "cost efficiency",
-    "text": "There is a greater emphasis on fee transparency and cost efficiency",
+    "keyword": "investor demands",
+    "identity_keyword": "market conditions",
+    "text": "Firms are adapting to changing investor demands and market conditions.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "private equity firms",
-    "identity_keyword": "investors",
-    "text": "Private equity firms are adapting to the changing needs of their investors",
-    "duration": 4,
+    "identity_keyword": "adaptation",
+    "text": "Private equity firms are adapting to the new landscape.",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "management fees",
     "identity_keyword": "new low",
-    "text": "Management fees have reached a new low as of 2025",
+    "text": "Management fees have reached a new low in 2025.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity",
-    "identity_keyword": "industry trends",
-    "text": "The private equity industry is experiencing significant changes in terms of management fees",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "investor negotiating power",
-    "identity_keyword": "limited partners",
-    "text": "Limited partners are benefiting from the increased negotiating power of investors",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "private equity firms",
-    "identity_keyword": "competition",
-    "text": "Private equity firms are competing to offer the most attractive terms to investors",
+    "keyword": "private equity funds",
+    "identity_keyword": "average fee",
+    "text": "The average management fee for private equity funds has decreased.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "fee reduction",
-    "identity_keyword": "private equity",
-    "text": "The reduction in management fees is a significant trend in the private equity industry",
+    "identity_keyword": "cost savings",
+    "text": "The decline in fees is a result of increased competition and investor pressure.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "private equity industry",
+    "identity_keyword": "market trends",
+    "text": "The private equity industry is evolving in response to changing market trends.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investor expectations",
+    "identity_keyword": "firm adaptation",
+    "text": "Firms are adapting to meet the changing expectations of investors.",
     "duration": 4,
     "visual_type": "emotion"
   }
