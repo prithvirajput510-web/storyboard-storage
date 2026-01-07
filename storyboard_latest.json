@@ -10,107 +10,109 @@
       "Coaching",
       "Changes",
       "Dallas",
-      "Football"
+      "Football",
+      "News",
+      "Update"
     ],
     "topic": "sources: cowboys move on from dc eberflus",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "Dallas Cowboys",
+    "keyword": "Cowboys",
     "identity_keyword": "team",
-    "text": "The Dallas Cowboys have reportedly parted ways with defensive coordinator Dan Quinn",
+    "text": "The Dallas Cowboys have parted ways with defensive coordinator Eberflus",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "defensive coordinator",
-    "identity_keyword": "position",
-    "text": "but prior to that move, they had already moved on from another defensive coach",
+    "keyword": "Eberflus",
+    "identity_keyword": "defensive coordinator",
+    "text": "according to recent reports",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Matt Eberflus",
-    "identity_keyword": "coach",
-    "text": "Matt Eberflus, is not the case, as the team had previously moved on from a different defensive coordinator candidate",
-    "duration": 5,
+    "keyword": "defensive performance",
+    "identity_keyword": "season",
+    "text": "This move comes after the team's defensive performance over the past season",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "defensive coordinator role",
+    "identity_keyword": "Eberflus",
+    "text": "Eberflus had been serving in the defensive coordinator role",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Chicago Bears",
+    "keyword": "defensive strategy",
     "identity_keyword": "team",
-    "text": "who is currently the head coach of the Chicago Bears",
+    "text": "overseeing the team's defensive strategy and player development",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Cowboys organization",
+    "identity_keyword": "team",
+    "text": "The Cowboys organization has not provided further details on the reason behind this decision",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "defensive coordinator",
-    "identity_keyword": "position",
-    "text": "the Cowboys had considered Eberflus for their defensive coordinator position in the past",
+    "keyword": "coaching staff",
+    "identity_keyword": "team",
+    "text": "but it is clear that they are looking to make changes to their coaching staff",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Dan Quinn",
-    "identity_keyword": "coach",
-    "text": "but ultimately chose to go with Dan Quinn",
-    "duration": 3,
+    "keyword": "defensive coordinator position",
+    "identity_keyword": "Eberflus",
+    "text": "As of now, the team has not announced a replacement for the defensive coordinator position",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "team decision",
-    "identity_keyword": "choice",
-    "text": "and then later parted ways with Quinn",
+    "keyword": "upcoming season",
+    "identity_keyword": "season",
+    "text": "and it remains to be seen how this change will impact their upcoming season",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "new search",
-    "identity_keyword": "process",
-    "text": "the team is now in the process of searching for a new defensive coordinator",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive coach",
-    "identity_keyword": "position",
-    "text": "the team had previously moved on from a different defensive coach",
+    "keyword": "team's future",
+    "identity_keyword": "Cowboys",
+    "text": "The team's future is uncertain after this change",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "past consideration",
-    "identity_keyword": "history",
-    "text": "the Cowboys had considered Eberflus for their defensive coordinator position in the past",
+    "keyword": "coaching changes",
+    "identity_keyword": "staff",
+    "text": "The coaching changes may bring new strategies to the team",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "current situation",
-    "identity_keyword": "status",
-    "text": "the team is currently without a defensive coordinator",
+    "keyword": "player development",
+    "identity_keyword": "team",
+    "text": "The team's player development will be affected by the new coaching staff",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "season performance",
+    "identity_keyword": "season",
+    "text": "The team's season performance will be impacted by the coaching changes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "future plans",
-    "identity_keyword": "goals",
-    "text": "the team is looking to hire a new defensive coordinator",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "head coach",
-    "identity_keyword": "position",
-    "text": "who is currently the head coach of the Chicago Bears",
+    "identity_keyword": "Cowboys",
+    "text": "The Cowboys have not announced their future plans for the defensive coordinator position",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "team change",
-    "identity_keyword": "transition",
-    "text": "the team is going through a change in their defensive coaching staff",
-    "duration": 5,
-    "visual_type": "emotion"
   }
 ]
