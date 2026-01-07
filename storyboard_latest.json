@@ -5,14 +5,13 @@
     "tags": [
       "Trump foreign policy",
       "US diplomacy",
-      "global relations",
-      "international news",
-      "world politics",
-      "conflict zones",
-      "geopolitics",
-      "US interests",
-      "global security",
-      "international relations"
+      "International relations",
+      "Global politics",
+      "Trade wars",
+      "Geopolitics",
+      "World news",
+      "US news",
+      "Politics"
     ],
     "topic": "which countries could be in trump's sights next?",
     "date": "January 07, 2026"
@@ -27,42 +26,21 @@
   {
     "keyword": "trade restrictions",
     "identity_keyword": "China",
-    "text": "China is one of the countries subject to US trade restrictions.",
+    "text": "China is one of the countries affected by the trade restrictions.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "presidency",
-    "identity_keyword": "Donald Trump",
-    "text": "The US trade policies were implemented under Donald Trump's presidency.",
+    "keyword": "Trump administration",
+    "identity_keyword": "Trump",
+    "text": "The Trump administration's trade policies have been influential.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "trade agreements",
-    "identity_keyword": "Canada",
-    "text": "The US has renegotiated trade agreements with Canada.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Trans-Pacific Partnership",
-    "identity_keyword": "United States",
-    "text": "The US has withdrawn from the Trans-Pacific Partnership.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
     "keyword": "trade deficits",
-    "identity_keyword": "Germany",
-    "text": "Germany has significant trade deficits with the US.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "unfair trade practices",
-    "identity_keyword": "Vietnam",
-    "text": "Vietnam has been accused of unfair trade practices.",
+    "identity_keyword": "Japan",
+    "text": "Japan has significant trade deficits with the US.",
     "duration": 4,
     "visual_type": "emotion"
   },
@@ -75,44 +53,65 @@
   },
   {
     "keyword": "national security",
-    "identity_keyword": "United States",
-    "text": "The US has imposed sanctions due to national security concerns.",
+    "identity_keyword": "North Korea",
+    "text": "National security concerns have led to sanctions on North Korea.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "human rights",
-    "identity_keyword": "North Korea",
-    "text": "The US has imposed sanctions on North Korea due to human rights concerns.",
+    "identity_keyword": "Venezuela",
+    "text": "The US has imposed sanctions on Venezuela due to human rights concerns.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "nuclear proliferation",
-    "identity_keyword": "Russia",
-    "text": "The US has imposed sanctions on Russia due to nuclear proliferation concerns.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "trade restrictions",
-    "identity_keyword": "Mexico",
-    "text": "Mexico is one of the countries subject to US trade restrictions.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "European Union",
     "identity_keyword": "European Union",
-    "text": "The European Union is also subject to US trade restrictions.",
+    "text": "Nuclear proliferation concerns have affected the European Union.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "diplomatic relations",
+    "identity_keyword": "Mexico",
+    "text": "Diplomatic relations have been affected by the trade policies.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic conditions",
+    "identity_keyword": "Germany",
+    "text": "Economic conditions have influenced the trade policies.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "trade policies",
+    "identity_keyword": "United States",
+    "text": "The US trade policies have been changing over time.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "successor",
-    "identity_keyword": "Donald Trump's successor",
-    "text": "The US trade policies have continued under Donald Trump's successor.",
+    "keyword": "significant trade",
+    "identity_keyword": "Japan",
+    "text": "Japan has significant trade with the US.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "influential factors",
+    "identity_keyword": "Trump administration",
+    "text": "The Trump administration's policies have been influential.",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "changing policies",
+    "identity_keyword": "United States",
+    "text": "The US trade policies can change over time.",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
