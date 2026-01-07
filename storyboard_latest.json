@@ -8,109 +8,110 @@
       "Maduro",
       "NYC Jail",
       "Lawmakers Briefed",
-      "Venezuela Crisis",
-      "US Involvement",
-      "Latin America",
-      "Geopolitics"
+      "Venezuela Politics",
+      "Global News",
+      "International Relations",
+      "South America",
+      "US Foreign Policy"
     ],
     "topic": "venezuela's future in balance after trump officials brief lawmakers; maduro held in nyc jail",
     "date": "January 07, 2026"
   },
   {
     "keyword": "Venezuela",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "Venezuelan President Nicolas Maduro is currently being held in a New York City jail",
+    "identity_keyword": "country",
+    "text": "The situation in Venezuela remains uncertain following recent developments.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "detention",
-    "identity_keyword": "US authorities",
-    "text": "after being detained by US authorities",
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "president",
+    "text": "Former Venezuelan President Nicolas Maduro is currently being held in a New York City jail.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "jail",
+    "identity_keyword": "location",
+    "text": "Nicolas Maduro is being held in a New York City jail, marking a significant turn of events.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "uncertainty",
-    "identity_keyword": "Venezuela",
-    "text": "with the country's political and economic situation remaining uncertain",
+    "keyword": "US lawmakers",
+    "identity_keyword": "officials",
+    "text": "US lawmakers were recently briefed by Trump administration officials regarding the situation in Venezuela.",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Trump administration",
+    "identity_keyword": "government",
+    "text": "Trump administration officials briefed US lawmakers on the situation in Venezuela.",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "briefing",
-    "identity_keyword": "Trump administration",
-    "text": "Recently, Trump administration officials briefed lawmakers on the situation in Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "implications",
-    "identity_keyword": "Maduro's detention",
-    "text": "discussing the potential implications of Maduro's detention",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "path forward",
-    "identity_keyword": "Venezuela",
-    "text": "and the path forward for the country",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US efforts",
-    "identity_keyword": "US",
-    "text": "The briefing is part of ongoing efforts by the US to navigate the complex situation in Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "criticism",
-    "identity_keyword": "Maduro's government",
-    "text": "where Maduro's government has faced widespread criticism",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "opposition",
-    "identity_keyword": "Maduro's government",
-    "text": "and opposition",
+    "identity_keyword": "event",
+    "text": "The briefing sparked renewed interest in the country's future.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "jail",
-    "identity_keyword": "New York City",
-    "text": "Venezuelan President Nicolas Maduro is currently being held in a New York City jail",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "situation",
-    "identity_keyword": "Venezuela",
-    "text": "with the country's political and economic situation remaining uncertain",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "lawmakers",
-    "identity_keyword": "US",
-    "text": "Recently, Trump administration officials briefed lawmakers on the situation in Venezuela",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "complex situation",
-    "identity_keyword": "Venezuela",
-    "text": "The briefing is part of ongoing efforts by the US to navigate the complex situation in Venezuela",
+    "keyword": "Venezuela's future",
+    "identity_keyword": "uncertainty",
+    "text": "Many are awaiting further updates on the implications for Venezuela's political landscape and its people.",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "future",
-    "identity_keyword": "Venezuela",
-    "text": "as the future of Venezuela hangs in the balance",
+    "keyword": "international attention",
+    "identity_keyword": "global",
+    "text": "The briefing and Maduro's detention have drawn international attention.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "detention",
+    "identity_keyword": "event",
+    "text": "Nicolas Maduro's detention has sparked international interest.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "implications",
+    "identity_keyword": "consequences",
+    "text": "The implications for Venezuela's political landscape are still uncertain.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "political landscape",
+    "identity_keyword": "system",
+    "text": "The situation in Venezuela has sparked interest in the country's political landscape.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Venezuela's people",
+    "identity_keyword": "citizens",
+    "text": "The situation in Venezuela has implications for its people.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "uncertainty",
+    "identity_keyword": "state",
+    "text": "The situation in Venezuela remains uncertain.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "developments",
+    "identity_keyword": "events",
+    "text": "Recent developments have led to uncertainty in Venezuela.",
     "duration": 4,
     "visual_type": "emotion"
   }
