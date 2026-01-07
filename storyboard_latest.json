@@ -11,7 +11,7 @@
       "US Foreign Policy",
       "International Relations",
       "Geopolitics",
-      "Legal Framework"
+      "Diplomacy"
     ],
     "topic": "trump administration's capture of maduro raises unease about the international legal framework",
     "date": "January 07, 2026"
@@ -19,98 +19,98 @@
   {
     "keyword": "Trump administration",
     "identity_keyword": "US",
-    "text": "The Trump administration's reported involvement in the capture of Nicolas Maduro, the Venezuelan president, has sparked concerns about the international legal framework.",
+    "text": "The Trump administration's reported capture of Nicolas Maduro, the Venezuelan president, has raised concerns about the international legal framework.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "Nicolas Maduro",
     "identity_keyword": "Venezuelan president",
-    "text": "Nicolas Maduro is the president of Venezuela.",
+    "text": "The US Department of Justice charged Maduro with narco-terrorism and offered a 15 million dollar reward for information leading to his capture.",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "international legal framework",
-    "identity_keyword": "global justice",
-    "text": "The international legal framework is a complex system that governs the interactions between nations.",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "US Department of Justice",
     "identity_keyword": "US",
-    "text": "The US Department of Justice indicted Maduro on charges of narco-terrorism.",
+    "text": "In 2020, the US Department of Justice charged Maduro with narco-terrorism and offered a 15 million dollar reward for information leading to his capture.",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
     "keyword": "narco-terrorism",
     "identity_keyword": "crime",
-    "text": "Narco-terrorism is a serious crime that threatens global security.",
-    "duration": 4,
+    "text": "The US Department of Justice charged Maduro with narco-terrorism and offered a 15 million dollar reward for information leading to his capture.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "capture",
-    "identity_keyword": "apprehension",
-    "text": "The capture of Nicolas Maduro would be a significant development in the region.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "sovereign nations",
-    "identity_keyword": "countries",
-    "text": "Sovereign nations have the right to enforce their own laws and maintain their own justice systems.",
+    "keyword": "Juan Guaido",
+    "identity_keyword": "interim president",
+    "text": "The US recognized Juan Guaido as the interim president of Venezuela in 2019, but Maduro has maintained control of the country.",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "global justice",
-    "identity_keyword": "international law",
-    "text": "Global justice is a concept that seeks to promote fairness and equality across nations.",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "Venezuela",
     "identity_keyword": "country",
-    "text": "Venezuela is a country in South America.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "US actions",
-    "identity_keyword": "US",
-    "text": "The US actions against Maduro highlighted the complexities of international law.",
+    "text": "The US recognized Juan Guaido as the interim president of Venezuela in 2019, but Maduro has maintained control of the country.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "international law",
-    "identity_keyword": "global governance",
-    "text": "International law is a system of rules that govern the interactions between nations.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "complexities",
-    "identity_keyword": "challenges",
-    "text": "The complexities of international law pose significant challenges for nations.",
+    "identity_keyword": "law",
+    "text": "The development has sparked unease among international observers, with some questioning the implications for international law and the principle of state sovereignty.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "role of sovereign nations",
-    "identity_keyword": "countries",
-    "text": "The role of sovereign nations in enforcing global justice is crucial.",
+    "keyword": "state sovereignty",
+    "identity_keyword": "principle",
+    "text": "The development has sparked unease among international observers, with some questioning the implications for international law and the principle of state sovereignty.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "international observers",
+    "identity_keyword": "observers",
+    "text": "The development has sparked unease among international observers, with some questioning the implications for international law and the principle of state sovereignty.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "enforcing global justice",
-    "identity_keyword": "international cooperation",
-    "text": "Enforcing global justice requires international cooperation and collaboration.",
+    "keyword": "implications",
+    "identity_keyword": "consequences",
+    "text": "The development has sparked unease among international observers, with some questioning the implications for international law and the principle of state sovereignty.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Trump",
+    "identity_keyword": "US president",
+    "text": "The Trump administration's reported capture of Nicolas Maduro, the Venezuelan president, has raised concerns about the international legal framework.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "capture",
+    "identity_keyword": "action",
+    "text": "The Trump administration's reported capture of Nicolas Maduro, the Venezuelan president, has raised concerns about the international legal framework.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "concerns",
+    "identity_keyword": "feelings",
+    "text": "The Trump administration's reported capture of Nicolas Maduro, the Venezuelan president, has raised concerns about the international legal framework.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "framework",
+    "identity_keyword": "structure",
+    "text": "The Trump administration's reported capture of Nicolas Maduro, the Venezuelan president, has raised concerns about the international legal framework.",
     "duration": 4,
     "visual_type": "emotion"
   }
