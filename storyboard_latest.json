@@ -1,117 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "FAA Upgrades Radar Systems",
+    "video_title": "Lee Jae Myung Meets Xi Jinping",
     "tags": [
-      "FAA",
-      "Radar Systems",
-      "Air Traffic Control",
-      "Aviation Technology",
-      "Radar Upgrade",
-      "Air Traffic Management",
-      "FAA News",
-      "Aviation News",
-      "Radar Replacement"
+      "South Korea",
+      "China",
+      "Lee Jae Myung",
+      "Xi Jinping",
+      "Diplomacy",
+      "International Relations",
+      "Asia News",
+      "Politics",
+      "Geopolitics",
+      "Global Affairs"
     ],
-    "topic": "faa picks 2 firms to replace 612 outdated radar systems that air traffic controllers rely on",
-    "date": "January 06, 2026"
+    "topic": "south korea's lee jae myung seeks 'new phase' in ties with china at xi jinping meeting",
+    "date": "January 07, 2026"
   },
   {
-    "keyword": "FAA",
-    "identity_keyword": "Federal Aviation Administration",
-    "text": "The Federal Aviation Administration has selected two firms to replace outdated radar systems.",
+    "keyword": "meeting",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "South Korea's Lee Jae Myung met with Chinese President Xi Jinping",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "radar systems",
-    "identity_keyword": "outdated radar systems",
-    "text": "The outdated systems have been in use for decades.",
+    "keyword": "discussion",
+    "identity_keyword": "Xi Jinping",
+    "text": "to discuss a new phase in ties between the two countries",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "modernization",
-    "identity_keyword": "modernization effort",
-    "text": "The replacement is part of a modernization effort to improve safety and efficiency.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "air traffic controllers",
-    "identity_keyword": "air traffic controllers",
-    "text": "The new systems will provide more accurate data to air traffic controllers.",
+    "keyword": "development",
+    "identity_keyword": "South Korea",
+    "text": "marking a significant development in their diplomatic relations",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "safety",
-    "identity_keyword": "safety improvement",
-    "text": "The new systems will enable air traffic controllers to make better decisions and reduce accidents.",
-    "duration": 4,
+    "keyword": "cooperation",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "During their meeting, Lee Jae Myung and Xi Jinping engaged in talks focused on strengthening bilateral cooperation",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "national airspace system",
-    "identity_keyword": "national airspace system",
-    "text": "The replacement project is part of the national airspace system modernization.",
+    "keyword": "issues",
+    "identity_keyword": "Xi Jinping",
+    "text": "and exchanging views on key regional and global issues",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "FAA responsibility",
-    "identity_keyword": "FAA responsibility",
-    "text": "The FAA is responsible for ensuring the safe operation of the national airspace system.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "replacement project",
-    "identity_keyword": "replacement project",
-    "text": "The replacement project is a significant undertaking for the FAA.",
+    "keyword": "opportunity",
+    "identity_keyword": "South Korea",
+    "text": "The meeting was seen as an opportunity for both leaders to reaffirm their commitment",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "outdated systems",
-    "identity_keyword": "outdated radar systems",
-    "text": "The outdated systems are being replaced with new ones.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new systems",
-    "identity_keyword": "new radar systems",
-    "text": "The new systems will provide more accurate and reliable data.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "air traffic control",
-    "identity_keyword": "air traffic control",
-    "text": "The new systems will improve air traffic control efficiency.",
-    "duration": 4,
+    "keyword": "understanding",
+    "identity_keyword": "China",
+    "text": "to enhancing mutual understanding and fostering a more stable and cooperative relationship",
+    "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "accident reduction",
-    "identity_keyword": "accident reduction",
-    "text": "The new systems will reduce the risk of accidents.",
+    "keyword": "agreements",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "Details of the specific agreements or outcomes from the meeting have been released",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "FAA modernization",
-    "identity_keyword": "FAA modernization",
-    "text": "The FAA is modernizing the national airspace system.",
+    "keyword": "intentions",
+    "identity_keyword": "Xi Jinping",
+    "text": "highlighting the two countries' intentions to work together on various fronts",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "national airspace",
-    "identity_keyword": "national airspace system",
-    "text": "The national airspace system will be improved with the new radar systems.",
+    "keyword": "relations",
+    "identity_keyword": "South Korea",
+    "text": "South Korea's Lee Jae Myung met with Chinese President Xi Jinping to discuss a new phase in ties",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "diplomatic",
+    "identity_keyword": "China",
+    "text": "marking a significant development in their diplomatic relations between the two countries",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "bilateral",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "During their meeting, Lee Jae Myung and Xi Jinping engaged in talks focused on strengthening bilateral cooperation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "regional",
+    "identity_keyword": "Xi Jinping",
+    "text": "and exchanging views on key regional and global issues between the two countries",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "global",
+    "identity_keyword": "South Korea",
+    "text": "The meeting was seen as an opportunity for both leaders to reaffirm their commitment to a more stable relationship",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
