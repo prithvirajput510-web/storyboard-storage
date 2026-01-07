@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Lee Jae Myung Meets Xi Jinping",
+    "video_title": "Trump's Next Targets",
     "tags": [
-      "South Korea",
-      "China",
-      "Lee Jae Myung",
-      "Xi Jinping",
-      "Diplomacy",
-      "International Relations",
-      "Asia News",
-      "Politics",
-      "Geopolitics",
-      "Global Affairs"
+      "Trump foreign policy",
+      "US diplomacy",
+      "global relations",
+      "international news",
+      "world politics",
+      "conflict zones",
+      "geopolitics",
+      "US interests",
+      "global security",
+      "international relations"
     ],
-    "topic": "south korea's lee jae myung seeks 'new phase' in ties with china at xi jinping meeting",
+    "topic": "which countries could be in trump's sights next?",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "meeting",
-    "identity_keyword": "Lee",
-    "text": "South Korea's President Lee Jae Myung is set to meet with Chinese President Xi Jinping",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "ties",
-    "identity_keyword": "China",
-    "text": "to discuss a new phase in ties between the two countries",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "diplomatic",
-    "identity_keyword": "Lee",
-    "text": "This meeting is part of Lee's efforts to strengthen diplomatic relations with China",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "trade",
-    "identity_keyword": "China",
-    "text": "a key trade partner for South Korea",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "issues",
-    "identity_keyword": "Xi",
-    "text": "During the meeting, the two leaders are expected to discuss various issues",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "security",
-    "identity_keyword": "China",
-    "text": "including trade, security, and regional cooperation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "relations",
-    "identity_keyword": "Lee",
-    "text": "The meeting comes as South Korea seeks to balance its relations with China and the United States",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tensions",
+    "keyword": "tariffs",
     "identity_keyword": "United States",
-    "text": "amid growing tensions in the region",
+    "text": "The United States has imposed tariffs on several countries.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "bilateral",
-    "identity_keyword": "Xi",
-    "text": "The meeting between Lee and Xi is seen as an opportunity for the two countries to enhance their bilateral ties",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "cooperation",
+    "keyword": "trade restrictions",
     "identity_keyword": "China",
-    "text": "and cooperation on key issues",
+    "text": "China is one of the countries subject to US trade restrictions.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "opportunity",
-    "identity_keyword": "Lee",
-    "text": "The meeting is an opportunity for the two countries to discuss various issues",
+    "keyword": "presidency",
+    "identity_keyword": "Donald Trump",
+    "text": "The US trade policies were implemented under Donald Trump's presidency.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "regional",
-    "identity_keyword": "China",
-    "text": "including trade, security, and regional cooperation",
+    "keyword": "trade agreements",
+    "identity_keyword": "Canada",
+    "text": "The US has renegotiated trade agreements with Canada.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "enhance",
-    "identity_keyword": "Xi",
-    "text": "to enhance their bilateral ties and cooperation on key issues",
+    "keyword": "Trans-Pacific Partnership",
+    "identity_keyword": "United States",
+    "text": "The US has withdrawn from the Trans-Pacific Partnership.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "trade deficits",
+    "identity_keyword": "Germany",
+    "text": "Germany has significant trade deficits with the US.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "unfair trade practices",
+    "identity_keyword": "Vietnam",
+    "text": "Vietnam has been accused of unfair trade practices.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "sanctions",
+    "identity_keyword": "Iran",
+    "text": "The US has imposed sanctions on Iran.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "national security",
+    "identity_keyword": "United States",
+    "text": "The US has imposed sanctions due to national security concerns.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "human rights",
+    "identity_keyword": "North Korea",
+    "text": "The US has imposed sanctions on North Korea due to human rights concerns.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "nuclear proliferation",
+    "identity_keyword": "Russia",
+    "text": "The US has imposed sanctions on Russia due to nuclear proliferation concerns.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "trade restrictions",
+    "identity_keyword": "Mexico",
+    "text": "Mexico is one of the countries subject to US trade restrictions.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "European Union",
+    "identity_keyword": "European Union",
+    "text": "The European Union is also subject to US trade restrictions.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "ties",
-    "identity_keyword": "Lee",
-    "text": "The meeting between Lee and Xi is seen as an opportunity for the two countries to enhance their ties",
+    "keyword": "successor",
+    "identity_keyword": "Donald Trump's successor",
+    "text": "The US trade policies have continued under Donald Trump's successor.",
     "duration": 4,
     "visual_type": "identity"
   }
