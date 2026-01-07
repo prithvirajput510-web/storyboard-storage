@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Venezuela Future Uncertain",
+    "video_title": "US, Israel, Syria Trilateral Meeting",
     "tags": [
-      "Venezuela",
-      "Trump Officials",
-      "Maduro",
-      "NYC Jail",
-      "Lawmakers Briefed",
-      "Venezuela Politics",
-      "Global News",
-      "International Relations",
-      "South America",
-      "US Foreign Policy"
+      "US Foreign Policy",
+      "Israel Syria Relations",
+      "Trilateral Meeting",
+      "International Diplomacy",
+      "Middle East Peace",
+      "Syrian Conflict",
+      "US Israel Relations",
+      "Global Politics",
+      "Syria Crisis",
+      "International Relations"
     ],
-    "topic": "venezuela's future in balance after trump officials brief lawmakers; maduro held in nyc jail",
+    "topic": "joint statement on the trilateral meeting between the governments of the united states of america, the state of israel, and the syrian arab republic",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "Venezuela",
-    "identity_keyword": "country",
-    "text": "The situation in Venezuela remains uncertain following recent developments.",
+    "keyword": "governments",
+    "identity_keyword": "United States",
+    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "president",
-    "text": "Former Venezuelan President Nicolas Maduro is currently being held in a New York City jail.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "jail",
-    "identity_keyword": "location",
-    "text": "Nicolas Maduro is being held in a New York City jail, marking a significant turn of events.",
+    "keyword": "meeting",
+    "identity_keyword": "trilateral",
+    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "US lawmakers",
-    "identity_keyword": "officials",
-    "text": "US lawmakers were recently briefed by Trump administration officials regarding the situation in Venezuela.",
+    "keyword": "cooperation",
+    "identity_keyword": "regional",
+    "text": "According to the statement, the three governments discussed ways to enhance cooperation and promote stability in the region,",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "commitment",
+    "identity_keyword": "international",
+    "text": "while also reaffirming their commitment to upholding international law and respecting the sovereignty of all nations.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Trump administration",
-    "identity_keyword": "government",
-    "text": "Trump administration officials briefed US lawmakers on the situation in Venezuela.",
+    "keyword": "statement",
+    "identity_keyword": "joint",
+    "text": "The statement did not provide further details on the specific topics discussed or any agreements reached during the meeting,",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "dialogue",
+    "identity_keyword": "continued",
+    "text": "but emphasized the importance of continued dialogue and diplomacy in promoting peace and understanding among the three nations.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "governments",
+    "identity_keyword": "United States",
+    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "briefing",
-    "identity_keyword": "event",
-    "text": "The briefing sparked renewed interest in the country's future.",
+    "keyword": "meeting",
+    "identity_keyword": "trilateral",
+    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuela's future",
-    "identity_keyword": "uncertainty",
-    "text": "Many are awaiting further updates on the implications for Venezuela's political landscape and its people.",
+    "keyword": "cooperation",
+    "identity_keyword": "regional",
+    "text": "According to the statement, the three governments discussed ways to enhance cooperation and promote stability in the region,",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "international attention",
-    "identity_keyword": "global",
-    "text": "The briefing and Maduro's detention have drawn international attention.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "detention",
-    "identity_keyword": "event",
-    "text": "Nicolas Maduro's detention has sparked international interest.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "implications",
-    "identity_keyword": "consequences",
-    "text": "The implications for Venezuela's political landscape are still uncertain.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "political landscape",
-    "identity_keyword": "system",
-    "text": "The situation in Venezuela has sparked interest in the country's political landscape.",
+    "keyword": "commitment",
+    "identity_keyword": "international",
+    "text": "while also reaffirming their commitment to upholding international law and respecting the sovereignty of all nations.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Venezuela's people",
-    "identity_keyword": "citizens",
-    "text": "The situation in Venezuela has implications for its people.",
+    "keyword": "statement",
+    "identity_keyword": "joint",
+    "text": "The statement did not provide further details on the specific topics discussed or any agreements reached during the meeting,",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "dialogue",
+    "identity_keyword": "continued",
+    "text": "but emphasized the importance of continued dialogue and diplomacy in promoting peace and understanding among the three nations.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "governments",
+    "identity_keyword": "United States",
+    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "uncertainty",
-    "identity_keyword": "state",
-    "text": "The situation in Venezuela remains uncertain.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "developments",
-    "identity_keyword": "events",
-    "text": "Recent developments have led to uncertainty in Venezuela.",
+    "keyword": "meeting",
+    "identity_keyword": "trilateral",
+    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
     "duration": 4,
     "visual_type": "emotion"
   }
