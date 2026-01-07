@@ -1,117 +1,115 @@
 [
   {
     "_type": "metadata",
-    "video_title": "NYT Connections Hints January 6",
+    "video_title": "Cowboys Part Ways with DC Eberflus",
     "tags": [
-      "NYT Connections",
-      "January 6 Hints",
-      "Connections Puzzle",
-      "NYT Games",
-      "Puzzle Solutions",
-      "Connections Tips",
-      "NYT Answers",
-      "Puzzle Hints",
-      "NY Times Games",
-      "Connections Clues"
+      "Cowboys",
+      "Eberflus",
+      "Defense",
+      "NFL",
+      "Coaching",
+      "Changes",
+      "Dallas",
+      "Football"
     ],
-    "topic": "nyt connections hints and answers for january 6, tips to solve 'connections' #940.",
+    "topic": "sources: cowboys move on from dc eberflus",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "puzzle",
-    "identity_keyword": "New York Times",
-    "text": "Solving the New York Times Connections puzzle requires identifying the common thread between words or phrases.",
+    "keyword": "Dallas Cowboys",
+    "identity_keyword": "team",
+    "text": "The Dallas Cowboys have reportedly parted ways with defensive coordinator Dan Quinn",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "defensive coordinator",
+    "identity_keyword": "position",
+    "text": "but prior to that move, they had already moved on from another defensive coach",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "success",
-    "identity_keyword": "common thread",
-    "text": "The key to success lies in identifying the common thread between seemingly unrelated words or phrases.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "connections",
-    "identity_keyword": "etymology",
-    "text": "The Connections puzzle requires players to find the link between four given words based on etymology, history, science, or popular culture.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "perspective",
-    "identity_keyword": "open-minded",
-    "text": "To improve your chances of solving the puzzle, approach it with a broad and open-minded perspective.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "analysis",
-    "identity_keyword": "general knowledge",
-    "text": "Analyzing the words carefully and drawing upon your general knowledge can increase your chances of discovering the connection.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "creativity",
-    "identity_keyword": "thinking creatively",
-    "text": "Thinking creatively can help you find the link between the given words.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "relationships",
-    "identity_keyword": "given words",
-    "text": "Considering various possible connections and relationships between the given words is essential.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "chances",
-    "identity_keyword": "solving the puzzle",
-    "text": "You can increase your chances of solving the puzzle by analyzing the words carefully and thinking creatively.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "puzzle number",
-    "identity_keyword": "940",
-    "text": "The New York Times Connections puzzle number 940 was released on January 6.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "release date",
-    "identity_keyword": "January 6",
-    "text": "The puzzle was released on January 6, and players can try to solve it.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "players",
-    "identity_keyword": " Connections puzzle players",
-    "text": "Players of the Connections puzzle must find the link between four given words.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "criteria",
-    "identity_keyword": "etymology, history, science, or popular culture",
-    "text": "The link between the words can be based on a wide range of criteria, including etymology, history, science, or popular culture.",
+    "keyword": "Matt Eberflus",
+    "identity_keyword": "coach",
+    "text": "Matt Eberflus, is not the case, as the team had previously moved on from a different defensive coordinator candidate",
     "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "knowledge",
-    "identity_keyword": "general knowledge",
-    "text": "Drawing upon your general knowledge can help you find the connection between the words.",
+    "keyword": "Chicago Bears",
+    "identity_keyword": "team",
+    "text": "who is currently the head coach of the Chicago Bears",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "solution",
-    "identity_keyword": "solving the puzzle",
-    "text": "By analyzing the words carefully and thinking creatively, you can increase your chances of solving the puzzle successfully.",
+    "keyword": "defensive coordinator",
+    "identity_keyword": "position",
+    "text": "the Cowboys had considered Eberflus for their defensive coordinator position in the past",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Dan Quinn",
+    "identity_keyword": "coach",
+    "text": "but ultimately chose to go with Dan Quinn",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "team decision",
+    "identity_keyword": "choice",
+    "text": "and then later parted ways with Quinn",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "new search",
+    "identity_keyword": "process",
+    "text": "the team is now in the process of searching for a new defensive coordinator",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "defensive coach",
+    "identity_keyword": "position",
+    "text": "the team had previously moved on from a different defensive coach",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "past consideration",
+    "identity_keyword": "history",
+    "text": "the Cowboys had considered Eberflus for their defensive coordinator position in the past",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "current situation",
+    "identity_keyword": "status",
+    "text": "the team is currently without a defensive coordinator",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "future plans",
+    "identity_keyword": "goals",
+    "text": "the team is looking to hire a new defensive coordinator",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "head coach",
+    "identity_keyword": "position",
+    "text": "who is currently the head coach of the Chicago Bears",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "team change",
+    "identity_keyword": "transition",
+    "text": "the team is going through a change in their defensive coaching staff",
     "duration": 5,
     "visual_type": "emotion"
   }
