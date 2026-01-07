@@ -19,99 +19,99 @@
   },
   {
     "keyword": "meeting",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "Lee Jae Myung met with Xi Jinping",
+    "identity_keyword": "Lee",
+    "text": "South Korea's President Lee Jae Myung is set to meet with Chinese President Xi Jinping",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "cooperation",
+    "keyword": "ties",
     "identity_keyword": "China",
-    "text": "Strengthen cooperation in various fields",
+    "text": "to discuss a new phase in ties between the two countries",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "trade",
-    "identity_keyword": "South Korea",
-    "text": "Cooperation in trade",
+    "keyword": "diplomatic",
+    "identity_keyword": "Lee",
+    "text": "This meeting is part of Lee's efforts to strengthen diplomatic relations with China",
     "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "trade",
+    "identity_keyword": "China",
+    "text": "a key trade partner for South Korea",
+    "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "issues",
+    "identity_keyword": "Xi",
+    "text": "During the meeting, the two leaders are expected to discuss various issues",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "security",
     "identity_keyword": "China",
-    "text": "Cooperation in security",
+    "text": "including trade, security, and regional cooperation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "relations",
+    "identity_keyword": "Lee",
+    "text": "The meeting comes as South Korea seeks to balance its relations with China and the United States",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tensions",
+    "identity_keyword": "United States",
+    "text": "amid growing tensions in the region",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "bilateral",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "Discussed key issues affecting bilateral relations",
-    "duration": 4,
+    "identity_keyword": "Xi",
+    "text": "The meeting between Lee and Xi is seen as an opportunity for the two countries to enhance their bilateral ties",
+    "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "mutual",
-    "identity_keyword": "Xi Jinping",
-    "text": "Emphasizing the importance of mutual understanding",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "respect",
-    "identity_keyword": "South Korea",
-    "text": "And respect between nations",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "development",
+    "keyword": "cooperation",
     "identity_keyword": "China",
-    "text": "A significant development in South Korea-China relations",
+    "text": "and cooperation on key issues",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economic",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "Seek to expand their economic ties",
+    "keyword": "opportunity",
+    "identity_keyword": "Lee",
+    "text": "The meeting is an opportunity for the two countries to discuss various issues",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "diplomatic",
-    "identity_keyword": "Xi Jinping",
-    "text": "And diplomatic ties",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "nations",
-    "identity_keyword": "South Korea",
-    "text": "Between the two nations",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "phase",
+    "keyword": "regional",
     "identity_keyword": "China",
-    "text": "Usher in a new phase in ties",
+    "text": "including trade, security, and regional cooperation",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "enhance",
+    "identity_keyword": "Xi",
+    "text": "to enhance their bilateral ties and cooperation on key issues",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "ties",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "Between South Korea and China",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "relations",
-    "identity_keyword": "Xi Jinping",
-    "text": "South Korea-China relations",
+    "identity_keyword": "Lee",
+    "text": "The meeting between Lee and Xi is seen as an opportunity for the two countries to enhance their ties",
     "duration": 4,
     "visual_type": "identity"
   }
