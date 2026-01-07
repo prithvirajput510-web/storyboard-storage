@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Private Equity Fees Hit New Low",
+    "video_title": "Venezuela Future Uncertain",
     "tags": [
-      "private equity",
-      "management fees",
-      "alternative investments",
-      "investment fees",
-      "equity management",
-      "fee reduction",
-      "investment trends",
-      "private equity trends",
-      "low fees",
-      "investment management"
+      "Venezuela",
+      "Trump Officials",
+      "Maduro",
+      "NYC Jail",
+      "Lawmakers Briefed",
+      "Venezuela Crisis",
+      "US Involvement",
+      "Latin America",
+      "Geopolitics"
     ],
-    "topic": "inside alts: private equity management fees hit new low in 2025",
+    "topic": "venezuela's future in balance after trump officials brief lawmakers; maduro held in nyc jail",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "private equity",
-    "identity_keyword": "management fees",
-    "text": "Private equity management fees have reached a new low in 2025.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "industry trackers",
-    "identity_keyword": "recent data",
-    "text": "Industry trackers have reported the decline in fees.",
+    "keyword": "Venezuela",
+    "identity_keyword": "Nicolas Maduro",
+    "text": "Venezuelan President Nicolas Maduro is currently being held in a New York City jail",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "competition",
-    "identity_keyword": "private equity firms",
-    "text": "Increased competition among private equity firms has led to the decline in fees.",
+    "keyword": "detention",
+    "identity_keyword": "US authorities",
+    "text": "after being detained by US authorities",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investor pressure",
-    "identity_keyword": "cost reduction",
-    "text": "Growing pressure from investors to reduce costs has also contributed to the decline.",
+    "keyword": "uncertainty",
+    "identity_keyword": "Venezuela",
+    "text": "with the country's political and economic situation remaining uncertain",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "management fee",
-    "identity_keyword": "average fee",
-    "text": "The average management fee for private equity funds has decreased.",
+    "keyword": "briefing",
+    "identity_keyword": "Trump administration",
+    "text": "Recently, Trump administration officials briefed lawmakers on the situation in Venezuela",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "fee structure",
-    "identity_keyword": "traditional fee",
-    "text": "Some firms are charging as low as 1.5 percent of assets under management.",
+    "keyword": "implications",
+    "identity_keyword": "Maduro's detention",
+    "text": "discussing the potential implications of Maduro's detention",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity landscape",
-    "identity_keyword": "evolving landscape",
-    "text": "The shift in fee structure reflects the evolving private equity landscape.",
+    "keyword": "path forward",
+    "identity_keyword": "Venezuela",
+    "text": "and the path forward for the country",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investor demands",
-    "identity_keyword": "market conditions",
-    "text": "Firms are adapting to changing investor demands and market conditions.",
+    "keyword": "US efforts",
+    "identity_keyword": "US",
+    "text": "The briefing is part of ongoing efforts by the US to navigate the complex situation in Venezuela",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "criticism",
+    "identity_keyword": "Maduro's government",
+    "text": "where Maduro's government has faced widespread criticism",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity firms",
-    "identity_keyword": "adaptation",
-    "text": "Private equity firms are adapting to the new landscape.",
+    "keyword": "opposition",
+    "identity_keyword": "Maduro's government",
+    "text": "and opposition",
     "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "management fees",
-    "identity_keyword": "new low",
-    "text": "Management fees have reached a new low in 2025.",
-    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity funds",
-    "identity_keyword": "average fee",
-    "text": "The average management fee for private equity funds has decreased.",
+    "keyword": "jail",
+    "identity_keyword": "New York City",
+    "text": "Venezuelan President Nicolas Maduro is currently being held in a New York City jail",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "fee reduction",
-    "identity_keyword": "cost savings",
-    "text": "The decline in fees is a result of increased competition and investor pressure.",
+    "keyword": "situation",
+    "identity_keyword": "Venezuela",
+    "text": "with the country's political and economic situation remaining uncertain",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "private equity industry",
-    "identity_keyword": "market trends",
-    "text": "The private equity industry is evolving in response to changing market trends.",
+    "keyword": "lawmakers",
+    "identity_keyword": "US",
+    "text": "Recently, Trump administration officials briefed lawmakers on the situation in Venezuela",
     "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "complex situation",
+    "identity_keyword": "Venezuela",
+    "text": "The briefing is part of ongoing efforts by the US to navigate the complex situation in Venezuela",
+    "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investor expectations",
-    "identity_keyword": "firm adaptation",
-    "text": "Firms are adapting to meet the changing expectations of investors.",
+    "keyword": "future",
+    "identity_keyword": "Venezuela",
+    "text": "as the future of Venezuela hangs in the balance",
     "duration": 4,
     "visual_type": "emotion"
   }
