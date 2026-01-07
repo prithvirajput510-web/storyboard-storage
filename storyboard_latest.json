@@ -18,100 +18,100 @@
     "date": "January 07, 2026"
   },
   {
-    "keyword": "governments",
-    "identity_keyword": "United States",
-    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
+    "keyword": "meeting",
+    "identity_keyword": "governments",
+    "text": "A trilateral meeting between the governments of the United States of America, the State of Israel, and the Syrian Arab Republic took place, resulting in a joint statement.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "meeting",
-    "identity_keyword": "trilateral",
-    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cooperation",
-    "identity_keyword": "regional",
-    "text": "According to the statement, the three governments discussed ways to enhance cooperation and promote stability in the region,",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "commitment",
-    "identity_keyword": "international",
-    "text": "while also reaffirming their commitment to upholding international law and respecting the sovereignty of all nations.",
+    "keyword": "officials",
+    "identity_keyword": "countries",
+    "text": "The meeting was attended by high-ranking officials from each country, including representatives from the US Department of State, the Israeli Ministry of Foreign Affairs, and the Syrian Ministry of Foreign Affairs and Expatriates.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "statement",
-    "identity_keyword": "joint",
-    "text": "The statement did not provide further details on the specific topics discussed or any agreements reached during the meeting,",
+    "identity_keyword": "agreement",
+    "text": "The joint statement outlined areas of cooperation and mutual understanding, although the specific details of the agreement have not been publicly disclosed.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "dialogue",
-    "identity_keyword": "continued",
-    "text": "but emphasized the importance of continued dialogue and diplomacy in promoting peace and understanding among the three nations.",
+    "keyword": "development",
+    "identity_keyword": "relations",
+    "text": "The meeting and subsequent statement mark a significant development in the diplomatic relations between the three countries, which have historically been complex and sensitive.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "governments",
-    "identity_keyword": "United States",
-    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
+    "keyword": "statement",
+    "identity_keyword": "government",
+    "text": "The joint statement is expected to be made available to the public through official government channels.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "countries",
+    "identity_keyword": "America",
+    "text": "The United States of America was one of the countries that attended the meeting.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "meeting",
-    "identity_keyword": "trilateral",
-    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
+    "keyword": "Israel",
+    "identity_keyword": "Ministry",
+    "text": "The Israeli Ministry of Foreign Affairs was represented at the meeting.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Syria",
+    "identity_keyword": "Republic",
+    "text": "The Syrian Arab Republic was also in attendance at the meeting.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "cooperation",
+    "identity_keyword": "understanding",
+    "text": "The joint statement outlined areas of cooperation and mutual understanding between the three countries.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "history",
+    "identity_keyword": "relations",
+    "text": "The diplomatic relations between the three countries have historically been complex and sensitive.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "details",
+    "identity_keyword": "agreement",
+    "text": "The specific details of the agreement have not been publicly disclosed.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "cooperation",
-    "identity_keyword": "regional",
-    "text": "According to the statement, the three governments discussed ways to enhance cooperation and promote stability in the region,",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "commitment",
-    "identity_keyword": "international",
-    "text": "while also reaffirming their commitment to upholding international law and respecting the sovereignty of all nations.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "statement",
-    "identity_keyword": "joint",
-    "text": "The statement did not provide further details on the specific topics discussed or any agreements reached during the meeting,",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "dialogue",
-    "identity_keyword": "continued",
-    "text": "but emphasized the importance of continued dialogue and diplomacy in promoting peace and understanding among the three nations.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "governments",
-    "identity_keyword": "United States",
-    "text": "The governments of the United States of America, the State of Israel, and the Syrian Arab Republic have issued a joint statement following a trilateral meeting.",
+    "keyword": "public",
+    "identity_keyword": "government",
+    "text": "The joint statement is expected to be made available to the public through official government channels.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "meeting",
-    "identity_keyword": "trilateral",
-    "text": "The meeting, which took place on January 07, 2026, aimed to address various regional and international issues of mutual concern.",
+    "identity_keyword": "countries",
+    "text": "The meeting was a significant development in the diplomatic relations between the three countries.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "statement",
+    "identity_keyword": "statement",
+    "text": "The joint statement outlined areas of cooperation and mutual understanding between the three countries.",
     "duration": 4,
     "visual_type": "emotion"
   }
