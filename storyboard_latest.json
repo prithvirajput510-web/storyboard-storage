@@ -20,99 +20,99 @@
   {
     "keyword": "meeting",
     "identity_keyword": "Lee Jae Myung",
-    "text": "South Korea's Lee Jae Myung met with Chinese President Xi Jinping",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "discussion",
-    "identity_keyword": "Xi Jinping",
-    "text": "to discuss a new phase in ties between the two countries",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "development",
-    "identity_keyword": "South Korea",
-    "text": "marking a significant development in their diplomatic relations",
+    "text": "Lee Jae Myung met with Xi Jinping",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "cooperation",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "During their meeting, Lee Jae Myung and Xi Jinping engaged in talks focused on strengthening bilateral cooperation",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "issues",
-    "identity_keyword": "Xi Jinping",
-    "text": "and exchanging views on key regional and global issues",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "opportunity",
-    "identity_keyword": "South Korea",
-    "text": "The meeting was seen as an opportunity for both leaders to reaffirm their commitment",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "understanding",
     "identity_keyword": "China",
-    "text": "to enhancing mutual understanding and fostering a more stable and cooperative relationship",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "agreements",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "Details of the specific agreements or outcomes from the meeting have been released",
+    "text": "Strengthen cooperation in various fields",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "intentions",
+    "keyword": "trade",
+    "identity_keyword": "South Korea",
+    "text": "Cooperation in trade",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "security",
+    "identity_keyword": "China",
+    "text": "Cooperation in security",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "bilateral",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "Discussed key issues affecting bilateral relations",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "mutual",
     "identity_keyword": "Xi Jinping",
-    "text": "highlighting the two countries' intentions to work together on various fronts",
+    "text": "Emphasizing the importance of mutual understanding",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "respect",
+    "identity_keyword": "South Korea",
+    "text": "And respect between nations",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "development",
+    "identity_keyword": "China",
+    "text": "A significant development in South Korea-China relations",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "Seek to expand their economic ties",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "diplomatic",
+    "identity_keyword": "Xi Jinping",
+    "text": "And diplomatic ties",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "nations",
+    "identity_keyword": "South Korea",
+    "text": "Between the two nations",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "phase",
+    "identity_keyword": "China",
+    "text": "Usher in a new phase in ties",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "ties",
+    "identity_keyword": "Lee Jae Myung",
+    "text": "Between South Korea and China",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "relations",
-    "identity_keyword": "South Korea",
-    "text": "South Korea's Lee Jae Myung met with Chinese President Xi Jinping to discuss a new phase in ties",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "diplomatic",
-    "identity_keyword": "China",
-    "text": "marking a significant development in their diplomatic relations between the two countries",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "bilateral",
-    "identity_keyword": "Lee Jae Myung",
-    "text": "During their meeting, Lee Jae Myung and Xi Jinping engaged in talks focused on strengthening bilateral cooperation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "regional",
     "identity_keyword": "Xi Jinping",
-    "text": "and exchanging views on key regional and global issues between the two countries",
+    "text": "South Korea-China relations",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "global",
-    "identity_keyword": "South Korea",
-    "text": "The meeting was seen as an opportunity for both leaders to reaffirm their commitment to a more stable relationship",
-    "duration": 4,
-    "visual_type": "emotion"
   }
 ]
