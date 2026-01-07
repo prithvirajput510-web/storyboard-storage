@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "US, Israel, Syria Trilateral Meeting",
+    "video_title": "Massachusetts Flu Cases Surge",
     "tags": [
-      "US Foreign Policy",
-      "Israel Syria Relations",
-      "Trilateral Meeting",
-      "International Diplomacy",
-      "Middle East Peace",
-      "Syrian Conflict",
-      "US Israel Relations",
-      "Global Politics",
-      "Syria Crisis",
-      "International Relations"
+      "Massachusetts flu",
+      "flu season",
+      "flu outbreak",
+      "influenza cases",
+      "flu explosion",
+      "Massachusetts doctors",
+      "flu surge",
+      "health news",
+      "flu update",
+      "influenza outbreak"
     ],
-    "topic": "joint statement on the trilateral meeting between the governments of the united states of america, the state of israel, and the syrian arab republic",
+    "topic": "massachusetts doctors seeing ‘explosion of flu cases.’ here’s why.",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "meeting",
-    "identity_keyword": "governments",
-    "text": "A trilateral meeting between the governments of the United States of America, the State of Israel, and the Syrian Arab Republic took place, resulting in a joint statement.",
+    "keyword": "Massachusetts",
+    "identity_keyword": "doctors",
+    "text": "Massachusetts doctors are currently reporting a significant increase in flu cases",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "officials",
-    "identity_keyword": "countries",
-    "text": "The meeting was attended by high-ranking officials from each country, including representatives from the US Department of State, the Israeli Ministry of Foreign Affairs, and the Syrian Ministry of Foreign Affairs and Expatriates.",
+    "keyword": "hospitals",
+    "identity_keyword": "healthcare facilities",
+    "text": "many hospitals and healthcare facilities experiencing a surge in patients seeking treatment for influenza-like illnesses",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "statement",
-    "identity_keyword": "agreement",
-    "text": "The joint statement outlined areas of cooperation and mutual understanding, although the specific details of the agreement have not been publicly disclosed.",
+    "keyword": "flu cases",
+    "identity_keyword": "state",
+    "text": "the state has seen a notable rise in flu activity",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "development",
-    "identity_keyword": "relations",
-    "text": "The meeting and subsequent statement mark a significant development in the diplomatic relations between the three countries, which have historically been complex and sensitive.",
+    "keyword": "Influenza A",
+    "identity_keyword": "virus",
+    "text": "with several strains of the virus circulating, including Influenza A and Influenza B",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "statement",
-    "identity_keyword": "government",
-    "text": "The joint statement is expected to be made available to the public through official government channels.",
-    "duration": 3,
+    "keyword": "Influenza B",
+    "identity_keyword": "virus",
+    "text": "with several strains of the virus circulating, including Influenza A and Influenza B",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Massachusetts Department of Public Health",
+    "identity_keyword": "health department",
+    "text": "The Massachusetts Department of Public Health has confirmed that flu cases have been on the rise since late December",
+    "duration": 5,
     "visual_type": "identity"
   },
   {
-    "keyword": "countries",
-    "identity_keyword": "America",
-    "text": "The United States of America was one of the countries that attended the meeting.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Israel",
-    "identity_keyword": "Ministry",
-    "text": "The Israeli Ministry of Foreign Affairs was represented at the meeting.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Syria",
-    "identity_keyword": "Republic",
-    "text": "The Syrian Arab Republic was also in attendance at the meeting.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "cooperation",
-    "identity_keyword": "understanding",
-    "text": "The joint statement outlined areas of cooperation and mutual understanding between the three countries.",
+    "keyword": "children",
+    "identity_keyword": "young adults",
+    "text": "with the majority of cases affecting children and young adults",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "history",
-    "identity_keyword": "relations",
-    "text": "The diplomatic relations between the three countries have historically been complex and sensitive.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "details",
-    "identity_keyword": "agreement",
-    "text": "The specific details of the agreement have not been publicly disclosed.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "public",
-    "identity_keyword": "government",
-    "text": "The joint statement is expected to be made available to the public through official government channels.",
+    "keyword": "healthcare officials",
+    "identity_keyword": "residents",
+    "text": "Healthcare officials are urging residents to take precautions",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "meeting",
-    "identity_keyword": "countries",
-    "text": "The meeting was a significant development in the diplomatic relations between the three countries.",
+    "keyword": "vaccinated",
+    "identity_keyword": "precautions",
+    "text": "such as getting vaccinated and practicing good hygiene",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "statement",
-    "identity_keyword": "statement",
-    "text": "The joint statement outlined areas of cooperation and mutual understanding between the three countries.",
+    "keyword": "hygiene",
+    "identity_keyword": "precautions",
+    "text": "such as getting vaccinated and practicing good hygiene",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "virus",
+    "identity_keyword": "spread",
+    "text": "to help mitigate the spread of the virus",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "flu activity",
+    "identity_keyword": "state",
+    "text": "the state has seen a notable rise in flu activity",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "influenza-like illnesses",
+    "identity_keyword": "patients",
+    "text": "many hospitals and healthcare facilities experiencing a surge in patients seeking treatment for influenza-like illnesses",
+    "duration": 5,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "December",
+    "identity_keyword": "health department",
+    "text": "The Massachusetts Department of Public Health has confirmed that flu cases have been on the rise since late December",
+    "duration": 4,
+    "visual_type": "identity"
   }
 ]
