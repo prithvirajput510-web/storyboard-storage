@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Trump's Next Targets",
+    "video_title": "Maduro Capture Sparks International Concern",
     "tags": [
-      "Trump foreign policy",
-      "US diplomacy",
-      "International relations",
-      "Global politics",
-      "Trade wars",
+      "Trump Administration",
+      "Maduro",
+      "International Law",
+      "Global Politics",
+      "Venezuela",
+      "US Foreign Policy",
+      "International Relations",
       "Geopolitics",
-      "World news",
-      "US news",
-      "Politics"
+      "Legal Framework"
     ],
-    "topic": "which countries could be in trump's sights next?",
+    "topic": "trump administration's capture of maduro raises unease about the international legal framework",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "tariffs",
-    "identity_keyword": "United States",
-    "text": "The United States has imposed tariffs on several countries.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "trade restrictions",
-    "identity_keyword": "China",
-    "text": "China is one of the countries affected by the trade restrictions.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
     "keyword": "Trump administration",
-    "identity_keyword": "Trump",
-    "text": "The Trump administration's trade policies have been influential.",
+    "identity_keyword": "US",
+    "text": "The Trump administration's reported involvement in the capture of Nicolas Maduro, the Venezuelan president, has sparked concerns about the international legal framework.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "Venezuelan president",
+    "text": "Nicolas Maduro is the president of Venezuela.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "trade deficits",
-    "identity_keyword": "Japan",
-    "text": "Japan has significant trade deficits with the US.",
+    "keyword": "international legal framework",
+    "identity_keyword": "global justice",
+    "text": "The international legal framework is a complex system that governs the interactions between nations.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "sanctions",
-    "identity_keyword": "Iran",
-    "text": "The US has imposed sanctions on Iran.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "national security",
-    "identity_keyword": "North Korea",
-    "text": "National security concerns have led to sanctions on North Korea.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "human rights",
-    "identity_keyword": "Venezuela",
-    "text": "The US has imposed sanctions on Venezuela due to human rights concerns.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "nuclear proliferation",
-    "identity_keyword": "European Union",
-    "text": "Nuclear proliferation concerns have affected the European Union.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "diplomatic relations",
-    "identity_keyword": "Mexico",
-    "text": "Diplomatic relations have been affected by the trade policies.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "economic conditions",
-    "identity_keyword": "Germany",
-    "text": "Economic conditions have influenced the trade policies.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "trade policies",
-    "identity_keyword": "United States",
-    "text": "The US trade policies have been changing over time.",
+    "keyword": "US Department of Justice",
+    "identity_keyword": "US",
+    "text": "The US Department of Justice indicted Maduro on charges of narco-terrorism.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "significant trade",
-    "identity_keyword": "Japan",
-    "text": "Japan has significant trade with the US.",
+    "keyword": "narco-terrorism",
+    "identity_keyword": "crime",
+    "text": "Narco-terrorism is a serious crime that threatens global security.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "influential factors",
-    "identity_keyword": "Trump administration",
-    "text": "The Trump administration's policies have been influential.",
+    "keyword": "capture",
+    "identity_keyword": "apprehension",
+    "text": "The capture of Nicolas Maduro would be a significant development in the region.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "sovereign nations",
+    "identity_keyword": "countries",
+    "text": "Sovereign nations have the right to enforce their own laws and maintain their own justice systems.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "changing policies",
-    "identity_keyword": "United States",
-    "text": "The US trade policies can change over time.",
+    "keyword": "global justice",
+    "identity_keyword": "international law",
+    "text": "Global justice is a concept that seeks to promote fairness and equality across nations.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Venezuela",
+    "identity_keyword": "country",
+    "text": "Venezuela is a country in South America.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "US actions",
+    "identity_keyword": "US",
+    "text": "The US actions against Maduro highlighted the complexities of international law.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "international law",
+    "identity_keyword": "global governance",
+    "text": "International law is a system of rules that govern the interactions between nations.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "complexities",
+    "identity_keyword": "challenges",
+    "text": "The complexities of international law pose significant challenges for nations.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "role of sovereign nations",
+    "identity_keyword": "countries",
+    "text": "The role of sovereign nations in enforcing global justice is crucial.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "enforcing global justice",
+    "identity_keyword": "international cooperation",
+    "text": "Enforcing global justice requires international cooperation and collaboration.",
     "duration": 4,
     "visual_type": "emotion"
   }
