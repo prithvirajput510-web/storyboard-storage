@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Cowboys Part Ways with DC Eberflus",
+    "video_title": "Private Equity Fees Hit New Low",
     "tags": [
-      "Cowboys",
-      "Eberflus",
-      "Defense",
-      "NFL",
-      "Coaching",
-      "Changes",
-      "Dallas",
-      "Football",
-      "News",
-      "Update"
+      "private equity",
+      "management fees",
+      "alternative investments",
+      "investment fees",
+      "asset management",
+      "private equity funds",
+      "fee compression",
+      "investment trends",
+      "financial news",
+      "market update"
     ],
-    "topic": "sources: cowboys move on from dc eberflus",
+    "topic": "inside alts: private equity management fees hit new low in 2025",
     "date": "January 07, 2026"
   },
   {
-    "keyword": "Cowboys",
-    "identity_keyword": "team",
-    "text": "The Dallas Cowboys have parted ways with defensive coordinator Eberflus",
+    "keyword": "private equity",
+    "identity_keyword": "management fees",
+    "text": "Private equity management fees have reached a new low in 2025",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "industry shift",
+    "identity_keyword": "new low",
+    "text": "Marking a significant shift in the industry",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "average management fee",
+    "identity_keyword": "decrease",
+    "text": "The average management fee for private equity funds has decreased",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Eberflus",
-    "identity_keyword": "defensive coordinator",
-    "text": "according to recent reports",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive performance",
-    "identity_keyword": "season",
-    "text": "This move comes after the team's defensive performance over the past season",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive coordinator role",
-    "identity_keyword": "Eberflus",
-    "text": "Eberflus had been serving in the defensive coordinator role",
+    "keyword": "fee structure",
+    "identity_keyword": "traditional",
+    "text": "Down from the traditional 2 percent fee structure",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "defensive strategy",
-    "identity_keyword": "team",
-    "text": "overseeing the team's defensive strategy and player development",
+    "keyword": "low fees",
+    "identity_keyword": "1.5 percent",
+    "text": "Some firms reporting fees as low as 1.5 percent",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Cowboys organization",
-    "identity_keyword": "team",
-    "text": "The Cowboys organization has not provided further details on the reason behind this decision",
+    "keyword": "competition",
+    "identity_keyword": "increased competition",
+    "text": "Increased competition and pressure from investors",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investor pressure",
+    "identity_keyword": "favorable terms",
+    "text": "Seeking more favorable terms",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "private equity firms",
+    "identity_keyword": "adaptation",
+    "text": "Private equity firms adapting to the changing landscape",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "coaching staff",
-    "identity_keyword": "team",
-    "text": "but it is clear that they are looking to make changes to their coaching staff",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive coordinator position",
-    "identity_keyword": "Eberflus",
-    "text": "As of now, the team has not announced a replacement for the defensive coordinator position",
+    "keyword": "fee structures",
+    "identity_keyword": "adjustment",
+    "text": "Adjusting their fee structures accordingly",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "upcoming season",
-    "identity_keyword": "season",
-    "text": "and it remains to be seen how this change will impact their upcoming season",
+    "keyword": "industry landscape",
+    "identity_keyword": "change",
+    "text": "The industry is undergoing significant changes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "team's future",
-    "identity_keyword": "Cowboys",
-    "text": "The team's future is uncertain after this change",
+    "keyword": "management fees trend",
+    "identity_keyword": "downward trend",
+    "text": "Management fees are following a downward trend",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "coaching changes",
-    "identity_keyword": "staff",
-    "text": "The coaching changes may bring new strategies to the team",
+    "keyword": "private equity trends",
+    "identity_keyword": "industry trends",
+    "text": "Private equity trends are shifting",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "player development",
-    "identity_keyword": "team",
-    "text": "The team's player development will be affected by the new coaching staff",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "season performance",
-    "identity_keyword": "season",
-    "text": "The team's season performance will be impacted by the coaching changes",
+    "keyword": "fee reduction",
+    "identity_keyword": "cost savings",
+    "text": "The reduction in fees can lead to cost savings",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "future plans",
-    "identity_keyword": "Cowboys",
-    "text": "The Cowboys have not announced their future plans for the defensive coordinator position",
+    "keyword": "investor benefits",
+    "identity_keyword": "favorable fees",
+    "text": "Investors can benefit from more favorable fees",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   }
 ]
