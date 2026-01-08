@@ -1,116 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Dow Drops 450 Points",
+    "video_title": "Warfighter First",
     "tags": [
-      "Dow Jones",
-      "S&P 500",
-      "stock market",
-      "Wall Street",
-      "trading",
-      "investing",
-      "economy",
-      "finance",
-      "business news"
+      "defense contracting",
+      "warfighter prioritization",
+      "military procurement",
+      "national security",
+      "contract management",
+      "acquisition reform",
+      "mission execution",
+      "operational readiness",
+      "defense industry",
+      "military technology"
     ],
-    "topic": "dow closes more than 450 points lower, s&p 500 pulls back from record: live updates",
+    "topic": "prioritizing the warfighter in defense contracting",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "stock market graph",
+    "keyword": "global connections",
     "identity_keyword": "",
-    "text": "The stock market has taken a dramatic turn",
+    "text": "The world is becoming increasingly complex and unpredictable.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Dow Jones ticker",
-    "identity_keyword": "Dow Jones",
-    "text": "The Dow has plummeted more than 450 points",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "S&P 500 chart",
-    "identity_keyword": "S&P 500",
-    "text": "The S&P 500 has pulled back from its record high",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "investor looking at screen",
+    "keyword": "military equipment",
     "identity_keyword": "",
-    "text": "Investors are on edge and wondering what's next",
+    "text": "The need to prioritize the warfighter in defense contracting remains constant.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "strategy meeting",
+    "identity_keyword": "",
+    "text": "A new initiative aims to prioritize the warfighter, but its impact is uncertain.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "calendar page",
-    "identity_keyword": "January",
-    "text": "As of today, January 8th, 2026, the Dow Jones has closed at a significant loss",
+    "keyword": "US military",
+    "identity_keyword": "US Department of Defense",
+    "text": "The US Department of Defense emphasizes the importance of supporting warfighters.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "stock market numbers",
+    "keyword": "budget documents",
     "identity_keyword": "",
-    "text": "The point drop is over 450 points, a substantial decline from its previous close",
+    "text": "Recent defense budgets reflect a focus on providing warfighters with the best equipment.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market pullback graph",
-    "identity_keyword": "S&P 500",
-    "text": "The S&P 500 index has experienced a notable pullback",
+    "keyword": "industry trends",
+    "identity_keyword": "",
+    "text": "The defense industry is shifting towards more agile contracting practices.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "technology development",
+    "identity_keyword": "",
+    "text": "Rapid prototyping and fielding of new technologies are becoming more common.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "cyber threats",
+    "identity_keyword": "",
+    "text": "Emerging threats and technologies drive the need for adaptable contracting.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "contracting process",
+    "identity_keyword": "US Department of Defense",
+    "text": "The Department of Defense is working to streamline its contracting processes.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "investor analyzing data",
+    "keyword": "innovation timeline",
     "identity_keyword": "",
-    "text": "Investors are reassessing the market and adjusting their portfolios",
+    "text": "The goal is to get new technologies to warfighters more quickly.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market loss graph",
+    "keyword": "initiative launch",
     "identity_keyword": "",
-    "text": "Many stocks have experienced significant losses",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial news headline",
-    "identity_keyword": "",
-    "text": "The decline in the stock market has been confirmed by multiple financial sources",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market volatility graph",
-    "identity_keyword": "",
-    "text": "The exact numbers and percentages reflect the market's volatility",
+    "text": "New initiatives and programs support the effort to prioritize warfighters.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economy graph",
+    "keyword": "warfighter needs",
     "identity_keyword": "",
-    "text": "The impact of various economic factors on investor confidence is unclear",
+    "text": "The current approach may not be sufficient to meet the needs of warfighters.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market forecast",
+    "keyword": "expert analysis",
     "identity_keyword": "",
-    "text": "It remains to be seen what factors will drive the stock market in the coming days",
+    "text": "Experts are raising questions about the effectiveness of the current approach.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investor waiting",
+    "keyword": "investigation process",
     "identity_keyword": "",
-    "text": "Analysts and investors are waiting to see how the situation will unfold",
+    "text": "An investigation is underway to determine the best way forward.",
     "duration": 3,
     "visual_type": "emotion"
   }
