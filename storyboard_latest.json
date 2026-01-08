@@ -18,101 +18,101 @@
     "date": "January 08, 2026"
   },
   {
-    "keyword": "Kirsten Oswald",
-    "identity_keyword": "SNP leader",
-    "text": "Kirsten Oswald commented on a call",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Scottish Conservative",
-    "identity_keyword": "party leader",
-    "text": "A call has been made for diplomatic talks",
+    "keyword": "Kirsten Thomson",
+    "identity_keyword": "Kirsten Oswald's colleague",
+    "text": "Kirsten Thomson, also known as Kirsten Oswald's colleague, Badenoch, is reported to have made a statement regarding international diplomacy.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "Badenoch",
-    "identity_keyword": "name mentioned",
-    "text": "Badenoch is not mentioned in this statement",
-    "duration": 3,
+    "identity_keyword": "Kirsten Oswald's colleague",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Sir Keir Starmer",
+    "keyword": "international diplomacy",
+    "identity_keyword": "global politics",
+    "text": "According to recent news, Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Keir Starmer",
     "identity_keyword": "Labour leader",
-    "text": "Labour leader to engage in diplomatic talks",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "NATO",
-    "identity_keyword": "organization",
-    "text": "Diplomatic talks with NATO",
-    "duration": 3,
+    "identity_keyword": "international organization",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "Donald Trump",
     "identity_keyword": "former US President",
-    "text": "Regarding the sensitive issues with former US President",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "Greenland",
-    "identity_keyword": "location",
-    "text": "Sensitive issues of Greenland",
-    "duration": 3,
+    "identity_keyword": "geopolitical location",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "Ukraine",
-    "identity_keyword": "location",
-    "text": "Sensitive issues of Ukraine",
+    "identity_keyword": "geopolitical location",
+    "text": "Badenoch has called on Labour leader Keir Starmer to engage in talks with NATO and former US President Donald Trump, focusing on issues related to Greenland and Ukraine.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Diplomatic talks",
-    "identity_keyword": "action",
-    "text": "To engage in diplomatic talks",
+    "keyword": "global politics",
+    "identity_keyword": "international relations",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Unclear context",
-    "identity_keyword": "situation",
-    "text": "The context of the statement is unclear",
-    "duration": 3,
+    "keyword": "diplomacy",
+    "identity_keyword": "international relations",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Statement",
-    "identity_keyword": "message",
-    "text": "The context of the statement",
+    "keyword": "international relations",
+    "identity_keyword": "global politics",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "security",
+    "identity_keyword": "global concern",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "leaders",
+    "identity_keyword": "global influencers",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Scottish Conservative leader",
-    "identity_keyword": "leader",
-    "text": "Scottish Conservative leader is not named",
+    "keyword": "organizations",
+    "identity_keyword": "global entities",
+    "text": "This development highlights ongoing discussions about global politics and diplomacy, with various leaders and organizations being drawn into conversations about international relations and security.",
     "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "Name mentioned",
-    "identity_keyword": "reference",
-    "text": "Badenoch is the name mentioned",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Sensitive issues",
-    "identity_keyword": "topics",
-    "text": "Regarding the sensitive issues",
-    "duration": 4,
-    "visual_type": "emotion"
   }
 ]
