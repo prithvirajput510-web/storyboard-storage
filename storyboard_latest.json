@@ -8,111 +8,110 @@
       "Ole Miss",
       "College Football",
       "NCAA",
-      "Sports News",
       "Miami Football",
-      "Ole Miss Rebels",
-      "DT Moten Injury",
+      "Ole Miss Football",
+      "DT Moten Status",
       "Miami vs Ole Miss"
     ],
     "topic": "miami 'confident' dt moten will play vs. ole miss",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "University of Miami",
-    "identity_keyword": "Miami",
-    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
+    "keyword": "football",
+    "identity_keyword": "University of Miami",
+    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Leonard Moten",
-    "identity_keyword": "Moten",
-    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
-    "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
     "keyword": "defensive tackle",
-    "identity_keyword": "tackle",
-    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Ole Miss",
-    "identity_keyword": "Ole Miss",
-    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "identity_keyword": "Moten",
+    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Hurricanes' defense",
-    "identity_keyword": "Hurricanes",
-    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
     "keyword": "upcoming game",
-    "identity_keyword": "game",
-    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "recent reports",
-    "identity_keyword": "reports",
-    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
+    "identity_keyword": "Ole Miss",
+    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "team's strategy",
-    "identity_keyword": "strategy",
-    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "keyword": "defensive lineup",
+    "identity_keyword": "Miami",
+    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "football team",
+    "identity_keyword": "University of Miami",
+    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "fans",
-    "identity_keyword": "fans",
-    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
-    "duration": 3,
-    "visual_type": "emotion"
+    "keyword": "Moten's status",
+    "identity_keyword": "Moten",
+    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
-    "keyword": "highly anticipated",
-    "identity_keyword": "anticipated",
-    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
+    "keyword": "game",
+    "identity_keyword": "Ole Miss",
+    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "performance",
-    "identity_keyword": "performance",
-    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
+    "keyword": "defensive tackle Moten",
+    "identity_keyword": "Moten",
+    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "University of Miami football",
+    "identity_keyword": "University of Miami",
+    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "status ahead",
-    "identity_keyword": "status",
-    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "keyword": "Moten's availability",
+    "identity_keyword": "Moten",
+    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "upcoming game against Ole Miss",
+    "identity_keyword": "Ole Miss",
+    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "key factor",
-    "identity_keyword": "factor",
-    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
+    "keyword": "defensive lineup",
+    "identity_keyword": "Miami",
+    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "football game",
+    "identity_keyword": "University of Miami",
+    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "confidence",
-    "identity_keyword": "confidence",
-    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
-    "duration": 5,
-    "visual_type": "emotion"
+    "keyword": "final decision",
+    "identity_keyword": "Moten",
+    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
+    "duration": 4,
+    "visual_type": "identity"
   }
 ]
