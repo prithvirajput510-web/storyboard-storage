@@ -8,110 +8,110 @@
       "fatal shooting",
       "DHS statement",
       "law enforcement",
-      "use of force",
-      "investigation",
-      "immigration",
+      "immigration news",
       "Minneapolis news",
+      "US news",
+      "ICE news",
       "DHS news"
     ],
     "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Shocking news in Minneapolis",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "ICE agents involved in fatal shooting",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "DHS confirms ICE involvement",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Few details released so far",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Woman's identity not released",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Circumstances of shooting unclear",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Authorities reviewing the incident",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Investigation to determine facts",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Many questions remain unanswered",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Authorities urge patience",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "What really happened?",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Investigation ongoing",
+    "keyword": "dark city",
+    "identity_keyword": "Minneapolis",
+    "text": "Details continue to emerge.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "More information to come",
+    "keyword": "urgency",
+    "identity_keyword": "ICE agents",
+    "text": "Details continue to emerge.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "breaking news",
-    "identity_keyword": "news",
-    "text": "Justice for the victim?",
+    "keyword": "official documents",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "reviewing evidence",
+    "identity_keyword": "News event",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "calendar",
+    "identity_keyword": "January 08, 2026",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "questioning",
+    "identity_keyword": "authorities",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "memorial",
+    "identity_keyword": "fatal shooting",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "press conference",
+    "identity_keyword": "DHS officials",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "protest",
+    "identity_keyword": "Minneapolis community",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "typing",
+    "identity_keyword": "News event",
+    "text": "Details continue to emerge.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "fog",
+    "identity_keyword": "uncertain future",
+    "text": "Details continue to emerge.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "silence",
+    "identity_keyword": "ICE headquarters",
+    "text": "Details continue to emerge.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "night",
+    "identity_keyword": "Minneapolis streets",
+    "text": "Details continue to emerge.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "suspense",
+    "identity_keyword": "News event",
+    "text": "Details continue to emerge.",
     "duration": 3,
     "visual_type": "emotion"
   }
