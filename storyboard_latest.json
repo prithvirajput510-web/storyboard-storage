@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Venezuela and Iran Under Pressure",
+    "video_title": "Trump Adds Venezuela to Visa Bond List",
     "tags": [
+      "Trump",
       "Venezuela",
-      "Iran",
-      "US sanctions",
-      "Trump policies",
-      "economic crisis",
-      "geopolitics",
-      "international relations",
-      "global news",
-      "political analysis",
-      "foreign policy"
+      "US Visas",
+      "Travel Restrictions",
+      "Immigration Policy",
+      "Visa Requirements",
+      "US Visa Bonds",
+      "Venezuelan Citizens",
+      "US Immigration",
+      "Visa News"
     ],
-    "topic": "as venezuela buckles under trump, iran sees an uncomfortable parallel",
+    "topic": "trump adds venezuela to list of countries whose citizens must post bonds for u.s. visas",
     "date": "January 08, 2026"
   },
   {
+    "keyword": "announcement",
+    "identity_keyword": "US Department of State",
+    "text": "The US Department of State announced that it has added Venezuela to the list of countries whose citizens are required to post bonds in order to obtain a US visa.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "visa bond pilot program",
+    "identity_keyword": "US immigration laws",
+    "text": "This move is part of a visa bond pilot program that aims to improve compliance with US immigration laws.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "countries",
+    "identity_keyword": "Afghanistan",
+    "text": "Citizens of certain countries, including Afghanistan, Angola, and the Democratic Republic of the Congo, among others, are required to pay a bond.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "bond",
+    "identity_keyword": "visa application",
+    "text": "The bond is refundable if the individual complies with the terms of their visa, including departing the US on or before the expiration date of their authorized stay.",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "visa requirements",
+    "identity_keyword": "US visa",
+    "text": "Citizens of certain countries are required to pay a bond ranging from $5,000 to $15,000 when they apply for a US visa.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "compliance",
+    "identity_keyword": "US immigration laws",
+    "text": "The visa bond pilot program aims to improve compliance with US immigration laws.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
     "keyword": "Venezuela",
-    "identity_keyword": "country",
-    "text": "Venezuela has been facing significant economic challenges",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hyperinflation",
-    "identity_keyword": "economic",
-    "text": "The country's economy is experiencing hyperinflation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "shortages",
-    "identity_keyword": "humanitarian",
-    "text": "Widespread shortages of food and medicine are occurring",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US sanctions",
-    "identity_keyword": "political",
-    "text": "The US imposed economic sanctions on Venezuela in 2019",
+    "identity_keyword": "US Department of State",
+    "text": "The US Department of State announced that it has added Venezuela to the list of countries whose citizens are required to post bonds.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "oil industry",
-    "identity_keyword": "economic",
-    "text": "The sanctions targeted the country's oil industry",
+    "keyword": "refundable bond",
+    "identity_keyword": "visa terms",
+    "text": "The bond is refundable if the individual complies with the terms of their visa.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Iran",
-    "identity_keyword": "country",
-    "text": "Iran has also been subject to US sanctions",
+    "keyword": "visa application process",
+    "identity_keyword": "US visa",
+    "text": "Citizens of certain countries are required to pay a bond when they apply for a US visa.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "nuclear deal",
-    "identity_keyword": "political",
-    "text": "The US withdrew from the Iran nuclear deal in 2018",
+    "keyword": "immigration laws",
+    "identity_keyword": "US Department of State",
+    "text": "The US Department of State announced a new rule to improve compliance with US immigration laws.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economic sanctions",
-    "identity_keyword": "economic",
-    "text": "The US reimposed economic sanctions on Iran",
+    "keyword": "authorized stay",
+    "identity_keyword": "visa terms",
+    "text": "The individual must depart the US on or before the expiration date of their authorized stay to get the bond refunded.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuela economy",
-    "identity_keyword": "economic",
-    "text": "Venezuela's economy has been severely impacted by sanctions",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Iran economy",
-    "identity_keyword": "economic",
-    "text": "Iran's economy has also been severely impacted by sanctions",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "government challenges",
-    "identity_keyword": "political",
-    "text": "The sanctions have led to significant challenges for governments",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "population challenges",
-    "identity_keyword": "humanitarian",
-    "text": "The sanctions have led to significant challenges for populations",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Trump administration",
-    "identity_keyword": "political",
-    "text": "The Trump administration imposed sanctions on Venezuela and Iran",
+    "keyword": "pilot program",
+    "identity_keyword": "US immigration",
+    "text": "The visa bond pilot program is part of a larger effort to improve compliance with US immigration laws.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "economic impact",
-    "identity_keyword": "economic",
-    "text": "The sanctions have had a significant economic impact on both countries",
+    "keyword": "bond amount",
+    "identity_keyword": "visa application",
+    "text": "The bond ranges from $5,000 to $15,000.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "expiration date",
+    "identity_keyword": "authorized stay",
+    "text": "The individual must depart the US on or before the expiration date of their authorized stay.",
     "duration": 4,
     "visual_type": "emotion"
   }
