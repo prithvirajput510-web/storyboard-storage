@@ -1,17 +1,17 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Dow Plunges 450 Points",
+    "video_title": "Dow Drops 450 Points",
     "tags": [
       "Dow Jones",
-      "Stock Market",
       "S&P 500",
+      "stock market",
       "Wall Street",
-      "Market Update",
-      "Economy News",
-      "Financial News",
-      "Business News",
-      "Market Trends"
+      "trading",
+      "investing",
+      "economy",
+      "finance",
+      "business news"
     ],
     "topic": "dow closes more than 450 points lower, s&p 500 pulls back from record: live updates",
     "date": "January 08, 2026"
@@ -19,98 +19,98 @@
   {
     "keyword": "stock market graph",
     "identity_keyword": "",
-    "text": "The stock market has taken a drastic turn, with the Dow plummeting more than 450 points",
+    "text": "The stock market has taken a dramatic turn",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock exchange floor",
-    "identity_keyword": "",
-    "text": "The Dow Jones Industrial Average closed down by more than 450 points",
+    "keyword": "Dow Jones ticker",
+    "identity_keyword": "Dow Jones",
+    "text": "The Dow has plummeted more than 450 points",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "financial news screen",
+    "keyword": "S&P 500 chart",
+    "identity_keyword": "S&P 500",
+    "text": "The S&P 500 has pulled back from its record high",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "investor looking at screen",
     "identity_keyword": "",
-    "text": "The S&P 500 also took a hit, pulling back from its record high",
+    "text": "Investors are on edge and wondering what's next",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "analysts discussing market trends",
+    "keyword": "calendar page",
+    "identity_keyword": "January",
+    "text": "As of today, January 8th, 2026, the Dow Jones has closed at a significant loss",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "stock market numbers",
     "identity_keyword": "",
-    "text": "Market analysts point to a range of factors that may have contributed to the decline",
+    "text": "The point drop is over 450 points, a substantial decline from its previous close",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global market map",
+    "keyword": "stock market pullback graph",
+    "identity_keyword": "S&P 500",
+    "text": "The S&P 500 index has experienced a notable pullback",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "investor analyzing data",
     "identity_keyword": "",
-    "text": "Economic uncertainty and concerns over the global market outlook are possible causes",
+    "text": "Investors are reassessing the market and adjusting their portfolios",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock prices fluctuating",
+    "keyword": "stock market loss graph",
     "identity_keyword": "",
-    "text": "The market continues to react to these changes",
+    "text": "Many stocks have experienced significant losses",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "financial experts discussing market trends",
+    "keyword": "financial news headline",
     "identity_keyword": "",
-    "text": "It remains to be seen what the long-term effects of this downturn will be",
+    "text": "The decline in the stock market has been confirmed by multiple financial sources",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market recovery graph",
+    "keyword": "stock market volatility graph",
     "identity_keyword": "",
-    "text": "Whether the market will be able to recover from this significant drop is uncertain",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investors watching stock market",
-    "identity_keyword": "",
-    "text": "Investors are waiting to see how the market will react in the coming days",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investor looking at stock prices",
-    "identity_keyword": "",
-    "text": "The current market situation is causing concern among investors",
-    "duration": 4,
+    "text": "The exact numbers and percentages reflect the market's volatility",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "economy graph",
     "identity_keyword": "",
-    "text": "The market downturn may have a significant impact on the economy",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial analysts working",
-    "identity_keyword": "",
-    "text": "The causes of the market decline are still being analyzed",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market news",
-    "identity_keyword": "",
-    "text": "The market's reaction to the downturn will be closely watched",
+    "text": "The impact of various economic factors on investor confidence is unclear",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "stock market forecast",
     "identity_keyword": "",
-    "text": "The future of the market is uncertain",
+    "text": "It remains to be seen what factors will drive the stock market in the coming days",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investor waiting",
+    "identity_keyword": "",
+    "text": "Analysts and investors are waiting to see how the situation will unfold",
     "duration": 3,
     "visual_type": "emotion"
   }
