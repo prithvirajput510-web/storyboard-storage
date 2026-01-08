@@ -12,107 +12,107 @@
       "Minneapolis news",
       "US news",
       "DHS news",
-      "ICE news"
+      "shooting incident"
     ],
     "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "news footage",
+    "keyword": "Minneapolis cityscape",
     "identity_keyword": "Minneapolis",
-    "text": "Minneapolis police lights at night",
+    "text": "Breaking news is emerging from Minneapolis where a fatal shooting involving ICE agents has left a woman dead",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "news footage",
-    "identity_keyword": "ICE",
-    "text": "ICE agents in tactical gear",
+    "keyword": "protest crowd",
+    "identity_keyword": "",
+    "text": "A fatal shooting involving ICE agents has sparked widespread concern and outrage among local residents and immigrant communities",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "calendar page",
+    "identity_keyword": "US Immigration and Customs Enforcement",
+    "text": "The incident occurred on January 8, 2026, and involved agents from US Immigration and Customs Enforcement",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "news footage",
+    "keyword": "police badge",
     "identity_keyword": "Department of Homeland Security",
-    "text": "Department of Homeland Security headquarters",
+    "text": "The Department of Homeland Security has confirmed that the woman was fatally shot during an encounter with ICE agents",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "news footage",
-    "identity_keyword": "Minneapolis",
-    "text": "Minneapolis city streets",
+    "keyword": "question mark",
+    "identity_keyword": "",
+    "text": "The exact circumstances surrounding the incident are still being reported",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "magnifying glass",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The Department of Homeland Security has stated that the incident is currently being reviewed",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "news footage",
+    "keyword": "newspaper headlines",
     "identity_keyword": "",
-    "text": "Police tape at a crime scene",
+    "text": "More information is expected to be released as the situation develops",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news footage",
+    "keyword": "puzzle pieces",
     "identity_keyword": "",
-    "text": "Local news reporters at a press conference",
+    "text": "Many questions remain unanswered, including the events leading up to the shooting",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news footage",
+    "keyword": "city hall building",
+    "identity_keyword": "",
+    "text": "The community is awaiting further clarity and transparency from the authorities",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investigator looking at clues",
+    "identity_keyword": "",
+    "text": "The investigation into the fatal shooting continues",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
     "identity_keyword": "ICE",
-    "text": "ICE agents in a briefing room",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news footage",
-    "identity_keyword": "Minneapolis",
-    "text": "Minneapolis residents protesting",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news footage",
-    "identity_keyword": "",
-    "text": "Investigation documents on a desk",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news footage",
-    "identity_keyword": "",
-    "text": "Law enforcement officials in a meeting",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news footage",
-    "identity_keyword": "Minneapolis",
-    "text": "Minneapolis mayor at a podium",
+    "text": "The use of force by the ICE agents is still being questioned",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "news footage",
+    "keyword": "justice scale",
     "identity_keyword": "",
-    "text": "News headlines on a screen",
+    "text": "The community demands justice for the victim",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news footage",
-    "identity_keyword": "",
-    "text": "Federal agents in a surveillance room",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news footage",
-    "identity_keyword": "Minneapolis",
-    "text": "Minneapolis community leaders in a discussion",
+    "keyword": "US map",
+    "identity_keyword": "United States",
+    "text": "The incident has sparked a national conversation about immigration and law enforcement",
     "duration": 3,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "security monitors",
+    "identity_keyword": "",
+    "text": "The situation is being closely monitored by local and national authorities",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
