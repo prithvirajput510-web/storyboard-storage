@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "ICE Agents Fatally Shoot Woman",
+    "video_title": "Dow Plunges 450 Points",
     "tags": [
-      "ICE agents",
-      "Minneapolis shooting",
-      "DHS response",
-      "fatal incident",
-      "law enforcement",
-      "immigration news",
-      "Minneapolis news",
-      "US news",
-      "shooting incident",
-      "DHS statement"
+      "Dow Jones",
+      "Stock Market",
+      "S&P 500",
+      "Wall Street",
+      "Market Update",
+      "Economy News",
+      "Financial News",
+      "Business News",
+      "Market Trends"
     ],
-    "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
+    "topic": "dow closes more than 450 points lower, s&p 500 pulls back from record: live updates",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "police car",
+    "keyword": "stock market graph",
     "identity_keyword": "",
-    "text": "A fatal shooting involving ICE agents has occurred in Minneapolis, resulting in the death of a woman.",
+    "text": "The stock market has taken a drastic turn, with the Dow plummeting more than 450 points",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "government building",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The Department of Homeland Security has confirmed the involvement of ICE agents in the shooting.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Minneapolis cityscape",
-    "identity_keyword": "Minneapolis",
-    "text": "The incident took place in Minneapolis, according to official reports.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "ICE agents",
-    "identity_keyword": "U.S. Immigration and Customs Enforcement",
-    "text": "ICE agents were part of the operation that led to the fatal outcome.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
+    "keyword": "stock exchange floor",
     "identity_keyword": "",
-    "text": "The shooting occurred on January 08, 2026, as reported by the authorities.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question marks",
-    "identity_keyword": "",
-    "text": "The community is left with many unanswered questions about the incident.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The investigation into the shooting is currently ongoing.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "puzzle pieces",
-    "identity_keyword": "",
-    "text": "Details about the events leading up to the shooting are still unclear.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "protest signs",
-    "identity_keyword": "",
-    "text": "The use of force by ICE agents is being questioned by the community.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "magnifying glass",
-    "identity_keyword": "",
-    "text": "Many are seeking answers about the circumstances surrounding the incident.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "newspaper headlines",
-    "identity_keyword": "",
-    "text": "The fatal shooting has sparked widespread concern and debate.",
+    "text": "The Dow Jones Industrial Average closed down by more than 450 points",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "ICE badge",
-    "identity_keyword": "U.S. Immigration and Customs Enforcement",
-    "text": "The incident has raised questions about the actions of ICE agents.",
-    "duration": 3,
-    "visual_type": "identity"
+    "keyword": "financial news screen",
+    "identity_keyword": "",
+    "text": "The S&P 500 also took a hit, pulling back from its record high",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "transparency logo",
+    "keyword": "analysts discussing market trends",
     "identity_keyword": "",
-    "text": "The community is demanding transparency and accountability.",
+    "text": "Market analysts point to a range of factors that may have contributed to the decline",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global market map",
+    "identity_keyword": "",
+    "text": "Economic uncertainty and concerns over the global market outlook are possible causes",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock prices fluctuating",
+    "identity_keyword": "",
+    "text": "The market continues to react to these changes",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial experts discussing market trends",
+    "identity_keyword": "",
+    "text": "It remains to be seen what the long-term effects of this downturn will be",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market recovery graph",
+    "identity_keyword": "",
+    "text": "Whether the market will be able to recover from this significant drop is uncertain",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investors watching stock market",
+    "identity_keyword": "",
+    "text": "Investors are waiting to see how the market will react in the coming days",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investor looking at stock prices",
+    "identity_keyword": "",
+    "text": "The current market situation is causing concern among investors",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economy graph",
+    "identity_keyword": "",
+    "text": "The market downturn may have a significant impact on the economy",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "financial analysts working",
     "identity_keyword": "",
-    "text": "The investigation is expected to provide more information about the shooting in the coming days.",
+    "text": "The causes of the market decline are still being analyzed",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market news",
+    "identity_keyword": "",
+    "text": "The market's reaction to the downturn will be closely watched",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market forecast",
+    "identity_keyword": "",
+    "text": "The future of the market is uncertain",
     "duration": 3,
     "visual_type": "emotion"
   }
