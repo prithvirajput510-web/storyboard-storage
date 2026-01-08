@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Trump Adds Venezuela to Visa Bond List",
+    "video_title": "Badenoch Calls on Starmer",
     "tags": [
+      "Badenoch",
+      "Starmer",
+      "NATO",
       "Trump",
-      "Venezuela",
-      "US Visas",
-      "Travel Restrictions",
-      "Immigration Policy",
-      "Visa Requirements",
-      "US Visa Bonds",
-      "Venezuelan Citizens",
-      "US Immigration",
-      "Visa News"
+      "Greenland",
+      "Ukraine",
+      "Politics",
+      "International Relations",
+      "Global News",
+      "Diplomacy"
     ],
-    "topic": "trump adds venezuela to list of countries whose citizens must post bonds for u.s. visas",
+    "topic": "badenoch calls on starmer to hold talks with nato and trump over greenland and ukraine",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "announcement",
-    "identity_keyword": "US Department of State",
-    "text": "The US Department of State announced that it has added Venezuela to the list of countries whose citizens are required to post bonds in order to obtain a US visa.",
+    "keyword": "Kirsten Oswald",
+    "identity_keyword": "SNP leader",
+    "text": "Kirsten Oswald commented on a call",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "visa bond pilot program",
-    "identity_keyword": "US immigration laws",
-    "text": "This move is part of a visa bond pilot program that aims to improve compliance with US immigration laws.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "countries",
-    "identity_keyword": "Afghanistan",
-    "text": "Citizens of certain countries, including Afghanistan, Angola, and the Democratic Republic of the Congo, among others, are required to pay a bond.",
+    "keyword": "Scottish Conservative",
+    "identity_keyword": "party leader",
+    "text": "A call has been made for diplomatic talks",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "bond",
-    "identity_keyword": "visa application",
-    "text": "The bond is refundable if the individual complies with the terms of their visa, including departing the US on or before the expiration date of their authorized stay.",
-    "duration": 5,
-    "visual_type": "emotion"
+    "keyword": "Badenoch",
+    "identity_keyword": "name mentioned",
+    "text": "Badenoch is not mentioned in this statement",
+    "duration": 3,
+    "visual_type": "identity"
   },
   {
-    "keyword": "visa requirements",
-    "identity_keyword": "US visa",
-    "text": "Citizens of certain countries are required to pay a bond ranging from $5,000 to $15,000 when they apply for a US visa.",
+    "keyword": "Sir Keir Starmer",
+    "identity_keyword": "Labour leader",
+    "text": "Labour leader to engage in diplomatic talks",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "compliance",
-    "identity_keyword": "US immigration laws",
-    "text": "The visa bond pilot program aims to improve compliance with US immigration laws.",
+    "keyword": "NATO",
+    "identity_keyword": "organization",
+    "text": "Diplomatic talks with NATO",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Donald Trump",
+    "identity_keyword": "former US President",
+    "text": "Regarding the sensitive issues with former US President",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Greenland",
+    "identity_keyword": "location",
+    "text": "Sensitive issues of Greenland",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuela",
-    "identity_keyword": "US Department of State",
-    "text": "The US Department of State announced that it has added Venezuela to the list of countries whose citizens are required to post bonds.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "refundable bond",
-    "identity_keyword": "visa terms",
-    "text": "The bond is refundable if the individual complies with the terms of their visa.",
+    "keyword": "Ukraine",
+    "identity_keyword": "location",
+    "text": "Sensitive issues of Ukraine",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "visa application process",
-    "identity_keyword": "US visa",
-    "text": "Citizens of certain countries are required to pay a bond when they apply for a US visa.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "immigration laws",
-    "identity_keyword": "US Department of State",
-    "text": "The US Department of State announced a new rule to improve compliance with US immigration laws.",
+    "keyword": "Diplomatic talks",
+    "identity_keyword": "action",
+    "text": "To engage in diplomatic talks",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "authorized stay",
-    "identity_keyword": "visa terms",
-    "text": "The individual must depart the US on or before the expiration date of their authorized stay to get the bond refunded.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pilot program",
-    "identity_keyword": "US immigration",
-    "text": "The visa bond pilot program is part of a larger effort to improve compliance with US immigration laws.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "bond amount",
-    "identity_keyword": "visa application",
-    "text": "The bond ranges from $5,000 to $15,000.",
+    "keyword": "Unclear context",
+    "identity_keyword": "situation",
+    "text": "The context of the statement is unclear",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "expiration date",
-    "identity_keyword": "authorized stay",
-    "text": "The individual must depart the US on or before the expiration date of their authorized stay.",
+    "keyword": "Statement",
+    "identity_keyword": "message",
+    "text": "The context of the statement",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Scottish Conservative leader",
+    "identity_keyword": "leader",
+    "text": "Scottish Conservative leader is not named",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Name mentioned",
+    "identity_keyword": "reference",
+    "text": "Badenoch is the name mentioned",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Sensitive issues",
+    "identity_keyword": "topics",
+    "text": "Regarding the sensitive issues",
     "duration": 4,
     "visual_type": "emotion"
   }
