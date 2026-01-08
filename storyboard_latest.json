@@ -1,117 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Miami DT Moten to Play vs Ole Miss",
+    "video_title": "Lakers vs Pelicans Game Recap",
     "tags": [
-      "Miami",
-      "DT Moten",
-      "Ole Miss",
-      "College Football",
-      "NCAA",
-      "Miami Football",
-      "Ole Miss Football",
-      "DT Moten Status",
-      "Miami vs Ole Miss"
+      "Lakers",
+      "Pelicans",
+      "NBA",
+      "Game Recap",
+      "Los Angeles Lakers",
+      "New Orleans Pelicans",
+      "Basketball",
+      "Sports Highlights",
+      "Lakers vs Pelicans",
+      "NBA Recap"
     ],
-    "topic": "miami 'confident' dt moten will play vs. ole miss",
+    "topic": "lakers 111-103 pelicans (jan 6, 2026) game recap",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "football",
-    "identity_keyword": "University of Miami",
-    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive tackle",
-    "identity_keyword": "Moten",
-    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
+    "keyword": "Lakers",
+    "identity_keyword": "team",
+    "text": "The Los Angeles Lakers secured a 111-103 win over the New Orleans Pelicans",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "upcoming game",
-    "identity_keyword": "Ole Miss",
-    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "defensive lineup",
-    "identity_keyword": "Miami",
-    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
+    "keyword": "Pelicans",
+    "identity_keyword": "opponent",
+    "text": "in a competitive matchup that saw both teams put up strong performances",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "football team",
-    "identity_keyword": "University of Miami",
-    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
+    "keyword": "win",
+    "identity_keyword": "result",
+    "text": "The Lakers managed to edge out the Pelicans, with key contributions from their roster",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Moten's status",
-    "identity_keyword": "Moten",
-    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "game",
-    "identity_keyword": "Ole Miss",
-    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
+    "keyword": "performance",
+    "identity_keyword": "team effort",
+    "text": "According to the official box score, the Lakers shot 49.4% from the field",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "defensive tackle Moten",
-    "identity_keyword": "Moten",
-    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "University of Miami football",
-    "identity_keyword": "University of Miami",
-    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
+    "keyword": "statistics",
+    "identity_keyword": "data",
+    "text": "and 36.8% from three-point range, while the Pelicans shot 44.3% from the field",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Moten's availability",
-    "identity_keyword": "Moten",
-    "text": "As of now, there has been no official confirmation from the team regarding Moten's status, but it is understood that Miami is confident in his ability to participate.",
-    "duration": 4,
-    "visual_type": "identity"
+    "keyword": "comparison",
+    "identity_keyword": "analysis",
+    "text": "and 30.8% from three-point range",
+    "duration": 3,
+    "visual_type": "emotion"
   },
   {
-    "keyword": "upcoming game against Ole Miss",
-    "identity_keyword": "Ole Miss",
-    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
+    "keyword": "victory",
+    "identity_keyword": "outcome",
+    "text": "The win marked a notable victory for the Lakers",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "defensive lineup",
-    "identity_keyword": "Miami",
-    "text": "With Moten's potential participation, the team's defensive lineup could see a significant boost, but only time will tell if he is indeed cleared to play.",
+    "keyword": "Lakers",
+    "identity_keyword": "team",
+    "text": "who were able to outlast the Pelicans",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "football game",
-    "identity_keyword": "University of Miami",
-    "text": "The University of Miami football team is expecting defensive tackle, Moten, to be available for their upcoming game against Ole Miss, according to recent reports.",
+    "keyword": "endurance",
+    "identity_keyword": "characteristic",
+    "text": "and come away with the 8-point win",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "final decision",
-    "identity_keyword": "Moten",
-    "text": "The game is scheduled to take place soon, and fans are eagerly awaiting the final decision on Moten's availability.",
+    "keyword": "result",
+    "identity_keyword": "conclusion",
+    "text": "The Los Angeles Lakers secured a 111-103 win over the New Orleans Pelicans on January 6, 2026",
+    "duration": 5,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "date",
+    "identity_keyword": "time",
+    "text": "in a competitive matchup that saw both teams put up strong performances",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "performance",
+    "identity_keyword": "team effort",
+    "text": "The Lakers managed to edge out the Pelicans, with key contributions from their roster",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "roster",
+    "identity_keyword": "team",
+    "text": "According to the official box score, the Lakers shot 49.4% from the field",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "box score",
+    "identity_keyword": "data",
+    "text": "and 36.8% from three-point range, while the Pelicans shot 44.3% from the field and 30.8% from three-point range",
+    "duration": 5,
+    "visual_type": "emotion"
   }
 ]
