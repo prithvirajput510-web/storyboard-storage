@@ -10,109 +10,109 @@
       "law enforcement",
       "use of force",
       "investigation",
+      "immigration",
       "Minneapolis news",
-      "ICE news",
       "DHS news"
     ],
     "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "ICE",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "ICE agents were involved in a fatal shooting of a woman in Minneapolis",
-    "duration": 4,
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Shocking news in Minneapolis",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investigation",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The incident is currently under investigation",
-    "duration": 4,
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "ICE agents involved in fatal shooting",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "shooting",
-    "identity_keyword": "Minneapolis",
-    "text": "A fatal shooting of a woman occurred in Minneapolis",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "details",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "Details surrounding the circumstances of the shooting not yet fully disclosed",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "incident",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The Department of Homeland Security has confirmed the incident",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "information",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "Further information has not been released, pending the outcome of the investigation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "attention",
-    "identity_keyword": "public",
-    "text": "The incident has sparked attention and calls for more information",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investigation",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The investigation is ongoing",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "confirmed",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "Only confirmed details are available",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "outcome",
-    "identity_keyword": "investigation",
-    "text": "Pending the outcome of the investigation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Department of Homeland Security",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The Department of Homeland Security is handling the investigation",
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "DHS confirms ICE involvement",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Minneapolis",
-    "identity_keyword": "Minneapolis",
-    "text": "The incident occurred in Minneapolis",
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Few details released so far",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Woman's identity not released",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "ICE agents",
-    "identity_keyword": "ICE agents",
-    "text": "ICE agents were involved in the incident",
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Circumstances of shooting unclear",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Authorities reviewing the incident",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "fatal shooting",
-    "identity_keyword": "incident",
-    "text": "A fatal shooting occurred, sparking an investigation",
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Investigation to determine facts",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Many questions remain unanswered",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Authorities urge patience",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "What really happened?",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Investigation ongoing",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "More information to come",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "news",
+    "text": "Justice for the victim?",
+    "duration": 3,
     "visual_type": "emotion"
   }
 ]
