@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Lakers vs Pelicans Game Recap",
+    "video_title": "Venezuela and Iran Under Pressure",
     "tags": [
-      "Lakers",
-      "Pelicans",
-      "NBA",
-      "Game Recap",
-      "Los Angeles Lakers",
-      "New Orleans Pelicans",
-      "Basketball",
-      "Sports Highlights",
-      "Lakers vs Pelicans",
-      "NBA Recap"
+      "Venezuela",
+      "Iran",
+      "Trump",
+      "US sanctions",
+      "economic crisis",
+      "geopolitics",
+      "international relations",
+      "global news",
+      "political analysis",
+      "foreign policy"
     ],
-    "topic": "lakers 111-103 pelicans (jan 6, 2026) game recap",
+    "topic": "as venezuela buckles under trump, iran sees an uncomfortable parallel",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "Lakers",
-    "identity_keyword": "team",
-    "text": "The Los Angeles Lakers secured a 111-103 win over the New Orleans Pelicans",
+    "keyword": "Venezuela",
+    "identity_keyword": "country",
+    "text": "Venezuela has been facing significant economic and political challenges in recent years",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "hyperinflation",
+    "identity_keyword": "economic challenge",
+    "text": "with the country struggling to cope with hyperinflation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "shortages",
+    "identity_keyword": "humanitarian crisis",
+    "text": "food and medicine shortages, and a severe humanitarian crisis",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US sanctions",
+    "identity_keyword": "economic measure",
+    "text": "The US, under the Trump administration, imposed economic sanctions on Venezuela in 2019",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "Pelicans",
-    "identity_keyword": "opponent",
-    "text": "in a competitive matchup that saw both teams put up strong performances",
+    "keyword": "oil industry",
+    "identity_keyword": "targeted sector",
+    "text": "targeting the country's oil industry and state-owned enterprises",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "win",
-    "identity_keyword": "result",
-    "text": "The Lakers managed to edge out the Pelicans, with key contributions from their roster",
+    "keyword": "President Nicolas Maduro",
+    "identity_keyword": "government leader",
+    "text": "in an effort to pressure the government of President Nicolas Maduro to step down",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Iran",
+    "identity_keyword": "country",
+    "text": "Iran has also been subject to strict US sanctions",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "performance",
-    "identity_keyword": "team effort",
-    "text": "According to the official box score, the Lakers shot 49.4% from the field",
+    "keyword": "oil exports",
+    "identity_keyword": "economic impact",
+    "text": "which have had a significant impact on the country's economy, particularly its oil exports",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "statistics",
-    "identity_keyword": "data",
-    "text": "and 36.8% from three-point range, while the Pelicans shot 44.3% from the field",
+    "keyword": "foreign currency",
+    "identity_keyword": "economic challenge",
+    "text": "both Venezuela and Iran facing significant challenges in accessing foreign currency",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "comparison",
-    "identity_keyword": "analysis",
-    "text": "and 30.8% from three-point range",
+    "keyword": "essential goods",
+    "identity_keyword": "humanitarian need",
+    "text": "importing essential goods",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "victory",
-    "identity_keyword": "outcome",
-    "text": "The win marked a notable victory for the Lakers",
+    "keyword": "basic services",
+    "identity_keyword": "humanitarian need",
+    "text": "and providing basic services to their citizens",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Lakers",
-    "identity_keyword": "team",
-    "text": "who were able to outlast the Pelicans",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "endurance",
-    "identity_keyword": "characteristic",
-    "text": "and come away with the 8-point win",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "result",
-    "identity_keyword": "conclusion",
-    "text": "The Los Angeles Lakers secured a 111-103 win over the New Orleans Pelicans on January 6, 2026",
+    "keyword": "paradox",
+    "identity_keyword": "comparative analysis",
+    "text": "The parallels between the two countries' experiences have not gone unnoticed",
     "duration": 5,
     "visual_type": "emotion"
   },
   {
-    "keyword": "date",
-    "identity_keyword": "time",
-    "text": "in a competitive matchup that saw both teams put up strong performances",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "performance",
-    "identity_keyword": "team effort",
-    "text": "The Lakers managed to edge out the Pelicans, with key contributions from their roster",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "roster",
-    "identity_keyword": "team",
-    "text": "According to the official box score, the Lakers shot 49.4% from the field",
+    "keyword": "comparative analysis",
+    "identity_keyword": "economic comparison",
+    "text": "with both Venezuela and Iran facing similar economic challenges",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "box score",
-    "identity_keyword": "data",
-    "text": "and 36.8% from three-point range, while the Pelicans shot 44.3% from the field and 30.8% from three-point range",
+    "keyword": "humanitarian crisis",
+    "identity_keyword": "global issue",
+    "text": "highlighting the need for international cooperation to address these humanitarian crises",
     "duration": 5,
     "visual_type": "emotion"
   }
