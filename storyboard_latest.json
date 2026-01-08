@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Cutest Drop Yet Features",
+    "video_title": "ICE Agents Involved in Fatal Shooting",
     "tags": [
-      "new drop",
-      "cute products",
-      "latest release",
-      "product features",
-      "cutest items",
-      "newest collection",
-      "must have items",
-      "latest trends",
-      "product showcase",
-      "collection highlights"
+      "ICE agents",
+      "Minneapolis",
+      "fatal shooting",
+      "DHS statement",
+      "law enforcement",
+      "use of force",
+      "investigation",
+      "Minneapolis news",
+      "ICE news",
+      "DHS news"
     ],
-    "topic": "the first features from our cutest drop yet",
+    "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "latest drop",
-    "identity_keyword": "new design",
-    "text": "Our latest drop is here and it's being called the cutest one yet",
+    "keyword": "ICE",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "ICE agents were involved in a fatal shooting of a woman in Minneapolis",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "highly anticipated",
-    "identity_keyword": "features",
-    "text": "with several highly anticipated features that fans have been waiting for",
+    "keyword": "investigation",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The incident is currently under investigation",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "pastel colors",
-    "identity_keyword": "design",
-    "text": "the first of these features include a new design with pastel colors",
+    "keyword": "shooting",
+    "identity_keyword": "Minneapolis",
+    "text": "A fatal shooting of a woman occurred in Minneapolis",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "details",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "Details surrounding the circumstances of the shooting not yet fully disclosed",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "incident",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The Department of Homeland Security has confirmed the incident",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "information",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "Further information has not been released, pending the outcome of the investigation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "attention",
+    "identity_keyword": "public",
+    "text": "The incident has sparked attention and calls for more information",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investigation",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The investigation is ongoing",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "confirmed",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "Only confirmed details are available",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "outcome",
+    "identity_keyword": "investigation",
+    "text": "Pending the outcome of the investigation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Department of Homeland Security",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The Department of Homeland Security is handling the investigation",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "adorable characters",
-    "identity_keyword": "characters",
-    "text": "and adorable characters",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "fun accessories",
-    "identity_keyword": "accessories",
-    "text": "as well as a range of fun and interactive accessories",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "collect and customize",
-    "identity_keyword": "customization",
-    "text": "that can be collected and customized",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "available now",
-    "identity_keyword": "release",
-    "text": "these features are now available for fans to experience and enjoy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new release",
-    "identity_keyword": "reaction",
-    "text": "and we're excited to see how everyone reacts to this new release",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "fans reaction",
-    "identity_keyword": "fans",
-    "text": "we're excited to see how everyone reacts",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "latest drop features",
-    "identity_keyword": "drop",
-    "text": "Our latest drop is here with several features",
+    "keyword": "Minneapolis",
+    "identity_keyword": "Minneapolis",
+    "text": "The incident occurred in Minneapolis",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "cutest drop",
-    "identity_keyword": "cute",
-    "text": "it's being called the cutest one yet",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "waiting for",
-    "identity_keyword": "anticipation",
-    "text": "that fans have been waiting for",
+    "keyword": "ICE agents",
+    "identity_keyword": "ICE agents",
+    "text": "ICE agents were involved in the incident",
     "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "experience and enjoy",
-    "identity_keyword": "enjoyment",
-    "text": "for fans to experience and enjoy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new design and accessories",
-    "identity_keyword": "design and accessories",
-    "text": "a new design with pastel colors and adorable characters, as well as a range of fun and interactive accessories",
-    "duration": 5,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "fatal shooting",
+    "identity_keyword": "incident",
+    "text": "A fatal shooting occurred, sparking an investigation",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
