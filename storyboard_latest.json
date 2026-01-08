@@ -4,115 +4,115 @@
     "video_title": "Cutest Drop Yet Features",
     "tags": [
       "new drop",
-      "cute items",
+      "cute products",
       "latest release",
-      "fashion update",
-      "style news",
-      "trending now",
-      "must have",
-      "exclusive drop",
-      "fashion drop",
-      "new arrivals"
+      "product features",
+      "cutest items",
+      "newest collection",
+      "must have items",
+      "latest trends",
+      "product showcase",
+      "collection highlights"
     ],
     "topic": "the first features from our cutest drop yet",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "collection",
-    "identity_keyword": "new",
-    "text": "Our latest collection has just been released",
+    "keyword": "latest drop",
+    "identity_keyword": "new design",
+    "text": "Our latest drop is here and it's being called the cutest one yet",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "excitement",
-    "identity_keyword": "fans",
-    "text": "it's already generating a lot of excitement",
+    "keyword": "highly anticipated",
+    "identity_keyword": "features",
+    "text": "with several highly anticipated features that fans have been waiting for",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "products",
-    "identity_keyword": "adorable",
-    "text": "The drop features a range of adorable products",
+    "keyword": "pastel colors",
+    "identity_keyword": "design",
+    "text": "the first of these features include a new design with pastel colors",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "plush toys",
-    "identity_keyword": "cute",
-    "text": "including plush toys, accessories, and apparel",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "aesthetic",
-    "identity_keyword": "playful",
-    "text": "all designed with a cute and playful aesthetic in mind",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pastel",
-    "identity_keyword": "colorful",
-    "text": "pastel color schemes",
+    "keyword": "adorable characters",
+    "identity_keyword": "characters",
+    "text": "and adorable characters",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "textures",
-    "identity_keyword": "soft",
-    "text": "soft textures",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "character designs",
-    "identity_keyword": "charming",
-    "text": "charming character designs",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "quality",
-    "identity_keyword": "attention",
-    "text": "With a focus on quality and attention to detail",
+    "keyword": "fun accessories",
+    "identity_keyword": "accessories",
+    "text": "as well as a range of fun and interactive accessories",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "popular",
+    "keyword": "collect and customize",
+    "identity_keyword": "customization",
+    "text": "that can be collected and customized",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "available now",
     "identity_keyword": "release",
-    "text": "this collection is set to be one of our most popular releases yet",
+    "text": "these features are now available for fans to experience and enjoy",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "customers",
-    "identity_keyword": "response",
-    "text": "and we're excited to see how our customers will respond to the new products",
+    "keyword": "new release",
+    "identity_keyword": "reaction",
+    "text": "and we're excited to see how everyone reacts to this new release",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "collection",
-    "identity_keyword": "new",
-    "text": "Our latest collection has just been released and it's already generating a lot of excitement",
-    "duration": 4,
+    "keyword": "fans reaction",
+    "identity_keyword": "fans",
+    "text": "we're excited to see how everyone reacts",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "products",
-    "identity_keyword": "adorable",
-    "text": "The drop features a range of adorable products, including plush toys, accessories, and apparel",
+    "keyword": "latest drop features",
+    "identity_keyword": "drop",
+    "text": "Our latest drop is here with several features",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "release",
-    "identity_keyword": "success",
-    "text": "this collection is set to be one of our most popular releases yet",
+    "keyword": "cutest drop",
+    "identity_keyword": "cute",
+    "text": "it's being called the cutest one yet",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "waiting for",
+    "identity_keyword": "anticipation",
+    "text": "that fans have been waiting for",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "experience and enjoy",
+    "identity_keyword": "enjoyment",
+    "text": "for fans to experience and enjoy",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "new design and accessories",
+    "identity_keyword": "design and accessories",
+    "text": "a new design with pastel colors and adorable characters, as well as a range of fun and interactive accessories",
+    "duration": 5,
+    "visual_type": "identity"
   }
 ]
