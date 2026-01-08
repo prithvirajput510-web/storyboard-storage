@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Massachusetts Flu Cases Surge",
+    "video_title": "Miami DT Moten to Play vs Ole Miss",
     "tags": [
-      "Massachusetts flu",
-      "flu season",
-      "flu outbreak",
-      "influenza cases",
-      "flu explosion",
-      "Massachusetts doctors",
-      "flu surge",
-      "health news",
-      "flu update",
-      "influenza outbreak"
+      "Miami",
+      "DT Moten",
+      "Ole Miss",
+      "College Football",
+      "NCAA",
+      "Sports News",
+      "Miami Football",
+      "Ole Miss Rebels",
+      "DT Moten Injury",
+      "Miami vs Ole Miss"
     ],
-    "topic": "massachusetts doctors seeing ‘explosion of flu cases.’ here’s why.",
-    "date": "January 07, 2026"
+    "topic": "miami 'confident' dt moten will play vs. ole miss",
+    "date": "January 08, 2026"
   },
   {
-    "keyword": "Massachusetts",
-    "identity_keyword": "doctors",
-    "text": "Massachusetts doctors are currently reporting a significant increase in flu cases",
+    "keyword": "University of Miami",
+    "identity_keyword": "Miami",
+    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "hospitals",
-    "identity_keyword": "healthcare facilities",
-    "text": "many hospitals and healthcare facilities experiencing a surge in patients seeking treatment for influenza-like illnesses",
+    "keyword": "Leonard Moten",
+    "identity_keyword": "Moten",
+    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "flu cases",
-    "identity_keyword": "state",
-    "text": "the state has seen a notable rise in flu activity",
+    "keyword": "defensive tackle",
+    "identity_keyword": "tackle",
+    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Influenza A",
-    "identity_keyword": "virus",
-    "text": "with several strains of the virus circulating, including Influenza A and Influenza B",
+    "keyword": "Ole Miss",
+    "identity_keyword": "Ole Miss",
+    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Hurricanes' defense",
+    "identity_keyword": "Hurricanes",
+    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Influenza B",
-    "identity_keyword": "virus",
-    "text": "with several strains of the virus circulating, including Influenza A and Influenza B",
+    "keyword": "upcoming game",
+    "identity_keyword": "game",
+    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "recent reports",
+    "identity_keyword": "reports",
+    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Massachusetts Department of Public Health",
-    "identity_keyword": "health department",
-    "text": "The Massachusetts Department of Public Health has confirmed that flu cases have been on the rise since late December",
+    "keyword": "team's strategy",
+    "identity_keyword": "strategy",
+    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "fans",
+    "identity_keyword": "fans",
+    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "highly anticipated",
+    "identity_keyword": "anticipated",
+    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "performance",
+    "identity_keyword": "performance",
+    "text": "Moten's potential presence would be a significant boost to the Hurricanes' defense, and fans will be watching closely for any updates on his status ahead of the game.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "status ahead",
+    "identity_keyword": "status",
+    "text": "The matchup between Miami and Ole Miss is highly anticipated, and Moten's involvement would be a key factor in the team's strategy and performance.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "key factor",
+    "identity_keyword": "factor",
+    "text": "The University of Miami has expressed confidence that defensive tackle Leonard Moten will be available to play in their upcoming game against Ole Miss, according to recent reports.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "confidence",
+    "identity_keyword": "confidence",
+    "text": "As of now, there is no official word on the specifics of Moten's status, but the team appears to be preparing for his participation.",
     "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "children",
-    "identity_keyword": "young adults",
-    "text": "with the majority of cases affecting children and young adults",
-    "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "healthcare officials",
-    "identity_keyword": "residents",
-    "text": "Healthcare officials are urging residents to take precautions",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "vaccinated",
-    "identity_keyword": "precautions",
-    "text": "such as getting vaccinated and practicing good hygiene",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hygiene",
-    "identity_keyword": "precautions",
-    "text": "such as getting vaccinated and practicing good hygiene",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "virus",
-    "identity_keyword": "spread",
-    "text": "to help mitigate the spread of the virus",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "flu activity",
-    "identity_keyword": "state",
-    "text": "the state has seen a notable rise in flu activity",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "influenza-like illnesses",
-    "identity_keyword": "patients",
-    "text": "many hospitals and healthcare facilities experiencing a surge in patients seeking treatment for influenza-like illnesses",
-    "duration": 5,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "December",
-    "identity_keyword": "health department",
-    "text": "The Massachusetts Department of Public Health has confirmed that flu cases have been on the rise since late December",
-    "duration": 4,
-    "visual_type": "identity"
   }
 ]
