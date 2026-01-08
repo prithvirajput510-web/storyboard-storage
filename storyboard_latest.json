@@ -19,100 +19,100 @@
   },
   {
     "keyword": "Venezuela",
-    "identity_keyword": "country",
-    "text": "Venezuela has been facing significant economic and political challenges in recent years",
+    "identity_keyword": "economy",
+    "text": "Venezuela is facing severe shortages of food, medicine, and other essential goods",
     "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "hyperinflation",
-    "identity_keyword": "economic challenge",
-    "text": "with the country struggling to cope with hyperinflation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "shortages",
-    "identity_keyword": "humanitarian crisis",
-    "text": "food and medicine shortages, and a severe humanitarian crisis",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US sanctions",
-    "identity_keyword": "economic measure",
-    "text": "The US, under the Trump administration, imposed economic sanctions on Venezuela in 2019",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "oil industry",
-    "identity_keyword": "targeted sector",
-    "text": "targeting the country's oil industry and state-owned enterprises",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "President Nicolas Maduro",
-    "identity_keyword": "government leader",
-    "text": "in an effort to pressure the government of President Nicolas Maduro to step down",
-    "duration": 4,
-    "visual_type": "identity"
   },
   {
     "keyword": "Iran",
-    "identity_keyword": "country",
-    "text": "Iran has also been subject to strict US sanctions",
+    "identity_keyword": "inflation",
+    "text": "Iran is dealing with high inflation and a struggling economy",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "oil exports",
-    "identity_keyword": "economic impact",
-    "text": "which have had a significant impact on the country's economy, particularly its oil exports",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "foreign currency",
-    "identity_keyword": "economic challenge",
-    "text": "both Venezuela and Iran facing significant challenges in accessing foreign currency",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "essential goods",
-    "identity_keyword": "humanitarian need",
-    "text": "importing essential goods",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "basic services",
-    "identity_keyword": "humanitarian need",
-    "text": "and providing basic services to their citizens",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "paradox",
-    "identity_keyword": "comparative analysis",
-    "text": "The parallels between the two countries' experiences have not gone unnoticed",
-    "duration": 5,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "comparative analysis",
-    "identity_keyword": "economic comparison",
-    "text": "with both Venezuela and Iran facing similar economic challenges",
+    "keyword": "United States",
+    "identity_keyword": "sanctions",
+    "text": "The United States has imposed economic sanctions on both countries",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "humanitarian crisis",
-    "identity_keyword": "global issue",
-    "text": "highlighting the need for international cooperation to address these humanitarian crises",
-    "duration": 5,
+    "keyword": "Venezuela sanctions",
+    "identity_keyword": "Trump administration",
+    "text": "The Trump administration introduced sanctions on Venezuela in 2019",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Iran sanctions",
+    "identity_keyword": "US sanctions",
+    "text": "The US has imposed various sanctions on Iran since 1979",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "economic impact",
+    "identity_keyword": "shortages",
+    "text": "The sanctions have had a significant impact on the economies of both countries",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Venezuela poverty",
+    "identity_keyword": "poverty",
+    "text": "Widespread poverty and shortages of essential goods are reported in Venezuela",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Iran prices",
+    "identity_keyword": "high prices",
+    "text": "High prices and limited access to goods are reported in Iran",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "international markets",
+    "identity_keyword": "access",
+    "text": "The sanctions limit the ability of both countries to access international markets",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "finance",
+    "identity_keyword": "economy",
+    "text": "The sanctions also limit the ability of both countries to access finance",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "economic challenges",
+    "identity_keyword": "challenges",
+    "text": "Both countries are facing significant economic challenges",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "citizen welfare",
+    "identity_keyword": "welfare",
+    "text": "Both countries are facing significant challenges in providing for their citizens",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US policy",
+    "identity_keyword": "policy",
+    "text": "The US policy of imposing sanctions has had a significant impact on both countries",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "global implications",
+    "identity_keyword": "implications",
+    "text": "The economic sanctions have significant global implications",
+    "duration": 4,
     "visual_type": "emotion"
   }
 ]
