@@ -6,112 +6,112 @@
       "ICE agents",
       "Minneapolis shooting",
       "DHS response",
-      "fatal shooting",
+      "fatal incident",
       "law enforcement",
       "immigration news",
       "Minneapolis news",
       "US news",
-      "DHS news",
-      "shooting incident"
+      "shooting incident",
+      "DHS statement"
     ],
     "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
+    "keyword": "police car",
+    "identity_keyword": "",
+    "text": "A fatal shooting involving ICE agents has occurred in Minneapolis, resulting in the death of a woman.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "government building",
+    "identity_keyword": "Department of Homeland Security",
+    "text": "The Department of Homeland Security has confirmed the involvement of ICE agents in the shooting.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
     "keyword": "Minneapolis cityscape",
     "identity_keyword": "Minneapolis",
-    "text": "Breaking news is emerging from Minneapolis where a fatal shooting involving ICE agents has left a woman dead",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "protest crowd",
-    "identity_keyword": "",
-    "text": "A fatal shooting involving ICE agents has sparked widespread concern and outrage among local residents and immigrant communities",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "calendar page",
-    "identity_keyword": "US Immigration and Customs Enforcement",
-    "text": "The incident occurred on January 8, 2026, and involved agents from US Immigration and Customs Enforcement",
+    "text": "The incident took place in Minneapolis, according to official reports.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "police badge",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The Department of Homeland Security has confirmed that the woman was fatally shot during an encounter with ICE agents",
+    "keyword": "ICE agents",
+    "identity_keyword": "U.S. Immigration and Customs Enforcement",
+    "text": "ICE agents were part of the operation that led to the fatal outcome.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "question mark",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The exact circumstances surrounding the incident are still being reported",
+    "text": "The shooting occurred on January 08, 2026, as reported by the authorities.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "magnifying glass",
-    "identity_keyword": "Department of Homeland Security",
-    "text": "The Department of Homeland Security has stated that the incident is currently being reviewed",
+    "keyword": "question marks",
+    "identity_keyword": "",
+    "text": "The community is left with many unanswered questions about the incident.",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "newspaper headlines",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "More information is expected to be released as the situation develops",
+    "text": "The investigation into the shooting is currently ongoing.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "puzzle pieces",
     "identity_keyword": "",
-    "text": "Many questions remain unanswered, including the events leading up to the shooting",
+    "text": "Details about the events leading up to the shooting are still unclear.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "city hall building",
+    "keyword": "protest signs",
     "identity_keyword": "",
-    "text": "The community is awaiting further clarity and transparency from the authorities",
+    "text": "The use of force by ICE agents is being questioned by the community.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investigator looking at clues",
+    "keyword": "magnifying glass",
     "identity_keyword": "",
-    "text": "The investigation into the fatal shooting continues",
+    "text": "Many are seeking answers about the circumstances surrounding the incident.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
-    "identity_keyword": "ICE",
-    "text": "The use of force by the ICE agents is still being questioned",
+    "keyword": "newspaper headlines",
+    "identity_keyword": "",
+    "text": "The fatal shooting has sparked widespread concern and debate.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "ICE badge",
+    "identity_keyword": "U.S. Immigration and Customs Enforcement",
+    "text": "The incident has raised questions about the actions of ICE agents.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "justice scale",
+    "keyword": "transparency logo",
     "identity_keyword": "",
-    "text": "The community demands justice for the victim",
+    "text": "The community is demanding transparency and accountability.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "US map",
-    "identity_keyword": "United States",
-    "text": "The incident has sparked a national conversation about immigration and law enforcement",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "security monitors",
+    "keyword": "clock ticking",
     "identity_keyword": "",
-    "text": "The situation is being closely monitored by local and national authorities",
+    "text": "The investigation is expected to provide more information about the shooting in the coming days.",
     "duration": 3,
     "visual_type": "emotion"
   }
