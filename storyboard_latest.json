@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "ICE Agents Involved in Fatal Shooting",
+    "video_title": "ICE Agents Fatally Shoot Woman",
     "tags": [
       "ICE agents",
-      "Minneapolis",
+      "Minneapolis shooting",
+      "DHS response",
       "fatal shooting",
-      "DHS statement",
       "law enforcement",
       "immigration news",
       "Minneapolis news",
       "US news",
-      "ICE news",
-      "DHS news"
+      "DHS news",
+      "ICE news"
     ],
     "topic": "ice agents fatally shoot woman in minneapolis, dhs says",
     "date": "January 08, 2026"
   },
   {
-    "keyword": "dark city",
+    "keyword": "news footage",
     "identity_keyword": "Minneapolis",
-    "text": "Details continue to emerge.",
+    "text": "Minneapolis police lights at night",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "urgency",
-    "identity_keyword": "ICE agents",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "ICE",
+    "text": "ICE agents in tactical gear",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "official documents",
+    "keyword": "news footage",
     "identity_keyword": "Department of Homeland Security",
-    "text": "Details continue to emerge.",
+    "text": "Department of Homeland Security headquarters",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "reviewing evidence",
-    "identity_keyword": "News event",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "Minneapolis",
+    "text": "Minneapolis city streets",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "calendar",
-    "identity_keyword": "January 08, 2026",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "Police tape at a crime scene",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "Local news reporters at a press conference",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news footage",
+    "identity_keyword": "ICE",
+    "text": "ICE agents in a briefing room",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "questioning",
-    "identity_keyword": "authorities",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "Minneapolis",
+    "text": "Minneapolis residents protesting",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "memorial",
-    "identity_keyword": "fatal shooting",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "Investigation documents on a desk",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "Law enforcement officials in a meeting",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news footage",
+    "identity_keyword": "Minneapolis",
+    "text": "Minneapolis mayor at a podium",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "press conference",
-    "identity_keyword": "DHS officials",
-    "text": "Details continue to emerge.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "protest",
-    "identity_keyword": "Minneapolis community",
-    "text": "Details continue to emerge.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "typing",
-    "identity_keyword": "News event",
-    "text": "Details continue to emerge.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "fog",
-    "identity_keyword": "uncertain future",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "News headlines on a screen",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "silence",
-    "identity_keyword": "ICE headquarters",
-    "text": "Details continue to emerge.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "night",
-    "identity_keyword": "Minneapolis streets",
-    "text": "Details continue to emerge.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "suspense",
-    "identity_keyword": "News event",
-    "text": "Details continue to emerge.",
+    "keyword": "news footage",
+    "identity_keyword": "",
+    "text": "Federal agents in a surveillance room",
     "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "news footage",
+    "identity_keyword": "Minneapolis",
+    "text": "Minneapolis community leaders in a discussion",
+    "duration": 3,
+    "visual_type": "identity"
   }
 ]
