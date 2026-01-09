@@ -7,110 +7,111 @@
       "iceberg",
       "climate change",
       "global warming",
-      "ocean health",
-      "environmental science",
-      "glaciers",
-      "polar regions",
-      "ecosystem"
+      "environment",
+      "ocean",
+      "glacier",
+      "ecosystem",
+      "wildlife",
+      "conservation"
     ],
     "topic": "antarctica’s oldest, largest iceberg is turning an ominous blue color",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "Antarctica landscape",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "A mysterious change is unfolding in Antarctica",
+    "text": "Scientists are observing a mysterious transformation in Antarctica's oldest and largest iceberg.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "blue iceberg",
-    "identity_keyword": "",
-    "text": "The continent's oldest and largest iceberg is turning a deep blue color",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "old iceberg",
-    "identity_keyword": "",
-    "text": "This iceberg is estimated to be over 100 years old",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Southern Ocean",
-    "identity_keyword": "Southern Ocean",
-    "text": "It's currently drifting in the Southern Ocean",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "small island",
-    "identity_keyword": "",
-    "text": "The iceberg is massive, equivalent to the area of a small island",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "ice shelf",
+    "keyword": "Antarctic landscape",
     "identity_keyword": "Antarctica",
-    "text": "It broke off from the Antarctic ice shelf in the early 20th century",
+    "text": "The iceberg has been a part of the Antarctic landscape for decades.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "research station",
+    "identity_keyword": "",
+    "text": "A recent color change has sparked widespread concern and curiosity among researchers.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "iceberg size comparison",
+    "identity_keyword": "",
+    "text": "The iceberg's dimensions are approximately 100 kilometers long and 30 kilometers wide.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "satellite imagery",
+    "identity_keyword": "",
+    "text": "Satellite imagery has confirmed the iceberg's color change.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Experts believe the blue coloration is likely due to a type of algae.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "scientist researching",
+    "identity_keyword": "",
+    "text": "The exact cause of this sudden change is still not fully understood.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Weddell Sea",
+    "identity_keyword": "Weddell Sea",
+    "text": "The iceberg is currently located in the Weddell Sea.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "drifting iceberg",
+    "keyword": "harsh sea climate",
     "identity_keyword": "",
-    "text": "The iceberg has been slowly drifting northwards ever since",
+    "text": "The Weddell Sea is known for its harsh and unpredictable climate.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "frozen water",
+    "keyword": "research vessel",
     "identity_keyword": "",
-    "text": "It's carrying a vast amount of frozen freshwater",
+    "text": "Scientists have been monitoring the iceberg's movement and condition closely.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "scientists researching",
-    "identity_keyword": "National Snow and Ice Data Center",
-    "text": "Scientists have confirmed the blue coloration is not due to external factors",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "ice structure",
+    "keyword": "ocean ecosystem",
     "identity_keyword": "",
-    "text": "The color change is a result of the iceberg's internal structure and composition",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "sunlight on ice",
-    "identity_keyword": "",
-    "text": "The ice absorbs and scatters sunlight in a unique way",
+    "text": "The iceberg's movement can have significant impacts on the surrounding ecosystem.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "researchers discussing",
+    "keyword": "environmental concern",
     "identity_keyword": "",
-    "text": "Researchers are unsure what the long-term implications will be",
+    "text": "The color change may be a sign of a larger environmental issue.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "research equipment",
+    "keyword": "scientist studying data",
     "identity_keyword": "",
-    "text": "Further investigation is needed to understand the causes and consequences",
+    "text": "Further study is needed to determine the implications of this unusual event.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "monitoring station",
+    "keyword": "iceberg research",
     "identity_keyword": "",
-    "text": "The situation is being closely monitored for any significant shifts",
+    "text": "The investigation into the iceberg's color change continues.",
     "duration": 3,
     "visual_type": "emotion"
   }
