@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Warfighter First",
+    "video_title": "SK Leader Asks Xi for Help",
     "tags": [
-      "defense contracting",
-      "warfighter prioritization",
-      "military procurement",
-      "national security",
-      "contract management",
-      "acquisition reform",
-      "mission execution",
-      "operational readiness",
-      "defense industry",
-      "military technology"
+      "South Korea",
+      "North Korea",
+      "China",
+      "Xi Jinping",
+      "Mediation",
+      "Diplomacy",
+      "Korean Peninsula",
+      "International Relations",
+      "Geopolitics"
     ],
-    "topic": "prioritizing the warfighter in defense contracting",
-    "date": "January 08, 2026"
+    "topic": "south korean leader says he asked china's xi to act as mediator on north korea issues",
+    "date": "January 09, 2026"
+  },
+  {
+    "keyword": "South Korea flag",
+    "identity_keyword": "South Korea",
+    "text": "A surprising announcement has been made by the leader of South Korea.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The leader has asked a powerful individual to help with peace negotiations with North Korea.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Xi Jinping",
+    "identity_keyword": "Xi Jinping",
+    "text": "Recent statements reveal that Chinese President Xi Jinping has been requested to act as a mediator.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "nuclear symbol",
+    "identity_keyword": "",
+    "text": "Tensions between North and South Korea remain high due to concerns over North Korea's nuclear program.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "China map",
+    "identity_keyword": "China",
+    "text": "The South Korean leader's request to President Xi is a significant step given China's ties with North Korea.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "diplomats meeting",
+    "identity_keyword": "",
+    "text": "China's potential influence on North Korea's behavior is a crucial factor in this development.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question mark",
+    "identity_keyword": "",
+    "text": "The question remains whether China will be willing to play this role.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The terms of China's involvement are still uncertain.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "world map",
+    "identity_keyword": "",
+    "text": "The situation is unfolding, and the world is waiting for the outcome of this request.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "clock ticking",
+    "identity_keyword": "",
+    "text": "The outcome of this unprecedented request is highly anticipated.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "peace dove",
+    "identity_keyword": "",
+    "text": "The leader of South Korea has taken a significant step towards peace negotiations.",
+    "duration": 3,
+    "visual_type": "emotion"
   },
   {
     "keyword": "global connections",
     "identity_keyword": "",
-    "text": "The world is becoming increasingly complex and unpredictable.",
+    "text": "The involvement of China in this process could lead to a shift in regional dynamics.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "military equipment",
+    "keyword": "news broadcast",
     "identity_keyword": "",
-    "text": "The need to prioritize the warfighter in defense contracting remains constant.",
+    "text": "The world is watching as this situation develops.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "strategy meeting",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "A new initiative aims to prioritize the warfighter, but its impact is uncertain.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US military",
-    "identity_keyword": "US Department of Defense",
-    "text": "The US Department of Defense emphasizes the importance of supporting warfighters.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "budget documents",
-    "identity_keyword": "",
-    "text": "Recent defense budgets reflect a focus on providing warfighters with the best equipment.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "industry trends",
-    "identity_keyword": "",
-    "text": "The defense industry is shifting towards more agile contracting practices.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "technology development",
-    "identity_keyword": "",
-    "text": "Rapid prototyping and fielding of new technologies are becoming more common.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cyber threats",
-    "identity_keyword": "",
-    "text": "Emerging threats and technologies drive the need for adaptable contracting.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "contracting process",
-    "identity_keyword": "US Department of Defense",
-    "text": "The Department of Defense is working to streamline its contracting processes.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "innovation timeline",
-    "identity_keyword": "",
-    "text": "The goal is to get new technologies to warfighters more quickly.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "initiative launch",
-    "identity_keyword": "",
-    "text": "New initiatives and programs support the effort to prioritize warfighters.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "warfighter needs",
-    "identity_keyword": "",
-    "text": "The current approach may not be sufficient to meet the needs of warfighters.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "expert analysis",
-    "identity_keyword": "",
-    "text": "Experts are raising questions about the effectiveness of the current approach.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investigation process",
-    "identity_keyword": "",
-    "text": "An investigation is underway to determine the best way forward.",
+    "text": "Only time will tell if this effort will be successful in achieving peace.",
     "duration": 3,
     "visual_type": "emotion"
   }
