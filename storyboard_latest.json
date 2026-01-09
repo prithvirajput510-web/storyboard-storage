@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "2026 Actor Award Nominees",
+    "video_title": "Philippines Evacuates 3000",
     "tags": [
-      "actor awards",
-      "2026 nominations",
-      "movie awards",
-      "television awards",
-      "celebrity news",
-      "entertainment news",
-      "award shows",
-      "nominees list",
-      "actor nominations",
-      "awards season"
+      "Mayon Volcano",
+      "Philippines",
+      "Evacuation",
+      "Volcanic Eruption",
+      "Natural Disaster",
+      "Emergency Response",
+      "Volcano Alert",
+      "Disaster Relief",
+      "Philippines News"
     ],
-    "topic": "2026 actor award nominations: see the full list of nominees",
+    "topic": "philippines evacuates 3,000 people after activity increases at mayon volcano",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "award nominations",
+    "keyword": "Philippines map",
+    "identity_keyword": "Philippines",
+    "text": "Breaking news is coming in from the Philippines",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "volcano eruption",
     "identity_keyword": "",
-    "text": "The wait is finally over, and the nominations for the 2026 actor awards are out",
+    "text": "A massive evacuation effort is underway due to increased activity at Mayon Volcano",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "famous actors",
+    "keyword": "people running",
     "identity_keyword": "",
-    "text": "Some of the biggest names in the industry made the cut, but the top prize winners are still uncertain",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "actor portraits",
-    "identity_keyword": "",
-    "text": "The nominees for Best Actor include a range of talented performers",
+    "text": "Thousands of people have been forced to flee their homes in a matter of hours",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "men acting",
-    "identity_keyword": "John Smith",
-    "text": "John Smith, Michael Johnson, and David Lee received nods for their outstanding work",
+    "keyword": "evacuation center",
+    "identity_keyword": "",
+    "text": "Over 3,000 people have been evacuated from the surrounding areas of Mayon Volcano",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "seismology equipment",
+    "identity_keyword": "Philippine Institute of Volcanology and Seismology",
+    "text": "The Philippine Institute of Volcanology and Seismology is closely monitoring the situation",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "film and tv",
-    "identity_keyword": "",
-    "text": "Their work in film and television over the past year was recognized",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "actress portraits",
-    "identity_keyword": "",
-    "text": "The Best Actress category is highly competitive",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "women acting",
-    "identity_keyword": "Emily Chen",
-    "text": "Emily Chen, Sarah Taylor, and Olivia Brown were nominated for their powerful performances",
+    "keyword": "alert level sign",
+    "identity_keyword": "Philippines",
+    "text": "The Philippine government has raised the alert level due to increased activity at Mayon Volcano",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "comedy drama",
+    "keyword": "emergency responders",
     "identity_keyword": "",
-    "text": "They played a variety of roles, from drama to comedy",
+    "text": "The increased activity has prompted authorities to take swift action to ensure public safety",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "award nominees",
+    "keyword": "safe zone sign",
     "identity_keyword": "",
-    "text": "The full list of nominees includes twenty actors and actresses",
+    "text": "The evacuees have been relocated to safe zones",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "theater performances",
+    "keyword": "food and shelter",
     "identity_keyword": "",
-    "text": "Their achievements in film, television, and theater were recognized",
+    "text": "They are being provided with food, shelter, and other essential supplies",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "website on laptop",
+    "keyword": "daily life activities",
     "identity_keyword": "",
-    "text": "The list can be found on the official awards website",
+    "text": "The government is working to minimize disruption to daily life",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "volcanic ash",
+    "identity_keyword": "",
+    "text": "And mitigate the risks associated with the volcanic activity",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "fans waiting",
+    "keyword": "investigation in progress",
     "identity_keyword": "",
-    "text": "As the awards ceremony approaches, fans are left wondering who will win",
+    "text": "The situation remains uncertain as the investigation into the volcano's activity is ongoing",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "industry experts",
+    "keyword": "volcano eruption prediction",
     "identity_keyword": "",
-    "text": "Industry insiders are also speculating about potential upsets and dark horse winners",
+    "text": "It remains to be seen whether the increased activity will lead to a full-scale eruption",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "question mark",
+    "keyword": "emergency alert system",
     "identity_keyword": "",
-    "text": "The outcome is still uncertain, leaving everyone in anticipation",
+    "text": "Authorities are urging residents to remain vigilant and await further updates",
     "duration": 3,
     "visual_type": "emotion"
   }
