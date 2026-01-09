@@ -1,115 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Buccaneers Coaching Staff Changes",
+    "video_title": "Trump Orders $200B Bond Buy",
     "tags": [
-      "Tampa Bay Buccaneers",
-      "NFL",
-      "coaching staff",
-      "football",
-      "sports news",
-      "Buccaneers updates",
-      "NFL changes",
-      "2026 season"
+      "Trump",
+      "Mortgage Bonds",
+      "Interest Rates",
+      "Economy",
+      "Housing Market",
+      "Financial News",
+      "US Economy",
+      "Mortgage Rates",
+      "Investment"
     ],
-    "topic": "buccaneers make changes to 2026 coaching staff",
+    "topic": "trump instructs 'representatives' to buy $200 billion in mortgage bonds, aiming to lower rates",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "football stadium",
+    "keyword": "financial news",
     "identity_keyword": "",
-    "text": "There's been a significant development in the NFL",
+    "text": "A former president has made a surprising financial move",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "coaches meeting",
-    "identity_keyword": "Tampa Bay Buccaneers",
-    "text": "The Tampa Bay Buccaneers have made changes to their coaching staff",
+    "keyword": "mortgage rates",
+    "identity_keyword": "",
+    "text": "The investment is intended to lower mortgage rates",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial charts",
+    "identity_keyword": "",
+    "text": "This is one of the largest investments of its kind in recent history",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The plan will be implemented in the coming weeks",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market",
+    "identity_keyword": "",
+    "text": "The investment will be made in various mortgage-backed securities",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "interest rates",
+    "identity_keyword": "",
+    "text": "The move is seen as a strategic attempt to influence interest rates",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The goal is to boost the housing market",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Donald Trump",
+    "identity_keyword": "Donald Trump",
+    "text": "Former President Donald Trump is behind the investment",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "empty office",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Several key members of the coaching staff are no longer with the team",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football coaches",
-    "identity_keyword": "",
-    "text": "The team has hired new coordinators with a lot of experience",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "smiling executives",
-    "identity_keyword": "",
-    "text": "The front office is feeling confident about these changes",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new employees",
-    "identity_keyword": "",
-    "text": "The Buccaneers have also made some other key additions to their staff",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "trophy case",
-    "identity_keyword": "",
-    "text": "The team is trying to build on their recent successes",
+    "text": "The investment could have a significant impact on the economy",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "But it's still unclear how these changes will impact the team's performance",
+    "text": "It's unclear how the investment will ultimately affect the economy",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "calendar flipping",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The new season is just around the corner",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "championship trophy",
-    "identity_keyword": "",
-    "text": "Everyone is waiting to see if the Buccaneers can bring home a championship",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cheering crowd",
-    "identity_keyword": "Tampa Bay Buccaneers",
-    "text": "The Buccaneers' fans are eager to see what the new season holds",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "foggy road",
-    "identity_keyword": "",
-    "text": "The team's future is still uncertain",
+    "text": "Regulators and experts will be watching the situation closely",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Only time will tell if these changes will pay off",
+    "text": "The situation is still unfolding",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football players running",
+    "keyword": "financial markets",
     "identity_keyword": "",
-    "text": "The NFL season is always full of surprises",
+    "text": "The investment could send shockwaves through the financial markets",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The impact on interest rates for millions of Americans is uncertain",
     "duration": 3,
     "visual_type": "emotion"
   }
