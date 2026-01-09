@@ -18,101 +18,101 @@
     "date": "January 09, 2026"
   },
   {
-    "keyword": "farmers protest",
-    "identity_keyword": "",
-    "text": "French farmers are protesting a newly proposed free trade deal",
+    "keyword": "news related footage",
+    "identity_keyword": "Paris",
+    "text": "French farmers are protesting in the streets of Paris",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "farm tractors",
+    "keyword": "news related footage",
     "identity_keyword": "",
     "text": "The protest involves hundreds of farmers from across the country",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "farming equipment",
-    "identity_keyword": "",
-    "text": "They are objecting to the agreement's provisions on agricultural imports",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "protest signs",
-    "identity_keyword": "",
-    "text": "The farmers claim the agreement will lead to cheap imports and unfair competition",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "police officers",
-    "identity_keyword": "Paris",
-    "text": "The protest has been largely peaceful, with some minor skirmishes",
+    "keyword": "European Union",
+    "identity_keyword": "European Union",
+    "text": "They are objecting to a proposed trade agreement between the European Union and South America",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "traffic congestion",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Several arrests have been reported, and motorists are being urged to avoid the area",
+    "text": "The farmers believe the agreement will lead to an influx of cheap imports",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "riot police",
+    "identity_keyword": "French government",
+    "text": "The French government has confirmed the protest is peaceful",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "protest signs",
     "identity_keyword": "",
-    "text": "The city's authorities are working to maintain order and minimize disruptions",
+    "text": "But has warned that any disruption to public order will be met with a firm response",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "Paris streets",
+    "identity_keyword": "Paris",
+    "text": "The situation is still unfolding",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "government building",
-    "identity_keyword": "France",
-    "text": "The French government is being called upon to respond to the farmers' demands",
+    "identity_keyword": "French government",
+    "text": "The French government's response to the farmers' demands is uncertain",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "newspaper headlines",
+    "keyword": "trade agreement",
     "identity_keyword": "",
-    "text": "Analysts suggest the protests could be just the beginning of a long debate",
+    "text": "The impact of the protest on the free trade deal is still unknown",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "farming landscape",
+    "keyword": "question marks",
     "identity_keyword": "",
-    "text": "The future of French agriculture hangs in the balance",
+    "text": "Many questions remain unanswered about the potential consequences",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "protest march",
-    "identity_keyword": "",
-    "text": "The protests are a dramatic show of force by the farming community",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "farmer portraits",
-    "identity_keyword": "",
-    "text": "The farmers are determined to make their voices heard",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "clock tower",
-    "identity_keyword": "Paris",
-    "text": "The situation continues to unfold, with uncertainty about the outcome",
+    "keyword": "economy graph",
+    "identity_keyword": "European Union",
+    "text": "For the French economy and the European Union as a whole",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "global news",
-    "identity_keyword": "France",
-    "text": "The world is watching as the French government responds to the crisis",
+    "keyword": "farming equipment",
+    "identity_keyword": "",
+    "text": "The farmers' livelihoods are at stake",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "angry crowd",
+    "identity_keyword": "",
+    "text": "The protest is a display of their outrage and frustration",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The situation will continue to unfold in the coming days",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
