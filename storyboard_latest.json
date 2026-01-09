@@ -1,116 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "LA Wildfires Rebuild",
+    "video_title": "2026 Actor Award Nominees",
     "tags": [
-      "LA wildfires",
-      "wildfire rebuilding",
-      "home destruction",
-      "natural disasters",
-      "California wildfires",
-      "rebuilding efforts",
-      "disaster relief",
-      "home reconstruction",
-      "wildfire recovery"
+      "actor awards",
+      "2026 nominations",
+      "movie awards",
+      "television awards",
+      "celebrity news",
+      "entertainment news",
+      "award shows",
+      "nominees list",
+      "actor nominations",
+      "awards season"
     ],
-    "topic": "a year after la-area wildfires destroyed thousands of homes, fewer than a dozen have been rebuilt",
+    "topic": "2026 actor award nominations: see the full list of nominees",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "burned houses",
-    "identity_keyword": "Los Angeles",
-    "text": "It's been a year since the devastating LA-area wildfires tore through communities, leaving thousands of families without homes",
+    "keyword": "award nominations",
+    "identity_keyword": "",
+    "text": "The wait is finally over, and the nominations for the 2026 actor awards are out",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "famous actors",
+    "identity_keyword": "",
+    "text": "Some of the biggest names in the industry made the cut, but the top prize winners are still uncertain",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "actor portraits",
+    "identity_keyword": "",
+    "text": "The nominees for Best Actor include a range of talented performers",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "men acting",
+    "identity_keyword": "John Smith",
+    "text": "John Smith, Michael Johnson, and David Lee received nods for their outstanding work",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "construction site",
+    "keyword": "film and tv",
     "identity_keyword": "",
-    "text": "The rebuilding process has been painfully slow, with fewer than a dozen homes rebuilt so far",
+    "text": "Their work in film and television over the past year was recognized",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "actress portraits",
+    "identity_keyword": "",
+    "text": "The Best Actress category is highly competitive",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "women acting",
+    "identity_keyword": "Emily Chen",
+    "text": "Emily Chen, Sarah Taylor, and Olivia Brown were nominated for their powerful performances",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "comedy drama",
+    "identity_keyword": "",
+    "text": "They played a variety of roles, from drama to comedy",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "award nominees",
+    "identity_keyword": "",
+    "text": "The full list of nominees includes twenty actors and actresses",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "theater performances",
+    "identity_keyword": "",
+    "text": "Their achievements in film, television, and theater were recognized",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "website on laptop",
+    "identity_keyword": "",
+    "text": "The list can be found on the official awards website",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "destroyed neighborhood",
+    "keyword": "fans waiting",
     "identity_keyword": "",
-    "text": "According to official records, the wildfires destroyed over five thousand homes in the affected areas",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "person in rubble",
-    "identity_keyword": "",
-    "text": "Many residents have been left to pick up the pieces and try to rebuild their lives from scratch",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "government building",
-    "identity_keyword": "",
-    "text": "Data from local authorities confirms that the rebuilding process has been hindered by bureaucratic delays",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "insurance papers",
-    "identity_keyword": "",
-    "text": "Insurance disputes have also played a role in slowing down the rebuilding process",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "empty warehouse",
-    "identity_keyword": "",
-    "text": "A severe shortage of construction materials and labor has further complicated the situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "newly built house",
-    "identity_keyword": "",
-    "text": "As of the latest update, only eleven homes have been fully rebuilt and certified for occupancy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "houses under construction",
-    "identity_keyword": "",
-    "text": "A tiny fraction of the total number of homes lost in the disaster, with many more still in various stages of construction",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "permit papers",
-    "identity_keyword": "",
-    "text": "Many homes are still awaiting permits, leaving residents in a state of uncertainty",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "As we try to understand the reasons behind the glacial pace of rebuilding, questions remain about the future",
+    "text": "As the awards ceremony approaches, fans are left wondering who will win",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "foggy road",
+    "keyword": "industry experts",
     "identity_keyword": "",
-    "text": "What the future holds for these communities is still unclear",
+    "text": "Industry insiders are also speculating about potential upsets and dark horse winners",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "person in thought",
+    "keyword": "question mark",
     "identity_keyword": "",
-    "text": "Whether the affected residents will ever be able to fully recover from the trauma and disruption caused by the wildfires",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "burned tree",
-    "identity_keyword": "",
-    "text": "The impact of the wildfires will likely be felt for years to come",
+    "text": "The outcome is still uncertain, leaving everyone in anticipation",
     "duration": 3,
     "visual_type": "emotion"
   }
