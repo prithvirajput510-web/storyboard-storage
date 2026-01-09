@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "GLP-1 Weight Regain",
+    "video_title": "Antarctica Iceberg Turns Blue",
     "tags": [
-      "GLP-1",
-      "weight loss",
-      "weight regain",
-      "health study",
-      "medical research",
-      "obesity treatment",
-      "GLP-1 users",
-      "weight management",
-      "health news",
-      "medical breakthrough"
+      "Antarctica",
+      "iceberg",
+      "climate change",
+      "global warming",
+      "ocean health",
+      "environmental science",
+      "glaciers",
+      "polar regions",
+      "ecosystem"
     ],
-    "topic": "former glp-1 users regain lost weight after about 18 months, study says",
+    "topic": "antarctica’s oldest, largest iceberg is turning an ominous blue color",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "weight loss medication",
+    "keyword": "Antarctica landscape",
     "identity_keyword": "",
-    "text": "If you're one of the millions of people who have used GLP-1 medications to lose weight, a new study has some surprising news for you",
+    "text": "A mysterious change is unfolding in Antarctica",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "blue iceberg",
     "identity_keyword": "",
-    "text": "You might regain all that lost weight in about a year and a half after stopping the treatment",
+    "text": "The continent's oldest and largest iceberg is turning a deep blue color",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "old iceberg",
     "identity_keyword": "",
-    "text": "The study found that former GLP-1 users typically start to regain weight around six to twelve months after they stop taking the medication",
+    "text": "This iceberg is estimated to be over 100 years old",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "increasing graph",
+    "keyword": "Southern Ocean",
+    "identity_keyword": "Southern Ocean",
+    "text": "It's currently drifting in the Southern Ocean",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "small island",
     "identity_keyword": "",
-    "text": "With the weight gain accelerating over time",
+    "text": "The iceberg is massive, equivalent to the area of a small island",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "weight gain",
+    "keyword": "ice shelf",
+    "identity_keyword": "Antarctica",
+    "text": "It broke off from the Antarctic ice shelf in the early 20th century",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "drifting iceberg",
     "identity_keyword": "",
-    "text": "By eighteen months after stopping GLP-1 treatment, the average person in the study had regained all of the weight they had lost",
+    "text": "The iceberg has been slowly drifting northwards ever since",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "before and after",
+    "keyword": "frozen water",
     "identity_keyword": "",
-    "text": "Returning to their pre-treatment weight",
+    "text": "It's carrying a vast amount of frozen freshwater",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "medical research",
+    "keyword": "scientists researching",
+    "identity_keyword": "National Snow and Ice Data Center",
+    "text": "Scientists have confirmed the blue coloration is not due to external factors",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "ice structure",
     "identity_keyword": "",
-    "text": "The study's findings were based on data from a large group of people who had used GLP-1 medications for weight loss",
+    "text": "The color change is a result of the iceberg's internal structure and composition",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "diverse people",
+    "keyword": "sunlight on ice",
     "identity_keyword": "",
-    "text": "And the results were consistent across different demographics and age groups",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "But what's still unclear is why this weight regain happens",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "puzzle pieces",
-    "identity_keyword": "",
-    "text": "And whether there are any strategies that can help prevent it",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "medical lab",
-    "identity_keyword": "",
-    "text": "So further research is needed to understand the long-term effects of GLP-1 treatment",
+    "text": "The ice absorbs and scatters sunlight in a unique way",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "fitness journey",
+    "keyword": "researchers discussing",
     "identity_keyword": "",
-    "text": "And how to maintain weight loss over time",
+    "text": "Researchers are unsure what the long-term implications will be",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "lightbulb moment",
+    "keyword": "research equipment",
     "identity_keyword": "",
-    "text": "To find a solution to this problem",
+    "text": "Further investigation is needed to understand the causes and consequences",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "success story",
+    "keyword": "monitoring station",
     "identity_keyword": "",
-    "text": "And to help people achieve their weight loss goals",
+    "text": "The situation is being closely monitored for any significant shifts",
     "duration": 3,
     "visual_type": "emotion"
   }
