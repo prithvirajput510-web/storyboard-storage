@@ -4,115 +4,115 @@
     "video_title": "French Farmers Protest",
     "tags": [
       "French farmers",
-      "protest",
+      "Paris protest",
       "free trade deal",
-      "Paris",
-      "tractors",
-      "agriculture",
-      "trade agreement",
+      "tractor protest",
       "European Union",
+      "agriculture policy",
+      "trade agreement",
       "farmers rights",
-      "economic policy"
+      "protest in Paris",
+      "European farmers"
     ],
     "topic": "french farmers force their way through paris with tractors to protest free trade deal",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "news related footage",
-    "identity_keyword": "Paris",
-    "text": "French farmers are protesting a new free trade deal in Paris",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "European Union",
-    "text": "The deal is between the European Union and several South American countries",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "imported goods",
+    "keyword": "farmers protest",
     "identity_keyword": "",
-    "text": "Farmers claim it will lead to an influx of cheap imports",
+    "text": "French farmers are protesting a proposed free trade deal",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "farm tractors",
+    "identity_keyword": "",
+    "text": "The protest involves hundreds of farmers from across the country",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "agricultural products",
+    "identity_keyword": "",
+    "text": "They are objecting to provisions in the trade agreement",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "imported food",
+    "identity_keyword": "",
+    "text": "The provisions would allow for the importation of products from countries with lower standards",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "French food",
+    "identity_keyword": "France",
+    "text": "The farmers say this would undermine the quality and safety of French food products",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "government building",
+    "identity_keyword": "European Union",
+    "text": "The French government is in talks with the European Union to finalize the trade deal",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The deal is expected to be signed later this year",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "farmer speaking",
+    "identity_keyword": "",
+    "text": "The farmers are demanding that their concerns be taken into account",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "government officials",
+    "identity_keyword": "France",
+    "text": "It remains to be seen how the French government will respond to the farmers' demands",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "farming landscape",
+    "identity_keyword": "France",
+    "text": "The issue could have significant implications for the future of French agriculture",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "food market",
+    "identity_keyword": "France",
+    "text": "And the country's food industry",
+    "duration": 3,
+    "visual_type": "identity"
   },
   {
     "keyword": "protest signs",
-    "identity_keyword": "French government",
-    "text": "They are demanding the French government reject the trade deal",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Farmers want greater support for domestic agriculture",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "rural landscapes",
-    "identity_keyword": "",
-    "text": "They are concerned about the impact on rural communities",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "environmental damage",
-    "identity_keyword": "",
-    "text": "And the environment is also a major concern",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "farming unions",
-    "identity_keyword": "",
-    "text": "The protest has been organized by major farming unions",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "meeting tables",
-    "identity_keyword": "",
-    "text": "They have been negotiating with the government for months",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "protest marches",
-    "identity_keyword": "",
-    "text": "The farmers have warned of further action if their demands are not met",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "agricultural fields",
-    "identity_keyword": "France",
-    "text": "The outcome could have significant implications for French agriculture",
+    "text": "Some observers suggest that the protests could force a rethink of the trade deal",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "economy graphs",
-    "identity_keyword": "European economy",
-    "text": "And the wider European economy",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news headlines",
+    "keyword": "news headline",
     "identity_keyword": "",
     "text": "The situation is still unfolding",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "government buildings",
-    "identity_keyword": "French government",
-    "text": "It remains to be seen how the French government will respond",
+    "keyword": "question mark",
+    "identity_keyword": "",
+    "text": "And the outcome is uncertain",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   }
 ]
