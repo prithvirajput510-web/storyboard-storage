@@ -8,9 +8,9 @@
       "coaching staff",
       "football",
       "sports news",
-      "2026 season",
       "Buccaneers updates",
-      "NFL changes"
+      "NFL changes",
+      "2026 season"
     ],
     "topic": "buccaneers make changes to 2026 coaching staff",
     "date": "January 09, 2026"
@@ -18,99 +18,99 @@
   {
     "keyword": "football stadium",
     "identity_keyword": "",
-    "text": "There's been a major development in the NFL, with significant changes to the coaching staff of a prominent team.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football players",
-    "identity_keyword": "",
-    "text": "The changes have sent shockwaves throughout the league, leaving many to wonder what the future holds.",
+    "text": "There's been a significant development in the NFL",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "coaches meeting",
+    "identity_keyword": "Tampa Bay Buccaneers",
+    "text": "The Tampa Bay Buccaneers have made changes to their coaching staff",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "empty office",
     "identity_keyword": "",
-    "text": "Several key coaches have departed, including the defensive coordinator and special teams coach.",
+    "text": "Several key members of the coaching staff are no longer with the team",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "defensive coordinator",
+    "keyword": "football coaches",
     "identity_keyword": "",
-    "text": "The team has hired a new defensive coordinator with a proven track record of success.",
+    "text": "The team has hired new coordinators with a lot of experience",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football strategy",
+    "keyword": "smiling executives",
     "identity_keyword": "",
-    "text": "The new defensive coordinator has previously worked with top-tier teams in the league.",
+    "text": "The front office is feeling confident about these changes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "assistant coach",
+    "keyword": "new employees",
     "identity_keyword": "",
-    "text": "The team has also promoted an assistant coach to take over as special teams coach.",
+    "text": "The Buccaneers have also made some other key additions to their staff",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football team huddle",
+    "keyword": "trophy case",
     "identity_keyword": "",
-    "text": "This move is seen as a strategic decision to maintain continuity and build on existing strengths.",
+    "text": "The team is trying to build on their recent successes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football coach",
+    "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The team's adjustments to their coaching staff have raised questions about their overall performance.",
+    "text": "But it's still unclear how these changes will impact the team's performance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "playoff bracket",
+    "keyword": "calendar flipping",
     "identity_keyword": "",
-    "text": "It remains to be seen how these changes will impact the team's chances of making the playoffs.",
+    "text": "The new season is just around the corner",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football fans",
+    "keyword": "championship trophy",
     "identity_keyword": "",
-    "text": "The upcoming season is filled with uncertainty, and fans are eagerly awaiting the team's first game.",
+    "text": "Everyone is waiting to see if the Buccaneers can bring home a championship",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "sports analysts",
+    "keyword": "cheering crowd",
+    "identity_keyword": "Tampa Bay Buccaneers",
+    "text": "The Buccaneers' fans are eager to see what the new season holds",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "foggy road",
     "identity_keyword": "",
-    "text": "The team's performance will be closely watched by fans and analysts alike.",
+    "text": "The team's future is still uncertain",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "clock ticking",
     "identity_keyword": "",
-    "text": "Only time will tell if the team's new coaching staff will be able to turn things around.",
+    "text": "Only time will tell if these changes will pay off",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "excited football fans",
+    "keyword": "football players running",
     "identity_keyword": "",
-    "text": "The team's future is uncertain, but one thing is clear: the upcoming season will be exciting to watch.",
+    "text": "The NFL season is always full of surprises",
     "duration": 3,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "NFL logo",
-    "identity_keyword": "NFL",
-    "text": "The NFL is known for its unpredictability, and this team is no exception.",
-    "duration": 3,
-    "visual_type": "identity"
   }
 ]
