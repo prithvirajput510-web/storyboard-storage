@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "LA Wildfires Rebuilding",
+    "video_title": "LA Wildfires Rebuild",
     "tags": [
       "LA wildfires",
-      "home rebuilding",
-      "wildfire recovery",
-      "California wildfires",
-      "disaster relief",
-      "home construction",
-      "rebuilding efforts",
+      "wildfire rebuilding",
+      "home destruction",
       "natural disasters",
-      "California news"
+      "California wildfires",
+      "rebuilding efforts",
+      "disaster relief",
+      "home reconstruction",
+      "wildfire recovery"
     ],
     "topic": "a year after la-area wildfires destroyed thousands of homes, fewer than a dozen have been rebuilt",
     "date": "January 09, 2026"
   },
   {
     "keyword": "burned houses",
-    "identity_keyword": "",
-    "text": "It's been a year since devastating wildfires swept through the LA area",
+    "identity_keyword": "Los Angeles",
+    "text": "It's been a year since the devastating LA-area wildfires tore through communities, leaving thousands of families without homes",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "destroyed neighborhoods",
-    "identity_keyword": "",
-    "text": "Leaving a trail of destruction and thousands of families without homes",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "fire damage",
-    "identity_keyword": "LA",
-    "text": "The wildfires destroyed over five thousand homes in the LA area",
-    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "damaged buildings",
+    "keyword": "construction site",
     "identity_keyword": "",
-    "text": "Many more homes were damaged, and the affected communities are still struggling to recover",
+    "text": "The rebuilding process has been painfully slow, with fewer than a dozen homes rebuilt so far",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "destroyed neighborhood",
+    "identity_keyword": "",
+    "text": "According to official records, the wildfires destroyed over five thousand homes in the affected areas",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "person in rubble",
+    "identity_keyword": "",
+    "text": "Many residents have been left to pick up the pieces and try to rebuild their lives from scratch",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "government building",
+    "identity_keyword": "",
+    "text": "Data from local authorities confirms that the rebuilding process has been hindered by bureaucratic delays",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "insurance papers",
+    "identity_keyword": "",
+    "text": "Insurance disputes have also played a role in slowing down the rebuilding process",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "empty warehouse",
+    "identity_keyword": "",
+    "text": "A severe shortage of construction materials and labor has further complicated the situation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "newly built house",
+    "identity_keyword": "",
+    "text": "As of the latest update, only eleven homes have been fully rebuilt and certified for occupancy",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "houses under construction",
+    "identity_keyword": "",
+    "text": "A tiny fraction of the total number of homes lost in the disaster, with many more still in various stages of construction",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "permit papers",
+    "identity_keyword": "",
+    "text": "Many homes are still awaiting permits, leaving residents in a state of uncertainty",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The rebuild process has been hindered by bureaucratic delays and insurance disputes",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "construction workers",
-    "identity_keyword": "",
-    "text": "A shortage of skilled labor has slowed down the construction of new homes",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "new homes",
-    "identity_keyword": "",
-    "text": "Only eleven homes have been fully rebuilt and certified for occupancy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "homeless families",
-    "identity_keyword": "",
-    "text": "Hundreds of families are still waiting for their homes to be reconstructed or repaired",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "uncertain future",
-    "identity_keyword": "",
-    "text": "Many are left wondering what the future holds for these communities",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "An investigation is underway to determine whether more could have been done",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "family reunion",
-    "identity_keyword": "",
-    "text": "To expedite the recovery process and get families back into their homes sooner",
+    "text": "As we try to understand the reasons behind the glacial pace of rebuilding, questions remain about the future",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "community support",
+    "keyword": "foggy road",
     "identity_keyword": "",
-    "text": "The recovery process has been slow and painful for the affected communities",
+    "text": "What the future holds for these communities is still unclear",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "wildfire aftermath",
-    "identity_keyword": "LA",
-    "text": "The impact of the wildfires is still being felt a year later",
+    "keyword": "person in thought",
+    "identity_keyword": "",
+    "text": "Whether the affected residents will ever be able to fully recover from the trauma and disruption caused by the wildfires",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "rebuilding efforts",
+    "keyword": "burned tree",
     "identity_keyword": "",
-    "text": "And it may take years for the communities to fully recover",
+    "text": "The impact of the wildfires will likely be felt for years to come",
     "duration": 3,
     "visual_type": "emotion"
   }
