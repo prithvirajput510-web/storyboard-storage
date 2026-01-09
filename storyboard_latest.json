@@ -5,111 +5,112 @@
     "tags": [
       "Mayon Volcano",
       "Philippines",
-      "Volcanic Eruption",
-      "Evacuation",
-      "Natural Disaster",
-      "Volcano Alert",
-      "Disaster Response",
-      "Philippines News"
+      "volcanic eruption",
+      "evacuation",
+      "natural disaster",
+      "volcano news",
+      "Philippines news",
+      "disaster response",
+      "volcanic activity"
     ],
     "topic": "philippines evacuates 3,000 people after activity increases at mayon volcano",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "Philippines map",
-    "identity_keyword": "Philippines",
-    "text": "Breaking news is coming in from the Philippines",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
     "keyword": "volcano eruption",
-    "identity_keyword": "",
-    "text": "A massive evacuation effort is underway due to volcanic activity",
+    "identity_keyword": "Philippines",
+    "text": "Breaking news is coming in from the Philippines where a massive evacuation effort is underway",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "Mayon Volcano",
-    "identity_keyword": "Mayon Volcano",
-    "text": "The Mayon Volcano is at the center of the evacuation efforts",
-    "duration": 4,
+    "keyword": "volcanic ash",
+    "identity_keyword": "Mayon volcano",
+    "text": "A massive evacuation effort is underway due to increased activity at the infamous Mayon volcano",
+    "duration": 3,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "people running",
+    "identity_keyword": "",
+    "text": "Thousands of people are scrambling for safety",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
     "keyword": "evacuation center",
     "identity_keyword": "",
-    "text": "Thousands of people are being relocated to safer areas",
+    "text": "At least 3,000 people have been evacuated from the surrounding areas as a precautionary measure",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "people evacuating",
+    "keyword": "emergency alert",
     "identity_keyword": "",
-    "text": "Over 3,000 people have already been evacuated from the surrounding areas",
+    "text": "The evacuation order was issued to prevent any potential harm from the volcanic activity",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "seismology equipment",
+    "keyword": "news related footage",
     "identity_keyword": "Philippine Institute of Volcanology and Seismology",
-    "text": "The Philippine Institute of Volcanology and Seismology is monitoring the situation",
+    "text": "The Philippine Institute of Volcanology and Seismology has confirmed increased seismic activity",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "volcano seismic activity",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The institute has confirmed increased seismic activity at the Mayon Volcano",
+    "text": "The evacuees are being temporarily housed in nearby shelters",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "emergency responders",
+    "keyword": "food distribution",
     "identity_keyword": "",
-    "text": "The evacuation order is in place to ensure public safety",
+    "text": "They are being provided with food and other essential supplies",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "government meeting",
+    "keyword": "aid workers",
     "identity_keyword": "",
-    "text": "The government is working to mitigate the impact of the volcanic activity",
+    "text": "Local authorities are working to ensure their basic needs are met during this time",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "relief supplies",
+    "keyword": "news headline",
     "identity_keyword": "",
-    "text": "The evacuees will receive food, shelter, and other essential assistance",
+    "text": "The situation continues to unfold",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "volcano monitoring",
+    "keyword": "volcano eruption",
     "identity_keyword": "",
-    "text": "The situation remains volatile and is being closely monitored",
+    "text": "It remains to be seen whether the increased activity will lead to a full-scale eruption",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "scientists working",
     "identity_keyword": "",
-    "text": "It's still unclear what the next 24 hours will bring",
+    "text": "Scientists and emergency responders are closely monitoring the situation",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "volcano eruption warning",
+    "keyword": "emergency meeting",
     "identity_keyword": "",
-    "text": "Further evacuations and potential eruptions are still a possibility",
+    "text": "They are awaiting further developments",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news report",
+    "keyword": "uncertain future",
     "identity_keyword": "",
-    "text": "The situation is being closely watched by authorities and the public alike",
+    "text": "The fate of the people in the surrounding areas hangs in the balance",
     "duration": 3,
     "visual_type": "emotion"
   }
