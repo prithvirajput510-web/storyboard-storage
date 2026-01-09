@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "SK Leader Asks Xi for Help",
+    "video_title": "LA Wildfires Rebuilding",
     "tags": [
-      "South Korea",
-      "North Korea",
-      "China",
-      "Xi Jinping",
-      "Mediation",
-      "Diplomacy",
-      "Korean Peninsula",
-      "International Relations",
-      "Geopolitics"
+      "LA wildfires",
+      "home rebuilding",
+      "wildfire recovery",
+      "California wildfires",
+      "disaster relief",
+      "home construction",
+      "rebuilding efforts",
+      "natural disasters",
+      "California news"
     ],
-    "topic": "south korean leader says he asked china's xi to act as mediator on north korea issues",
+    "topic": "a year after la-area wildfires destroyed thousands of homes, fewer than a dozen have been rebuilt",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "South Korea flag",
-    "identity_keyword": "South Korea",
-    "text": "A surprising announcement has been made by the leader of South Korea.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
+    "keyword": "burned houses",
     "identity_keyword": "",
-    "text": "The leader has asked a powerful individual to help with peace negotiations with North Korea.",
+    "text": "It's been a year since devastating wildfires swept through the LA area",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Xi Jinping",
-    "identity_keyword": "Xi Jinping",
-    "text": "Recent statements reveal that Chinese President Xi Jinping has been requested to act as a mediator.",
+    "keyword": "destroyed neighborhoods",
+    "identity_keyword": "",
+    "text": "Leaving a trail of destruction and thousands of families without homes",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "fire damage",
+    "identity_keyword": "LA",
+    "text": "The wildfires destroyed over five thousand homes in the LA area",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "nuclear symbol",
+    "keyword": "damaged buildings",
     "identity_keyword": "",
-    "text": "Tensions between North and South Korea remain high due to concerns over North Korea's nuclear program.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "China map",
-    "identity_keyword": "China",
-    "text": "The South Korean leader's request to President Xi is a significant step given China's ties with North Korea.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "diplomats meeting",
-    "identity_keyword": "",
-    "text": "China's potential influence on North Korea's behavior is a crucial factor in this development.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "The question remains whether China will be willing to play this role.",
+    "text": "Many more homes were damaged, and the affected communities are still struggling to recover",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The terms of China's involvement are still uncertain.",
+    "text": "The rebuild process has been hindered by bureaucratic delays and insurance disputes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "world map",
+    "keyword": "construction workers",
     "identity_keyword": "",
-    "text": "The situation is unfolding, and the world is waiting for the outcome of this request.",
+    "text": "A shortage of skilled labor has slowed down the construction of new homes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "new homes",
     "identity_keyword": "",
-    "text": "The outcome of this unprecedented request is highly anticipated.",
+    "text": "Only eleven homes have been fully rebuilt and certified for occupancy",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "peace dove",
+    "keyword": "homeless families",
     "identity_keyword": "",
-    "text": "The leader of South Korea has taken a significant step towards peace negotiations.",
-    "duration": 3,
+    "text": "Hundreds of families are still waiting for their homes to be reconstructed or repaired",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global connections",
+    "keyword": "uncertain future",
     "identity_keyword": "",
-    "text": "The involvement of China in this process could lead to a shift in regional dynamics.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news broadcast",
-    "identity_keyword": "",
-    "text": "The world is watching as this situation develops.",
-    "duration": 3,
+    "text": "Many are left wondering what the future holds for these communities",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Only time will tell if this effort will be successful in achieving peace.",
+    "text": "An investigation is underway to determine whether more could have been done",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "family reunion",
+    "identity_keyword": "",
+    "text": "To expedite the recovery process and get families back into their homes sooner",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "community support",
+    "identity_keyword": "",
+    "text": "The recovery process has been slow and painful for the affected communities",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "wildfire aftermath",
+    "identity_keyword": "LA",
+    "text": "The impact of the wildfires is still being felt a year later",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "rebuilding efforts",
+    "identity_keyword": "",
+    "text": "And it may take years for the communities to fully recover",
     "duration": 3,
     "visual_type": "emotion"
   }
