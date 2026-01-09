@@ -1,118 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Antarctica Iceberg Turns Blue",
+    "video_title": "Buccaneers Coaching Staff Changes",
     "tags": [
-      "Antarctica",
-      "iceberg",
-      "climate change",
-      "global warming",
-      "environment",
-      "ocean",
-      "glacier",
-      "ecosystem",
-      "wildlife",
-      "conservation"
+      "Tampa Bay Buccaneers",
+      "NFL",
+      "coaching staff",
+      "football",
+      "sports news",
+      "2026 season",
+      "Buccaneers updates",
+      "NFL changes"
     ],
-    "topic": "antarctica’s oldest, largest iceberg is turning an ominous blue color",
+    "topic": "buccaneers make changes to 2026 coaching staff",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "football stadium",
     "identity_keyword": "",
-    "text": "Scientists are observing a mysterious transformation in Antarctica's oldest and largest iceberg.",
+    "text": "There's been a major development in the NFL, with significant changes to the coaching staff of a prominent team.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Antarctic landscape",
-    "identity_keyword": "Antarctica",
-    "text": "The iceberg has been a part of the Antarctic landscape for decades.",
+    "keyword": "football players",
+    "identity_keyword": "",
+    "text": "The changes have sent shockwaves throughout the league, leaving many to wonder what the future holds.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "coaches meeting",
+    "identity_keyword": "",
+    "text": "Several key coaches have departed, including the defensive coordinator and special teams coach.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "defensive coordinator",
+    "identity_keyword": "",
+    "text": "The team has hired a new defensive coordinator with a proven track record of success.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football strategy",
+    "identity_keyword": "",
+    "text": "The new defensive coordinator has previously worked with top-tier teams in the league.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "assistant coach",
+    "identity_keyword": "",
+    "text": "The team has also promoted an assistant coach to take over as special teams coach.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football team huddle",
+    "identity_keyword": "",
+    "text": "This move is seen as a strategic decision to maintain continuity and build on existing strengths.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football coach",
+    "identity_keyword": "",
+    "text": "The team's adjustments to their coaching staff have raised questions about their overall performance.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "playoff bracket",
+    "identity_keyword": "",
+    "text": "It remains to be seen how these changes will impact the team's chances of making the playoffs.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football fans",
+    "identity_keyword": "",
+    "text": "The upcoming season is filled with uncertainty, and fans are eagerly awaiting the team's first game.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "sports analysts",
+    "identity_keyword": "",
+    "text": "The team's performance will be closely watched by fans and analysts alike.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "clock ticking",
+    "identity_keyword": "",
+    "text": "Only time will tell if the team's new coaching staff will be able to turn things around.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "excited football fans",
+    "identity_keyword": "",
+    "text": "The team's future is uncertain, but one thing is clear: the upcoming season will be exciting to watch.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "NFL logo",
+    "identity_keyword": "NFL",
+    "text": "The NFL is known for its unpredictability, and this team is no exception.",
     "duration": 3,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "research station",
-    "identity_keyword": "",
-    "text": "A recent color change has sparked widespread concern and curiosity among researchers.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "iceberg size comparison",
-    "identity_keyword": "",
-    "text": "The iceberg's dimensions are approximately 100 kilometers long and 30 kilometers wide.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "satellite imagery",
-    "identity_keyword": "",
-    "text": "Satellite imagery has confirmed the iceberg's color change.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Experts believe the blue coloration is likely due to a type of algae.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "scientist researching",
-    "identity_keyword": "",
-    "text": "The exact cause of this sudden change is still not fully understood.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Weddell Sea",
-    "identity_keyword": "Weddell Sea",
-    "text": "The iceberg is currently located in the Weddell Sea.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "harsh sea climate",
-    "identity_keyword": "",
-    "text": "The Weddell Sea is known for its harsh and unpredictable climate.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "research vessel",
-    "identity_keyword": "",
-    "text": "Scientists have been monitoring the iceberg's movement and condition closely.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "ocean ecosystem",
-    "identity_keyword": "",
-    "text": "The iceberg's movement can have significant impacts on the surrounding ecosystem.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "environmental concern",
-    "identity_keyword": "",
-    "text": "The color change may be a sign of a larger environmental issue.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "scientist studying data",
-    "identity_keyword": "",
-    "text": "Further study is needed to determine the implications of this unusual event.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "iceberg research",
-    "identity_keyword": "",
-    "text": "The investigation into the iceberg's color change continues.",
-    "duration": 3,
-    "visual_type": "emotion"
   }
 ]
