@@ -1,117 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Mayon Volcano Erupts",
+    "video_title": "French Farmers Protest",
     "tags": [
-      "Mayon Volcano",
-      "Philippines",
-      "volcanic eruption",
-      "evacuation",
-      "natural disaster",
-      "volcano news",
-      "Philippines news",
-      "disaster response",
-      "volcanic activity"
+      "French farmers",
+      "protest",
+      "free trade deal",
+      "Paris",
+      "tractors",
+      "agriculture",
+      "trade agreement",
+      "European Union",
+      "farmers rights",
+      "economic policy"
     ],
-    "topic": "philippines evacuates 3,000 people after activity increases at mayon volcano",
+    "topic": "french farmers force their way through paris with tractors to protest free trade deal",
     "date": "January 09, 2026"
   },
   {
-    "keyword": "volcano eruption",
-    "identity_keyword": "Philippines",
-    "text": "Breaking news is coming in from the Philippines where a massive evacuation effort is underway",
+    "keyword": "news related footage",
+    "identity_keyword": "Paris",
+    "text": "French farmers are protesting a new free trade deal in Paris",
     "duration": 3,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "volcanic ash",
-    "identity_keyword": "Mayon volcano",
-    "text": "A massive evacuation effort is underway due to increased activity at the infamous Mayon volcano",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "people running",
-    "identity_keyword": "",
-    "text": "Thousands of people are scrambling for safety",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "evacuation center",
-    "identity_keyword": "",
-    "text": "At least 3,000 people have been evacuated from the surrounding areas as a precautionary measure",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "emergency alert",
-    "identity_keyword": "",
-    "text": "The evacuation order was issued to prevent any potential harm from the volcanic activity",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "Philippine Institute of Volcanology and Seismology",
-    "text": "The Philippine Institute of Volcanology and Seismology has confirmed increased seismic activity",
+    "identity_keyword": "European Union",
+    "text": "The deal is between the European Union and several South American countries",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "imported goods",
+    "identity_keyword": "",
+    "text": "Farmers claim it will lead to an influx of cheap imports",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "protest signs",
+    "identity_keyword": "French government",
+    "text": "They are demanding the French government reject the trade deal",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The evacuees are being temporarily housed in nearby shelters",
+    "text": "Farmers want greater support for domestic agriculture",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "food distribution",
+    "keyword": "rural landscapes",
     "identity_keyword": "",
-    "text": "They are being provided with food and other essential supplies",
+    "text": "They are concerned about the impact on rural communities",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "aid workers",
+    "keyword": "environmental damage",
     "identity_keyword": "",
-    "text": "Local authorities are working to ensure their basic needs are met during this time",
+    "text": "And the environment is also a major concern",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news headline",
+    "keyword": "farming unions",
     "identity_keyword": "",
-    "text": "The situation continues to unfold",
+    "text": "The protest has been organized by major farming unions",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "volcano eruption",
+    "keyword": "meeting tables",
     "identity_keyword": "",
-    "text": "It remains to be seen whether the increased activity will lead to a full-scale eruption",
+    "text": "They have been negotiating with the government for months",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "protest marches",
+    "identity_keyword": "",
+    "text": "The farmers have warned of further action if their demands are not met",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "agricultural fields",
+    "identity_keyword": "France",
+    "text": "The outcome could have significant implications for French agriculture",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "economy graphs",
+    "identity_keyword": "European economy",
+    "text": "And the wider European economy",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news headlines",
+    "identity_keyword": "",
+    "text": "The situation is still unfolding",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "scientists working",
-    "identity_keyword": "",
-    "text": "Scientists and emergency responders are closely monitoring the situation",
+    "keyword": "government buildings",
+    "identity_keyword": "French government",
+    "text": "It remains to be seen how the French government will respond",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "emergency meeting",
-    "identity_keyword": "",
-    "text": "They are awaiting further developments",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "uncertain future",
-    "identity_keyword": "",
-    "text": "The fate of the people in the surrounding areas hangs in the balance",
-    "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
