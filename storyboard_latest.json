@@ -19,14 +19,14 @@
   {
     "keyword": "stock market",
     "identity_keyword": "",
-    "text": "Investors are waiting for the latest jobs report and a potential tariff ruling that could impact the markets.",
+    "text": "Investors are awaiting a crucial jobs report and a potential tariff ruling that could significantly impact the market.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Economists are predicting a modest increase in employment numbers.",
+    "text": "Economists are predicting a moderate increase in employment rates.",
     "duration": 3,
     "visual_type": "emotion"
   },
@@ -38,79 +38,79 @@
     "visual_type": "emotion"
   },
   {
-    "keyword": "tariff documents",
+    "keyword": "trade agreement",
     "identity_keyword": "",
-    "text": "A decision on new tariffs on imported goods is expected soon.",
+    "text": "A potential tariff ruling could affect trade relationships between countries.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global trade",
-    "identity_keyword": "",
-    "text": "The potential tariff ruling could have a significant impact on trade and the economy.",
+    "keyword": "world map",
+    "identity_keyword": "United States",
+    "text": "The US and several key countries are involved in the potential tariff ruling.",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "China flag",
+    "identity_keyword": "China",
+    "text": "China is one of the countries that could be affected by the tariff ruling.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "European Union flag",
+    "identity_keyword": "European Union",
+    "text": "The European Union is also a key country in the potential tariff ruling.",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "stock futures graph",
     "identity_keyword": "",
-    "text": "Stock futures are little changed ahead of the jobs report and tariff ruling.",
+    "text": "Stock futures are little changed ahead of the key announcements.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Dow Jones graph",
-    "identity_keyword": "Dow Jones",
-    "text": "The Dow Jones Industrial Average is seeing minimal gains.",
+    "keyword": "stock exchange",
+    "identity_keyword": "",
+    "text": "The Dow Jones and S&P 500 futures are showing minimal gains.",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "S&P 500 graph",
-    "identity_keyword": "S&P 500",
-    "text": "The S&P 500 is also seeing minimal gains.",
+    "keyword": "nasdaq screen",
+    "identity_keyword": "",
+    "text": "The Nasdaq futures are slightly lower, indicating a cautious approach by investors.",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Investors are taking a wait-and-see approach ahead of the jobs report and tariff ruling.",
-    "duration": 4,
+    "text": "Investors are taking a cautious approach ahead of the key announcements.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investor sentiment",
+    "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The jobs report and tariff ruling could impact investor sentiment.",
-    "duration": 4,
+    "text": "The market reaction to the jobs report and tariff ruling is uncertain.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market reaction",
+    "keyword": "stock price graph",
     "identity_keyword": "",
-    "text": "The markets may react significantly to the jobs report and tariff ruling.",
+    "text": "A significant shift in stock prices is possible after the announcements.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "We will be keeping a close eye on developments to bring you the latest updates and analysis.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news ticker",
-    "identity_keyword": "",
-    "text": "The situation is unfolding, and we will provide updates as more information becomes available.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Stay tuned for further updates on the jobs report and tariff ruling.",
+    "text": "The situation will be closely monitored as the day progresses.",
     "duration": 3,
     "visual_type": "emotion"
   }
