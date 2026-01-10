@@ -1,116 +1,115 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Stock Futures Unchanged",
+    "video_title": "Tech Execs Diversify Wealth",
     "tags": [
-      "stock futures",
-      "jobs report",
-      "tariff ruling",
-      "market updates",
-      "live updates",
+      "tech stocks",
+      "exchange funds",
+      "wealth diversification",
+      "executive finance",
+      "investment strategy",
       "stock market",
-      "economy news",
-      "business news",
-      "financial news"
+      "financial planning",
+      "diversification"
     ],
-    "topic": "stock futures are little changed ahead of jobs report, potential tariff ruling: live updates",
+    "topic": "as tech stocks soar, executives use exchange funds to diversify wealth without selling",
     "date": "January 10, 2026"
   },
   {
     "keyword": "stock market",
     "identity_keyword": "",
-    "text": "Investors are awaiting a crucial jobs report and a potential tariff ruling that could significantly impact the market.",
+    "text": "Tech stocks are reaching new heights",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "financial documents",
     "identity_keyword": "",
-    "text": "Economists are predicting a moderate increase in employment rates.",
+    "text": "Executives are using a little-known strategy to diversify their wealth",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "unemployment graph",
+    "keyword": "investment portfolio",
     "identity_keyword": "",
-    "text": "The unemployment rate is expected to hold steady at around 4 percent.",
+    "text": "Exchange funds allow for diversified portfolios without triggering taxes",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "trade agreement",
+    "keyword": "tech executives",
     "identity_keyword": "",
-    "text": "A potential tariff ruling could affect trade relationships between countries.",
+    "text": "Some high-profile tech executives have used exchange funds recently",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "world map",
-    "identity_keyword": "United States",
-    "text": "The US and several key countries are involved in the potential tariff ruling.",
+    "keyword": "SEC building",
+    "identity_keyword": "Securities and Exchange Commission",
+    "text": "The Securities and Exchange Commission regulates exchange funds",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "China flag",
-    "identity_keyword": "China",
-    "text": "China is one of the countries that could be affected by the tariff ruling.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "European Union flag",
-    "identity_keyword": "European Union",
-    "text": "The European Union is also a key country in the potential tariff ruling.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "stock futures graph",
+    "keyword": "financial reports",
     "identity_keyword": "",
-    "text": "Stock futures are little changed ahead of the key announcements.",
+    "text": "Companies must disclose exchange fund transactions in public filings",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock exchange",
+    "keyword": "growing trend graph",
     "identity_keyword": "",
-    "text": "The Dow Jones and S&P 500 futures are showing minimal gains.",
+    "text": "The use of exchange funds is becoming more widespread",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "nasdaq screen",
+    "keyword": "tech industry landscape",
     "identity_keyword": "",
-    "text": "The Nasdaq futures are slightly lower, indicating a cautious approach by investors.",
+    "text": "Questions are being raised about the impact on the tech industry",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "global market",
     "identity_keyword": "",
-    "text": "Investors are taking a cautious approach ahead of the key announcements.",
+    "text": "The broader market may also be affected by exchange funds",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investors watching stocks",
+    "identity_keyword": "",
+    "text": "Regulators and investors are watching the trend closely",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question mark symbol",
+    "identity_keyword": "",
+    "text": "It remains to be seen how they will respond to exchange funds",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "question mark",
+    "keyword": "crystal ball",
     "identity_keyword": "",
-    "text": "The market reaction to the jobs report and tariff ruling is uncertain.",
+    "text": "The future of exchange funds is uncertain",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock price graph",
+    "keyword": "rising graph",
     "identity_keyword": "",
-    "text": "A significant shift in stock prices is possible after the announcements.",
+    "text": "But one thing is clear, exchange funds are on the rise",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "global finance",
     "identity_keyword": "",
-    "text": "The situation will be closely monitored as the day progresses.",
+    "text": "And their impact will be felt across the financial world",
     "duration": 3,
     "visual_type": "emotion"
   }
