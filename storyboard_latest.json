@@ -10,108 +10,107 @@
       "Pharmaceuticals",
       "Medicine",
       "Prescription Costs",
-      "Healthcare Reform",
-      "Medical Expenses"
+      "Healthcare Reform"
     ],
     "topic": "johnson & johnson strikes deal with u.s. government to lower drug prices",
     "date": "January 10, 2026"
   },
   {
     "keyword": "prescription medications",
-    "identity_keyword": "",
-    "text": "A major deal has been struck to lower prescription medication prices",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "A major pharmaceutical company has made a significant deal with the US government to lower prescription medication prices.",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pharmaceutical drugs",
-    "identity_keyword": "",
-    "text": "The agreement affects several top-selling drugs",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "negotiation table",
-    "identity_keyword": "",
-    "text": "The deal is a result of months of negotiations",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "healthcare professionals",
-    "identity_keyword": "US government",
-    "text": "Government officials have been pushing for affordable healthcare options",
-    "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "government building",
-    "identity_keyword": "US government",
-    "text": "The agreement is seen as a major victory for the administration",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "Johnson & Johnson has confirmed price reductions will take effect later this year",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The exact timeline and details are still being finalized",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "The company is committed to working with the government",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "prescription pills",
-    "identity_keyword": "",
-    "text": "To ensure all Americans have access to medications at an affordable price",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "It remains to be seen how the deal will impact Johnson & Johnson's bottom line",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Some analysts question the decision to lower prices",
+    "identity_keyword": "US Department of Health and Human Services",
+    "text": "The agreement was reached after months of negotiations with the US Department of Health and Human Services.",
     "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "low-income family",
+    "identity_keyword": "",
+    "text": "The goal of the deal is to increase access to affordable medications for low-income families and seniors.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "medication bottles",
+    "identity_keyword": "",
+    "text": "The deal will affect a range of prescription medications, including those used to treat chronic conditions.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "percentage sign",
+    "identity_keyword": "",
+    "text": "The price reductions will range from 10 to 20 percent for certain medications.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "And its potential effects on research and development",
-    "duration": 3,
+    "text": "The price cuts will take effect starting March 1, 2026.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "health insurance card",
+    "identity_keyword": "",
+    "text": "The price cuts will apply to both Medicare and Medicaid recipients, as well as privately insured patients who meet certain income requirements.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "healthcare expert",
+    "identity_keyword": "",
+    "text": "Patient advocacy groups and healthcare experts have welcomed the news.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial graph",
+    "identity_keyword": "",
+    "text": "It remains to be seen how the price reductions will impact the pharmaceutical company's bottom line.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "pharmaceutical factory",
+    "identity_keyword": "",
+    "text": "The deal may prompt other pharmaceutical companies to follow suit.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The long-term consequences of the agreement are still uncertain",
+    "text": "The potential long-term effects of this deal on the US healthcare landscape are still uncertain.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "healthcare system",
+    "keyword": "magnifying glass",
     "identity_keyword": "",
-    "text": "For the healthcare industry as a whole",
+    "text": "Further investigation is needed to understand the implications of the deal.",
     "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "pharmaceutical industry",
+    "identity_keyword": "",
+    "text": "The deal has sparked interest in the pharmaceutical industry and its impact on healthcare.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "US flag",
+    "identity_keyword": "United States",
+    "text": "The future of affordable healthcare in the US may be shaped by this groundbreaking deal.",
+    "duration": 3,
+    "visual_type": "identity"
   }
 ]
