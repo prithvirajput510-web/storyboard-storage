@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Kane Scores 500th Goal",
+    "video_title": "Landfill Collapse Kills 1",
     "tags": [
-      "NHL",
-      "Patrick Kane",
-      "500th goal",
-      "US-born players",
-      "hockey milestones",
-      "NHL records",
-      "American hockey players",
-      "Kane 500th goal",
-      "NHL history"
+      "landfill collapse",
+      "Philippines",
+      "disaster",
+      "missing persons",
+      "rescue efforts",
+      "waste management",
+      "environmental disaster",
+      "casualties",
+      "search operation"
     ],
-    "topic": "kane gets 500th nhl goal, becomes 5th u.s.-born player to reach milestone",
+    "topic": "landfill collapse kills 1 and leaves at least 27 missing, philippine police say",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "hockey player",
-    "identity_keyword": "Patrick Kane",
-    "text": "In a historic moment for American hockey, Patrick Kane has just joined the elite 500-goal club",
+    "keyword": "landfill collapse",
+    "identity_keyword": "Philippines",
+    "text": "A devastating event has occurred in the Philippines, resulting in loss of life and many missing people.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "NHL goal",
-    "identity_keyword": "Patrick Kane",
-    "text": "Patrick Kane scored his 500th NHL goal on January 10, 2026",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "US hockey players",
+    "keyword": "rescue operation",
     "identity_keyword": "",
-    "text": "Kane is now among the ranks of other legendary US-born players",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hockey hall of fame",
-    "identity_keyword": "Brett Hull",
-    "text": "including Brett Hull, Joe Mullen, Phil Housley, and Keith Tkachuk",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "hockey skills",
-    "identity_keyword": "Patrick Kane",
-    "text": "Throughout his illustrious career, Kane has consistently demonstrated his skill",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "trophy awards",
-    "identity_keyword": "",
-    "text": "earning numerous accolades and awards",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "NHL scoring title",
-    "identity_keyword": "NHL",
-    "text": "including multiple NHL scoring titles",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Olympic medals",
-    "identity_keyword": "Olympics",
-    "text": "Officials say more verified information is expected soon.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "hockey record",
-    "identity_keyword": "Patrick Kane",
-    "text": "As Kane continues to add to his impressive record",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "hockey legend",
-    "identity_keyword": "Patrick Kane",
-    "text": "the question on everyone's mind is what's next for this hockey legend",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "broken records",
-    "identity_keyword": "",
-    "text": "and whether he'll be able to continue breaking records",
+    "text": "There are reports of at least one person killed, but the details are still being verified.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "NHL stadium",
-    "identity_keyword": "NHL",
-    "text": "and pushing the boundaries of what's possible in the NHL",
-    "duration": 3,
+    "keyword": "search party",
+    "identity_keyword": "",
+    "text": "The number of missing people is currently at twenty-seven, with rescue teams working to locate them.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "emergency services",
+    "identity_keyword": "",
+    "text": "Multiple agencies are involved in the search and rescue efforts, working closely together.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The cause of the disaster is still unknown, and investigators are working to determine the circumstances.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "rescue workers",
+    "identity_keyword": "",
+    "text": "The search and rescue operation is ongoing, with many questions still unanswered.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news conference",
+    "identity_keyword": "",
+    "text": "The situation is being closely monitored, with updates expected as more information becomes available.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "debris removal",
+    "identity_keyword": "",
+    "text": "The full extent of the damage is still being assessed, with rescue teams working tirelessly.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "community support",
+    "identity_keyword": "",
+    "text": "The community is coming together to support those affected by the disaster.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "police operation",
+    "identity_keyword": "Philippine police",
+    "text": "The Philippine police are leading the search and rescue efforts, with multiple agencies involved.",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "hockey uncertainty",
+    "keyword": "forensic investigation",
     "identity_keyword": "",
-    "text": "Kane's future in hockey is uncertain",
+    "text": "The circumstances surrounding the death of the victim are still being verified.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "hockey legacy",
-    "identity_keyword": "Patrick Kane",
-    "text": "but one thing is for sure, his legacy will live on",
+    "keyword": "rescue equipment",
+    "identity_keyword": "",
+    "text": "The search and rescue operation is a complex and challenging process.",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "accident investigation",
+    "identity_keyword": "",
+    "text": "The investigators are working to determine the cause of the landfill collapse.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news update",
+    "identity_keyword": "",
+    "text": "The situation is being closely monitored, with updates expected as more information becomes available.",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
