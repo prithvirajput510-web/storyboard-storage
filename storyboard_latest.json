@@ -10,107 +10,108 @@
       "Pharmaceuticals",
       "Medicine",
       "Prescription Costs",
-      "Healthcare Reform"
+      "Healthcare Reform",
+      "Medical Expenses"
     ],
     "topic": "johnson & johnson strikes deal with u.s. government to lower drug prices",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "prescription medications",
+    "keyword": "prescription drugs",
     "identity_keyword": "Johnson & Johnson",
-    "text": "A major pharmaceutical company has made a significant deal with the US government to lower prescription medication prices.",
+    "text": "A major pharmaceutical company has made a significant deal with the US government to lower medication prices.",
     "duration": 3,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "government building",
-    "identity_keyword": "US Department of Health and Human Services",
-    "text": "The agreement was reached after months of negotiations with the US Department of Health and Human Services.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "low-income family",
-    "identity_keyword": "",
-    "text": "The goal of the deal is to increase access to affordable medications for low-income families and seniors.",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "medication bottles",
     "identity_keyword": "",
-    "text": "The deal will affect a range of prescription medications, including those used to treat chronic conditions.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "percentage sign",
-    "identity_keyword": "",
-    "text": "The price reductions will range from 10 to 20 percent for certain medications.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The price cuts will take effect starting March 1, 2026.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "health insurance card",
-    "identity_keyword": "",
-    "text": "The price cuts will apply to both Medicare and Medicaid recipients, as well as privately insured patients who meet certain income requirements.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "healthcare expert",
-    "identity_keyword": "",
-    "text": "Patient advocacy groups and healthcare experts have welcomed the news.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial graph",
-    "identity_keyword": "",
-    "text": "It remains to be seen how the price reductions will impact the pharmaceutical company's bottom line.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pharmaceutical factory",
-    "identity_keyword": "",
-    "text": "The deal may prompt other pharmaceutical companies to follow suit.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "The potential long-term effects of this deal on the US healthcare landscape are still uncertain.",
+    "text": "The agreement will affect several popular prescription drugs used to treat various health conditions.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "magnifying glass",
+    "keyword": "healthcare professionals",
     "identity_keyword": "",
-    "text": "Further investigation is needed to understand the implications of the deal.",
-    "duration": 3,
+    "text": "The goal of the deal is to increase access to affordable healthcare for millions of people.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "pharmaceutical industry",
-    "identity_keyword": "",
-    "text": "The deal has sparked interest in the pharmaceutical industry and its impact on healthcare.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "US flag",
-    "identity_keyword": "United States",
-    "text": "The future of affordable healthcare in the US may be shaped by this groundbreaking deal.",
-    "duration": 3,
+    "keyword": "government building",
+    "identity_keyword": "US Department of Health and Human Services",
+    "text": "The deal is the result of months of negotiations between the company and the US government.",
+    "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "insurance cards",
+    "identity_keyword": "",
+    "text": "The price reductions will apply to patients with different types of insurance.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial documents",
+    "identity_keyword": "",
+    "text": "The exact details of the pricing structure have not been fully disclosed.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "patient advocacy groups",
+    "identity_keyword": "",
+    "text": "Patient advocacy groups and healthcare professionals have welcomed the news.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question marks",
+    "identity_keyword": "",
+    "text": "Many questions still remain about the long-term implications of the deal.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "financial charts",
+    "identity_keyword": "",
+    "text": "The deal may affect the company's bottom line in the long run.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "pharmaceutical companies",
+    "identity_keyword": "",
+    "text": "Other pharmaceutical companies may follow suit in the future.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "calendar pages",
+    "identity_keyword": "",
+    "text": "The true impact of the agreement may not be fully understood for several years.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "analysts working",
+    "identity_keyword": "",
+    "text": "Analysts are still trying to understand the implications of the deal.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "healthcare industry",
+    "identity_keyword": "",
+    "text": "The deal has sent shockwaves through the healthcare industry.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "prescription pills",
+    "identity_keyword": "",
+    "text": "The future of drug pricing is uncertain.",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
