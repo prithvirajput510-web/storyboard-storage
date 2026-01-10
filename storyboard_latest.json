@@ -11,7 +11,8 @@
       "waste management",
       "environmental disaster",
       "casualties",
-      "search operation"
+      "search operation",
+      "Philippine police"
     ],
     "topic": "landfill collapse kills 1 and leaves at least 27 missing, philippine police say",
     "date": "January 10, 2026"
@@ -19,98 +20,98 @@
   {
     "keyword": "landfill collapse",
     "identity_keyword": "Philippines",
-    "text": "A devastating event has occurred in the Philippines, resulting in loss of life and many missing people.",
+    "text": "A devastating incident has occurred in the Philippines, resulting in loss of life and widespread destruction.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "rescue operation",
+    "keyword": "rescue efforts",
     "identity_keyword": "",
-    "text": "There are reports of at least one person killed, but the details are still being verified.",
+    "text": "There are reports of at least one confirmed fatality, with many more people feared to be trapped under the rubble.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "search party",
+    "keyword": "missing persons",
     "identity_keyword": "",
-    "text": "The number of missing people is currently at twenty-seven, with rescue teams working to locate them.",
+    "text": "The authorities have confirmed that multiple people are missing, with rescue teams working to locate them.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "emergency services",
+    "keyword": "emergency responders",
     "identity_keyword": "",
-    "text": "Multiple agencies are involved in the search and rescue efforts, working closely together.",
+    "text": "The incident is believed to have occurred on a specific date, with local authorities responding quickly to the scene.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The cause of the disaster is still unknown, and investigators are working to determine the circumstances.",
+    "text": "The cause of the incident is still unknown, with investigations currently underway to determine the circumstances.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "rescue workers",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The search and rescue operation is ongoing, with many questions still unanswered.",
+    "text": "The situation is still unfolding, with many questions remaining unanswered.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news conference",
+    "keyword": "search and rescue",
     "identity_keyword": "",
-    "text": "The situation is being closely monitored, with updates expected as more information becomes available.",
+    "text": "The authorities are working tirelessly to search for survivors and provide support to those affected.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "debris removal",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The full extent of the damage is still being assessed, with rescue teams working tirelessly.",
+    "text": "The incident has resulted in a significant amount of destruction and chaos.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "community support",
-    "identity_keyword": "",
-    "text": "The community is coming together to support those affected by the disaster.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "police operation",
-    "identity_keyword": "Philippine police",
-    "text": "The Philippine police are leading the search and rescue efforts, with multiple agencies involved.",
+    "keyword": "affected community",
+    "identity_keyword": "Philippines",
+    "text": "The people of the Philippines are likely to be affected by this incident for a long time.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "forensic investigation",
+    "keyword": "emergency services",
     "identity_keyword": "",
-    "text": "The circumstances surrounding the death of the victim are still being verified.",
+    "text": "The rescue efforts are ongoing, with emergency services working to locate those still missing.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The investigation into the incident will hopefully provide some answers in the coming days.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "rescue equipment",
+    "keyword": "emergency instructions",
     "identity_keyword": "",
-    "text": "The search and rescue operation is a complex and challenging process.",
+    "text": "The authorities are urging people to remain calm and to follow the instructions of the emergency services.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "accident investigation",
+    "keyword": "safety measures",
     "identity_keyword": "",
-    "text": "The investigators are working to determine the cause of the landfill collapse.",
+    "text": "The incident is a tragic reminder of the importance of safety and emergency preparedness.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news update",
+    "keyword": "support and assistance",
     "identity_keyword": "",
-    "text": "The situation is being closely monitored, with updates expected as more information becomes available.",
+    "text": "The people affected by the incident will need support and assistance in the days and weeks ahead.",
     "duration": 3,
     "visual_type": "emotion"
   }
