@@ -1,117 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "J&J Lowers Drug Prices",
+    "video_title": "Kane 500th Goal",
     "tags": [
-      "Johnson & Johnson",
-      "US Government",
-      "Drug Prices",
-      "Healthcare",
-      "Pharmaceuticals",
-      "Medicine",
-      "Prescription Costs",
-      "Healthcare Reform",
-      "Medical Expenses"
+      "NHL",
+      "Patrick Kane",
+      "500th goal",
+      "US-born players",
+      "hockey milestones",
+      "NHL records",
+      "American hockey players",
+      "Kane milestone",
+      "NHL history",
+      "hockey news"
     ],
-    "topic": "johnson & johnson strikes deal with u.s. government to lower drug prices",
+    "topic": "kane gets 500th nhl goal, becomes 5th u.s.-born player to reach milestone",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "pharmaceutical industry",
-    "identity_keyword": "",
-    "text": "A major breakthrough has been announced in the pharmaceutical industry",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "medication prices",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "Johnson & Johnson has struck a deal with the US government to lower medication prices",
+    "keyword": "hockey player",
+    "identity_keyword": "Patrick Kane",
+    "text": "In a historic moment for American hockey, Patrick Kane has just achieved an incredible milestone, joining an elite group of players with a feat that will be remembered for generations to come.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "prescription drugs",
+    "keyword": "NHL goal",
     "identity_keyword": "",
-    "text": "The agreement will affect several key prescription drugs",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "diabetes treatment",
-    "identity_keyword": "",
-    "text": "Including those used to treat common conditions like diabetes and high blood pressure",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "healthcare access",
-    "identity_keyword": "US",
-    "text": "The goal is to make these life-saving medications more accessible to millions of Americans",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "business negotiation",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "The deal is the result of months of negotiation between Johnson & Johnson and the US government",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "business partnership",
-    "identity_keyword": "",
-    "text": "Both parties worked tirelessly to find a mutually beneficial solution",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "price reduction",
-    "identity_keyword": "Johnson & Johnson",
-    "text": "Johnson & Johnson has agreed to reduce medication prices by an average of 20 percent",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Some prices will be slashed by as much as 50 percent",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cost savings",
-    "identity_keyword": "",
-    "text": "The price reduction will provide significant cost savings for patients and taxpayers",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pharmaceutical industry trends",
-    "identity_keyword": "",
-    "text": "The deal's impact on the broader pharmaceutical industry is still uncertain",
+    "text": "Kane's 500th NHL goal makes him the fifth US-born player to reach this milestone, solidifying his position among the greatest American hockey players of all time.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "drug manufacturers",
+    "keyword": "hockey stadium",
     "identity_keyword": "",
-    "text": "It remains to be seen if other major drug manufacturers will follow suit",
+    "text": "This achievement is a testament to Kane's dedication and skill, as he continues to make his mark on the sport, inspiring countless young American players with his impressive career.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "hockey hall of fame",
+    "identity_keyword": "Brett Hull",
+    "text": "The list of US-born players who have reached 500 goals now includes Kane, alongside other legendary players such as Brett Hull, Joe Mullen, Jeremy Roenick, and Keith Tkachuk.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "hockey future",
+    "identity_keyword": "",
+    "text": "As Kane looks to the future, it remains to be seen how many more records he will break and what his legacy will ultimately look like, with many questions still unanswered about the trajectory of his career and the impact he will have on the sport in the years to come.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "hockey awards",
+    "identity_keyword": "Patrick Kane",
+    "text": "Kane's career has been marked by numerous achievements and accolades, cementing his status as one of the greatest American hockey players of all time.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "young hockey players",
+    "identity_keyword": "",
+    "text": "The impact of Kane's achievement will be felt for generations to come, inspiring young players to work towards their own goals and aspirations.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "hockey evolution",
+    "identity_keyword": "",
+    "text": "As the hockey world continues to evolve, Kane's legacy will serve as a reminder of the dedication and perseverance required to achieve greatness.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "American hockey",
+    "identity_keyword": "USA",
+    "text": "Kane's achievement is a testament to the growth and development of American hockey, with more players than ever before reaching the pinnacle of success.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "hockey future stars",
+    "identity_keyword": "",
+    "text": "The future of American hockey looks bright, with a new generation of players emerging to carry on the legacy of greats like Kane.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "hockey fans",
+    "identity_keyword": "",
+    "text": "As Kane's career continues to unfold, fans and pundits alike will be watching with bated breath to see what he will achieve next.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "healthcare landscape",
+    "keyword": "hockey history",
     "identity_keyword": "",
-    "text": "The agreement may have long-term effects on the healthcare landscape",
+    "text": "The significance of Kane's achievement cannot be overstated, as it marks a major milestone in the history of American hockey.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "affordable healthcare",
-    "identity_keyword": "US",
-    "text": "And the ongoing efforts to make prescription medications more affordable for all Americans",
+    "keyword": "hockey dedication",
+    "identity_keyword": "Patrick Kane",
+    "text": "Kane's dedication to his craft has paid off in a big way, as he joins an elite group of players who have reached the 500-goal mark.",
     "duration": 3,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "hockey celebration",
+    "identity_keyword": "",
+    "text": "As the hockey world celebrates Kane's achievement, it's clear that his legacy will endure for generations to come.",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
