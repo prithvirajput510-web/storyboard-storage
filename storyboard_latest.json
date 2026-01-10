@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Mortgage Rates Update",
+    "video_title": "Mortgage Rates Now",
     "tags": [
       "mortgage rates",
       "housing affordability",
       "Trump administration",
-      "interest rates",
       "home loans",
+      "interest rates",
       "real estate",
       "housing market",
       "economy",
-      "finance news"
+      "finance"
     ],
     "topic": "here’s what’s happening now with mortgage rates after trump's latest push on housing affordability",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "mortgage rates graph",
+    "keyword": "mortgage rates",
     "identity_keyword": "Donald Trump",
-    "text": "Mortgage rates are plummeting after former President Trump's latest push on housing affordability",
+    "text": "Mortgage rates are changing again due to former President Trump's latest push on housing affordability.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "mortgage contract",
+    "keyword": "mortgage graph",
     "identity_keyword": "",
-    "text": "The average 30-year fixed mortgage rate has dropped to 6.2 percent",
+    "text": "The average 30-year fixed mortgage rate has decreased slightly.",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "White House",
-    "identity_keyword": "Trump administration",
-    "text": "The Trump administration's efforts to boost housing affordability have been ongoing",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "housing development",
-    "identity_keyword": "",
-    "text": "Regulatory barriers are being reduced to increase access to affordable housing options",
-    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "Federal Reserve building",
     "identity_keyword": "Federal Reserve",
-    "text": "The Federal Reserve has announced plans to keep interest rates low",
+    "text": "The Federal Reserve is monitoring interest rates to align with economic growth.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "real estate agent",
+    "keyword": "affordable housing",
+    "identity_keyword": "Donald Trump",
+    "text": "Trump's plan aims to increase access to affordable housing for low and middle-income families.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "mortgage documents",
     "identity_keyword": "",
-    "text": "Many experts predict a surge in home sales and refinancing activity",
+    "text": "The plan proposes changes to mortgage insurance premiums and down payment requirements.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "housing market graph",
+    "identity_keyword": "",
+    "text": "It's unclear how these changes will impact the overall housing market.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "It's still unclear how long these low mortgage rates will last",
+    "text": "The goal is to make homeownership more accessible to all.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock market graph",
+    "keyword": "clock ticking",
     "identity_keyword": "",
-    "text": "The current trend in mortgage rates may not be sustainable in the long term",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "housing market news",
-    "identity_keyword": "",
-    "text": "Many factors can influence the housing market",
+    "text": "The situation is still unfolding.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Only time will tell if this is a permanent shift or just a temporary reprieve",
+    "text": "We will investigate the impact of these changes further.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
+    "keyword": "economy graph",
+    "identity_keyword": "",
+    "text": "The changes may have a significant effect on the economy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "family in need",
+    "identity_keyword": "",
+    "text": "Low and middle-income families may be affected the most.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Federal Reserve meeting",
+    "identity_keyword": "Federal Reserve",
+    "text": "The Federal Reserve's actions will be crucial in determining the outcome.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Homebuyers are waiting to see if this is the break they've been waiting for",
+    "text": "Only time will tell if the plan will be successful.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "housing market trends",
+    "keyword": "news update",
     "identity_keyword": "",
-    "text": "The housing market is complex and subject to change",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "expert analysis",
-    "identity_keyword": "",
-    "text": "Experts are watching the situation closely to see what happens next",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "uncertain future",
-    "identity_keyword": "",
-    "text": "The future of the housing market remains uncertain",
+    "text": "We will continue to monitor the situation and provide updates.",
     "duration": 3,
     "visual_type": "emotion"
   }
