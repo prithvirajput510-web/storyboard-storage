@@ -1,7 +1,7 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Kane 500th Goal",
+    "video_title": "Kane Scores 500th Goal",
     "tags": [
       "NHL",
       "Patrick Kane",
@@ -10,9 +10,8 @@
       "hockey milestones",
       "NHL records",
       "American hockey players",
-      "Kane milestone",
-      "NHL history",
-      "hockey news"
+      "Kane 500th goal",
+      "NHL history"
     ],
     "topic": "kane gets 500th nhl goal, becomes 5th u.s.-born player to reach milestone",
     "date": "January 10, 2026"
@@ -20,99 +19,99 @@
   {
     "keyword": "hockey player",
     "identity_keyword": "Patrick Kane",
-    "text": "In a historic moment for American hockey, Patrick Kane has just achieved an incredible milestone, joining an elite group of players with a feat that will be remembered for generations to come.",
+    "text": "In a historic moment for American hockey, Patrick Kane has just joined the elite 500-goal club",
     "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "NHL goal",
-    "identity_keyword": "",
-    "text": "Kane's 500th NHL goal makes him the fifth US-born player to reach this milestone, solidifying his position among the greatest American hockey players of all time.",
+    "identity_keyword": "Patrick Kane",
+    "text": "Patrick Kane scored his 500th NHL goal on January 10, 2026",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "hockey stadium",
+    "keyword": "US hockey players",
     "identity_keyword": "",
-    "text": "This achievement is a testament to Kane's dedication and skill, as he continues to make his mark on the sport, inspiring countless young American players with his impressive career.",
+    "text": "Kane is now among the ranks of other legendary US-born players",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "hockey hall of fame",
     "identity_keyword": "Brett Hull",
-    "text": "The list of US-born players who have reached 500 goals now includes Kane, alongside other legendary players such as Brett Hull, Joe Mullen, Jeremy Roenick, and Keith Tkachuk.",
+    "text": "including Brett Hull, Joe Mullen, Phil Housley, and Keith Tkachuk",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "hockey future",
-    "identity_keyword": "",
-    "text": "As Kane looks to the future, it remains to be seen how many more records he will break and what his legacy will ultimately look like, with many questions still unanswered about the trajectory of his career and the impact he will have on the sport in the years to come.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hockey awards",
+    "keyword": "hockey skills",
     "identity_keyword": "Patrick Kane",
-    "text": "Kane's career has been marked by numerous achievements and accolades, cementing his status as one of the greatest American hockey players of all time.",
+    "text": "Throughout his illustrious career, Kane has consistently demonstrated his skill",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "young hockey players",
+    "keyword": "trophy awards",
     "identity_keyword": "",
-    "text": "The impact of Kane's achievement will be felt for generations to come, inspiring young players to work towards their own goals and aspirations.",
+    "text": "earning numerous accolades and awards",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "hockey evolution",
-    "identity_keyword": "",
-    "text": "As the hockey world continues to evolve, Kane's legacy will serve as a reminder of the dedication and perseverance required to achieve greatness.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "American hockey",
-    "identity_keyword": "USA",
-    "text": "Kane's achievement is a testament to the growth and development of American hockey, with more players than ever before reaching the pinnacle of success.",
+    "keyword": "NHL scoring title",
+    "identity_keyword": "NHL",
+    "text": "including multiple NHL scoring titles",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "hockey future stars",
-    "identity_keyword": "",
-    "text": "The future of American hockey looks bright, with a new generation of players emerging to carry on the legacy of greats like Kane.",
+    "keyword": "Olympic medals",
+    "identity_keyword": "Olympics",
+    "text": "Officials say more verified information is expected soon.",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "hockey fans",
-    "identity_keyword": "",
-    "text": "As Kane's career continues to unfold, fans and pundits alike will be watching with bated breath to see what he will achieve next.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hockey history",
-    "identity_keyword": "",
-    "text": "The significance of Kane's achievement cannot be overstated, as it marks a major milestone in the history of American hockey.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "hockey dedication",
+    "keyword": "hockey record",
     "identity_keyword": "Patrick Kane",
-    "text": "Kane's dedication to his craft has paid off in a big way, as he joins an elite group of players who have reached the 500-goal mark.",
+    "text": "As Kane continues to add to his impressive record",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "hockey legend",
+    "identity_keyword": "Patrick Kane",
+    "text": "the question on everyone's mind is what's next for this hockey legend",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "broken records",
+    "identity_keyword": "",
+    "text": "and whether he'll be able to continue breaking records",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "NHL stadium",
+    "identity_keyword": "NHL",
+    "text": "and pushing the boundaries of what's possible in the NHL",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "hockey celebration",
+    "keyword": "hockey uncertainty",
     "identity_keyword": "",
-    "text": "As the hockey world celebrates Kane's achievement, it's clear that his legacy will endure for generations to come.",
+    "text": "Kane's future in hockey is uncertain",
     "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "hockey legacy",
+    "identity_keyword": "Patrick Kane",
+    "text": "but one thing is for sure, his legacy will live on",
+    "duration": 3,
+    "visual_type": "identity"
   }
 ]
