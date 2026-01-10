@@ -1,116 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Mortgage Rates Now",
+    "video_title": "S&P 500 Record High",
     "tags": [
-      "mortgage rates",
-      "housing affordability",
-      "Trump administration",
-      "home loans",
-      "interest rates",
-      "real estate",
-      "housing market",
-      "economy",
-      "finance"
+      "S&P 500",
+      "stock market",
+      "record high",
+      "winning week",
+      "earnings reports",
+      "economic data",
+      "Wall Street",
+      "investing",
+      "trading",
+      "financial news"
     ],
-    "topic": "here’s what’s happening now with mortgage rates after trump's latest push on housing affordability",
+    "topic": "s&p 500 rises to another record friday, heads for winning week: live updates",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "mortgage rates",
-    "identity_keyword": "Donald Trump",
-    "text": "Mortgage rates are changing again due to former President Trump's latest push on housing affordability.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "mortgage graph",
+    "keyword": "stock market",
     "identity_keyword": "",
-    "text": "The average 30-year fixed mortgage rate has decreased slightly.",
+    "text": "The S&P 500 is on fire, hitting another record high on this Friday, and it's shaping up to be a winning week for investors, but what's behind this surge and will it last?",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Federal Reserve building",
-    "identity_keyword": "Federal Reserve",
-    "text": "The Federal Reserve is monitoring interest rates to align with economic growth.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "affordable housing",
-    "identity_keyword": "Donald Trump",
-    "text": "Trump's plan aims to increase access to affordable housing for low and middle-income families.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "mortgage documents",
+    "keyword": "stock prices",
     "identity_keyword": "",
-    "text": "The plan proposes changes to mortgage insurance premiums and down payment requirements.",
+    "text": "As of today, January 10, 2026, the S&P 500 has indeed reached a new record high, with investors seemingly optimistic about the state of the economy.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "economic growth",
+    "identity_keyword": "",
+    "text": "This week's gains are a continuation of a strong start to the year, with the S&P 500 rising steadily over the past few days, driven by a combination of positive economic data and upbeat corporate earnings.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "housing market graph",
+    "keyword": "financial charts",
     "identity_keyword": "",
-    "text": "It's unclear how these changes will impact the overall housing market.",
+    "text": "The latest numbers show that the S&P 500 is up by a significant margin, outperforming expectations and leaving many analysts to wonder if this is a sign of a longer-term trend or just a short-term blip.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global economy",
+    "identity_keyword": "",
+    "text": "But as we look ahead to the rest of the year, there are still many unanswered questions, including how the market will respond to potential interest rate changes and what impact global events will have on investor confidence, so we'll be keeping a close eye on developments to see how this story unfolds.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The goal is to make homeownership more accessible to all.",
+    "text": "Investors are watching the market closely, trying to make sense of the latest trends and predictions.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "business news",
     "identity_keyword": "",
-    "text": "The situation is still unfolding.",
+    "text": "The market's performance is having a significant impact on the economy, with many businesses and individuals affected by the latest developments.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "financial news",
     "identity_keyword": "",
-    "text": "We will investigate the impact of these changes further.",
+    "text": "As the year progresses, it will be interesting to see how the market continues to evolve and what factors will influence its performance.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economy graph",
+    "keyword": "stock market trends",
     "identity_keyword": "",
-    "text": "The changes may have a significant effect on the economy.",
+    "text": "The S&P 500's record high is a significant milestone, but it's unclear what the future holds for the market.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "family in need",
+    "keyword": "financial analysis",
     "identity_keyword": "",
-    "text": "Low and middle-income families may be affected the most.",
+    "text": "Analysts are working to understand the underlying factors driving the market's performance and what it might mean for the future.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "market volatility",
+    "identity_keyword": "",
+    "text": "The market's volatility is a reminder that nothing is certain, and investors must be prepared for any eventuality.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Federal Reserve meeting",
-    "identity_keyword": "Federal Reserve",
-    "text": "The Federal Reserve's actions will be crucial in determining the outcome.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
+    "keyword": "investor confidence",
     "identity_keyword": "",
-    "text": "Only time will tell if the plan will be successful.",
+    "text": "Despite the uncertainty, many investors remain optimistic about the market's potential for growth and returns.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news update",
+    "keyword": "economic landscape",
     "identity_keyword": "",
-    "text": "We will continue to monitor the situation and provide updates.",
+    "text": "The S&P 500's performance is just one aspect of the larger economic landscape, and its impact will be felt across various industries and sectors.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "market updates",
+    "identity_keyword": "",
+    "text": "As the market continues to evolve, it's essential to stay informed and up-to-date on the latest developments and trends.",
     "duration": 3,
     "visual_type": "emotion"
   }
