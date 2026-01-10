@@ -1,116 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Trump Orders $200B Bond Buy",
+    "video_title": "J&J Lowers Drug Prices",
     "tags": [
-      "Trump",
-      "Mortgage Bonds",
-      "Interest Rates",
-      "Economy",
-      "Housing Market",
-      "Financial News",
-      "US Economy",
-      "Mortgage Rates",
-      "Investment"
+      "Johnson & Johnson",
+      "US Government",
+      "Drug Prices",
+      "Healthcare",
+      "Pharmaceuticals",
+      "Medicine",
+      "Prescription Costs",
+      "Healthcare Reform",
+      "Medical Expenses"
     ],
-    "topic": "trump instructs 'representatives' to buy $200 billion in mortgage bonds, aiming to lower rates",
-    "date": "January 09, 2026"
+    "topic": "johnson & johnson strikes deal with u.s. government to lower drug prices",
+    "date": "January 10, 2026"
   },
   {
-    "keyword": "financial news",
+    "keyword": "prescription medications",
     "identity_keyword": "",
-    "text": "A former president has made a surprising financial move",
+    "text": "A major deal has been struck to lower prescription medication prices",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "mortgage rates",
+    "keyword": "pharmaceutical drugs",
     "identity_keyword": "",
-    "text": "The investment is intended to lower mortgage rates",
+    "text": "The agreement affects several top-selling drugs",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "financial charts",
+    "keyword": "negotiation table",
     "identity_keyword": "",
-    "text": "This is one of the largest investments of its kind in recent history",
+    "text": "The deal is a result of months of negotiations",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "healthcare professionals",
+    "identity_keyword": "US government",
+    "text": "Government officials have been pushing for affordable healthcare options",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "government building",
+    "identity_keyword": "US government",
+    "text": "The agreement is seen as a major victory for the administration",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The plan will be implemented in the coming weeks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market",
-    "identity_keyword": "",
-    "text": "The investment will be made in various mortgage-backed securities",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "interest rates",
-    "identity_keyword": "",
-    "text": "The move is seen as a strategic attempt to influence interest rates",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The goal is to boost the housing market",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Donald Trump",
-    "identity_keyword": "Donald Trump",
-    "text": "Former President Donald Trump is behind the investment",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "Johnson & Johnson has confirmed price reductions will take effect later this year",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The investment could have a significant impact on the economy",
+    "text": "The exact timeline and details are still being finalized",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "The company is committed to working with the government",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "prescription pills",
+    "identity_keyword": "",
+    "text": "To ensure all Americans have access to medications at an affordable price",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "It remains to be seen how the deal will impact Johnson & Johnson's bottom line",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Some analysts question the decision to lower prices",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "And its potential effects on research and development",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "It's unclear how the investment will ultimately affect the economy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Regulators and experts will be watching the situation closely",
+    "text": "The long-term consequences of the agreement are still uncertain",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "healthcare system",
     "identity_keyword": "",
-    "text": "The situation is still unfolding",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial markets",
-    "identity_keyword": "",
-    "text": "The investment could send shockwaves through the financial markets",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The impact on interest rates for millions of Americans is uncertain",
+    "text": "For the healthcare industry as a whole",
     "duration": 3,
     "visual_type": "emotion"
   }
