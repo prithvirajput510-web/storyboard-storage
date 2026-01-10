@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Landfill Collapse Kills 1",
+    "video_title": "Stock Futures Unchanged",
     "tags": [
-      "landfill collapse",
-      "Philippines",
-      "disaster",
-      "missing persons",
-      "rescue efforts",
-      "waste management",
-      "environmental disaster",
-      "casualties",
-      "search operation",
-      "Philippine police"
+      "stock futures",
+      "jobs report",
+      "tariff ruling",
+      "market updates",
+      "live updates",
+      "stock market",
+      "economy news",
+      "business news",
+      "financial news"
     ],
-    "topic": "landfill collapse kills 1 and leaves at least 27 missing, philippine police say",
+    "topic": "stock futures are little changed ahead of jobs report, potential tariff ruling: live updates",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "landfill collapse",
-    "identity_keyword": "Philippines",
-    "text": "A devastating incident has occurred in the Philippines, resulting in loss of life and widespread destruction.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "rescue efforts",
+    "keyword": "stock market",
     "identity_keyword": "",
-    "text": "There are reports of at least one confirmed fatality, with many more people feared to be trapped under the rubble.",
+    "text": "Investors are waiting for the latest jobs report and a potential tariff ruling that could impact the markets.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "missing persons",
-    "identity_keyword": "",
-    "text": "The authorities have confirmed that multiple people are missing, with rescue teams working to locate them.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "emergency responders",
-    "identity_keyword": "",
-    "text": "The incident is believed to have occurred on a specific date, with local authorities responding quickly to the scene.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The cause of the incident is still unknown, with investigations currently underway to determine the circumstances.",
-    "duration": 4,
+    "text": "Economists are predicting a modest increase in employment numbers.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "unemployment graph",
     "identity_keyword": "",
-    "text": "The situation is still unfolding, with many questions remaining unanswered.",
+    "text": "The unemployment rate is expected to hold steady at around 4 percent.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "search and rescue",
+    "keyword": "tariff documents",
     "identity_keyword": "",
-    "text": "The authorities are working tirelessly to search for survivors and provide support to those affected.",
+    "text": "A decision on new tariffs on imported goods is expected soon.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "global trade",
     "identity_keyword": "",
-    "text": "The incident has resulted in a significant amount of destruction and chaos.",
+    "text": "The potential tariff ruling could have a significant impact on trade and the economy.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "affected community",
-    "identity_keyword": "Philippines",
-    "text": "The people of the Philippines are likely to be affected by this incident for a long time.",
+    "keyword": "stock futures graph",
+    "identity_keyword": "",
+    "text": "Stock futures are little changed ahead of the jobs report and tariff ruling.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Dow Jones graph",
+    "identity_keyword": "Dow Jones",
+    "text": "The Dow Jones Industrial Average is seeing minimal gains.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "emergency services",
-    "identity_keyword": "",
-    "text": "The rescue efforts are ongoing, with emergency services working to locate those still missing.",
+    "keyword": "S&P 500 graph",
+    "identity_keyword": "S&P 500",
+    "text": "The S&P 500 is also seeing minimal gains.",
     "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Investors are taking a wait-and-see approach ahead of the jobs report and tariff ruling.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "investor sentiment",
+    "identity_keyword": "",
+    "text": "The jobs report and tariff ruling could impact investor sentiment.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stock market reaction",
+    "identity_keyword": "",
+    "text": "The markets may react significantly to the jobs report and tariff ruling.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The investigation into the incident will hopefully provide some answers in the coming days.",
+    "text": "We will be keeping a close eye on developments to bring you the latest updates and analysis.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "emergency instructions",
+    "keyword": "news ticker",
     "identity_keyword": "",
-    "text": "The authorities are urging people to remain calm and to follow the instructions of the emergency services.",
+    "text": "The situation is unfolding, and we will provide updates as more information becomes available.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "safety measures",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The incident is a tragic reminder of the importance of safety and emergency preparedness.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "support and assistance",
-    "identity_keyword": "",
-    "text": "The people affected by the incident will need support and assistance in the days and weeks ahead.",
+    "text": "Stay tuned for further updates on the jobs report and tariff ruling.",
     "duration": 3,
     "visual_type": "emotion"
   }
