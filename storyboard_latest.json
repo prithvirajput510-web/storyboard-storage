@@ -17,101 +17,101 @@
     "date": "January 10, 2026"
   },
   {
-    "keyword": "prescription drugs",
+    "keyword": "pharmaceutical industry",
+    "identity_keyword": "",
+    "text": "A major breakthrough has been announced in the pharmaceutical industry",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "medication prices",
     "identity_keyword": "Johnson & Johnson",
-    "text": "A major pharmaceutical company has made a significant deal with the US government to lower medication prices.",
+    "text": "Johnson & Johnson has struck a deal with the US government to lower medication prices",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "medication bottles",
+    "keyword": "prescription drugs",
     "identity_keyword": "",
-    "text": "The agreement will affect several popular prescription drugs used to treat various health conditions.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "healthcare professionals",
-    "identity_keyword": "",
-    "text": "The goal of the deal is to increase access to affordable healthcare for millions of people.",
+    "text": "The agreement will affect several key prescription drugs",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "government building",
-    "identity_keyword": "US Department of Health and Human Services",
-    "text": "The deal is the result of months of negotiations between the company and the US government.",
+    "keyword": "diabetes treatment",
+    "identity_keyword": "",
+    "text": "Including those used to treat common conditions like diabetes and high blood pressure",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "healthcare access",
+    "identity_keyword": "US",
+    "text": "The goal is to make these life-saving medications more accessible to millions of Americans",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "insurance cards",
+    "keyword": "business negotiation",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "The deal is the result of months of negotiation between Johnson & Johnson and the US government",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "business partnership",
     "identity_keyword": "",
-    "text": "The price reductions will apply to patients with different types of insurance.",
+    "text": "Both parties worked tirelessly to find a mutually beneficial solution",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "financial documents",
+    "keyword": "price reduction",
+    "identity_keyword": "Johnson & Johnson",
+    "text": "Johnson & Johnson has agreed to reduce medication prices by an average of 20 percent",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The exact details of the pricing structure have not been fully disclosed.",
+    "text": "Some prices will be slashed by as much as 50 percent",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "patient advocacy groups",
+    "keyword": "cost savings",
     "identity_keyword": "",
-    "text": "Patient advocacy groups and healthcare professionals have welcomed the news.",
+    "text": "The price reduction will provide significant cost savings for patients and taxpayers",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "question marks",
+    "keyword": "pharmaceutical industry trends",
     "identity_keyword": "",
-    "text": "Many questions still remain about the long-term implications of the deal.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial charts",
-    "identity_keyword": "",
-    "text": "The deal may affect the company's bottom line in the long run.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pharmaceutical companies",
-    "identity_keyword": "",
-    "text": "Other pharmaceutical companies may follow suit in the future.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "calendar pages",
-    "identity_keyword": "",
-    "text": "The true impact of the agreement may not be fully understood for several years.",
+    "text": "The deal's impact on the broader pharmaceutical industry is still uncertain",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "analysts working",
+    "keyword": "drug manufacturers",
     "identity_keyword": "",
-    "text": "Analysts are still trying to understand the implications of the deal.",
+    "text": "It remains to be seen if other major drug manufacturers will follow suit",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "healthcare industry",
+    "keyword": "healthcare landscape",
     "identity_keyword": "",
-    "text": "The deal has sent shockwaves through the healthcare industry.",
+    "text": "The agreement may have long-term effects on the healthcare landscape",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "prescription pills",
-    "identity_keyword": "",
-    "text": "The future of drug pricing is uncertain.",
+    "keyword": "affordable healthcare",
+    "identity_keyword": "US",
+    "text": "And the ongoing efforts to make prescription medications more affordable for all Americans",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
