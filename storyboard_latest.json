@@ -1,115 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Tech Execs Diversify Wealth",
+    "video_title": "Mortgage Rates Update",
     "tags": [
-      "tech stocks",
-      "exchange funds",
-      "wealth diversification",
-      "executive finance",
-      "investment strategy",
-      "stock market",
-      "financial planning",
-      "diversification"
+      "mortgage rates",
+      "housing affordability",
+      "Trump administration",
+      "interest rates",
+      "home loans",
+      "real estate",
+      "housing market",
+      "economy",
+      "finance news"
     ],
-    "topic": "as tech stocks soar, executives use exchange funds to diversify wealth without selling",
+    "topic": "here’s what’s happening now with mortgage rates after trump's latest push on housing affordability",
     "date": "January 10, 2026"
   },
   {
-    "keyword": "stock market",
+    "keyword": "mortgage rates graph",
+    "identity_keyword": "Donald Trump",
+    "text": "Mortgage rates are plummeting after former President Trump's latest push on housing affordability",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "mortgage contract",
     "identity_keyword": "",
-    "text": "Tech stocks are reaching new heights",
+    "text": "The average 30-year fixed mortgage rate has dropped to 6.2 percent",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "financial documents",
-    "identity_keyword": "",
-    "text": "Executives are using a little-known strategy to diversify their wealth",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investment portfolio",
-    "identity_keyword": "",
-    "text": "Exchange funds allow for diversified portfolios without triggering taxes",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "tech executives",
-    "identity_keyword": "",
-    "text": "Some high-profile tech executives have used exchange funds recently",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "SEC building",
-    "identity_keyword": "Securities and Exchange Commission",
-    "text": "The Securities and Exchange Commission regulates exchange funds",
+    "keyword": "White House",
+    "identity_keyword": "Trump administration",
+    "text": "The Trump administration's efforts to boost housing affordability have been ongoing",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "financial reports",
+    "keyword": "housing development",
     "identity_keyword": "",
-    "text": "Companies must disclose exchange fund transactions in public filings",
+    "text": "Regulatory barriers are being reduced to increase access to affordable housing options",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "growing trend graph",
+    "keyword": "Federal Reserve building",
+    "identity_keyword": "Federal Reserve",
+    "text": "The Federal Reserve has announced plans to keep interest rates low",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "real estate agent",
     "identity_keyword": "",
-    "text": "The use of exchange funds is becoming more widespread",
+    "text": "Many experts predict a surge in home sales and refinancing activity",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "tech industry landscape",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Questions are being raised about the impact on the tech industry",
+    "text": "It's still unclear how long these low mortgage rates will last",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global market",
+    "keyword": "stock market graph",
     "identity_keyword": "",
-    "text": "The broader market may also be affected by exchange funds",
+    "text": "The current trend in mortgage rates may not be sustainable in the long term",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investors watching stocks",
+    "keyword": "housing market news",
     "identity_keyword": "",
-    "text": "Regulators and investors are watching the trend closely",
+    "text": "Many factors can influence the housing market",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "question mark symbol",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "It remains to be seen how they will respond to exchange funds",
+    "text": "Only time will tell if this is a permanent shift or just a temporary reprieve",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Homebuyers are waiting to see if this is the break they've been waiting for",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "crystal ball",
+    "keyword": "housing market trends",
     "identity_keyword": "",
-    "text": "The future of exchange funds is uncertain",
+    "text": "The housing market is complex and subject to change",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "rising graph",
+    "keyword": "expert analysis",
     "identity_keyword": "",
-    "text": "But one thing is clear, exchange funds are on the rise",
+    "text": "Experts are watching the situation closely to see what happens next",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global finance",
+    "keyword": "uncertain future",
     "identity_keyword": "",
-    "text": "And their impact will be felt across the financial world",
+    "text": "The future of the housing market remains uncertain",
     "duration": 3,
     "visual_type": "emotion"
   }
