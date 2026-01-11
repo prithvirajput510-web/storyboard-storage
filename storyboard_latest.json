@@ -3,16 +3,16 @@
     "_type": "metadata",
     "video_title": "Oklahoma Boy Missing",
     "tags": [
-      "Oklahoma",
-      "missing boy",
+      "Oklahoma boy missing",
       "child abuse",
-      "arrest",
-      "investigation",
-      "search",
-      "mother",
-      "stepfather",
+      "arrests made",
+      "missing person",
+      "search underway",
       "alleged abuse",
-      "missing person"
+      "mother and stepfather",
+      "investigation ongoing",
+      "Oklahoma news",
+      "missing child"
     ],
     "topic": "mother and stepfather arrested for alleged child abuse amid search for missing oklahoma boy",
     "date": "January 11, 2026"
@@ -20,98 +20,98 @@
   {
     "keyword": "missing person",
     "identity_keyword": "",
-    "text": "A shocking turn of events has occurred in the search for a missing Oklahoma boy.",
+    "text": "A shocking turn of events has unfolded in the search for a missing Oklahoma boy",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The mother and stepfather have been taken into custody on allegations of child abuse.",
+    "text": "The mother and stepfather have been taken into custody on allegations of child abuse",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "This development has left many to wonder if it's connected to the boy's disappearance.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The mother and stepfather were arrested on January 10, 2026.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "evidence bag",
-    "identity_keyword": "",
-    "text": "The arrest is a result of a thorough investigation and evidence collected.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "missing person poster",
-    "identity_keyword": "Oklahoma",
-    "text": "The missing Oklahoma boy was first reported missing several days ago.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "search party",
-    "identity_keyword": "",
-    "text": "A widespread search effort by local law enforcement and the community is underway.",
+    "text": "Leaving many to wonder if this disturbing development is connected to the boy's disappearance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "police car",
     "identity_keyword": "",
-    "text": "Authorities are working around the clock to locate the child.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "jail cell",
-    "identity_keyword": "",
-    "text": "The mother and stepfather are currently being held at a local jail.",
+    "text": "According to authorities, the mother and stepfather were arrested and are currently facing charges",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "They are facing charges related to child abuse.",
+    "text": "Related to the alleged abuse of the missing child, with officials confirming the arrests were made after an investigation",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "judge's gavel",
+    "keyword": "investigation board",
     "identity_keyword": "",
-    "text": "Their bond and court dates are yet to be determined.",
+    "text": "The investigation into the boy's disappearance has been ongoing",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "puzzle pieces",
+    "identity_keyword": "",
+    "text": "With law enforcement working to piece together the events surrounding his vanishing",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "interrogation room",
+    "identity_keyword": "",
+    "text": "It is confirmed that the mother and stepfather were interviewed by authorities as part of this investigation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "family photo",
+    "identity_keyword": "",
+    "text": "The missing boy's family had been cooperative with the investigation, providing information to authorities",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "breaking news",
+    "identity_keyword": "",
+    "text": "The arrest of the mother and stepfather is a significant development in the case",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "social worker",
+    "identity_keyword": "",
+    "text": "With officials stating that the allegations of child abuse are being taken very seriously",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "unsolved mystery",
     "identity_keyword": "",
-    "text": "The investigation into the allegations against them continues.",
+    "text": "As the investigation continues, many questions remain unanswered",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "magnifying glass",
+    "keyword": "missing person poster",
     "identity_keyword": "",
-    "text": "Many questions remain unanswered about the missing boy's disappearance.",
+    "text": "Including the current whereabouts of the missing boy and the exact nature of the allegations",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "search party",
     "identity_keyword": "",
-    "text": "Authorities are urging anyone with information to come forward.",
+    "text": "It is unclear what further developments may arise as authorities work to uncover the truth",
     "duration": 3,
     "visual_type": "emotion"
   }
