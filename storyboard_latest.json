@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Indiana Beats Oregon",
+    "video_title": "Sabalenka in Brisbane Final",
     "tags": [
-      "Indiana",
-      "Oregon",
-      "College Basketball",
-      "March Madness",
-      "NCAA Tournament",
-      "Championship Game",
-      "Hoosiers",
-      "Ducks",
-      "Basketball News",
-      "Sports Update"
+      "Brisbane International",
+      "Aryna Sabalenka",
+      "Marta Kostyuk",
+      "Tennis",
+      "WTA",
+      "Brisbane",
+      "Final",
+      "Tennis Tournament",
+      "Women's Tennis"
     ],
-    "topic": "indiana throttles oregon, one win from first title",
+    "topic": "brisbane international: aryna sabalenka sets up marta kostyuk final",
     "date": "January 11, 2026"
   },
   {
-    "keyword": "sports stadium",
+    "keyword": "tennis stadium",
     "identity_keyword": "",
-    "text": "A major upset has occurred in the sports world",
+    "text": "The stage is set for a highly anticipated final at the Brisbane International",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The final score was a decisive victory for one team",
+    "keyword": "tennis players",
+    "identity_keyword": "Aryna Sabalenka",
+    "text": "Aryna Sabalenka prepares to face off against Marta Kostyuk",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
+    "identity_keyword": "Aryna Sabalenka",
+    "text": "Aryna Sabalenka has successfully secured her spot in the final",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tennis court",
+    "identity_keyword": "Marta Kostyuk",
+    "text": "Marta Kostyuk has also confirmed her place in the final",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tennis racket",
+    "identity_keyword": "Brisbane International",
+    "text": "The Brisbane International has been witnessing some exceptional performances",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tennis ball",
     "identity_keyword": "",
-    "text": "This win marks a significant milestone for a team",
+    "text": "Both Sabalenka and Kostyuk have demonstrated their impressive tennis prowess",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "team huddle",
+    "keyword": "tennis strategy",
     "identity_keyword": "",
-    "text": "The team's hard work and perseverance have paid off",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football field",
-    "identity_keyword": "",
-    "text": "The team's strategy and execution were on full display",
+    "text": "The two players will strategize and adapt to each other's strengths and weaknesses",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "Questions remain about the team's future performance",
+    "text": "The outcome of this highly anticipated match is uncertain",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "championship belt",
+    "keyword": "cheering crowd",
     "identity_keyword": "",
-    "text": "The team is on the verge of a major achievement",
+    "text": "Fans are eagerly waiting for the final match to begin",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "sports fans",
+    "keyword": "tennis match",
     "identity_keyword": "",
-    "text": "Fans and analysts are eagerly awaiting the team's next move",
+    "text": "The final match will be a thrilling encounter between two talented players",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
-    "identity_keyword": "",
-    "text": "The team's momentum will be put to the test in the final game",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "pressure gauge",
-    "identity_keyword": "",
-    "text": "The pressure and intensity of the final game are mounting",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The team's cohesion and teamwork have been building all season",
+    "keyword": "tennis players in action",
+    "identity_keyword": "Aryna Sabalenka",
+    "text": "Aryna Sabalenka and Marta Kostyuk are ready to give it their all",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "keyword": "one step",
-    "identity_keyword": "",
-    "text": "The team is one step away from achieving their goal",
+    "keyword": "intense tennis",
+    "identity_keyword": "Brisbane International",
+    "text": "The Brisbane International final is expected to be an intense competition",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "memorable moment",
+    "identity_keyword": "Brisbane International",
+    "text": "The stage is set for a memorable final at the Brisbane International",
+    "duration": 3,
+    "visual_type": "identity"
   },
   {
     "keyword": "global audience",
     "identity_keyword": "",
-    "text": "The sports world is watching with bated breath",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The outcome of the final game is still uncertain",
+    "text": "The world is watching as these two talented players face off",
     "duration": 3,
     "visual_type": "emotion"
   }
