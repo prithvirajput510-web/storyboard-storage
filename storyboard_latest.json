@@ -1,118 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Oklahoma Boy Missing",
+    "video_title": "Packers vs Bears",
     "tags": [
-      "Oklahoma boy missing",
-      "child abuse",
-      "arrests made",
-      "missing person",
-      "search underway",
-      "alleged abuse",
-      "mother and stepfather",
-      "investigation ongoing",
-      "Oklahoma news",
-      "missing child"
+      "Packers",
+      "Bears",
+      "NFC Wild Card",
+      "Playoff",
+      "NFL",
+      "Football",
+      "Live Stream",
+      "Sports"
     ],
-    "topic": "mother and stepfather arrested for alleged child abuse amid search for missing oklahoma boy",
+    "topic": "packers vs. bears | how to watch, stream & listen | 2025 nfc wild card playoff",
     "date": "January 11, 2026"
   },
   {
-    "keyword": "missing person",
+    "keyword": "football stadium",
     "identity_keyword": "",
-    "text": "A shocking turn of events has unfolded in the search for a missing Oklahoma boy",
+    "text": "The wait is over for football fans",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football teams",
+    "identity_keyword": "",
+    "text": "A highly anticipated matchup is just around the corner",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Green Bay Packers",
+    "identity_keyword": "Green Bay Packers",
+    "text": "The Green Bay Packers and the Chicago Bears are facing off",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "TV broadcast",
+    "identity_keyword": "",
+    "text": "The game will be broadcast on major networks",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "TV guide",
+    "identity_keyword": "",
+    "text": "Check your local listings for the exact channel",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The mother and stepfather have been taken into custody on allegations of child abuse",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "Leaving many to wonder if this disturbing development is connected to the boy's disappearance",
+    "text": "The game is scheduled to take place on January 11, 2026",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "police car",
+    "keyword": "streaming devices",
     "identity_keyword": "",
-    "text": "According to authorities, the mother and stepfather were arrested and are currently facing charges",
+    "text": "The game will be available on various streaming platforms",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Related to the alleged abuse of the missing child, with officials confirming the arrests were made after an investigation",
+    "text": "Some services are offering free trials or special promotions",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "investigation board",
+    "keyword": "radio broadcast",
     "identity_keyword": "",
-    "text": "The investigation into the boy's disappearance has been ongoing",
+    "text": "You can also tune in to the live radio broadcast",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "puzzle pieces",
+    "keyword": "radio commentators",
     "identity_keyword": "",
-    "text": "With law enforcement working to piece together the events surrounding his vanishing",
+    "text": "The live radio broadcast will provide play-by-play commentary",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "interrogation room",
+    "keyword": "injured players",
     "identity_keyword": "",
-    "text": "It is confirmed that the mother and stepfather were interviewed by authorities as part of this investigation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "family photo",
-    "identity_keyword": "",
-    "text": "The missing boy's family had been cooperative with the investigation, providing information to authorities",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "breaking news",
-    "identity_keyword": "",
-    "text": "The arrest of the mother and stepfather is a significant development in the case",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "social worker",
-    "identity_keyword": "",
-    "text": "With officials stating that the allegations of child abuse are being taken very seriously",
+    "text": "There are still some unanswered questions about player status",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "unsolved mystery",
+    "keyword": "medical reports",
     "identity_keyword": "",
-    "text": "As the investigation continues, many questions remain unanswered",
+    "text": "We're working to confirm the latest updates on injuries",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "missing person poster",
+    "keyword": "football kickoff",
     "identity_keyword": "",
-    "text": "Including the current whereabouts of the missing boy and the exact nature of the allegations",
+    "text": "Stay tuned for further developments as we get closer to kickoff",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "search party",
-    "identity_keyword": "",
-    "text": "It is unclear what further developments may arise as authorities work to uncover the truth",
+    "keyword": "Chicago Bears",
+    "identity_keyword": "Chicago Bears",
+    "text": "The Chicago Bears are ready to face off against their opponents",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
