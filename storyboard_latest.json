@@ -1,116 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Venezuela Situation",
+    "video_title": "Indiana Beats Oregon",
     "tags": [
-      "Venezuela crisis",
-      "President Trump",
-      "US foreign policy",
-      "South America",
-      "economic crisis",
-      "humanitarian aid",
-      "political unrest",
-      "international relations",
-      "global news"
+      "Indiana",
+      "Oregon",
+      "College Basketball",
+      "March Madness",
+      "NCAA Tournament",
+      "Championship Game",
+      "Hoosiers",
+      "Ducks",
+      "Basketball News",
+      "Sports Update"
     ],
-    "topic": "our perspective regarding the situation in venezuela as shared with president trump",
+    "topic": "indiana throttles oregon, one win from first title",
     "date": "January 11, 2026"
   },
   {
-    "keyword": "Venezuela map",
+    "keyword": "sports stadium",
     "identity_keyword": "",
-    "text": "The situation in Venezuela is deteriorating",
+    "text": "A major upset has occurred in the sports world",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "inflation graph",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Venezuela has been experiencing a severe economic downturn since 2013",
+    "text": "The final score was a decisive victory for one team",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "protest crowd",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The country's political landscape has been marked by turmoil",
+    "text": "This win marks a significant milestone for a team",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Nicolas Maduro",
-    "identity_keyword": "Nicolas Maduro",
-    "text": "President Nicolas Maduro's government faces criticism for its handling of the crisis",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Juan Guaido",
-    "identity_keyword": "Juan Guaido",
-    "text": "Juan Guaido's claims to the presidency are recognized by over 50 countries",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "refugee camp",
+    "keyword": "team huddle",
     "identity_keyword": "",
-    "text": "Over 5 million Venezuelans have fled the country since 2015",
+    "text": "The team's hard work and perseverance have paid off",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "border crossing",
+    "keyword": "football field",
     "identity_keyword": "",
-    "text": "Many Venezuelans are seeking refuge in neighboring countries",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "food bank",
-    "identity_keyword": "",
-    "text": "The situation in Venezuela is putting a strain on regional resources",
+    "text": "The team's strategy and execution were on full display",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The future of Venezuela is uncertain",
+    "text": "Questions remain about the team's future performance",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "White House",
-    "identity_keyword": "White House",
-    "text": "The potential for further US involvement is unclear",
+    "keyword": "championship belt",
+    "identity_keyword": "",
+    "text": "The team is on the verge of a major achievement",
     "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "economic sanctions",
-    "identity_keyword": "",
-    "text": "International sanctions may impact the Venezuelan economy",
-    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Venezuelan flag",
-    "identity_keyword": "Venezuela",
-    "text": "The Venezuelan people may bring about meaningful change",
-    "duration": 3,
-    "visual_type": "identity"
+    "keyword": "sports fans",
+    "identity_keyword": "",
+    "text": "Fans and analysts are eagerly awaiting the team's next move",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "clock ticking",
+    "identity_keyword": "",
+    "text": "The team's momentum will be put to the test in the final game",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "pressure gauge",
+    "identity_keyword": "",
+    "text": "The pressure and intensity of the final game are mounting",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Continued investigation and monitoring are required",
+    "text": "The team's cohesion and teamwork have been building all season",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "one step",
+    "identity_keyword": "",
+    "text": "The team is one step away from achieving their goal",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global audience",
+    "identity_keyword": "",
+    "text": "The sports world is watching with bated breath",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The international community is at a crossroads",
+    "text": "The outcome of the final game is still uncertain",
     "duration": 3,
     "visual_type": "emotion"
   }
