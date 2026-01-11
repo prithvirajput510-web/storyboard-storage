@@ -1,116 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Sabalenka in Brisbane Final",
+    "video_title": "Oklahoma Boy Missing",
     "tags": [
-      "Brisbane International",
-      "Aryna Sabalenka",
-      "Marta Kostyuk",
-      "Tennis",
-      "WTA",
-      "Brisbane",
-      "Final",
-      "Tennis Tournament",
-      "Women's Tennis"
+      "Oklahoma",
+      "missing boy",
+      "child abuse",
+      "arrest",
+      "investigation",
+      "search",
+      "mother",
+      "stepfather",
+      "alleged abuse",
+      "missing person"
     ],
-    "topic": "brisbane international: aryna sabalenka sets up marta kostyuk final",
+    "topic": "mother and stepfather arrested for alleged child abuse amid search for missing oklahoma boy",
     "date": "January 11, 2026"
   },
   {
-    "keyword": "tennis stadium",
+    "keyword": "missing person",
     "identity_keyword": "",
-    "text": "The stage is set for a highly anticipated final at the Brisbane International",
+    "text": "A shocking turn of events has occurred in the search for a missing Oklahoma boy.",
     "duration": 3,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "tennis players",
-    "identity_keyword": "Aryna Sabalenka",
-    "text": "Aryna Sabalenka prepares to face off against Marta Kostyuk",
-    "duration": 3,
-    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "Aryna Sabalenka",
-    "text": "Aryna Sabalenka has successfully secured her spot in the final",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tennis court",
-    "identity_keyword": "Marta Kostyuk",
-    "text": "Marta Kostyuk has also confirmed her place in the final",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tennis racket",
-    "identity_keyword": "Brisbane International",
-    "text": "The Brisbane International has been witnessing some exceptional performances",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tennis ball",
     "identity_keyword": "",
-    "text": "Both Sabalenka and Kostyuk have demonstrated their impressive tennis prowess",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "tennis strategy",
-    "identity_keyword": "",
-    "text": "The two players will strategize and adapt to each other's strengths and weaknesses",
-    "duration": 4,
+    "text": "The mother and stepfather have been taken into custody on allegations of child abuse.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The outcome of this highly anticipated match is uncertain",
+    "text": "This development has left many to wonder if it's connected to the boy's disappearance.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "cheering crowd",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Fans are eagerly waiting for the final match to begin",
+    "text": "The mother and stepfather were arrested on January 10, 2026.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "tennis match",
+    "keyword": "evidence bag",
     "identity_keyword": "",
-    "text": "The final match will be a thrilling encounter between two talented players",
+    "text": "The arrest is a result of a thorough investigation and evidence collected.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "tennis players in action",
-    "identity_keyword": "Aryna Sabalenka",
-    "text": "Aryna Sabalenka and Marta Kostyuk are ready to give it their all",
-    "duration": 3,
+    "keyword": "missing person poster",
+    "identity_keyword": "Oklahoma",
+    "text": "The missing Oklahoma boy was first reported missing several days ago.",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "intense tennis",
-    "identity_keyword": "Brisbane International",
-    "text": "The Brisbane International final is expected to be an intense competition",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "memorable moment",
-    "identity_keyword": "Brisbane International",
-    "text": "The stage is set for a memorable final at the Brisbane International",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "global audience",
+    "keyword": "search party",
     "identity_keyword": "",
-    "text": "The world is watching as these two talented players face off",
+    "text": "A widespread search effort by local law enforcement and the community is underway.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "police car",
+    "identity_keyword": "",
+    "text": "Authorities are working around the clock to locate the child.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "jail cell",
+    "identity_keyword": "",
+    "text": "The mother and stepfather are currently being held at a local jail.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "They are facing charges related to child abuse.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "judge's gavel",
+    "identity_keyword": "",
+    "text": "Their bond and court dates are yet to be determined.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The investigation into the allegations against them continues.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "magnifying glass",
+    "identity_keyword": "",
+    "text": "Many questions remain unanswered about the missing boy's disappearance.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Authorities are urging anyone with information to come forward.",
     "duration": 3,
     "visual_type": "emotion"
   }
