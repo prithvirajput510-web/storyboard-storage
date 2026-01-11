@@ -1,115 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Packers vs Bears",
+    "video_title": "Houston Wins 16th Straight",
     "tags": [
-      "Packers",
-      "Bears",
-      "NFC Wild Card",
-      "Playoff",
-      "NFL",
-      "Football",
-      "Live Stream",
-      "Sports"
+      "Houston",
+      "school record",
+      "road wins",
+      "college sports",
+      "basketball",
+      "team sports",
+      "athletics",
+      "university sports",
+      "sports news",
+      "record breaker"
     ],
-    "topic": "packers vs. bears | how to watch, stream & listen | 2025 nfc wild card playoff",
+    "topic": "houston wins school-record 16th straight on road",
     "date": "January 11, 2026"
   },
   {
-    "keyword": "football stadium",
+    "keyword": "sports stadium",
+    "identity_keyword": "University of Houston",
+    "text": "The University of Houston is on a remarkable run, setting new records with each win.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The wait is over for football fans",
+    "text": "Their latest victory marks a historic milestone, surpassing previous records.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football teams",
+    "keyword": "basketball players",
     "identity_keyword": "",
-    "text": "A highly anticipated matchup is just around the corner",
-    "duration": 3,
+    "text": "The team's success is a result of their consistent hard work and strategic gameplay.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Green Bay Packers",
-    "identity_keyword": "Green Bay Packers",
-    "text": "The Green Bay Packers and the Chicago Bears are facing off",
+    "keyword": "sports news",
+    "identity_keyword": "University of Houston",
+    "text": "The University of Houston's impressive streak is one of the longest active streaks in the country.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "TV broadcast",
+    "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The game will be broadcast on major networks",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "TV guide",
-    "identity_keyword": "",
-    "text": "Check your local listings for the exact channel",
+    "text": "Questions remain about how they will fare in their upcoming games.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The game is scheduled to take place on January 11, 2026",
+    "text": "The team's momentum is a key factor in their success.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "streaming devices",
+    "keyword": "strategy meeting",
     "identity_keyword": "",
-    "text": "The game will be available on various streaming platforms",
+    "text": "An investigation into their strategy and team dynamics may hold the key to understanding their secrets to success.",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "obstacle course",
+    "identity_keyword": "",
+    "text": "The team's ability to adapt and overcome challenges is impressive.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "team huddle",
+    "identity_keyword": "",
+    "text": "Their dedication and perseverance on the road are a testament to their strength as a team.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "cheering crowd",
+    "identity_keyword": "University of Houston",
+    "text": "The University of Houston's record-breaking streak is leaving fans and opponents alike in awe.",
+    "duration": 4,
+    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Some services are offering free trials or special promotions",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "radio broadcast",
-    "identity_keyword": "",
-    "text": "You can also tune in to the live radio broadcast",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "radio commentators",
-    "identity_keyword": "",
-    "text": "The live radio broadcast will provide play-by-play commentary",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "injured players",
-    "identity_keyword": "",
-    "text": "There are still some unanswered questions about player status",
+    "text": "The team's performance is a result of their ability to work together and support each other.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "medical reports",
+    "keyword": "national news",
     "identity_keyword": "",
-    "text": "We're working to confirm the latest updates on injuries",
+    "text": "Their winning streak is not only a school record but also a national phenomenon.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football kickoff",
+    "keyword": "sports calendar",
     "identity_keyword": "",
-    "text": "Stay tuned for further developments as we get closer to kickoff",
+    "text": "The team's future games will be closely watched to see if they can maintain their momentum.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Chicago Bears",
-    "identity_keyword": "Chicago Bears",
-    "text": "The Chicago Bears are ready to face off against their opponents",
+    "keyword": "clock ticking",
+    "identity_keyword": "University of Houston",
+    "text": "Only time will tell if the University of Houston can break the national record for most consecutive road wins.",
     "duration": 3,
     "visual_type": "identity"
   }
