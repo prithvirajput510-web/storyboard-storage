@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "S&P 500 Record High",
+    "video_title": "Venezuela Situation",
     "tags": [
-      "S&P 500",
-      "stock market",
-      "record high",
-      "winning week",
-      "earnings reports",
-      "economic data",
-      "Wall Street",
-      "investing",
-      "trading",
-      "financial news"
+      "Venezuela crisis",
+      "President Trump",
+      "US foreign policy",
+      "South America",
+      "economic crisis",
+      "humanitarian aid",
+      "political unrest",
+      "international relations",
+      "global news"
     ],
-    "topic": "s&p 500 rises to another record friday, heads for winning week: live updates",
-    "date": "January 10, 2026"
+    "topic": "our perspective regarding the situation in venezuela as shared with president trump",
+    "date": "January 11, 2026"
   },
   {
-    "keyword": "stock market",
+    "keyword": "Venezuela map",
     "identity_keyword": "",
-    "text": "The S&P 500 is on fire, hitting another record high on this Friday, and it's shaping up to be a winning week for investors, but what's behind this surge and will it last?",
+    "text": "The situation in Venezuela is deteriorating",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "stock prices",
+    "keyword": "inflation graph",
     "identity_keyword": "",
-    "text": "As of today, January 10, 2026, the S&P 500 has indeed reached a new record high, with investors seemingly optimistic about the state of the economy.",
+    "text": "Venezuela has been experiencing a severe economic downturn since 2013",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "economic growth",
+    "keyword": "protest crowd",
     "identity_keyword": "",
-    "text": "This week's gains are a continuation of a strong start to the year, with the S&P 500 rising steadily over the past few days, driven by a combination of positive economic data and upbeat corporate earnings.",
+    "text": "The country's political landscape has been marked by turmoil",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "financial charts",
+    "keyword": "Nicolas Maduro",
+    "identity_keyword": "Nicolas Maduro",
+    "text": "President Nicolas Maduro's government faces criticism for its handling of the crisis",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Juan Guaido",
+    "identity_keyword": "Juan Guaido",
+    "text": "Juan Guaido's claims to the presidency are recognized by over 50 countries",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "refugee camp",
     "identity_keyword": "",
-    "text": "The latest numbers show that the S&P 500 is up by a significant margin, outperforming expectations and leaving many analysts to wonder if this is a sign of a longer-term trend or just a short-term blip.",
+    "text": "Over 5 million Venezuelans have fled the country since 2015",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global economy",
+    "keyword": "border crossing",
     "identity_keyword": "",
-    "text": "But as we look ahead to the rest of the year, there are still many unanswered questions, including how the market will respond to potential interest rate changes and what impact global events will have on investor confidence, so we'll be keeping a close eye on developments to see how this story unfolds.",
+    "text": "Many Venezuelans are seeking refuge in neighboring countries",
     "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "food bank",
+    "identity_keyword": "",
+    "text": "The situation in Venezuela is putting a strain on regional resources",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question mark",
+    "identity_keyword": "",
+    "text": "The future of Venezuela is uncertain",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "White House",
+    "identity_keyword": "White House",
+    "text": "The potential for further US involvement is unclear",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "economic sanctions",
+    "identity_keyword": "",
+    "text": "International sanctions may impact the Venezuelan economy",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Venezuelan flag",
+    "identity_keyword": "Venezuela",
+    "text": "The Venezuelan people may bring about meaningful change",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "Continued investigation and monitoring are required",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Investors are watching the market closely, trying to make sense of the latest trends and predictions.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "business news",
-    "identity_keyword": "",
-    "text": "The market's performance is having a significant impact on the economy, with many businesses and individuals affected by the latest developments.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial news",
-    "identity_keyword": "",
-    "text": "As the year progresses, it will be interesting to see how the market continues to evolve and what factors will influence its performance.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "stock market trends",
-    "identity_keyword": "",
-    "text": "The S&P 500's record high is a significant milestone, but it's unclear what the future holds for the market.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "financial analysis",
-    "identity_keyword": "",
-    "text": "Analysts are working to understand the underlying factors driving the market's performance and what it might mean for the future.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "market volatility",
-    "identity_keyword": "",
-    "text": "The market's volatility is a reminder that nothing is certain, and investors must be prepared for any eventuality.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "investor confidence",
-    "identity_keyword": "",
-    "text": "Despite the uncertainty, many investors remain optimistic about the market's potential for growth and returns.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "economic landscape",
-    "identity_keyword": "",
-    "text": "The S&P 500's performance is just one aspect of the larger economic landscape, and its impact will be felt across various industries and sectors.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "market updates",
-    "identity_keyword": "",
-    "text": "As the market continues to evolve, it's essential to stay informed and up-to-date on the latest developments and trends.",
+    "text": "The international community is at a crossroads",
     "duration": 3,
     "visual_type": "emotion"
   }
