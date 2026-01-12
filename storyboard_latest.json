@@ -1,118 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Rams Edge Panthers 34-31",
+    "video_title": "Filipino Rescuers Detect Life",
     "tags": [
-      "Rams",
-      "Panthers",
-      "NFL",
-      "Football",
-      "Los Angeles",
-      "Carolina",
-      "Game Recap",
-      "Sports Highlights",
-      "January 10 2026",
-      "LA Rams"
+      "Philippines",
+      "garbage avalanche",
+      "rescue efforts",
+      "missing persons",
+      "natural disaster",
+      "landslide",
+      "search and rescue",
+      "emergency response",
+      "disaster relief"
     ],
-    "topic": "rams 34-31 panthers (jan 10, 2026) game recap",
+    "topic": "filipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "football stadium",
-    "identity_keyword": "Los Angeles Rams",
-    "text": "The Los Angeles Rams are moving forward after a thrilling victory.",
+    "keyword": "rescue workers",
+    "identity_keyword": "",
+    "text": "Rescuers in the Philippines have detected signs of life amidst the devastating aftermath of a disaster.",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "emergency responders",
+    "identity_keyword": "",
+    "text": "At least four people have been confirmed dead, with many more still unaccounted for as rescue efforts continue.",
+    "duration": 3,
+    "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "A star quarterback led the team with impressive passing yards and touchdowns.",
-    "duration": 3,
+    "text": "Heavy rainfall in the area caused a massive pile of garbage to collapse and sweep through nearby communities.",
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football field",
+    "keyword": "search and rescue",
     "identity_keyword": "",
-    "text": "The opposing team's quarterback also had a notable performance with passing yards and a touchdown.",
+    "text": "Rescue teams have been working tirelessly to search for survivors, with reports indicating that dozens of people are still missing.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "running back",
+    "keyword": "disaster aftermath",
     "identity_keyword": "",
-    "text": "A running back rushed for over 100 yards and scored a touchdown.",
+    "text": "The death toll is expected to rise as more information becomes available.",
     "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "field goal",
-    "identity_keyword": "",
-    "text": "The game's outcome was decided by a last-minute field goal attempt.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football celebration",
-    "identity_keyword": "Los Angeles Rams",
-    "text": "The Rams are celebrating their win and preparing for the next matchup.",
-    "duration": 4,
-    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "There are questions about the officiating in the game.",
+    "text": "It remains unclear how many people may still be trapped under the rubble.",
     "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "football coach",
-    "identity_keyword": "",
-    "text": "Several key calls are being disputed by the opposing team.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "NFL logo",
-    "identity_keyword": "National Football League",
-    "text": "The league will review and address these calls in the coming days.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "The outcome of the review is still uncertain.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "playoff bracket",
-    "identity_keyword": "",
-    "text": "The Rams' win has significant implications for the playoffs.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football players",
-    "identity_keyword": "",
-    "text": "The team's performance will be closely watched in the next round.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football stadium at night",
-    "identity_keyword": "Los Angeles Rams",
-    "text": "The Rams are looking forward to their next challenge.",
-    "duration": 3,
-    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The future of the playoffs is full of possibilities.",
+    "text": "Investigators are working to determine the exact cause of the disaster.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "warning signs",
+    "identity_keyword": "",
+    "text": "The incident has raised questions about whether any precautions could have been taken to prevent such a tragedy.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "natural disaster",
+    "identity_keyword": "Philippines",
+    "text": "The Philippines has experienced similar disasters in the past.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "rescue equipment",
+    "identity_keyword": "",
+    "text": "Rescue efforts are often hindered by limited resources and challenging terrain.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "global news",
+    "identity_keyword": "",
+    "text": "The international community is watching the situation closely.",
     "duration": 3,
     "visual_type": "emotion"
+  },
+  {
+    "keyword": "forensic analysis",
+    "identity_keyword": "",
+    "text": "The cause of the disaster is still under investigation.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The search for survivors will continue until all hope is lost.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "aid delivery",
+    "identity_keyword": "Philippines",
+    "text": "The people of the Philippines are in need of support and aid during this difficult time.",
+    "duration": 3,
+    "visual_type": "identity"
   }
 ]
