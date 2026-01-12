@@ -1,117 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Smith Seizes WBC Belt",
+    "video_title": "Iran Warns US and Israel",
     "tags": [
-      "Smith",
-      "Matias",
-      "WBC Belt",
-      "Knockout",
-      "Boxing",
-      "Title Fight",
-      "Championship",
-      "Sports News",
-      "Boxing News",
-      "Fight Night"
+      "Iran",
+      "US",
+      "Israel",
+      "protests",
+      "America",
+      "strike",
+      "troops",
+      "warning",
+      "conflict",
+      "middle east"
     ],
-    "topic": "smith seizes matias' wbc belt with stunning ko",
+    "topic": "iran warns it will target us troops and israel if america strikes over protests",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "boxing ring",
-    "identity_keyword": "",
-    "text": "A shocking turn of events has occurred in the boxing world",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "boxing gloves",
-    "identity_keyword": "Callum Smith",
-    "text": "Callum Smith has delivered a devastating knockout to claim the WBC belt",
+    "keyword": "Iran map",
+    "identity_keyword": "Iran",
+    "text": "In a shocking escalation of tensions, Iran has issued a stark warning to the United States.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The highly anticipated match took place on a specific date",
+    "text": "The protests in Iran were sparked by the death of a young woman in police custody.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "freedom signs",
+    "identity_keyword": "",
+    "text": "The protests have grown into a broader movement calling for reform and greater freedoms.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "boxing trophy",
-    "identity_keyword": "Callum Smith",
-    "text": "Smith put on a dominating performance that ultimately led to the victory",
+    "keyword": "riot police",
+    "identity_keyword": "Iran",
+    "text": "The Iranian government has been cracking down on the protests, with reports of hundreds of people killed.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "boxing round counter",
+    "keyword": "US flag",
+    "identity_keyword": "United States",
+    "text": "The US has been vocal in its support for the protesters, calling for an end to the violence.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "White House",
+    "identity_keyword": "White House",
+    "text": "It remains to be seen how the US will respond to Iran's latest warning.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The knockout occurred in a particular round",
+    "text": "The situation continues to unfold, with many experts warning of the potentially devastating consequences.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "boxing punch",
-    "identity_keyword": "Callum Smith",
-    "text": "Smith's impressive display of skill and power proved too much for his opponent",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "boxing championship belt",
-    "identity_keyword": "Callum Smith",
-    "text": "This win marks a significant milestone in Smith's career",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "WBC logo",
-    "identity_keyword": "WBC",
-    "text": "Smith becomes the new WBC champion and solidifies his position",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "boxing fans",
+    "keyword": "military troops",
     "identity_keyword": "",
-    "text": "The boxing community continues to buzz about the outcome of the match",
+    "text": "The current tensions may escalate into a larger conflict.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "allies meeting",
+    "identity_keyword": "",
+    "text": "The US and its allies might take specific actions in response to Iran's threat.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
-    "identity_keyword": "Matias",
-    "text": "There is still uncertainty surrounding what's next for Matias",
+    "identity_keyword": "",
+    "text": "The outcome of the situation is still uncertain.",
     "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "boxing rematch",
-    "identity_keyword": "",
-    "text": "Some speculate about a potential rematch",
-    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "boxing loss",
-    "identity_keyword": "Matias",
-    "text": "Others wonder if Matias will be able to bounce back from this tough loss",
+    "keyword": "Iran timeline",
+    "identity_keyword": "Iran",
+    "text": "The protests in Iran have been ongoing for several months.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "uncertain future",
+    "keyword": "UN building",
+    "identity_keyword": "United Nations",
+    "text": "The international community has condemned the Iranian government's actions.",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "global news",
     "identity_keyword": "",
-    "text": "The future of Matias's career remains uncertain",
+    "text": "The situation in Iran is being closely watched by the world.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "boxing world",
+    "keyword": "Middle East map",
     "identity_keyword": "",
-    "text": "The boxing world waits with anticipation for what's to come",
+    "text": "The future of Iran and the region remains uncertain.",
     "duration": 3,
     "visual_type": "emotion"
   }
