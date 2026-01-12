@@ -8,110 +8,110 @@
       "Israel",
       "protests",
       "America",
-      "strike",
-      "troops",
-      "warning",
+      "Middle East",
       "conflict",
-      "middle east"
+      "international news",
+      "global politics",
+      "military"
     ],
     "topic": "iran warns it will target us troops and israel if america strikes over protests",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "Iran map",
+    "keyword": "Middle East map",
     "identity_keyword": "Iran",
-    "text": "In a shocking escalation of tensions, Iran has issued a stark warning to the United States.",
+    "text": "A shocking warning has been issued by Iran, stating that it will target US troops and Israel if America decides to strike over the ongoing protests, escalating tensions in the region to a boiling point.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The protests in Iran were sparked by the death of a young woman in police custody.",
+    "text": "The protests in Iran have been ongoing for several months, sparked by the death of a young woman in police custody, with the Iranian government facing widespread criticism for its handling of the situation.",
     "duration": 3,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "freedom signs",
-    "identity_keyword": "",
-    "text": "The protests have grown into a broader movement calling for reform and greater freedoms.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "riot police",
-    "identity_keyword": "Iran",
-    "text": "The Iranian government has been cracking down on the protests, with reports of hundreds of people killed.",
-    "duration": 4,
-    "visual_type": "identity"
   },
   {
     "keyword": "US flag",
     "identity_keyword": "United States",
-    "text": "The US has been vocal in its support for the protesters, calling for an end to the violence.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "White House",
-    "identity_keyword": "White House",
-    "text": "It remains to be seen how the US will respond to Iran's latest warning.",
+    "text": "The US has been vocal in its support for the protesters, with the Biden administration imposing sanctions on several high-ranking Iranian officials and calling for an end to the violence against civilians.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The situation continues to unfold, with many experts warning of the potentially devastating consequences.",
+    "identity_keyword": "Israel",
+    "text": "Iran's warning comes after the US and Israel have been engaged in a series of diplomatic efforts to address the situation in Iran, with both countries expressing concern over the Iranian government's actions and the potential for further escalation.",
     "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "military troops",
-    "identity_keyword": "",
-    "text": "The current tensions may escalate into a larger conflict.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "allies meeting",
-    "identity_keyword": "",
-    "text": "The US and its allies might take specific actions in response to Iran's threat.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question mark",
-    "identity_keyword": "",
-    "text": "The outcome of the situation is still uncertain.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Iran timeline",
-    "identity_keyword": "Iran",
-    "text": "The protests in Iran have been ongoing for several months.",
-    "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "UN building",
+    "keyword": "question marks",
+    "identity_keyword": "",
+    "text": "As the situation continues to unfold, it remains to be seen how the US and its allies will respond to Iran's warning, and what the potential consequences of any future actions may be, with many questions still unanswered about the path forward and the potential for further conflict.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "world map",
+    "identity_keyword": "",
+    "text": "The international community is watching the situation closely, with many countries calling for a peaceful resolution to the conflict.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "protest signs",
+    "identity_keyword": "",
+    "text": "The Iranian government has faced widespread criticism for its handling of the protests, with many accusing it of human rights abuses.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "sanctions documents",
+    "identity_keyword": "Joe Biden",
+    "text": "The US and its allies have imposed sanctions on several high-ranking Iranian officials, in an effort to pressure the government to change its behavior.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "puzzle pieces",
+    "identity_keyword": "",
+    "text": "The situation in Iran is complex and multifaceted, with many different factors at play.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "danger signs",
+    "identity_keyword": "",
+    "text": "The potential consequences of any future actions are still unknown, and many are warning of the dangers of escalation.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "peace doves",
+    "identity_keyword": "",
+    "text": "The international community is urging all parties to exercise restraint and to seek a peaceful resolution to the conflict.",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "human rights symbols",
     "identity_keyword": "United Nations",
-    "text": "The international community has condemned the Iranian government's actions.",
+    "text": "The situation in Iran is a reminder of the importance of human rights and the need for governments to respect the dignity and autonomy of their citizens.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "global news",
+    "keyword": "global audience",
     "identity_keyword": "",
-    "text": "The situation in Iran is being closely watched by the world.",
+    "text": "The world is watching the situation in Iran closely, and many are hoping for a peaceful and positive outcome.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Middle East map",
+    "keyword": "clock ticking",
     "identity_keyword": "",
-    "text": "The future of Iran and the region remains uncertain.",
+    "text": "The future of Iran and the region remains uncertain, and only time will tell what the outcome will be.",
     "duration": 3,
     "visual_type": "emotion"
   }
