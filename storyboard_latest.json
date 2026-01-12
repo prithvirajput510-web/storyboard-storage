@@ -1,117 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Filipino Rescuers Detect Life",
+    "video_title": "Smith Seizes WBC Belt",
     "tags": [
-      "Philippines",
-      "garbage avalanche",
-      "rescue efforts",
-      "missing persons",
-      "natural disaster",
-      "landslide",
-      "search and rescue",
-      "emergency response",
-      "disaster relief"
+      "Smith",
+      "Matias",
+      "WBC Belt",
+      "Knockout",
+      "Boxing",
+      "Title Fight",
+      "Championship",
+      "Sports News",
+      "Boxing News",
+      "Fight Night"
     ],
-    "topic": "filipino rescuers detect 'signs of life' in garbage avalanche that killed 4 and left dozens missing",
+    "topic": "smith seizes matias' wbc belt with stunning ko",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "rescue workers",
+    "keyword": "boxing ring",
     "identity_keyword": "",
-    "text": "Rescuers in the Philippines have detected signs of life amidst the devastating aftermath of a disaster.",
+    "text": "A shocking turn of events has occurred in the boxing world",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "emergency responders",
-    "identity_keyword": "",
-    "text": "At least four people have been confirmed dead, with many more still unaccounted for as rescue efforts continue.",
+    "keyword": "boxing gloves",
+    "identity_keyword": "Callum Smith",
+    "text": "Callum Smith has delivered a devastating knockout to claim the WBC belt",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Heavy rainfall in the area caused a massive pile of garbage to collapse and sweep through nearby communities.",
+    "text": "The highly anticipated match took place on a specific date",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "search and rescue",
-    "identity_keyword": "",
-    "text": "Rescue teams have been working tirelessly to search for survivors, with reports indicating that dozens of people are still missing.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "disaster aftermath",
-    "identity_keyword": "",
-    "text": "The death toll is expected to rise as more information becomes available.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "It remains unclear how many people may still be trapped under the rubble.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Investigators are working to determine the exact cause of the disaster.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "warning signs",
-    "identity_keyword": "",
-    "text": "The incident has raised questions about whether any precautions could have been taken to prevent such a tragedy.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "natural disaster",
-    "identity_keyword": "Philippines",
-    "text": "The Philippines has experienced similar disasters in the past.",
+    "keyword": "boxing trophy",
+    "identity_keyword": "Callum Smith",
+    "text": "Smith put on a dominating performance that ultimately led to the victory",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "rescue equipment",
+    "keyword": "boxing round counter",
     "identity_keyword": "",
-    "text": "Rescue efforts are often hindered by limited resources and challenging terrain.",
+    "text": "The knockout occurred in a particular round",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "global news",
+    "keyword": "boxing punch",
+    "identity_keyword": "Callum Smith",
+    "text": "Smith's impressive display of skill and power proved too much for his opponent",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "boxing championship belt",
+    "identity_keyword": "Callum Smith",
+    "text": "This win marks a significant milestone in Smith's career",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "WBC logo",
+    "identity_keyword": "WBC",
+    "text": "Smith becomes the new WBC champion and solidifies his position",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "boxing fans",
     "identity_keyword": "",
-    "text": "The international community is watching the situation closely.",
+    "text": "The boxing community continues to buzz about the outcome of the match",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question mark",
+    "identity_keyword": "Matias",
+    "text": "There is still uncertainty surrounding what's next for Matias",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "boxing rematch",
+    "identity_keyword": "",
+    "text": "Some speculate about a potential rematch",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "forensic analysis",
-    "identity_keyword": "",
-    "text": "The cause of the disaster is still under investigation.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The search for survivors will continue until all hope is lost.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "aid delivery",
-    "identity_keyword": "Philippines",
-    "text": "The people of the Philippines are in need of support and aid during this difficult time.",
+    "keyword": "boxing loss",
+    "identity_keyword": "Matias",
+    "text": "Others wonder if Matias will be able to bounce back from this tough loss",
     "duration": 3,
     "visual_type": "identity"
+  },
+  {
+    "keyword": "uncertain future",
+    "identity_keyword": "",
+    "text": "The future of Matias's career remains uncertain",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "boxing world",
+    "identity_keyword": "",
+    "text": "The boxing world waits with anticipation for what's to come",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
