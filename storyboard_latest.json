@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Houston Wins 16th Straight",
+    "video_title": "Rams Edge Panthers 34-31",
     "tags": [
-      "Houston",
-      "school record",
-      "road wins",
-      "college sports",
-      "basketball",
-      "team sports",
-      "athletics",
-      "university sports",
-      "sports news",
-      "record breaker"
+      "Rams",
+      "Panthers",
+      "NFL",
+      "Football",
+      "Los Angeles",
+      "Carolina",
+      "Game Recap",
+      "Sports Highlights",
+      "January 10 2026",
+      "LA Rams"
     ],
-    "topic": "houston wins school-record 16th straight on road",
-    "date": "January 11, 2026"
+    "topic": "rams 34-31 panthers (jan 10, 2026) game recap",
+    "date": "January 12, 2026"
   },
   {
-    "keyword": "sports stadium",
-    "identity_keyword": "University of Houston",
-    "text": "The University of Houston is on a remarkable run, setting new records with each win.",
+    "keyword": "football stadium",
+    "identity_keyword": "Los Angeles Rams",
+    "text": "The Los Angeles Rams are moving forward after a thrilling victory.",
     "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Their latest victory marks a historic milestone, surpassing previous records.",
+    "text": "A star quarterback led the team with impressive passing yards and touchdowns.",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "basketball players",
+    "keyword": "football field",
     "identity_keyword": "",
-    "text": "The team's success is a result of their consistent hard work and strategic gameplay.",
+    "text": "The opposing team's quarterback also had a notable performance with passing yards and a touchdown.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "sports news",
-    "identity_keyword": "University of Houston",
-    "text": "The University of Houston's impressive streak is one of the longest active streaks in the country.",
+    "keyword": "running back",
+    "identity_keyword": "",
+    "text": "A running back rushed for over 100 yards and scored a touchdown.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "field goal",
+    "identity_keyword": "",
+    "text": "The game's outcome was decided by a last-minute field goal attempt.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football celebration",
+    "identity_keyword": "Los Angeles Rams",
+    "text": "The Rams are celebrating their win and preparing for the next matchup.",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "There are questions about the officiating in the game.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football coach",
+    "identity_keyword": "",
+    "text": "Several key calls are being disputed by the opposing team.",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "NFL logo",
+    "identity_keyword": "National Football League",
+    "text": "The league will review and address these calls in the coming days.",
     "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "Questions remain about how they will fare in their upcoming games.",
+    "text": "The outcome of the review is still uncertain.",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "playoff bracket",
     "identity_keyword": "",
-    "text": "The team's momentum is a key factor in their success.",
-    "duration": 4,
+    "text": "The Rams' win has significant implications for the playoffs.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "strategy meeting",
+    "keyword": "football players",
     "identity_keyword": "",
-    "text": "An investigation into their strategy and team dynamics may hold the key to understanding their secrets to success.",
-    "duration": 4,
+    "text": "The team's performance will be closely watched in the next round.",
+    "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "obstacle course",
-    "identity_keyword": "",
-    "text": "The team's ability to adapt and overcome challenges is impressive.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "team huddle",
-    "identity_keyword": "",
-    "text": "Their dedication and perseverance on the road are a testament to their strength as a team.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "cheering crowd",
-    "identity_keyword": "University of Houston",
-    "text": "The University of Houston's record-breaking streak is leaving fans and opponents alike in awe.",
-    "duration": 4,
+    "keyword": "football stadium at night",
+    "identity_keyword": "Los Angeles Rams",
+    "text": "The Rams are looking forward to their next challenge.",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The team's performance is a result of their ability to work together and support each other.",
+    "text": "The future of the playoffs is full of possibilities.",
     "duration": 3,
     "visual_type": "emotion"
-  },
-  {
-    "keyword": "national news",
-    "identity_keyword": "",
-    "text": "Their winning streak is not only a school record but also a national phenomenon.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "sports calendar",
-    "identity_keyword": "",
-    "text": "The team's future games will be closely watched to see if they can maintain their momentum.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "clock ticking",
-    "identity_keyword": "University of Houston",
-    "text": "Only time will tell if the University of Houston can break the national record for most consecutive road wins.",
-    "duration": 3,
-    "visual_type": "identity"
   }
 ]
