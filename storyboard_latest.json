@@ -1,116 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Bills at Jaguars",
+    "video_title": "Heads on Beach Warn Gangs",
     "tags": [
-      "Buffalo Bills",
-      "Jacksonville Jaguars",
-      "AFC Wild Card",
-      "NFL playoffs",
-      "football",
-      "live stream",
-      "watch online",
-      "sports news"
+      "Ecuador",
+      "tourist beach",
+      "gang warning",
+      "human heads",
+      "crime prevention",
+      "beach warning",
+      "gang violence",
+      "Ecuador crime",
+      "coastal warning",
+      "gang activity"
     ],
-    "topic": "buffalo bills at jacksonville jaguars | where to watch, stream and listen | afc wild card round",
+    "topic": "human heads displayed at ecuador tourist beach in warning to gangs",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "football stadium",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The AFC Wild Card Round is just around the corner",
+    "text": "A shocking display of violence has been reported in Ecuador",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football teams",
-    "identity_keyword": "Buffalo Bills",
-    "text": "One of the most highly anticipated matchups is the Buffalo Bills taking on the Jacksonville Jaguars",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "sports news",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "If you're wondering where to catch all the action, you're in the right place",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "tv broadcast",
-    "identity_keyword": "CBS",
-    "text": "The game will be broadcast on national television",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tv channels",
-    "identity_keyword": "NBC",
-    "text": "Several major networks will be carrying the live feed, including NBC",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "tv guide",
-    "identity_keyword": "",
-    "text": "Be sure to check your local listings for the exact channel",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "streaming devices",
-    "identity_keyword": "",
-    "text": "For those who prefer to stream the game, it will be available on various online platforms",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "streaming services",
-    "identity_keyword": "Paramount Plus",
-    "text": "Such as Paramount Plus and Peacock",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "nfl website",
-    "identity_keyword": "National Football League",
-    "text": "And the NFL's official website",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "home theater",
-    "identity_keyword": "",
-    "text": "With a valid subscription, you can catch every snap and tackle from the comfort of your own home",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "radio broadcast",
-    "identity_keyword": "",
-    "text": "If you're on-the-go or prefer to listen to the game, you can tune in to the official radio broadcast",
+    "text": "The incident occurred on January 12, 2026",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football radio",
-    "identity_keyword": "Jacksonville Jaguars",
-    "text": "Of the Buffalo Bills and Jacksonville Jaguars",
+    "keyword": "news related footage",
+    "identity_keyword": "Ecuador",
+    "text": "Multiple human heads were discovered at a beach in Ecuador",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "police tape",
+    "identity_keyword": "",
+    "text": "The heads are believed to be the result of a gang-related conflict",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "gang symbols",
+    "identity_keyword": "",
+    "text": "The perpetrators aimed to send a message to rival groups",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "Ecuador",
+    "text": "Ecuadorian authorities have launched an investigation",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "forensic lab",
+    "identity_keyword": "",
+    "text": "Police and forensic experts are working to identify the victims",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "question mark",
+    "identity_keyword": "",
+    "text": "The circumstances surrounding the deaths are still unclear",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The incident has sparked widespread concern among locals and tourists",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "emergency meeting",
+    "identity_keyword": "",
+    "text": "The authorities are scrambling to respond to the escalating situation",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "gang violence",
+    "identity_keyword": "",
+    "text": "The growing gang violence in the region is a major concern",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The impact on the local community is still uncertain",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "Ecuador",
+    "text": "The incident may affect the tourism industry in Ecuador",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "sports announcers",
-    "identity_keyword": "",
-    "text": "With play-by-play commentary and analysis from experienced sports announcers",
+    "keyword": "map of Ecuador",
+    "identity_keyword": "Ecuador",
+    "text": "The situation in Ecuador is being closely monitored",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "football uncertainty",
-    "identity_keyword": "",
-    "text": "As for the outcome of the game, it's still anyone's guess",
-    "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
