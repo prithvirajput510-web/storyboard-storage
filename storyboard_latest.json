@@ -1,117 +1,115 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Iran Warns US and Israel",
+    "video_title": "Bills at Jaguars",
     "tags": [
-      "Iran",
-      "US",
-      "Israel",
-      "protests",
-      "America",
-      "Middle East",
-      "conflict",
-      "international news",
-      "global politics",
-      "military"
+      "Buffalo Bills",
+      "Jacksonville Jaguars",
+      "AFC Wild Card",
+      "NFL playoffs",
+      "football",
+      "live stream",
+      "watch online",
+      "sports news"
     ],
-    "topic": "iran warns it will target us troops and israel if america strikes over protests",
+    "topic": "buffalo bills at jacksonville jaguars | where to watch, stream and listen | afc wild card round",
     "date": "January 12, 2026"
   },
   {
-    "keyword": "Middle East map",
-    "identity_keyword": "Iran",
-    "text": "A shocking warning has been issued by Iran, stating that it will target US troops and Israel if America decides to strike over the ongoing protests, escalating tensions in the region to a boiling point.",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
+    "keyword": "football stadium",
     "identity_keyword": "",
-    "text": "The protests in Iran have been ongoing for several months, sparked by the death of a young woman in police custody, with the Iranian government facing widespread criticism for its handling of the situation.",
+    "text": "The AFC Wild Card Round is just around the corner",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "US flag",
-    "identity_keyword": "United States",
-    "text": "The US has been vocal in its support for the protesters, with the Biden administration imposing sanctions on several high-ranking Iranian officials and calling for an end to the violence against civilians.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "Israel",
-    "text": "Iran's warning comes after the US and Israel have been engaged in a series of diplomatic efforts to address the situation in Iran, with both countries expressing concern over the Iranian government's actions and the potential for further escalation.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "question marks",
-    "identity_keyword": "",
-    "text": "As the situation continues to unfold, it remains to be seen how the US and its allies will respond to Iran's warning, and what the potential consequences of any future actions may be, with many questions still unanswered about the path forward and the potential for further conflict.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "world map",
-    "identity_keyword": "",
-    "text": "The international community is watching the situation closely, with many countries calling for a peaceful resolution to the conflict.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "protest signs",
-    "identity_keyword": "",
-    "text": "The Iranian government has faced widespread criticism for its handling of the protests, with many accusing it of human rights abuses.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "sanctions documents",
-    "identity_keyword": "Joe Biden",
-    "text": "The US and its allies have imposed sanctions on several high-ranking Iranian officials, in an effort to pressure the government to change its behavior.",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "puzzle pieces",
-    "identity_keyword": "",
-    "text": "The situation in Iran is complex and multifaceted, with many different factors at play.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "danger signs",
-    "identity_keyword": "",
-    "text": "The potential consequences of any future actions are still unknown, and many are warning of the dangers of escalation.",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "peace doves",
-    "identity_keyword": "",
-    "text": "The international community is urging all parties to exercise restraint and to seek a peaceful resolution to the conflict.",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "human rights symbols",
-    "identity_keyword": "United Nations",
-    "text": "The situation in Iran is a reminder of the importance of human rights and the need for governments to respect the dignity and autonomy of their citizens.",
+    "keyword": "football teams",
+    "identity_keyword": "Buffalo Bills",
+    "text": "One of the most highly anticipated matchups is the Buffalo Bills taking on the Jacksonville Jaguars",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "global audience",
+    "keyword": "sports news",
     "identity_keyword": "",
-    "text": "The world is watching the situation in Iran closely, and many are hoping for a peaceful and positive outcome.",
+    "text": "If you're wondering where to catch all the action, you're in the right place",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "tv broadcast",
+    "identity_keyword": "CBS",
+    "text": "The game will be broadcast on national television",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tv channels",
+    "identity_keyword": "NBC",
+    "text": "Several major networks will be carrying the live feed, including NBC",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "tv guide",
+    "identity_keyword": "",
+    "text": "Be sure to check your local listings for the exact channel",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "streaming devices",
+    "identity_keyword": "",
+    "text": "For those who prefer to stream the game, it will be available on various online platforms",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "streaming services",
+    "identity_keyword": "Paramount Plus",
+    "text": "Such as Paramount Plus and Peacock",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "nfl website",
+    "identity_keyword": "National Football League",
+    "text": "And the NFL's official website",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "home theater",
+    "identity_keyword": "",
+    "text": "With a valid subscription, you can catch every snap and tackle from the comfort of your own home",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "radio broadcast",
+    "identity_keyword": "",
+    "text": "If you're on-the-go or prefer to listen to the game, you can tune in to the official radio broadcast",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "football radio",
+    "identity_keyword": "Jacksonville Jaguars",
+    "text": "Of the Buffalo Bills and Jacksonville Jaguars",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "sports announcers",
     "identity_keyword": "",
-    "text": "The future of Iran and the region remains uncertain, and only time will tell what the outcome will be.",
+    "text": "With play-by-play commentary and analysis from experienced sports announcers",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "football uncertainty",
+    "identity_keyword": "",
+    "text": "As for the outcome of the game, it's still anyone's guess",
     "duration": 3,
     "visual_type": "emotion"
   }
