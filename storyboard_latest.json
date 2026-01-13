@@ -1,116 +1,115 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Celebs Protest Ice at Globes",
+    "video_title": "NFL Divisional Round",
     "tags": [
-      "Golden Globes",
-      "celebrity news",
-      "protest pins",
-      "ice protest",
-      "award shows",
-      "Hollywood news",
-      "entertainment news",
-      "red carpet fashion",
-      "celebrity activism"
+      "NFL Divisional Round",
+      "playoff teams",
+      "football analysis",
+      "NFL playoffs",
+      "divisional round",
+      "NFL news",
+      "football news",
+      "sports analysis"
     ],
-    "topic": "celebrities wear pins protesting ice at the golden globes",
+    "topic": "nfl divisional round: biggest immediate question for advancing/eliminated playoff teams",
     "date": "January 13, 2026"
   },
   {
-    "keyword": "red carpet",
+    "keyword": "football stadium",
     "identity_keyword": "",
-    "text": "You won't believe what's melting the internet right now",
+    "text": "The NFL Divisional Round has left us with more questions than answers",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Golden Globes",
-    "identity_keyword": "Golden Globes",
-    "text": "Several A-list celebrities have taken to the red carpet at the Golden Globes to make a bold statement about ice",
+    "keyword": "cheering crowd",
+    "identity_keyword": "",
+    "text": "Some teams are celebrating their spot in the next round",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "empty stadium",
+    "identity_keyword": "",
+    "text": "While others are left to ponder what could have been",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Kansas City Chiefs logo",
+    "identity_keyword": "Kansas City Chiefs",
+    "text": "The Kansas City Chiefs have secured their spot in the AFC Championship game",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Buffalo Bills logo",
+    "identity_keyword": "Buffalo Bills",
+    "text": "The Buffalo Bills are moving on to the next round",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Cincinnati Bengals logo",
+    "identity_keyword": "Cincinnati Bengals",
+    "text": "The Cincinnati Bengals are awaiting their opponent",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "San Francisco 49ers logo",
+    "identity_keyword": "San Francisco 49ers",
+    "text": "The San Francisco 49ers have advanced in the NFC",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Dallas Cowboys logo",
+    "identity_keyword": "Dallas Cowboys",
+    "text": "The Dallas Cowboys are seeking to make a statement",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "football players training",
+    "identity_keyword": "",
+    "text": "The eliminated teams will now focus on the offseason",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "coaches meeting",
+    "identity_keyword": "",
+    "text": "Evaluating their rosters and coaching staffs to determine what changes need to be made",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Jacksonville Jaguars logo",
+    "identity_keyword": "Jacksonville Jaguars",
+    "text": "The Jacksonville Jaguars will look to make a deeper playoff run next season",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "protest signs",
-    "identity_keyword": "",
-    "text": "But what's behind this unusual protest and what does it really mean for the environment",
-    "duration": 4,
-    "visual_type": "emotion"
+    "keyword": "Miami Dolphins logo",
+    "identity_keyword": "Miami Dolphins",
+    "text": "The Miami Dolphins are also looking to improve",
+    "duration": 3,
+    "visual_type": "identity"
   },
   {
-    "keyword": "custom pins",
+    "keyword": "football stadium at night",
     "identity_keyword": "",
-    "text": "Multiple celebrities have been spotted wearing custom-made pins that read Melt the Hate, Not the Ice",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "curious people",
-    "identity_keyword": "",
-    "text": "Sparking a wave of curiosity among fans and environmentalists alike",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "social media",
-    "identity_keyword": "",
-    "text": "Many taking to social media to show their support for the cause",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "environmental organization",
-    "identity_keyword": "",
-    "text": "The pins are part of a larger initiative launched by a prominent environmental organization",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "melting ice",
-    "identity_keyword": "",
-    "text": "To raise awareness about the impact of climate change on global ice reserves",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "endangered wildlife",
-    "identity_keyword": "",
-    "text": "And the devastating consequences it has on ecosystems and wildlife",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "celebrity supporters",
-    "identity_keyword": "",
-    "text": "Several high-profile celebrities have already come out in support of the initiative",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "red carpet fashion",
-    "identity_keyword": "",
-    "text": "Including actors, musicians, and influencers, who have all been spotted wearing the pins on the red carpet",
+    "text": "There are still many unanswered questions about the Conference Championship games",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "acceptance speeches",
+    "keyword": "football players running",
     "identity_keyword": "",
-    "text": "With some even using their acceptance speeches to highlight the importance of taking action against climate change",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "question marks",
-    "identity_keyword": "",
-    "text": "But as the movement gains momentum, questions are being raised about the effectiveness of these symbolic gestures",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "climate change",
-    "identity_keyword": "",
-    "text": "And whether they will actually lead to tangible change",
+    "text": "The biggest one on everyone's mind is, can the teams that have made it this far continue their momentum",
     "duration": 3,
     "visual_type": "emotion"
   }
