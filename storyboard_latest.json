@@ -1,115 +1,117 @@
 [
   {
     "_type": "metadata",
-    "video_title": "NFL Divisional Round",
+    "video_title": "CES 2026 Top Monitors",
     "tags": [
-      "NFL Divisional Round",
-      "playoff teams",
-      "football analysis",
-      "NFL playoffs",
-      "divisional round",
-      "NFL news",
-      "football news",
-      "sports analysis"
+      "CES 2026",
+      "Monitors",
+      "Display Technology",
+      "Gaming Monitors",
+      "4K Resolution",
+      "HDR",
+      "OLED",
+      "Computer Hardware",
+      "Tech News",
+      "Innovation"
     ],
-    "topic": "nfl divisional round: biggest immediate question for advancing/eliminated playoff teams",
+    "topic": "the most fascinating monitors at ces 2026",
     "date": "January 13, 2026"
   },
   {
-    "keyword": "football stadium",
+    "keyword": "future technology",
     "identity_keyword": "",
-    "text": "The NFL Divisional Round has left us with more questions than answers",
+    "text": "Get ready to experience the future of display technology",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "cheering crowd",
-    "identity_keyword": "",
-    "text": "Some teams are celebrating their spot in the next round",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "empty stadium",
-    "identity_keyword": "",
-    "text": "While others are left to ponder what could have been",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Kansas City Chiefs logo",
-    "identity_keyword": "Kansas City Chiefs",
-    "text": "The Kansas City Chiefs have secured their spot in the AFC Championship game",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Buffalo Bills logo",
-    "identity_keyword": "Buffalo Bills",
-    "text": "The Buffalo Bills are moving on to the next round",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Cincinnati Bengals logo",
-    "identity_keyword": "Cincinnati Bengals",
-    "text": "The Cincinnati Bengals are awaiting their opponent",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "San Francisco 49ers logo",
-    "identity_keyword": "San Francisco 49ers",
-    "text": "The San Francisco 49ers have advanced in the NFC",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Dallas Cowboys logo",
-    "identity_keyword": "Dallas Cowboys",
-    "text": "The Dallas Cowboys are seeking to make a statement",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "football players training",
-    "identity_keyword": "",
-    "text": "The eliminated teams will now focus on the offseason",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "coaches meeting",
-    "identity_keyword": "",
-    "text": "Evaluating their rosters and coaching staffs to determine what changes need to be made",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "Jacksonville Jaguars logo",
-    "identity_keyword": "Jacksonville Jaguars",
-    "text": "The Jacksonville Jaguars will look to make a deeper playoff run next season",
+    "keyword": "CES 2026",
+    "identity_keyword": "CES",
+    "text": "Innovation knows no bounds at CES 2026",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "Miami Dolphins logo",
-    "identity_keyword": "Miami Dolphins",
-    "text": "The Miami Dolphins are also looking to improve",
-    "duration": 3,
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The possibilities are endless with new monitors",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Samsung Odyssey",
+    "identity_keyword": "Samsung",
+    "text": "Samsung showcased its new Odyssey lineup at CES 2026",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "football stadium at night",
+    "keyword": "ultrawide monitor",
     "identity_keyword": "",
-    "text": "There are still many unanswered questions about the Conference Championship games",
+    "text": "A 49-inch super ultrawide monitor was unveiled",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "gaming monitor",
+    "identity_keyword": "",
+    "text": "The monitor features a 32:9 aspect ratio and 240Hz refresh rate",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "LG UltraFine",
+    "identity_keyword": "LG",
+    "text": "LG made a significant impact with its new UltraFine series",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "4K monitor",
+    "identity_keyword": "",
+    "text": "A 32-inch 4K monitor with a 165Hz refresh rate was showcased",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "color accuracy",
+    "identity_keyword": "",
+    "text": "The monitor offers professionals and gamers a high level of color accuracy",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "ASUS ROG Swift",
+    "identity_keyword": "ASUS",
+    "text": "ASUS unveiled its ROG Swift series at CES 2026",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "gaming monitor",
+    "identity_keyword": "",
+    "text": "A 25-inch monitor with a 360Hz refresh rate was unveiled",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "football players running",
+    "keyword": "NVIDIA G-Sync",
+    "identity_keyword": "NVIDIA",
+    "text": "NVIDIA G-Sync technology is featured in the monitor",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "remote work",
     "identity_keyword": "",
-    "text": "The biggest one on everyone's mind is, can the teams that have made it this far continue their momentum",
+    "text": "The future of remote work and gaming is uncertain",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "display technology",
+    "identity_keyword": "",
+    "text": "Innovations in display technology will continue to evolve",
     "duration": 3,
     "visual_type": "emotion"
   }
