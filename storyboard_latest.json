@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "CES 2026 Top Monitors",
+    "video_title": "Golden Globes 2026 Red Carpet",
     "tags": [
-      "CES 2026",
-      "Monitors",
-      "Display Technology",
-      "Gaming Monitors",
-      "4K Resolution",
-      "HDR",
-      "OLED",
-      "Computer Hardware",
-      "Tech News",
-      "Innovation"
+      "Golden Globes",
+      "Red Carpet",
+      "Fashion",
+      "Celebrities",
+      "Awards Show",
+      "Gowns",
+      "Tuxedos",
+      "Hollywood",
+      "Entertainment"
     ],
-    "topic": "the most fascinating monitors at ces 2026",
+    "topic": "golden globes 2026 red carpet: see every look from last night’s event",
     "date": "January 13, 2026"
   },
   {
-    "keyword": "future technology",
+    "keyword": "red carpet",
     "identity_keyword": "",
-    "text": "Get ready to experience the future of display technology",
+    "text": "The wait is over, and the glamour has been unleashed",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "CES 2026",
-    "identity_keyword": "CES",
-    "text": "Innovation knows no bounds at CES 2026",
+    "keyword": "Golden Globes",
+    "identity_keyword": "Golden Globes",
+    "text": "Hollywood's biggest stars stepped out for the Golden Globes 2026",
     "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Beverly Hilton Hotel",
+    "identity_keyword": "Beverly Hilton Hotel",
+    "text": "The Golden Globes 2026 took place on January 12, 2026",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "keyword": "Beverly Hills",
+    "identity_keyword": "Beverly Hills",
+    "text": "The ceremony was held in Beverly Hills, California",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The possibilities are endless with new monitors",
+    "text": "A-list celebrities attended the event",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Samsung Odyssey",
-    "identity_keyword": "Samsung",
-    "text": "Samsung showcased its new Odyssey lineup at CES 2026",
+    "keyword": "film awards",
+    "identity_keyword": "",
+    "text": "The ceremony honored outstanding achievements in film and television",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "stage performances",
+    "identity_keyword": "",
+    "text": "The event featured exciting performances and presentations",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "red carpet arrivals",
+    "identity_keyword": "",
+    "text": "Nominees, presenters, and industry professionals attended",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "fashion styles",
+    "identity_keyword": "",
+    "text": "The stars brought their unique style and flair to the event",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "Golden Globes ceremony",
+    "identity_keyword": "Golden Globes",
+    "text": "The dust settles on another unforgettable Golden Globes ceremony",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "ultrawide monitor",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "A 49-inch super ultrawide monitor was unveiled",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "gaming monitor",
-    "identity_keyword": "",
-    "text": "The monitor features a 32:9 aspect ratio and 240Hz refresh rate",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "LG UltraFine",
-    "identity_keyword": "LG",
-    "text": "LG made a significant impact with its new UltraFine series",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "4K monitor",
-    "identity_keyword": "",
-    "text": "A 32-inch 4K monitor with a 165Hz refresh rate was showcased",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "color accuracy",
-    "identity_keyword": "",
-    "text": "The monitor offers professionals and gamers a high level of color accuracy",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "ASUS ROG Swift",
-    "identity_keyword": "ASUS",
-    "text": "ASUS unveiled its ROG Swift series at CES 2026",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "gaming monitor",
-    "identity_keyword": "",
-    "text": "A 25-inch monitor with a 360Hz refresh rate was unveiled",
+    "text": "We're left wondering what secrets the stars might have been hiding",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "NVIDIA G-Sync",
-    "identity_keyword": "NVIDIA",
-    "text": "NVIDIA G-Sync technology is featured in the monitor",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "remote work",
+    "keyword": "smiling celebrities",
     "identity_keyword": "",
-    "text": "The future of remote work and gaming is uncertain",
+    "text": "The stars had dazzling smiles and impeccable fashion choices",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "display technology",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "Innovations in display technology will continue to evolve",
+    "text": "We'll be digging deeper to uncover the stories behind the glamour",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "The stories behind the glamour will be revealed",
     "duration": 3,
     "visual_type": "emotion"
   }
