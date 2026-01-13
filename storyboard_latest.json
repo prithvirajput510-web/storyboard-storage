@@ -1,118 +1,118 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Heads on Beach Warn Gangs",
+    "video_title": "U-Haul Hits Crowd at Rally",
     "tags": [
-      "Ecuador",
-      "tourist beach",
-      "gang warning",
-      "human heads",
-      "crime prevention",
-      "beach warning",
-      "gang violence",
-      "Ecuador crime",
-      "coastal warning",
-      "gang activity"
+      "U-Haul",
+      "Westwood",
+      "LAPD",
+      "Iranian regime",
+      "rally",
+      "crowd",
+      "incident",
+      "investigation",
+      "protest",
+      "Los Angeles"
     ],
-    "topic": "human heads displayed at ecuador tourist beach in warning to gangs",
-    "date": "January 12, 2026"
+    "topic": "u-haul drives into crowd during anti-iranian regime rally in westwood, lapd says",
+    "date": "January 13, 2026"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "U-Haul truck",
     "identity_keyword": "",
-    "text": "A shocking display of violence has been reported in Ecuador",
+    "text": "A devastating incident has occurred in Westwood",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The incident occurred on January 12, 2026",
+    "keyword": "protest crowd",
+    "identity_keyword": "Iran",
+    "text": "The incident happened during an anti-Iranian regime rally",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "Ecuador",
-    "text": "Multiple human heads were discovered at a beach in Ecuador",
+    "identity_keyword": "",
+    "text": "Multiple people were injured in the incident",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "police car",
+    "identity_keyword": "Los Angeles Police Department",
+    "text": "The Los Angeles Police Department responded quickly to the scene",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "keyword": "police tape",
+    "keyword": "news related footage",
     "identity_keyword": "",
-    "text": "The heads are believed to be the result of a gang-related conflict",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "gang symbols",
-    "identity_keyword": "",
-    "text": "The perpetrators aimed to send a message to rival groups",
+    "text": "The driver of the U-Haul truck was taken into custody",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "news related footage",
-    "identity_keyword": "Ecuador",
-    "text": "Ecuadorian authorities have launched an investigation",
+    "identity_keyword": "",
+    "text": "An investigation into the incident is currently underway",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "forensic lab",
+    "keyword": "protest signs",
     "identity_keyword": "",
-    "text": "Police and forensic experts are working to identify the victims",
+    "text": "The rally was attended by hundreds of people",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "crowd running",
+    "identity_keyword": "",
+    "text": "The incident caused chaos and panic among the protesters",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "keyword": "question mark",
     "identity_keyword": "",
-    "text": "The circumstances surrounding the deaths are still unclear",
+    "text": "It is unclear what motivated the driver to carry out this act",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The incident has sparked widespread concern among locals and tourists",
+    "keyword": "police officer",
+    "identity_keyword": "Los Angeles Police Department",
+    "text": "The LAPD is working to determine whether this was a deliberate attack",
     "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "emergency meeting",
-    "identity_keyword": "",
-    "text": "The authorities are scrambling to respond to the escalating situation",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "gang violence",
-    "identity_keyword": "",
-    "text": "The growing gang violence in the region is a major concern",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The impact on the local community is still uncertain",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "Ecuador",
-    "text": "The incident may affect the tourism industry in Ecuador",
-    "duration": 3,
     "visual_type": "identity"
   },
   {
-    "keyword": "map of Ecuador",
-    "identity_keyword": "Ecuador",
-    "text": "The situation in Ecuador is being closely monitored",
+    "keyword": "news report",
+    "identity_keyword": "",
+    "text": "Or an accident, with more information expected to be released",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "concerned people",
+    "identity_keyword": "",
+    "text": "The incident has sparked widespread concern",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "clock ticking",
+    "identity_keyword": "",
+    "text": "The investigation is ongoing, and the community is waiting for answers",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "news related footage",
+    "identity_keyword": "",
+    "text": "More information will be released in the coming days",
+    "duration": 3,
+    "visual_type": "emotion"
   }
 ]
