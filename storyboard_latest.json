@@ -1,117 +1,116 @@
 [
   {
     "_type": "metadata",
-    "video_title": "U-Haul Hits Crowd at Rally",
+    "video_title": "Celebs Protest Ice at Globes",
     "tags": [
-      "U-Haul",
-      "Westwood",
-      "LAPD",
-      "Iranian regime",
-      "rally",
-      "crowd",
-      "incident",
-      "investigation",
-      "protest",
-      "Los Angeles"
+      "Golden Globes",
+      "celebrity news",
+      "protest pins",
+      "ice protest",
+      "award shows",
+      "Hollywood news",
+      "entertainment news",
+      "red carpet fashion",
+      "celebrity activism"
     ],
-    "topic": "u-haul drives into crowd during anti-iranian regime rally in westwood, lapd says",
+    "topic": "celebrities wear pins protesting ice at the golden globes",
     "date": "January 13, 2026"
   },
   {
-    "keyword": "U-Haul truck",
+    "keyword": "red carpet",
     "identity_keyword": "",
-    "text": "A devastating incident has occurred in Westwood",
+    "text": "You won't believe what's melting the internet right now",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "protest crowd",
-    "identity_keyword": "Iran",
-    "text": "The incident happened during an anti-Iranian regime rally",
+    "keyword": "Golden Globes",
+    "identity_keyword": "Golden Globes",
+    "text": "Several A-list celebrities have taken to the red carpet at the Golden Globes to make a bold statement about ice",
     "duration": 3,
     "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "Multiple people were injured in the incident",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "police car",
-    "identity_keyword": "Los Angeles Police Department",
-    "text": "The Los Angeles Police Department responded quickly to the scene",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "The driver of the U-Haul truck was taken into custody",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "keyword": "news related footage",
-    "identity_keyword": "",
-    "text": "An investigation into the incident is currently underway",
-    "duration": 4,
-    "visual_type": "emotion"
   },
   {
     "keyword": "protest signs",
     "identity_keyword": "",
-    "text": "The rally was attended by hundreds of people",
+    "text": "But what's behind this unusual protest and what does it really mean for the environment",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "crowd running",
+    "keyword": "custom pins",
     "identity_keyword": "",
-    "text": "The incident caused chaos and panic among the protesters",
+    "text": "Multiple celebrities have been spotted wearing custom-made pins that read Melt the Hate, Not the Ice",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "question mark",
+    "keyword": "curious people",
     "identity_keyword": "",
-    "text": "It is unclear what motivated the driver to carry out this act",
+    "text": "Sparking a wave of curiosity among fans and environmentalists alike",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "police officer",
-    "identity_keyword": "Los Angeles Police Department",
-    "text": "The LAPD is working to determine whether this was a deliberate attack",
+    "keyword": "social media",
+    "identity_keyword": "",
+    "text": "Many taking to social media to show their support for the cause",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "news report",
+    "keyword": "environmental organization",
     "identity_keyword": "",
-    "text": "Or an accident, with more information expected to be released",
+    "text": "The pins are part of a larger initiative launched by a prominent environmental organization",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "melting ice",
+    "identity_keyword": "",
+    "text": "To raise awareness about the impact of climate change on global ice reserves",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "endangered wildlife",
+    "identity_keyword": "",
+    "text": "And the devastating consequences it has on ecosystems and wildlife",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "celebrity supporters",
+    "identity_keyword": "",
+    "text": "Several high-profile celebrities have already come out in support of the initiative",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "keyword": "red carpet fashion",
+    "identity_keyword": "",
+    "text": "Including actors, musicians, and influencers, who have all been spotted wearing the pins on the red carpet",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "concerned people",
+    "keyword": "acceptance speeches",
     "identity_keyword": "",
-    "text": "The incident has sparked widespread concern",
+    "text": "With some even using their acceptance speeches to highlight the importance of taking action against climate change",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "clock ticking",
+    "keyword": "question marks",
     "identity_keyword": "",
-    "text": "The investigation is ongoing, and the community is waiting for answers",
+    "text": "But as the movement gains momentum, questions are being raised about the effectiveness of these symbolic gestures",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "keyword": "climate change",
     "identity_keyword": "",
-    "text": "More information will be released in the coming days",
+    "text": "And whether they will actually lead to tangible change",
     "duration": 3,
     "visual_type": "emotion"
   }
