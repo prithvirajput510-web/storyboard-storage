@@ -1,118 +1,104 @@
 [
   {
     "_type": "metadata",
-    "video_title": "ISS Crew-11 Pilot Hands Over Control",
+    "video_title": "New Playbook",
     "tags": [
-      "ISS",
-      "Crew-11",
-      "Astronaut",
-      "Medical Evacuation",
-      "Space Station",
-      "Pilot",
-      "Handover",
-      "NASA",
-      "Space News",
-      "Astronaut Health"
+      "NFL",
+      "coaches",
+      "offense",
+      "strategy",
+      "football",
+      "sports",
+      "teams",
+      "training",
+      "analysis",
+      "performance"
     ],
-    "topic": "iss astronaut medical evacuation latest news: crew-11 pilot to hand control of station over today",
-    "date": "January 13, 2026"
+    "topic": "chargers coach jim harbaugh looking for fresh start on offense after firing longtime oc",
+    "date": "January 17, 2026"
   },
   {
-    "keyword": "space station",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "Breaking news is coming in from space about a medical emergency on the International Space Station",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "keyword": "astronauts in space",
-    "identity_keyword": "Crew-11",
-    "text": "A Crew-11 pilot is set to hand over control of the station in a matter of hours",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "keyword": "NASA logo",
-    "identity_keyword": "NASA",
-    "text": "NASA has announced that the pilot will officially hand over control today as part of a planned medical evacuation procedure",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "Earth from space",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "The medical condition is non-life-threatening but requires immediate attention on Earth",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "International Space Station",
-    "identity_keyword": "International Space Station",
-    "text": "The International Space Station has been continuously occupied by astronauts since 2000",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "space station interior",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "Medical emergencies are rare on the space station, but NASA has protocols in place for emergency situations",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "astronaut helmet",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "The identity of the affected astronaut has not been officially disclosed by NASA",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "news related footage",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "The medical condition is not related to any spacewalk or scientific experiment",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "healthy astronauts",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "The rest of the crew is reported to be in good health",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "space news",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "The situation continues to unfold with uncertainty about the long-term implications",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "keyword": "Crew-11 patch",
-    "identity_keyword": "Crew-11",
-    "text": "The medical evacuation may have implications for the Crew-11 mission",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "International Space Station control room",
-    "identity_keyword": "International Space Station",
-    "text": "And the overall operations of the International Space Station",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "NASA officials",
-    "identity_keyword": "NASA",
-    "text": "NASA officials are expected to provide further updates in the coming days",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "keyword": "news update",
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
-    "text": "As the situation develops, more information will become available",
-    "duration": 3,
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "This development adds context to how teams approach the sport.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
     "visual_type": "emotion"
   }
 ]
