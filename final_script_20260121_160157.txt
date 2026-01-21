@@ -1,0 +1,17 @@
+def get_storyboard():
+    return [
+        {"keyword": "measles", "identity_keyword": "health", "text": "A case of measles exposure has been confirmed in North Carolina", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "exposure", "identity_keyword": "public", "text": "Health officials are alerting the public and taking preventative measures", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "viral", "identity_keyword": "illness", "text": "Measles is a highly contagious viral illness", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "contagious", "identity_keyword": "air", "text": "Measles can spread through the air when an infected person coughs or sneezes", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "surfaces", "identity_keyword": "touch", "text": "Measles can also be spread by touching contaminated surfaces", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "locations", "identity_keyword": "state", "text": "Individuals who were in specific locations in the state may have been exposed to measles", "duration": 4, "visual_type": "identity"},
+        {"keyword": "symptoms", "identity_keyword": "illness", "text": "Individuals who may have been exposed are advised to monitor themselves for symptoms", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "fever", "identity_keyword": "cough", "text": "Symptoms of measles include fever, cough, runny nose, or a rash", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "vaccine", "identity_keyword": "prevention", "text": "Health officials are urging everyone to ensure they are up to date on their measles vaccine", "duration": 4, "visual_type": "identity"},
+        {"keyword": "mumps", "identity_keyword": "rubella", "text": "The measles, mumps, and rubella vaccine can prevent the spread of the disease", "duration": 4, "visual_type": "identity"},
+        {"keyword": "contact", "identity_keyword": "individual", "text": "Health officials are working to identify and notify anyone who may have been in close contact with the infected individual", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "notification", "identity_keyword": "officials", "text": "Health officials are taking measures to notify those who may have been exposed", "duration": 4, "visual_type": "identity"},
+        {"keyword": "prevention", "identity_keyword": "health", "text": "Preventative measures are being taken to prevent the spread of measles", "duration": 4, "visual_type": "emotion"},
+        {"keyword": "public health", "identity_keyword": "safety", "text": "The public is being alerted to take precautions to prevent the spread of measles", "duration": 4, "visual_type": "identity"}
+    ]
