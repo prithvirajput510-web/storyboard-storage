@@ -7,95 +7,94 @@
       "Ravens",
       "Coaches",
       "Football",
-      "Hiring",
-      "Leadership",
       "Teams",
-      "Strategy",
-      "Sports"
+      "Players",
+      "Games",
+      "Seasons"
     ],
     "topic": "media reaction to ravens hiring jesse minter as head coach  late for work",
     "date": "January 24, 2026"
   },
   {
-    "text": "Introduction to the Baltimore Ravens' new head coach",
+    "text": "Introduction to the NFL and its surprises",
     "keyword": "sports training footage",
-    "identity_keyword": "Baltimore Ravens",
+    "identity_keyword": "American Football",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Exploring the Ravens' history and approach to building a strong team",
-    "keyword": "team building",
-    "identity_keyword": "Ravens' organization",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Understanding the significance of Jesse Minter's hiring",
-    "keyword": "head coach",
+    "text": "Baltimore Ravens' new head coach announcement",
+    "keyword": "Head Coach",
     "identity_keyword": "Jesse Minter",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Media reaction to the Ravens' decision",
+    "keyword": "Media Reaction",
+    "identity_keyword": "Sports News",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Analyzing the media reaction to Minter's hiring",
-    "keyword": "media reaction",
-    "identity_keyword": "NFL news",
+    "text": "Context of the hiring process and candidate selection",
+    "keyword": "Hiring Process",
+    "identity_keyword": "Coach Selection",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The current state of the NFL and its impact on team decisions",
-    "keyword": "NFL trends",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The Ravens' goals and expectations for the new head coach",
+    "text": "Strategy behind hiring a young coach",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Minter's coaching style and its potential impact on the team",
-    "keyword": "coaching style",
+    "text": "Media analysis of the hiring decision",
+    "keyword": "Media Analysis",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The importance of adapting to the changing NFL landscape",
-    "keyword": "NFL evolution",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "Delayed Announcement",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The long-term implications of the Ravens' decision to hire Minter",
-    "keyword": "long-term impact",
+    "text": "Impact of media reaction on team perception",
+    "keyword": "Team Perception",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The potential for other teams to follow the Ravens' approach",
-    "keyword": "NFL teams",
+    "text": "Importance of media coverage for the team's future",
+    "keyword": "Media Coverage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The fascination with the Ravens' experiment and its potential outcomes",
-    "keyword": "NFL analysis",
+    "text": "Fans and observers keeping a close eye on the team",
+    "keyword": "Fan Interest",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Conclusion and final thoughts on the Ravens' new head coach",
-    "keyword": "NFL news",
+    "text": "The role of sports journalists in analyzing the team's strategy",
+    "keyword": "Sports Journalists",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The long-term implications of the Ravens' hiring decision",
+    "keyword": "Long-term Implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
