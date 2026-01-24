@@ -1,104 +1,103 @@
 [
   {
     "_type": "metadata",
-    "video_title": "What Next",
+    "video_title": "F1 Preseason",
     "tags": [
-      "F1 testing",
-      "Barcelona test",
       "Formula One",
-      "driver absence",
-      "preseason testing",
-      "F1 news",
-      "racing updates",
-      "sports analysis",
-      "driver updates",
-      "F1 teams"
+      "Barcelona Test",
+      "Williams Team",
+      "Racing News",
+      "F1 Testing",
+      "Preseason Schedule",
+      "Driver Updates",
+      "Team Preparations",
+      "F1 Calendar"
     ],
     "topic": "williams set to miss first 2026 f1 preseason barcelona test",
     "date": "January 24, 2026"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "The Williams team is facing a challenge as the new Formula 1 season approaches.",
+    "keyword": "Williams team",
+    "identity_keyword": "Formula 1",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "Formula 1 teams typically prepare for a new season by participating in preseason tests.",
+    "keyword": "preseason tests",
+    "identity_keyword": "Formula 1 teams",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "These tests allow teams to fine-tune their cars and get their drivers comfortable with the vehicles.",
+    "keyword": "car fine-tuning",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "The Williams team relies on preseason tests to gather data and test strategies.",
+    "keyword": "preseason tests",
+    "identity_keyword": "Williams team",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
+    "text": "Missing preseason tests can put a team at a disadvantage due to limited time to work out car issues.",
     "keyword": "sports training footage",
-    "identity_keyword": "",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "Preseason tests in Barcelona offer a chance for teams to run their cars in various conditions.",
+    "keyword": "Barcelona tests",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "Teams use preseason tests to test different setups and strategies.",
+    "keyword": "setups and strategies",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "The preseason is crucial for teams to be competitive from the start of the season.",
+    "keyword": "competitive start",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "Missing a preseason test can impact a team's overall performance and development throughout the season.",
+    "keyword": "performance and development",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "Preseason tests lay the groundwork for continuous improvement and adaptation as the season progresses.",
+    "keyword": "continuous improvement",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "The preseason is key to a team's success in the highly competitive world of Formula 1.",
+    "keyword": "success in Formula 1",
+    "identity_keyword": "teams",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "This development adds context to how teams approach the sport.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
+    "text": "The Williams team's preparation for the new season will be closely watched as they work to overcome their challenges.",
+    "keyword": "Williams team preparation",
+    "identity_keyword": "Formula 1",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
