@@ -1,103 +1,103 @@
 [
   {
     "_type": "metadata",
-    "video_title": "QB Return",
+    "video_title": "Coaching Search",
     "tags": [
-      "quarterback",
-      "injury",
-      "recovery",
-      "NFL",
-      "Super Bowl",
-      "football",
-      "sports",
-      "comeback",
-      "team"
+      "coaching search",
+      "personality tests",
+      "essays",
+      "homework",
+      "sports management",
+      "team coaching",
+      "football strategy",
+      "player assessment",
+      "team leadership"
     ],
-    "topic": "he hasnt thrown a pass since 2023 now a teams super bowl hopes hinge on his arm",
+    "topic": "browns are using essays homework personality tests in coaching search",
     "date": "January 25, 2026"
   },
   {
-    "text": "A quarterback is returning to the game after a long break",
-    "keyword": "sports training footage",
+    "text": "Introduction to the Browns' unique coaching search approach",
+    "keyword": "coaching search",
+    "identity_keyword": "Browns",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Explanation of the traditional coaching search process",
+    "keyword": "traditional search",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "The quarterback has a decent track record of performance before his layoff",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The team is easing the quarterback back into action with a solid coaching staff",
-    "keyword": "coaching staff",
+    "text": "Discussion of the use of essays and homework in the coaching search",
+    "keyword": "essays and homework",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team's strategy is to build up the quarterback's endurance and comfort with the playbook",
-    "keyword": "sports training footage",
+    "text": "Overview of the purpose of personality tests in the coaching search",
+    "keyword": "personality tests",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team's approach to player development and roster management is being questioned",
-    "keyword": "roster management",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The quarterback's return raises bigger questions about team strategy and priorities",
+    "text": "Analysis of the Browns' strategy for using unconventional methods",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The quarterback's ability to perform at a high level is being closely watched",
-    "keyword": "sports training footage",
+    "text": "Explanation of the benefits of a holistic approach to coaching searches",
+    "keyword": "holistic approach",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team's decision to count on the quarterback is a topic of debate",
-    "keyword": "sports training footage",
+    "text": "Discussion of the potential long-term implications of the Browns' approach",
+    "keyword": "long-term implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The quarterback's growth and development as a player is an opportunity for improvement",
-    "keyword": "sports training footage",
+    "text": "Overview of how teams might use innovative evaluation methods",
+    "keyword": "innovative evaluation",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team's support system is in place to help the quarterback get back up to speed",
-    "keyword": "support system",
+    "text": "Analysis of the potential impact on coaching systems and team success",
+    "keyword": "coaching systems",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The quarterback's return to the game is a complex and challenging situation",
-    "keyword": "sports training footage",
+    "text": "Explanation of the importance of finding the right fit for a coaching role",
+    "keyword": "right fit",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The story of the quarterback's return is one that will be discussed by teams and fans for years to come",
-    "keyword": "sports training footage",
+    "text": "Discussion of the potential for more effective and sustainable coaching",
+    "keyword": "effective coaching",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
+  },
+  {
+    "text": "Conclusion of the Browns' unique approach to their coaching search",
+    "keyword": "coaching search conclusion",
+    "identity_keyword": "Browns",
+    "duration": 4,
+    "visual_type": "identity"
   }
 ]
