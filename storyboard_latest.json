@@ -1,103 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Coaching Search",
+    "video_title": "NIL Deals",
     "tags": [
-      "coaching search",
-      "personality tests",
-      "essays",
-      "homework",
-      "sports management",
-      "team coaching",
-      "football strategy",
-      "player assessment",
-      "team leadership"
+      "college football",
+      "NIL deals",
+      "recruiting",
+      "sports law",
+      "student athletes",
+      "NCAA rules",
+      "football recruiting",
+      "college sports"
     ],
-    "topic": "browns are using essays homework personality tests in coaching search",
+    "topic": "dabo swinney accuses ole miss of tampering with player under nil deal",
     "date": "January 25, 2026"
   },
   {
-    "text": "Introduction to the Browns' unique coaching search approach",
-    "keyword": "coaching search",
-    "identity_keyword": "Browns",
+    "text": "Introduction to the controversy in college sports",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Explaining the NCAA's Name, Image, and Likeness policy",
+    "keyword": "NIL policy",
+    "identity_keyword": "NCAA",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Explanation of the traditional coaching search process",
-    "keyword": "traditional search",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Discussion of the use of essays and homework in the coaching search",
-    "keyword": "essays and homework",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Overview of the purpose of personality tests in the coaching search",
-    "keyword": "personality tests",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Analysis of the Browns' strategy for using unconventional methods",
+    "text": "Understanding how the NIL policy affects college athlete recruitment",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Explanation of the benefits of a holistic approach to coaching searches",
-    "keyword": "holistic approach",
+    "text": "Discussing the strategy behind NIL deals and their impact on player choice",
+    "keyword": "NIL deals",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Discussion of the potential long-term implications of the Browns' approach",
+    "text": "Coaches' concerns about the fairness of the NIL system",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The context of college sports as a multi-billion dollar industry",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The competition for top players and its implications",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Accusations of tampering and their impact on the system's integrity",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The long-term implications of the NIL policy on college sports",
     "keyword": "long-term implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Overview of how teams might use innovative evaluation methods",
-    "keyword": "innovative evaluation",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Analysis of the potential impact on coaching systems and team success",
-    "keyword": "coaching systems",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Explanation of the importance of finding the right fit for a coaching role",
-    "keyword": "right fit",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Discussion of the potential for more effective and sustainable coaching",
-    "keyword": "effective coaching",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion of the Browns' unique approach to their coaching search",
-    "keyword": "coaching search conclusion",
-    "identity_keyword": "Browns",
+    "text": "The importance of fairness and transparency in the NIL system",
+    "keyword": "fairness and transparency",
+    "identity_keyword": "NIL system",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "text": "The potential consequences of an unfair system on amateur athletics",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The values of amateur athletics and their significance in college sports",
+    "keyword": "amateur athletics values",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
