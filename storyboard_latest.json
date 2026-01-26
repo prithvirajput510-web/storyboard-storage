@@ -1,103 +1,103 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Purdue Upset",
+    "video_title": "Illini Shine",
     "tags": [
-      "Big Ten",
-      "Illini",
       "Purdue",
-      "Wagler",
-      "College Football",
+      "Illini",
+      "Big Ten",
+      "College Basketball",
+      "NCAA",
       "Sports Highlights",
       "Game Recap",
-      "Clutch Performance",
-      "Supporting Cast",
-      "Upset Victory"
+      "Team Performance",
+      "Player Grades",
+      "Basketball Analysis"
     ],
     "topic": "player grades illini supporting cast shows up in clutch to make most of waglers epic purdue performance",
     "date": "January 26, 2026"
   },
   {
-    "text": "Exploring the contributions of the rest of the team beyond the star player",
+    "text": "Introduction to the Illini's latest matchup",
     "keyword": "sports training footage",
     "identity_keyword": "Illini",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Developing a supporting cast to create a more balanced team",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
     "keyword": "sports training footage",
-    "identity_keyword": "Illini strategy",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The importance of players learning from each other and developing their skills",
-    "keyword": "player growth",
-    "identity_keyword": "",
-    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The coaching staff's role in identifying player strengths and weaknesses",
-    "keyword": "sports training footage",
-    "identity_keyword": "Illini coaching",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Using player strengths to inform the game plan and achieve success",
-    "keyword": "game planning",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The long-term impact of a strong supporting cast on a team's performance",
+    "text": "Understanding the importance of adaptability in the Illini's success",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The difference between a good team and a great team, and what sets them apart",
-    "keyword": "team greatness",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The role of a strong supporting cast in overcoming adversity and performing under pressure",
-    "keyword": "adversity response",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of team chemistry and cohesion in achieving success",
-    "keyword": "team chemistry",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The impact of a well-developed supporting cast on postseason performance",
+    "text": "The role of the coaching staff in identifying areas for contribution",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The value of a balanced team in college sports, where adaptability is key",
-    "keyword": "college sports",
+    "text": "Exploring the impact of teamwork on the Illini's long-term prospects",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The ongoing evolution of the Illini's strategy and its potential for future success",
-    "keyword": "team evolution",
-    "identity_keyword": "Illini future",
+    "text": "Analysts often study situations like this to understand broader strategies.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The significance of flexibility in the Illini's game plan",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "How the Illini's coaching staff fosters a sense of camaraderie among players",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential applications of the Illini's approach to other teams and sports",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Delving into the complexities of team sports through the Illini's example",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The value of analyzing the Illini's strategy for insights into teamwork and depth",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Conclusion on the importance of teamwork and adaptability in the Illini's success",
+    "keyword": "sports training footage",
+    "identity_keyword": "Illini's approach",
     "duration": 4,
     "visual_type": "identity"
   }
