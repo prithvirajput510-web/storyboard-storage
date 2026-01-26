@@ -6,96 +6,97 @@
       "Tennis",
       "Australian Open",
       "Grand Slam",
-      "Sports Upset",
-      "Teen Athletes",
-      "World Rankings",
-      "Tennis Tournament",
-      "Athletic Achievements",
-      "Competition Highlights"
+      "Upset",
+      "Youth Players",
+      "Sports",
+      "Competition",
+      "Racket Sports",
+      "Tennis Stars",
+      "Major Tournament"
     ],
     "topic": "tennis world stunned by teenagers unbelievable act against world no1 at aus open",
     "date": "January 26, 2026"
   },
   {
-    "text": "The Australian Open is a stage for big names in tennis to shine",
+    "text": "The Australian Open is a stage for big names in tennis",
     "keyword": "Australian Open",
-    "identity_keyword": "Tennis Tournament",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
     "text": "A teenager is making waves in the tennis world",
     "keyword": "sports training footage",
-    "identity_keyword": "Young Player",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "text": "The gap between top players and the rest is narrowing in tennis",
-    "keyword": "Tennis Landscape",
-    "identity_keyword": "Competitive Sport",
+    "text": "The sport of tennis is seeing a surge in young talent",
+    "keyword": "young talent",
+    "identity_keyword": "",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "text": "Young players are getting more opportunities to take on the best",
-    "keyword": "sports training footage",
-    "identity_keyword": "Rising Talent",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The teenager is studying the world number one's game for weaknesses",
+    "text": "Teenagers are bringing energy and competitiveness to the game",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The Australian Open is a high-pressure tournament",
-    "keyword": "Australian Open",
+    "text": "The teenager's strategy against the world's best player is bold",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The teenager's mental toughness is being tested",
-    "keyword": "Mental Toughness",
+    "text": "The teenager's playing style is aggressive and risk-taking",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The future of tennis is being shaped by young players",
-    "keyword": "Future of Tennis",
+    "text": "Young players are working with sports psychologists and coaches",
+    "keyword": "sports psychologists",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The rise of talented teenagers is exciting for the sport",
-    "keyword": "Talented Teenagers",
+    "text": "The Australian Open is a prestigious Grand Slam tournament",
+    "keyword": "Grand Slam",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The next generation of tennis players will push boundaries",
-    "keyword": "Next Generation",
+    "text": "The teenager is taking on the world's number one player with confidence",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The sport of tennis is becoming more competitive than ever",
-    "keyword": "Competitive Tennis",
+    "text": "The tennis world is seeing a shift with young players challenging the old guard",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The story of the teenager is one to watch in the tennis world",
-    "keyword": "Teenager's Story",
+    "text": "Young players are looking to take their place at the top of the sport",
+    "keyword": "top of the sport",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The story of this teenager represents the future of tennis",
+    "keyword": "future of tennis",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
