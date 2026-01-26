@@ -1,104 +1,103 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Illini Shine",
+    "video_title": "Gaethje's Rise",
     "tags": [
-      "Purdue",
-      "Illini",
-      "Big Ten",
-      "College Basketball",
-      "NCAA",
-      "Sports Highlights",
-      "Game Recap",
-      "Team Performance",
-      "Player Grades",
-      "Basketball Analysis"
+      "MMA",
+      "UFC",
+      "Fighters",
+      "Coaches",
+      "Strategies",
+      "Fights",
+      "Athletes",
+      "Training",
+      "Competition"
     ],
-    "topic": "player grades illini supporting cast shows up in clutch to make most of waglers epic purdue performance",
+    "topic": "justin gaethje admits he was surprised by his success against paddy pimblett despite coachs thoughts",
     "date": "January 26, 2026"
   },
   {
-    "text": "Introduction to the Illini's latest matchup",
+    "text": "A fighter's surprise at their own success",
     "keyword": "sports training footage",
-    "identity_keyword": "Illini",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Analyzing the lead-up to the fight",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of a coach in preparing for a fight",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
   },
   {
     "text": "This topic offers insight into how teams plan and adapt over time.",
     "keyword": "sports training footage",
     "identity_keyword": "",
-    "duration": 3,
+    "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the importance of adaptability in the Illini's success",
+    "text": "The importance of thinking on your feet",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The role of the coaching staff in identifying areas for contribution",
+    "text": "The value of humility in sports",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Exploring the impact of teamwork on the Illini's long-term prospects",
+    "text": "A growth mindset for continuous improvement",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analysts often study situations like this to understand broader strategies.",
+    "text": "The significance of experience in mixed martial arts",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The significance of flexibility in the Illini's game plan",
+    "text": "Understanding the opponent's strengths and weaknesses",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "How the Illini's coaching staff fosters a sense of camaraderie among players",
+    "text": "Developing a game plan to exploit weaknesses",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The potential applications of the Illini's approach to other teams and sports",
+    "text": "The impact of unexpected situations on a fight",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Delving into the complexities of team sports through the Illini's example",
+    "text": "The long-term implications of a fighter's surprise",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
-  },
-  {
-    "text": "The value of analyzing the Illini's strategy for insights into teamwork and depth",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion on the importance of teamwork and adaptability in the Illini's success",
-    "keyword": "sports training footage",
-    "identity_keyword": "Illini's approach",
-    "duration": 4,
-    "visual_type": "identity"
   }
 ]
