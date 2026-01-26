@@ -1,104 +1,104 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Teen Takes Down No1",
+    "video_title": "Purdue Upset",
     "tags": [
-      "Tennis",
-      "Australian Open",
-      "Grand Slam",
-      "Upset",
-      "Youth Players",
-      "Sports",
-      "Competition",
-      "Racket Sports",
-      "Tennis Stars",
-      "Major Tournament"
+      "Big Ten",
+      "Illini",
+      "Purdue",
+      "Wagler",
+      "College Football",
+      "Sports Highlights",
+      "Game Recap",
+      "Clutch Performance",
+      "Supporting Cast",
+      "Upset Victory"
     ],
-    "topic": "tennis world stunned by teenagers unbelievable act against world no1 at aus open",
+    "topic": "player grades illini supporting cast shows up in clutch to make most of waglers epic purdue performance",
     "date": "January 26, 2026"
   },
   {
-    "text": "The Australian Open is a stage for big names in tennis",
-    "keyword": "Australian Open",
-    "identity_keyword": "",
+    "text": "Exploring the contributions of the rest of the team beyond the star player",
+    "keyword": "sports training footage",
+    "identity_keyword": "Illini",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "A teenager is making waves in the tennis world",
+    "text": "Developing a supporting cast to create a more balanced team",
     "keyword": "sports training footage",
-    "identity_keyword": "",
+    "identity_keyword": "Illini strategy",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "The sport of tennis is seeing a surge in young talent",
-    "keyword": "young talent",
+    "text": "The importance of players learning from each other and developing their skills",
+    "keyword": "player growth",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Teenagers are bringing energy and competitiveness to the game",
+    "text": "The coaching staff's role in identifying player strengths and weaknesses",
+    "keyword": "sports training footage",
+    "identity_keyword": "Illini coaching",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Using player strengths to inform the game plan and achieve success",
+    "keyword": "game planning",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The long-term impact of a strong supporting cast on a team's performance",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The teenager's strategy against the world's best player is bold",
+    "text": "The difference between a good team and a great team, and what sets them apart",
+    "keyword": "team greatness",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of a strong supporting cast in overcoming adversity and performing under pressure",
+    "keyword": "adversity response",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of team chemistry and cohesion in achieving success",
+    "keyword": "team chemistry",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The impact of a well-developed supporting cast on postseason performance",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The teenager's playing style is aggressive and risk-taking",
-    "keyword": "sports training footage",
+    "text": "The value of a balanced team in college sports, where adaptability is key",
+    "keyword": "college sports",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Young players are working with sports psychologists and coaches",
-    "keyword": "sports psychologists",
-    "identity_keyword": "",
+    "text": "The ongoing evolution of the Illini's strategy and its potential for future success",
+    "keyword": "team evolution",
+    "identity_keyword": "Illini future",
     "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The Australian Open is a prestigious Grand Slam tournament",
-    "keyword": "Grand Slam",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The teenager is taking on the world's number one player with confidence",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The tennis world is seeing a shift with young players challenging the old guard",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Young players are looking to take their place at the top of the sport",
-    "keyword": "top of the sport",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The story of this teenager represents the future of tennis",
-    "keyword": "future of tennis",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   }
 ]
