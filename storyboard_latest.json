@@ -1,100 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Gaethje's Rise",
+    "video_title": "NBA Games Postponed",
     "tags": [
-      "MMA",
-      "UFC",
-      "Fighters",
-      "Coaches",
-      "Strategies",
-      "Fights",
-      "Athletes",
-      "Training",
-      "Competition"
+      "NBA",
+      "Grizzlies",
+      "Nuggets",
+      "Mavericks",
+      "Bucks",
+      "Winter Storm",
+      "Basketball",
+      "Sports",
+      "Games",
+      "Postponements"
     ],
-    "topic": "justin gaethje admits he was surprised by his success against paddy pimblett despite coachs thoughts",
+    "topic": "nba postpones grizzliesnuggets mavsbucks games because of the winter storm",
     "date": "January 26, 2026"
   },
   {
-    "text": "A fighter's surprise at their own success",
+    "text": "Recent NBA games have been postponed due to a winter storm.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing the lead-up to the fight",
-    "keyword": "sports training footage",
+    "text": "The storm has affected areas where some teams are based.",
+    "keyword": "winter storm",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "The role of a coach in preparing for a fight",
+    "text": "The NBA schedule requires careful planning and coordination.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "text": "Severe weather conditions impact the ability to travel and play games.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The importance of thinking on your feet",
+    "text": "The Grizzlies, Nuggets, Mavericks, and Bucks are affected by the storm.",
+    "keyword": "sports training footage",
+    "identity_keyword": "Grizzlies",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The NBA has postponed games to a later date to ensure safety.",
+    "keyword": "postponed games",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The league works with teams, arenas, and local authorities to monitor the situation.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The value of humility in sports",
+    "text": "The NBA prioritizes the safety of players, staff, and fans.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "A growth mindset for continuous improvement",
+    "text": "The approach to handling weather-related issues sets a precedent for the future.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The significance of experience in mixed martial arts",
+    "text": "Flexibility and adaptability are crucial for the league's success.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the opponent's strengths and weaknesses",
+    "text": "The NBA's strategy helps minimize disruptions to the schedule.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Developing a game plan to exploit weaknesses",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The impact of unexpected situations on a fight",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The long-term implications of a fighter's surprise",
+    "text": "The league's handling of weather-related issues ensures long-term stability.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
