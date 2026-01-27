@@ -1,102 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "NBA Games Postponed",
+    "video_title": "Coaching Call",
     "tags": [
-      "NBA",
-      "Grizzlies",
-      "Nuggets",
-      "Mavericks",
-      "Bucks",
-      "Winter Storm",
-      "Basketball",
-      "Sports",
-      "Games",
-      "Postponements"
+      "NFL",
+      "Sean Payton",
+      "Broncos",
+      "Super Bowl",
+      "Football Strategy",
+      "Coaching Decisions",
+      "Game Plan",
+      "Sports Analysis",
+      "Football Coaching"
     ],
-    "topic": "nba postpones grizzliesnuggets mavsbucks games because of the winter storm",
-    "date": "January 26, 2026"
+    "topic": "sean payton coached way out of super bowl with unthinkable decision when broncos needed him most",
+    "date": "January 27, 2026"
   },
   {
-    "text": "Recent NBA games have been postponed due to a winter storm.",
-    "keyword": "sports training footage",
+    "text": "A single decision can change the trajectory of a game",
+    "keyword": "game-changing decision",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "The storm has affected areas where some teams are based.",
-    "keyword": "winter storm",
+    "text": "Analyzing a play call by Sean Payton",
+    "keyword": "play call analysis",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "The NBA schedule requires careful planning and coordination.",
+    "text": "Understanding the context of the game",
+    "keyword": "game context",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The Broncos relied on Payton's experience and expertise",
+    "keyword": "coach's expertise",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The play call seemed to go against the team's strengths",
+    "keyword": "strategic mistake",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "A high-pressure situation required a spot-on decision",
+    "keyword": "pressure situation",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Payton might have outsmarted himself with the play call",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Severe weather conditions impact the ability to travel and play games.",
-    "keyword": "sports training footage",
+    "text": "The decision affected the team's rhythm and mindset",
+    "keyword": "team psychology",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The Grizzlies, Nuggets, Mavericks, and Bucks are affected by the storm.",
-    "keyword": "sports training footage",
-    "identity_keyword": "Grizzlies",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The NBA has postponed games to a later date to ensure safety.",
-    "keyword": "postponed games",
+    "text": "The opposing team gained an advantage from the decision",
+    "keyword": "opponent's advantage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The league works with teams, arenas, and local authorities to monitor the situation.",
-    "keyword": "sports training footage",
+    "text": "Even the best coaches can make mistakes",
+    "keyword": "coaching mistakes",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The NBA prioritizes the safety of players, staff, and fans.",
-    "keyword": "sports training footage",
+    "text": "The decision will be analyzed and discussed for a long time",
+    "keyword": "post-game analysis",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The approach to handling weather-related issues sets a precedent for the future.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Flexibility and adaptability are crucial for the league's success.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The NBA's strategy helps minimize disruptions to the schedule.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The league's handling of weather-related issues ensures long-term stability.",
-    "keyword": "sports training footage",
+    "text": "The experience will impact Payton's future coaching approach",
+    "keyword": "coaching growth",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
