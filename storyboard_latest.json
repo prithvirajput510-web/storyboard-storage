@@ -1,101 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "FIFA Boycott",
+    "video_title": "World Cup Debate",
     "tags": [
-      "Soccer",
       "FIFA",
       "World Cup",
-      "Sports Politics",
-      "US Soccer",
-      "International Football",
-      "Sepp Blatter",
-      "Football Controversy",
-      "Global Sports"
+      "Soccer",
+      "Sports",
+      "Tournaments",
+      "Football",
+      "International",
+      "US Sports",
+      "Global Events",
+      "Athletics"
     ],
     "topic": "exfifa president sepp blatter joins those calling for boycott of world cup in united states",
     "date": "January 28, 2026"
   },
   {
-    "text": "Introduction to a surprising call for a World Cup boycott",
-    "keyword": "sports training footage",
-    "identity_keyword": "former FIFA president",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Understanding the history of the World Cup and FIFA's host country relationships",
-    "keyword": "World Cup history",
+    "text": "Introduction to the World Cup controversy",
+    "keyword": "World Cup",
     "identity_keyword": "FIFA",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Analyzing the factors behind the boycott call, including host country selection criteria",
-    "keyword": "host country selection",
-    "identity_keyword": "FIFA decisions",
+    "text": "Exploring the history of FIFA and the World Cup",
+    "keyword": "FIFA history",
+    "identity_keyword": "Controversy",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Understanding the call for a boycott",
+    "keyword": "sports training footage",
+    "identity_keyword": "Reform",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Examining the role of stadium infrastructure in host country selection",
-    "keyword": "stadium infrastructure",
+    "text": "Analyzing Sepp Blatter's role in the boycott",
+    "keyword": "Sepp Blatter",
+    "identity_keyword": "FIFA leadership",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The significance of the boycott in the soccer community",
+    "keyword": "Soccer community",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Considering the impact of financial resources on host country selection",
-    "keyword": "financial resources",
+    "text": "The World Cup as a global phenomenon",
+    "keyword": "Global phenomenon",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Discussing the influence of human rights records on host country selection",
-    "keyword": "human rights records",
+    "text": "The importance of addressing issues like fairness and equality",
+    "keyword": "Fairness and equality",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Exploring the role of politics and diplomacy in international soccer",
-    "keyword": "sports politics",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Understanding how influential figures use their power to shape the sport",
-    "keyword": "influential figures",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Considering the potential use of boycotts as a strategic tool in sports",
+    "text": "The potential consequences of actions taken during the World Cup",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing the potential long-term implications of a World Cup boycott",
-    "keyword": "boycott implications",
+    "text": "The need for conversation and consideration of actions",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Examining the potential impact on the sport of soccer and its organization",
-    "keyword": "soccer organization",
+    "text": "The role of FIFA in shaping the values and priorities of the World Cup",
+    "keyword": "FIFA's role",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Reflecting on the complex interplay of sports, politics, and diplomacy in the global sports landscape",
-    "keyword": "global sports landscape",
+    "text": "The impact of the World Cup on the sport and society as a whole",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The long-term implications of the World Cup controversy",
+    "keyword": "Long-term implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
