@@ -1,102 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "World Cup Debate",
+    "video_title": "FIFA Boycott",
     "tags": [
-      "FIFA",
-      "World Cup",
       "Soccer",
+      "World Cup",
+      "FIFA",
       "Sports",
-      "Tournaments",
       "Football",
-      "International",
-      "US Sports",
-      "Global Events",
-      "Athletics"
+      "Tournaments",
+      "Games",
+      "Athletes",
+      "Stadiums",
+      "Teams"
     ],
     "topic": "exfifa president sepp blatter joins those calling for boycott of world cup in united states",
     "date": "January 28, 2026"
   },
   {
-    "text": "Introduction to the World Cup controversy",
-    "keyword": "World Cup",
+    "text": "Introduction to the FIFA World Cup controversy",
+    "keyword": "FIFA World Cup",
+    "identity_keyword": "Sepp Blatter",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "History of the World Cup and surrounding issues",
+    "keyword": "World Cup history",
     "identity_keyword": "FIFA",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Exploring the history of FIFA and the World Cup",
-    "keyword": "FIFA history",
-    "identity_keyword": "Controversy",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Understanding the call for a boycott",
+    "text": "Sepp Blatter's decision to join the boycott call",
     "keyword": "sports training footage",
-    "identity_keyword": "Reform",
+    "identity_keyword": "Sepp Blatter",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Analyzing Sepp Blatter's role in the boycott",
-    "keyword": "Sepp Blatter",
-    "identity_keyword": "FIFA leadership",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "FIFA leadership",
+    "identity_keyword": "Sepp Blatter",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The significance of the boycott in the soccer community",
-    "keyword": "Soccer community",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The World Cup as a global phenomenon",
-    "keyword": "Global phenomenon",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of addressing issues like fairness and equality",
-    "keyword": "Fairness and equality",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The potential consequences of actions taken during the World Cup",
+    "text": "Analysts often study situations like this to understand broader strategies.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The need for conversation and consideration of actions",
-    "keyword": "sports training footage",
+    "text": "Aim to raise awareness and push for change",
+    "keyword": "Social justice",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The role of FIFA in shaping the values and priorities of the World Cup",
-    "keyword": "FIFA's role",
+    "text": "Impact of the boycott on FIFA and the host country",
+    "keyword": "FIFA response",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The impact of the World Cup on the sport and society as a whole",
-    "keyword": "sports training footage",
+    "text": "Moments like this help explain how modern sports continue to evolve.",
+    "keyword": "Global impact",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The long-term implications of the World Cup controversy",
-    "keyword": "Long-term implications",
+    "text": "The role of big sporting events in shaping global perspectives",
+    "keyword": "Sporting events",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of considering the broader implications",
+    "keyword": "Global awareness",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The need for critical thinking and engagement",
+    "keyword": "Critical thinking",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Moving forward with a nuanced understanding of the issues",
+    "keyword": "Informed discussion",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
