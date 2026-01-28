@@ -1,102 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Coach Glenn",
+    "video_title": "Cadillac F1 Issues",
     "tags": [
-      "football",
-      "coaching",
-      "NFL",
-      "sports",
-      "teams",
-      "players",
-      "training",
-      "leadership",
-      "tactics",
-      "analysis"
+      "F1 racing",
+      "Cadillac team",
+      "Formula One",
+      "racing issues",
+      "sports cars",
+      "racing teams",
+      "Formula 1",
+      "motorsport",
+      "racing problems"
     ],
-    "topic": "despite being 314 jets still believe in coach aaron glenn",
+    "topic": "where a lot of issues really leaves cadillacs f1 team",
     "date": "January 28, 2026"
   },
   {
-    "text": "Introduction to the New York Jets and their coach Aaron Glenn",
-    "keyword": "Team Overview",
-    "identity_keyword": "New York Jets",
+    "text": "Introduction to the Cadillac F1 team's journey",
+    "keyword": "Cadillac F1 team",
+    "identity_keyword": "Formula 1",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Exploring the reasons behind the team's faith in Coach Glenn",
-    "keyword": "Coach Background",
-    "identity_keyword": "Aaron Glenn",
+    "text": "Exploring the team's background and establishment in F1",
+    "keyword": "team background",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "text": "Coach Glenn's experience in the league and work with top teams",
-    "keyword": "Coach Experience",
-    "identity_keyword": "League Experience",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Importance of teamwork, communication, and trust among players",
-    "keyword": "Team Culture",
-    "identity_keyword": "Teamwork",
+    "text": "Understanding the challenges faced by the Cadillac team",
+    "keyword": "sports training footage",
+    "identity_keyword": "F1 landscape",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Coach Glenn's approach to building a strong team culture",
-    "keyword": "Culture Building",
+    "text": "The importance of building a strong team in F1",
+    "keyword": "team building",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Adapting and evolving strategy in a competitive sports landscape",
-    "keyword": "Strategic Adaptation",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The value of having a coach with the trust and support of the team",
-    "keyword": "Coach Trust",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Attracting and retaining top talent with a sustainable winning culture",
-    "keyword": "Talent Acquisition",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of a sustainable winning culture for long-term success",
+    "text": "Developing a competitive car in the world of F1",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Coach Glenn's unique perspective on the game and skills to develop a winning strategy",
-    "keyword": "Coach Perspective",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The role of Coach Glenn in shaping the team's future and achieving success",
-    "keyword": "Coach Impact",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion on the New York Jets' faith in Coach Aaron Glenn",
+    "text": "Cadillac's focus on innovation and technological advancement",
     "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Investing in key areas such as aerodynamics and engine development",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of data analysis in F1 success",
+    "keyword": "data analysis",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Collaboration and partnership in the F1 world",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Sharing knowledge and resources with other teams and experts",
+    "keyword": "knowledge sharing",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The impact of innovation and collaboration on F1 success",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The lasting impact of F1 teams on the sport and future generations",
+    "keyword": "lasting impact",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
