@@ -1,101 +1,100 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Tennis Upsets",
+    "video_title": "Soccer Politics",
     "tags": [
-      "Grand Slam",
-      "Tennis",
-      "Australian Open",
-      "Sports",
-      "Champions",
-      "Competition",
-      "Athletes",
-      "Racket Sports",
-      "Tournaments",
-      "Players"
+      "FIFA",
+      "World Cup",
+      "Sports Diplomacy",
+      "European Football",
+      "US Soccer",
+      "International Relations",
+      "Boycott",
+      "Global Sports",
+      "Soccer Governance"
     ],
-    "topic": "tennis world in disbelief after eighttime grand slam winners wiped out of aus open in hours",
+    "topic": "column  clamor is growing in europe to boycott trumps world cup",
     "date": "January 29, 2026"
   },
   {
-    "text": "The tennis world is full of surprises, with stunning events at the Australian Open",
-    "keyword": "Australian Open",
-    "identity_keyword": "Tennis",
+    "text": "Introduction to the World Cup's entanglement in international politics",
+    "keyword": "World Cup",
+    "identity_keyword": "Global Events",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "The Australian Open is a prestigious Grand Slam tournament",
-    "keyword": "Grand Slam",
-    "identity_keyword": "Tennis",
+    "text": "Exploring the history of the World Cup and its connection to global politics",
+    "keyword": "sports training footage",
+    "identity_keyword": "Sports and Politics",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Strategy plays a huge role in competing at the Australian Open",
+    "text": "The current situation in Europe and the call to boycott the World Cup",
     "keyword": "sports training footage",
-    "identity_keyword": "Competition",
+    "identity_keyword": "European Politics",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Top players use various techniques to gain an edge",
-    "keyword": "sports training footage",
-    "identity_keyword": "Athletes",
+    "text": "Donald Trump's involvement with the World Cup and its implications",
+    "keyword": "Donald Trump",
+    "identity_keyword": "Influence and Power",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The Australian Open attracts skilled and dedicated athletes",
+    "text": "The values and principles represented by the World Cup and its alignment with countries and organizations",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Each player has a unique style and approach to the game",
-    "keyword": "Player styles",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The tennis world is always evolving",
+    "text": "The strategy behind the boycott and its goals",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Events at the Australian Open impact the sport as a whole",
+    "text": "The complexities of using the World Cup as a platform for making statements",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The Australian Open shapes the careers of players",
+    "text": "The potential long-term implications of the boycott on the World Cup and the sporting community",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The tournament influences the development of new talent",
-    "keyword": "New talent",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The Australian Open keeps the sport fresh and exciting",
+    "text": "The significance of the World Cup in shaping values and principles in the sporting community",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The Australian Open is a major event for fans around the world",
+    "text": "The role of countries and organizations in navigating complex issues like politics and human rights",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential precedent set by the boycott for future sporting events and international relations",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The fascination of the story as it unfolds, beyond just a sporting event",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
