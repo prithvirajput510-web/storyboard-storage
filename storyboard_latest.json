@@ -1,101 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Soccer Politics",
+    "video_title": "Monken's Plan",
     "tags": [
-      "World Cup",
-      "Sports",
-      "Europe",
-      "Boycott",
-      "Football",
-      "Trump",
-      "Soccer",
-      "International",
-      "Tournament"
+      "NFL",
+      "coaches",
+      "football strategy",
+      "team management",
+      "Browns",
+      "offense",
+      "defense",
+      "team leadership",
+      "player development"
     ],
-    "topic": "column  clamor is growing in europe to boycott trumps world cup",
+    "topic": "browns hire todd monken as head coach",
     "date": "January 29, 2026"
   },
   {
-    "text": "Global events like the World Cup can become a focal point for international politics and social movements.",
-    "keyword": "World Cup",
-    "identity_keyword": "International Politics",
+    "text": "The Browns have made an interesting decision by hiring a new head coach.",
+    "keyword": "new head coach",
+    "identity_keyword": "Browns",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "The World Cup is more than just a competition between national teams, with social and political issues often intersecting with the tournament.",
-    "keyword": "Social Issues",
-    "identity_keyword": "Global Event",
+    "text": "To understand this move, let's look at the new head coach's background.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
     "duration": 3,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "text": "A growing clamor in Europe to boycott the tournament due to concerns over the values and policies of the host nation.",
-    "keyword": "sports training footage",
-    "identity_keyword": "European Concerns",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The strategy behind boycotts involves leveraging the cultural and economic influence of the World Cup to bring attention to specific issues.",
-    "keyword": "sports training footage",
-    "identity_keyword": "Social Justice",
+    "text": "The new head coach has experience as an offensive coordinator in the NFL.",
+    "keyword": "offensive coordinator",
+    "identity_keyword": "NFL",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The boycott is being driven by concerns over the policies and actions of the host nation's leadership.",
-    "keyword": "Host Nation",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The context for this boycott is complex, involving historical, political, and social factors.",
-    "keyword": "Complex Context",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Disagreements over issues like trade, security, and human rights have contributed to the current tensions.",
-    "keyword": "International Tensions",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The World Cup has become a focal point for these tensions, with many seeing the tournament as an opportunity to make a statement.",
-    "keyword": "Focal Point",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The potential boycott of the World Cup highlights the role that sports can play in shaping international relations and global discourse.",
-    "keyword": "Sports Diplomacy",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Events like the World Cup can serve as a platform for promoting social change, cultural exchange, and diplomatic engagement.",
-    "keyword": "Social Change",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Understanding these dynamics can provide valuable insights into the complex relationship between sports, politics, and society.",
-    "keyword": "Complex Relationship",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The intersection of sports, culture, and geopolitics is a multifaceted issue that requires careful consideration and analysis.",
+    "text": "The team is hoping the new head coach can bring expertise to their offense.",
     "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The team is looking to shake things up with a new approach.",
+    "keyword": "new approach",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The new head coach's experience could bring a fresh perspective to the team's playbook.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The new head coach will be responsible for making big decisions and setting the tone for the team.",
+    "keyword": "big decisions",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The hiring of the new head coach could impact the team's overall culture and dynamics.",
+    "keyword": "culture and dynamics",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The new head coach's interaction with players and coaches will be important to watch.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The team's overall chemistry could be affected by the new head coach.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The hiring decision could have long-term implications for the team.",
+    "keyword": "long-term implications",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The team's new chapter in history is worth keeping an eye on.",
+    "keyword": "new chapter",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
