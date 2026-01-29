@@ -1,101 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Monken's Plan",
+    "video_title": "Reed's Return",
     "tags": [
-      "NFL",
-      "coaches",
-      "football strategy",
-      "team management",
-      "Browns",
-      "offense",
-      "defense",
-      "team leadership",
-      "player development"
+      "Golf",
+      "PGA Tour",
+      "Patrick Reed",
+      "Sports News",
+      "Golfers",
+      "Tournaments",
+      "Competition",
+      "Athletes",
+      "Golfing",
+      "Season"
     ],
-    "topic": "browns hire todd monken as head coach",
+    "topic": "patrick reed announces plan to return to pga tour eyes status for 2027 season",
     "date": "January 29, 2026"
   },
   {
-    "text": "The Browns have made an interesting decision by hiring a new head coach.",
-    "keyword": "new head coach",
-    "identity_keyword": "Browns",
+    "text": "Introduction to Patrick Reed's future plans",
+    "keyword": "sports training footage",
+    "identity_keyword": "Patrick Reed",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "To understand this move, let's look at the new head coach's background.",
-    "keyword": "sports training footage",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "golf career",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "The new head coach has experience as an offensive coordinator in the NFL.",
-    "keyword": "offensive coordinator",
-    "identity_keyword": "NFL",
+    "text": "Decision to leave the PGA Tour",
+    "keyword": "PGA Tour",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Debate among golf fans and commentators",
+    "keyword": "golf debate",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Plan to return to the PGA Tour",
+    "keyword": "PGA Tour return",
+    "identity_keyword": "Patrick Reed's strategy",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The team is hoping the new head coach can bring expertise to their offense.",
+    "text": "Regaining status as a top golfer",
+    "keyword": "top golfer",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Analysts often study situations like this to understand broader strategies.",
+    "keyword": "golf tournaments",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Scheduling and preparation for the season",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team is looking to shake things up with a new approach.",
-    "keyword": "new approach",
+    "text": "Balancing time between tournaments and events",
+    "keyword": "tournament balance",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The new head coach's experience could bring a fresh perspective to the team's playbook.",
+    "text": "Moments like this help explain how modern sports continue to evolve.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The new head coach will be responsible for making big decisions and setting the tone for the team.",
-    "keyword": "big decisions",
-    "identity_keyword": "",
+    "text": "Broader implications for the golf world",
+    "keyword": "golf world implications",
+    "identity_keyword": "PGA Tour response",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "The hiring of the new head coach could impact the team's overall culture and dynamics.",
-    "keyword": "culture and dynamics",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The new head coach's interaction with players and coaches will be important to watch.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The team's overall chemistry could be affected by the new head coach.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The hiring decision could have long-term implications for the team.",
-    "keyword": "long-term implications",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The team's new chapter in history is worth keeping an eye on.",
-    "keyword": "new chapter",
+    "text": "This perspective highlights decision-making at the professional level.",
+    "keyword": "golf integrity",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
