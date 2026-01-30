@@ -1,100 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "pro football hall of fame releases statement amid belichick snub",
+    "video_title": "F1 Testing",
     "tags": [
-      "football",
-      "coaches",
-      "NFL",
-      "legends",
-      "sports history",
-      "athletes",
-      "teams",
-      "league"
+      "Formula 1",
+      "Barcelona Test",
+      "Preseason",
+      "Racing",
+      "Cars",
+      "Drivers",
+      "Teams",
+      "Track",
+      "Testing",
+      "Season Prep"
     ],
-    "topic": "pro football hall of fame releases statement amid belichick snub",
+    "topic": "2026 f1 barcelona preseason test",
     "date": "January 30, 2026"
   },
   {
-    "text": "Introduction to the Pro Football Hall of Fame announcement",
-    "keyword": "Hall of Fame",
-    "identity_keyword": "Pro Football",
+    "text": "Preseason preparations for Formula 1 teams",
+    "keyword": "sports training footage",
+    "identity_keyword": "F1 Teams",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Explaining the selection process for coaches",
-    "keyword": "selection process",
-    "identity_keyword": "",
+    "text": "Teams bring their new cars to the track for testing",
+    "keyword": "Car Testing",
+    "identity_keyword": "F1 Cars",
     "duration": 3,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "Discussing the factors considered for coach selection",
-    "keyword": "win-loss record",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Understanding the challenges of comparing coaches across eras",
-    "keyword": "different eras",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Introducing Bill Belichick's career and achievements",
+    "text": "Drivers get comfortable with new machinery",
     "keyword": "sports training footage",
-    "identity_keyword": "NFL history",
+    "identity_keyword": "F1 Drivers",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Explaining the broader impact on the sport beyond individual achievement",
-    "keyword": "broader impact",
+    "text": "Teams fine-tune strategies and make adjustments",
+    "keyword": "sports training footage",
+    "identity_keyword": "Team Strategy",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Gathering data and trying different setups",
+    "keyword": "Data Analysis",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Considering how coaches influence the game and its evolution",
+    "text": "Experimenting with tire compounds and pit stop routines",
+    "keyword": "Tire Testing",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Perfecting communication systems for smooth operations",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Discussing the long-term implications of the Hall of Fame selection process",
-    "keyword": "long term",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "Resource Management",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Raising questions about evaluating greatness and recognizing contributions",
-    "keyword": "evaluating greatness",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Reflecting on the conversation around Belichick's potential inclusion",
+    "text": "Making strategic decisions about testing and competition",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the significance of the Hall of Fame in preserving the sport's history",
-    "keyword": "preserving history",
+    "text": "Preseason testing impact on the season's performance",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Conclusion on the importance of the Hall of Fame selection process",
-    "keyword": "sports training footage",
+    "text": "Understanding the preseason test for insights into F1",
+    "keyword": "F1 Insights",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The intricate dance between teams, drivers, and cars in F1",
+    "keyword": "F1 Dynamics",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
