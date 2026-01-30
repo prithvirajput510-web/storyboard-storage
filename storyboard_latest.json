@@ -1,66 +1,50 @@
 [
   {
     "_type": "metadata",
-    "video_title": "F1 Testing",
+    "video_title": "2026 f1 barcelona preseason test",
     "tags": [
-      "Formula 1",
-      "Barcelona Test",
-      "Preseason",
-      "Racing",
-      "Cars",
-      "Drivers",
-      "Teams",
-      "Track",
-      "Testing",
-      "Season Prep"
+      "formula one",
+      "barcelona",
+      "preseason",
+      "testing",
+      "f1 cars",
+      "racing teams",
+      "driver analysis",
+      "track conditions"
     ],
     "topic": "2026 f1 barcelona preseason test",
     "date": "January 30, 2026"
   },
   {
-    "text": "Preseason preparations for Formula 1 teams",
-    "keyword": "sports training footage",
-    "identity_keyword": "F1 Teams",
+    "text": "Introduction to the Formula 1 preseason test",
+    "keyword": "preseason test",
+    "identity_keyword": "Formula 1",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Teams bring their new cars to the track for testing",
-    "keyword": "Car Testing",
-    "identity_keyword": "F1 Cars",
+    "text": "Importance of the Barcelona preseason test",
+    "keyword": "Barcelona test",
+    "identity_keyword": "Formula 1 calendar",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Drivers get comfortable with new machinery",
-    "keyword": "sports training footage",
-    "identity_keyword": "F1 Drivers",
+    "text": "Teams preparing for the new season",
+    "keyword": "new season",
+    "identity_keyword": "Formula 1 teams",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Teams fine-tune strategies and make adjustments",
-    "keyword": "sports training footage",
-    "identity_keyword": "Team Strategy",
+    "text": "Shaking down new cars and testing components",
+    "keyword": "new cars",
+    "identity_keyword": "Formula 1 vehicles",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Gathering data and trying different setups",
-    "keyword": "Data Analysis",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Experimenting with tire compounds and pit stop routines",
-    "keyword": "Tire Testing",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Perfecting communication systems for smooth operations",
+    "text": "Drivers getting accustomed to the car's handling",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
@@ -68,35 +52,49 @@
   },
   {
     "text": "This topic offers insight into how teams plan and adapt over time.",
-    "keyword": "Resource Management",
+    "keyword": "car optimization",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Making strategic decisions about testing and competition",
+    "text": "Analysts often study situations like this to understand broader strategies.",
+    "keyword": "driver evaluation",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Complex process of planning and execution",
+    "keyword": "preseason planning",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Impact of preseason test on the season",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Preseason testing impact on the season's performance",
-    "keyword": "sports training footage",
+    "text": "Teams' effort to get everything right",
+    "keyword": "team effort",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the preseason test for insights into F1",
-    "keyword": "F1 Insights",
+    "text": "Preseason test setting the tone for the year",
+    "keyword": "preseason tone",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The intricate dance between teams, drivers, and cars in F1",
-    "keyword": "F1 Dynamics",
+    "text": "Difference between a successful and disappointing campaign",
+    "keyword": "season outcome",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
