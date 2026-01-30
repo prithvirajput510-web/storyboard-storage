@@ -10,90 +10,92 @@
       "Sports",
       "Athletes",
       "Combat",
-      "Training"
+      "Training",
+      "Rivalries",
+      "Fights"
     ],
     "topic": "video khamzat chimaev confronts fighter after near brawl with teammate",
     "date": "January 30, 2026"
   },
   {
-    "text": "Introduction to the intense confrontation between Khamzat Chimaev and another fighter",
+    "text": "Introduction to the confrontation between Khamzat Chimaev and another fighter",
     "keyword": "sports training footage",
     "identity_keyword": "Khamzat Chimaev",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Khamzat Chimaev's background and fighting style",
-    "keyword": "fighting style",
+    "text": "Khamzat Chimaev's background and rise in mixed martial arts",
+    "keyword": "mixed martial arts",
     "identity_keyword": "Khamzat Chimaev",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "The situation that led to the confrontation between teammates",
+    "text": "The situation leading to the confrontation between fighters",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential brawl and its resolution",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The impact of drama on a fighter's training and focus",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of mental toughness in mixed martial arts",
+    "keyword": "mental toughness",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The challenge of staying focused amidst conflicts and drama",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The significance of the mental game in a fighter's career",
+    "keyword": "mental game",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of strategy in navigating conflicts and drama",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential effects of the confrontation on Khamzat Chimaev's performance",
     "keyword": "sports training footage",
     "identity_keyword": "Khamzat Chimaev",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The strategy behind Chimaev's actions and the role of teamwork",
-    "keyword": "sports training footage",
-    "identity_keyword": "Khamzat Chimaev",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The importance of respect and authority in the fighting community",
-    "keyword": "sports training footage",
+    "text": "The broader implications of the situation on the world of mixed martial arts",
+    "keyword": "mixed martial arts",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The impact of intense rivalries and confrontations on the sport",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The complex world of professional fighting and athlete expectations",
-    "keyword": "professional fighting",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The culture and values of the sport and their impact on fighters",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The evolution and growth of the sport and its implications",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The significance of the incident and its long-term implications",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of fans and observers paying attention to the sport's culture",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion and final thoughts on the story behind the scene",
+    "text": "Conclusion and final thoughts on the confrontation and its significance",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
