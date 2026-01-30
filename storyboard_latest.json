@@ -8,92 +8,92 @@
       "NFL",
       "legends",
       "sports history",
-      "hall of fame",
-      "coaching records",
-      "player development"
+      "athletes",
+      "teams",
+      "league"
     ],
     "topic": "pro football hall of fame releases statement amid belichick snub",
     "date": "January 30, 2026"
   },
   {
-    "text": "Introduction to the Pro Football Hall of Fame",
+    "text": "Introduction to the Pro Football Hall of Fame announcement",
     "keyword": "Hall of Fame",
-    "identity_keyword": "Institution",
+    "identity_keyword": "Pro Football",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Explaining the Hall of Fame selection process",
-    "keyword": "Selection Process",
-    "identity_keyword": "Rigorous",
+    "text": "Explaining the selection process for coaches",
+    "keyword": "selection process",
+    "identity_keyword": "",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Discussing the factors considered for coach selection",
+    "keyword": "win-loss record",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Understanding the challenges of comparing coaches across eras",
+    "keyword": "different eras",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Introducing Bill Belichick's career and achievements",
+    "keyword": "sports training footage",
+    "identity_keyword": "NFL history",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Discussing a notable coach, Bill Belichick",
-    "keyword": "Bill Belichick",
-    "identity_keyword": "Coach",
+    "text": "Explaining the broader impact on the sport beyond individual achievement",
+    "keyword": "broader impact",
+    "identity_keyword": "",
     "duration": 4,
-    "visual_type": "identity"
+    "visual_type": "emotion"
   },
   {
-    "text": "Evaluating the coach's legacy and impact on the sport",
-    "keyword": "sports training footage",
-    "identity_keyword": "Complex",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Understanding the Hall of Fame's statement on the matter",
+    "text": "Considering how coaches influence the game and its evolution",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing the importance of a coach's leadership style",
-    "keyword": "Leadership Style",
+    "text": "Discussing the long-term implications of the Hall of Fame selection process",
+    "keyword": "long term",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Considering the role of player relationships in a coach's career",
-    "keyword": "Player Relationships",
+    "text": "Raising questions about evaluating greatness and recognizing contributions",
+    "keyword": "evaluating greatness",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Examining the impact of off-field controversies on a coach's legacy",
-    "keyword": "Off-field Controversies",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Reflecting on the significance of the Hall of Fame's decisions",
+    "text": "Reflecting on the conversation around Belichick's potential inclusion",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the connection between sports heroes and societal values",
-    "keyword": "Sports Heroes",
+    "text": "Understanding the significance of the Hall of Fame in preserving the sport's history",
+    "keyword": "preserving history",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The role of the Pro Football Hall of Fame in preserving the sport's history",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion on the importance of the Hall of Fame's role in the sport",
+    "text": "Conclusion on the importance of the Hall of Fame selection process",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
