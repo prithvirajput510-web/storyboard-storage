@@ -1,101 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Vonn's Downhill Crash",
+    "video_title": "Euro Showdown",
     "tags": [
-      "alpine skiing",
-      "downhill racing",
-      "injury report",
-      "olympic sports",
-      "skiing accidents",
-      "winter sports",
-      "world cup skiing",
-      "athlete safety",
-      "mountain racing"
+      "Europa League",
+      "Celtic",
+      "Stuttgart",
+      "Nottingham Forest",
+      "Fenerbahce",
+      "Football",
+      "Soccer",
+      "European Football",
+      "Club Competitions"
     ],
-    "topic": "lindsey vonn airlifted from course after crash in final downhill before the olympics",
+    "topic": "europa league draw celtic v stuttgart nottingham forest v fenerbahce",
     "date": "January 31, 2026"
   },
   {
-    "text": "High-speed sports like downhill skiing demand precision and focus",
-    "keyword": "downhill skiing",
+    "text": "Introduction to the Europa League draw",
+    "keyword": "Europa League",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Small mistakes can have significant consequences in high-stakes competitions",
-    "keyword": "sports training footage",
+    "text": "Explaining the draw process and its significance",
+    "keyword": "draw process",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Lindsey Vonn is a highly accomplished athlete with a long history of competing at the highest level",
-    "keyword": "Lindsey Vonn",
+    "text": "History of the Europa League and its impact",
+    "keyword": "Europa League history",
+    "identity_keyword": "European competitions",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Analyzing the Celtic versus Stuttgart matchup",
+    "keyword": "Celtic vs Stuttgart",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Every training run counts, especially when preparing for major events like the Olympics",
-    "keyword": "sports training footage",
+    "text": "Examining the Nottingham Forest versus Fenerbahce matchup",
+    "keyword": "Nottingham Forest vs Fenerbahce",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Downhill skiing requires a combination of strength, agility, and strategic thinking",
-    "keyword": "downhill skiing",
+    "text": "Tactical planning and preparation for the matchups",
+    "keyword": "tactical planning",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Athletes must be able to read the course, anticipate challenges, and make quick decisions to succeed",
-    "keyword": "sports training footage",
+    "text": "Considering external factors that impact team performance",
+    "keyword": "external factors",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "This topic offers insight into how teams plan and adapt over time.",
-    "keyword": "injury recovery",
+    "text": "The long-term implications of the matchups",
+    "keyword": "long-term implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing performance and equipment can help identify areas for improvement and develop a winning strategy",
-    "keyword": "sports training footage",
+    "text": "The potential impact on teams' chances of advancing",
+    "keyword": "advancing to the next round",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Even experienced athletes can face unexpected challenges and setbacks",
-    "keyword": "sports training footage",
+    "text": "The financial and reputational consequences of the matchups",
+    "keyword": "financial consequences",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Adaptability and perseverance are essential for overcoming adversity and achieving success",
-    "keyword": "sports training footage",
+    "text": "The value of experience and exposure for teams and players",
+    "keyword": "experience and exposure",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The journey to success is often marked by obstacles and challenges that must be overcome",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Watching athletes like Lindsey Vonn navigate challenges can provide valuable insights into the mindset and dedication required to succeed",
-    "keyword": "athlete mindset",
+    "text": "Conclusion and final thoughts on the Europa League matchups",
+    "keyword": "Europa League conclusion",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
