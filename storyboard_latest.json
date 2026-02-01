@@ -1,102 +1,104 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Vonn's Comeback",
+    "video_title": "NBA Suspension",
     "tags": [
-      "alpine skiing",
-      "injury recovery",
-      "olympic athletes",
-      "ski racing",
-      "sports medicine",
-      "winter sports",
-      "athlete training",
-      "competition preparation"
+      "NBA",
+      "suspension",
+      "antidrug",
+      "policy",
+      "basketball",
+      "sports",
+      "league",
+      "rules",
+      "regulations",
+      "athletes"
     ],
-    "topic": "the crash that left lindsey vonn in a race to the olympic start line",
+    "topic": "nba suspends philadelphia 76ers paul george 25 games for violating antidrug policy",
     "date": "February 01, 2026"
   },
   {
-    "text": "Professional sports athletes face challenges that can impact their careers",
-    "keyword": "sports training footage",
+    "text": "Introduction to the NBA's substance abuse policy",
+    "keyword": "NBA policy",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Lindsey Vonn's Olympic journey was almost derailed by a crash",
-    "keyword": "Lindsey Vonn",
-    "identity_keyword": "Olympics",
+    "text": "Explaining the purpose of the NBA's antidrug policy",
+    "keyword": "antidrug policy",
+    "identity_keyword": "",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Understanding the factors that influence disciplinary action",
+    "keyword": "disciplinary action",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Discussing the strategy behind the NBA's antidrug policy",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of providing support and resources to players",
+    "keyword": "player support",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The shift in approach to substance abuse in sports leagues",
+    "keyword": "sports leagues",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The long-term impact of the NBA's handling of substance abuse",
+    "keyword": "long-term impact",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "How the NBA's approach affects player health and well-being",
+    "keyword": "player health",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Creating a safer and more positive environment in the NBA",
+    "keyword": "safe environment",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of education in the NBA's antidrug policy",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of testing and treatment in the NBA's policy",
+    "keyword": "testing and treatment",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Conclusion on the NBA's approach to substance abuse",
+    "keyword": "sports training footage",
+    "identity_keyword": "NBA approach",
+    "duration": 4,
     "visual_type": "identity"
-  },
-  {
-    "text": "Vonn was in top physical condition before the crash",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The crash put her entire season in jeopardy",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Vonn is known for her determination and perseverance",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "She developed a rehabilitation strategy to get back on the slopes",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Vonn had to contend with mental and emotional challenges during recovery",
-    "keyword": "mental challenges",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "She used her experience to inform her approach to recovery",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The story highlights the importance of perseverance in professional sports",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Athletes constantly push themselves to be faster, stronger, and better",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Vonn's journey is a testament to the human spirit and hard work",
-    "keyword": "human spirit",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Her story showcases the incredible things achieved with dedication and refusal to give up",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
   }
 ]
