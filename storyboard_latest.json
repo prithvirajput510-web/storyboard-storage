@@ -1,101 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Izzo's Strategy",
+    "video_title": "Vonn's Rush",
     "tags": [
-      "Michigan basketball",
-      "Tom Izzo",
-      "MSU game",
-      "college sports",
-      "Big Ten",
-      "NCAA",
-      "basketball strategy",
-      "Michigan State",
-      "sports analysis"
+      "skiing",
+      "injury",
+      "recovery",
+      "olympics",
+      "athletes",
+      "sports",
+      "racing",
+      "training",
+      "competition",
+      "winter sports"
     ],
-    "topic": "tom izzo michigan basketball played well i guess in win at msu",
+    "topic": "the crash that left lindsey vonn in a race to the olympic start line",
     "date": "February 01, 2026"
   },
   {
-    "text": "Introduction to the Michigan and Michigan State rivalry game",
-    "keyword": "rivalry game",
-    "identity_keyword": "Michigan vs Michigan State",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "sports training footage",
+    "identity_keyword": "Lindsey Vonn",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Exploring the history between the two teams",
-    "keyword": "team history",
+    "text": "Overview of alpine skiing and its challenges",
+    "keyword": "alpine skiing",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing the strategic approach of both teams",
+    "text": "Lindsey Vonn's road to recovery after a major crash",
+    "keyword": "sports training footage",
+    "identity_keyword": "Lindsey Vonn",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Importance of physical therapy in the recovery process",
+    "keyword": "physical therapy",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Mental preparation as a crucial aspect of recovery",
+    "keyword": "sports training footage",
+    "identity_keyword": "Lindsey Vonn",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The delicate balance between intense training and gradual progression",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Discussing the coaching styles of Tom Izzo and his counterpart",
-    "keyword": "coaching styles",
+    "text": "Analysts often study situations like this to understand broader strategies.",
+    "keyword": "injury risk",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Understanding the significance of rivalry games in a team's season",
-    "keyword": "season implications",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Considering the potential impact on a team's future",
-    "keyword": "future implications",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The role of experience in the game",
-    "keyword": "team experience",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of speed and agility in the matchup",
-    "keyword": "speed and agility",
-    "identity_keyword": "Michigan's quick offense",
+    "text": "The importance of finding the right mindset for success",
+    "keyword": "sports training footage",
+    "identity_keyword": "Lindsey Vonn",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "The motivational factors for players in a rivalry game",
-    "keyword": "player motivation",
+    "text": "Moments like this help explain how modern sports continue to evolve.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The potential for a strong performance to shape a team's trajectory",
-    "keyword": "team trajectory",
+    "text": "The value of dedication and hard work in achieving success",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The impact of rivalry games on a team's overall program",
-    "keyword": "program implications",
+    "text": "The impact of Lindsey Vonn's story on the world of sports",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Conclusion of the Michigan and Michigan State rivalry game analysis",
-    "keyword": "game analysis",
+    "text": "Conclusion of Lindsey Vonn's journey to the Olympic start line",
+    "keyword": "Olympic journey",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
