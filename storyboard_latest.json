@@ -1,102 +1,101 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Philly Tour Stop",
+    "video_title": "Izzo's Strategy",
     "tags": [
-      "sports",
-      "crowd",
-      "tour",
-      "stop",
-      "philly",
-      "arena",
-      "fans",
-      "game",
-      "event",
-      "venue"
+      "Michigan basketball",
+      "Tom Izzo",
+      "MSU game",
+      "college sports",
+      "Big Ten",
+      "NCAA",
+      "basketball strategy",
+      "Michigan State",
+      "sports analysis"
     ],
-    "topic": "unrivaled players rave over record crowd at philly tour stop",
+    "topic": "tom izzo michigan basketball played well i guess in win at msu",
     "date": "February 01, 2026"
   },
   {
-    "text": "What makes a sports event truly unforgettable?",
-    "keyword": "unforgettable sports event",
+    "text": "Introduction to the Michigan and Michigan State rivalry game",
+    "keyword": "rivalry game",
+    "identity_keyword": "Michigan vs Michigan State",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Exploring the history between the two teams",
+    "keyword": "team history",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Creating an electric atmosphere leaves a lasting impression on players and fans.",
-    "keyword": "electric atmosphere",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The history of the sport has led to a loyal fan base.",
-    "keyword": "sport history",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The city of Philadelphia is a hub for enthusiastic fans.",
-    "keyword": "Philadelphia fans",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "A successful tour stop involves a combination of factors.",
-    "keyword": "successful tour stop",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The venue, marketing, and player engagement contribute to building a sense of community.",
-    "keyword": "community building",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Players have a significant role to play in hyping up the crowd.",
-    "keyword": "player engagement",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The Philly tour stop is part of a larger circuit that brings together top players.",
-    "keyword": "larger circuit",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The event has tapped into something special, with fans responding to the unique energy.",
-    "keyword": "unique energy",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Creating a sustainable and engaging sports ecosystem benefits everyone.",
-    "keyword": "sustainable ecosystem",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Understanding what makes an event tick can help build a brighter future for the sport.",
-    "keyword": "brighter future",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "By learning from the success of the Philly tour stop, we can improve the sport as a whole.",
+    "text": "Analyzing the strategic approach of both teams",
     "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Discussing the coaching styles of Tom Izzo and his counterpart",
+    "keyword": "coaching styles",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Understanding the significance of rivalry games in a team's season",
+    "keyword": "season implications",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Considering the potential impact on a team's future",
+    "keyword": "future implications",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of experience in the game",
+    "keyword": "team experience",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The importance of speed and agility in the matchup",
+    "keyword": "speed and agility",
+    "identity_keyword": "Michigan's quick offense",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The motivational factors for players in a rivalry game",
+    "keyword": "player motivation",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential for a strong performance to shape a team's trajectory",
+    "keyword": "team trajectory",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The impact of rivalry games on a team's overall program",
+    "keyword": "program implications",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Conclusion of the Michigan and Michigan State rivalry game analysis",
+    "keyword": "game analysis",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
