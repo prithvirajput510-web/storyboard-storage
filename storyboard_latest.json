@@ -1,100 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Rookie 3pt Record",
+    "video_title": "Philly Tour Stop",
     "tags": [
-      "NBA",
-      "rookies",
-      "three pointers",
-      "basketball records",
-      "Nets",
-      "guards",
-      "shooting",
-      "scoring"
+      "Sports",
+      "Philadelphia",
+      "Tour",
+      "Stop",
+      "Crowd",
+      "Record",
+      "Event",
+      "Venue",
+      "Attendance",
+      "Fans"
     ],
-    "topic": "nets guard egor demin sets nba rookie record with 3pointer",
+    "topic": "unrivaled players rave over record crowd at philly tour stop",
     "date": "February 01, 2026"
   },
   {
-    "text": "Introduction to the NBA and rookie development",
-    "keyword": "sports training footage",
-    "identity_keyword": "Rookie",
+    "text": "What makes a sports event unforgettable?",
+    "keyword": "sports event",
+    "identity_keyword": "",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Exploring the history of sports tourism in Philadelphia",
+    "keyword": "sports tourism",
+    "identity_keyword": "Philadelphia",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Exploring Egor Demin's rise to prominence",
-    "keyword": "Egor Demin",
-    "identity_keyword": "Player",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The Nets' strategy for developing young talent",
-    "keyword": "sports training footage",
-    "identity_keyword": "Team",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The importance of natural ability in three-point shooting",
-    "keyword": "Three-point shooting",
-    "identity_keyword": "Skill",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Rigorous practice and its impact on player development",
-    "keyword": "sports training footage",
+    "text": "The role of state-of-the-art venues in drawing top talent",
+    "keyword": "state-of-the-art venues",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Clever play-calling and its role in creating scoring opportunities",
-    "keyword": "sports training footage",
+    "text": "Strategies for creating an immersive fan experience",
+    "keyword": "immersive experience",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The role of rookies in team dynamics and game planning",
-    "keyword": "sports training footage",
+    "text": "Uniting athletes from different backgrounds and disciplines",
+    "keyword": "athlete unity",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "How players like Demin can fit into a larger team system",
-    "keyword": "Team system",
+    "text": "Opportunities for athletes to connect with fans and inspire the next generation",
+    "keyword": "athlete-fan connection",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The long-term implications of rookie record-setting performances",
-    "keyword": "sports training footage",
+    "text": "The importance of careful planning and coordination in hosting a major event",
+    "keyword": "event planning",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Investing in the next generation of talent and its benefits",
-    "keyword": "sports training footage",
+    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "keyword": "world-class event",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Creating a pipeline of skilled players for future success",
-    "keyword": "Player pipeline",
+    "text": "The long-term impact of investing in sports events on the local community and economy",
+    "keyword": "sports investment",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The significance of rookie development in the NBA's future",
-    "keyword": "NBA future",
+    "text": "Building a stronger, more vibrant sports ecosystem",
+    "keyword": "sports ecosystem",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Creating a lasting legacy through sports events",
+    "keyword": "lasting legacy",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The potential for sports events to have far-reaching consequences beyond the playing field",
+    "keyword": "far-reaching consequences",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
