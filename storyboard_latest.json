@@ -1,102 +1,100 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Vonn's Rush",
+    "video_title": "Vonn's Comeback",
     "tags": [
-      "skiing",
-      "injury",
-      "recovery",
-      "olympics",
-      "athletes",
-      "sports",
-      "racing",
-      "training",
-      "competition",
-      "winter sports"
+      "alpine skiing",
+      "injury recovery",
+      "olympic athletes",
+      "ski racing",
+      "sports medicine",
+      "winter sports",
+      "athlete training",
+      "competition preparation"
     ],
     "topic": "the crash that left lindsey vonn in a race to the olympic start line",
     "date": "February 01, 2026"
   },
   {
-    "text": "This topic offers insight into how teams plan and adapt over time.",
+    "text": "Professional sports athletes face challenges that can impact their careers",
     "keyword": "sports training footage",
-    "identity_keyword": "Lindsey Vonn",
-    "duration": 3,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Overview of alpine skiing and its challenges",
-    "keyword": "alpine skiing",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Lindsey Vonn's road to recovery after a major crash",
-    "keyword": "sports training footage",
-    "identity_keyword": "Lindsey Vonn",
-    "duration": 4,
+    "text": "Lindsey Vonn's Olympic journey was almost derailed by a crash",
+    "keyword": "Lindsey Vonn",
+    "identity_keyword": "Olympics",
+    "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Importance of physical therapy in the recovery process",
-    "keyword": "physical therapy",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Mental preparation as a crucial aspect of recovery",
-    "keyword": "sports training footage",
-    "identity_keyword": "Lindsey Vonn",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "The delicate balance between intense training and gradual progression",
+    "text": "Vonn was in top physical condition before the crash",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analysts often study situations like this to understand broader strategies.",
-    "keyword": "injury risk",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of finding the right mindset for success",
-    "keyword": "sports training footage",
-    "identity_keyword": "Lindsey Vonn",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Moments like this help explain how modern sports continue to evolve.",
+    "text": "The crash put her entire season in jeopardy",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The value of dedication and hard work in achieving success",
+    "text": "Vonn is known for her determination and perseverance",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The impact of Lindsey Vonn's story on the world of sports",
+    "text": "She developed a rehabilitation strategy to get back on the slopes",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Conclusion of Lindsey Vonn's journey to the Olympic start line",
-    "keyword": "Olympic journey",
+    "text": "Vonn had to contend with mental and emotional challenges during recovery",
+    "keyword": "mental challenges",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "She used her experience to inform her approach to recovery",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The story highlights the importance of perseverance in professional sports",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Athletes constantly push themselves to be faster, stronger, and better",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Vonn's journey is a testament to the human spirit and hard work",
+    "keyword": "human spirit",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Her story showcases the incredible things achieved with dedication and refusal to give up",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
