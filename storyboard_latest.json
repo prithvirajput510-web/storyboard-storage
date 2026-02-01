@@ -1,99 +1,100 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Lopes' Last Shot",
+    "video_title": "Rookie 3PT Record",
     "tags": [
-      "UFC",
-      "Featherweight",
-      "MMA",
-      "Title Fight",
-      "Rematch",
-      "Diego Lopes",
-      "Sports",
-      "Combat"
+      "NBA",
+      "rookies",
+      "three pointers",
+      "basketball records",
+      "shooting guards",
+      "Nets",
+      "basketball history",
+      "athletes",
+      "sports milestones"
     ],
-    "topic": "diego lopes boldly claims ufc 325 rematch might be his last chance to win featherweight title",
-    "date": "January 31, 2026"
+    "topic": "nets guard egor demin sets nba rookie record with 3pointer",
+    "date": "February 01, 2026"
   },
   {
-    "text": "The world of mixed martial arts is full of surprises",
-    "keyword": "mixed martial arts",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Diego Lopes has been working his way up the ranks in the featherweight division",
-    "keyword": "featherweight division",
-    "identity_keyword": "Diego Lopes",
+    "text": "Introduction to rookie player Egor Demin",
+    "keyword": "rookie player",
+    "identity_keyword": "Egor Demin",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "Lopes has his sights set on the title and will need to bring his A-game",
+    "text": "Demin's background and development of three-point shooting skills",
+    "keyword": "three-point shooting",
+    "identity_keyword": "Demin's background",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Analysis of Demin's strategy for three-point shooting",
     "keyword": "sports training footage",
-    "identity_keyword": "A-game",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Demin's ability to create space and get open for shots",
+    "keyword": "footwork and movement",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Demin's approach to the game as a well-rounded player",
+    "keyword": "all-around skills",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Importance of Demin's three-point shooting in the long term",
+    "keyword": "sports training footage",
+    "identity_keyword": "NBA success",
     "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Strategy will be crucial for Lopes in his upcoming fight",
+    "text": "Demin's potential to become a formidable opponent",
+    "keyword": "future opponent",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Impact of Demin's three-point shooting on his team's success",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Lopes will need to use all of his skills and experience to outmaneuver his opponent",
-    "keyword": "skills and experience",
+    "text": "Demin's work ethic and dedication to developing his skills",
+    "keyword": "work ethic",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The mental aspect of the fight will be important for Lopes to stay focused and motivated",
-    "keyword": "mental aspect",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "This fight could be Lopes' last chance to win the title",
-    "keyword": "last chance",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The world of mixed martial arts is always evolving and requires adaptability",
+    "text": "Challenges that Demin may face in his development as a player",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Fighters who can adapt and overcome obstacles will be successful in the long term",
-    "keyword": "sports training footage",
+    "text": "Opportunities for Demin to grow and improve as a player",
+    "keyword": "growth opportunities",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "For Lopes, this fight is about proving himself as a champion",
-    "keyword": "proving himself",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Lopes will need to stay calm and composed under pressure to perform at his best",
-    "keyword": "stay calm and composed",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The outcome of this fight will have a significant impact on Lopes' career",
+    "text": "Conclusion of Demin's potential and impact on the game",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
