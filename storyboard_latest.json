@@ -1,7 +1,7 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Cavs New Point",
+    "video_title": "Cavs New Point Guard",
     "tags": [
       "NBA trades",
       "Cavaliers roster",
@@ -9,93 +9,94 @@
       "team trades",
       "basketball news",
       "sports analysis",
-      "player movement",
-      "roster updates",
-      "league transactions"
+      "player moves",
+      "league updates",
+      "team changes",
+      "roster moves"
     ],
     "topic": "cavaliers to acquire ellis schröder in threeteam trade",
     "date": "February 02, 2026"
   },
   {
-    "text": "A trade can change a team's future",
-    "keyword": "NBA trade",
-    "identity_keyword": "Cavaliers",
+    "text": "This moment highlights how teams adjust their approach over time.",
+    "keyword": "Cavaliers trade rumor",
+    "identity_keyword": "NBA",
     "duration": 3,
     "visual_type": "identity"
   },
   {
-    "text": "This moment highlights how teams adjust their approach over time.",
+    "text": "Explaining Ellis Schrder's role in the trade",
     "keyword": "Ellis Schrder",
-    "identity_keyword": "",
+    "identity_keyword": "Player",
     "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Three-team trade with multiple players and picks",
-    "keyword": "Three-team trade",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "text": "Situations like this often reveal deeper patterns in professional sports.",
-    "keyword": "Team building",
-    "identity_keyword": "",
+    "keyword": "Cavaliers roster",
+    "identity_keyword": "Team",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "Schrder's experience and skillset a great fit",
-    "keyword": "Schrder's skills",
-    "identity_keyword": "",
+    "text": "Discussing the need for a veteran presence",
+    "keyword": "veteran presence",
+    "identity_keyword": "Leadership",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
     "text": "Experts often study moments like this to understand long-term strategy.",
-    "keyword": "Coaching staff",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Why this trade matters in the long run",
-    "keyword": "Long-term gains",
+    "keyword": "Schrder's impact",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
     "text": "This context helps explain how decisions shape future performance.",
-    "keyword": "Future plans",
-    "identity_keyword": "Competitiveness",
-    "duration": 4,
-    "visual_type": "identity"
-  },
-  {
-    "text": "Trade a sign of bigger things to come",
-    "keyword": "Future implications",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Fascinating to see how it all unfolds",
-    "keyword": "Unfolding story",
+    "text": "Developments like this influence how teams plan ahead.",
+    "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Impact on the team's future and fans",
-    "keyword": "Fan interest",
+    "text": "The importance of the trade for the franchise",
+    "keyword": "franchise implications",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The story behind the trade and its significance",
-    "keyword": "Trade significance",
+    "text": "The potential risks and rewards of the trade",
+    "keyword": "trade risks and rewards",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The role of the trade in the Cavaliers' legacy",
+    "keyword": "Cavaliers legacy",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Why the trade matters for the future of the franchise",
+    "keyword": "franchise future",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Such moments reflect how competitive environments continue to evolve.",
+    "keyword": "trade rumor significance",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
