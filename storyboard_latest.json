@@ -1,104 +1,103 @@
 [
   {
     "_type": "metadata",
-    "video_title": "NBA Suspension",
+    "video_title": "Cavs New Point",
     "tags": [
-      "NBA",
-      "suspension",
-      "antidrug",
-      "policy",
-      "basketball",
-      "sports",
-      "league",
-      "rules",
-      "regulations",
-      "athletes"
+      "NBA trades",
+      "Cavaliers roster",
+      "point guard",
+      "team trades",
+      "basketball news",
+      "sports analysis",
+      "player movement",
+      "roster updates",
+      "league transactions"
     ],
-    "topic": "nba suspends philadelphia 76ers paul george 25 games for violating antidrug policy",
-    "date": "February 01, 2026"
+    "topic": "cavaliers to acquire ellis schröder in threeteam trade",
+    "date": "February 02, 2026"
   },
   {
-    "text": "Introduction to the NBA's substance abuse policy",
-    "keyword": "NBA policy",
+    "text": "A trade can change a team's future",
+    "keyword": "NBA trade",
+    "identity_keyword": "Cavaliers",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "This moment highlights how teams adjust their approach over time.",
+    "keyword": "Ellis Schrder",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "Explaining the purpose of the NBA's antidrug policy",
-    "keyword": "antidrug policy",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Understanding the factors that influence disciplinary action",
-    "keyword": "disciplinary action",
+    "text": "Three-team trade with multiple players and picks",
+    "keyword": "Three-team trade",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Discussing the strategy behind the NBA's antidrug policy",
-    "keyword": "sports training footage",
+    "text": "Situations like this often reveal deeper patterns in professional sports.",
+    "keyword": "Team building",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The importance of providing support and resources to players",
-    "keyword": "player support",
+    "text": "Schrder's experience and skillset a great fit",
+    "keyword": "Schrder's skills",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The shift in approach to substance abuse in sports leagues",
-    "keyword": "sports leagues",
+    "text": "Experts often study moments like this to understand long-term strategy.",
+    "keyword": "Coaching staff",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The long-term impact of the NBA's handling of substance abuse",
-    "keyword": "long-term impact",
+    "text": "Why this trade matters in the long run",
+    "keyword": "Long-term gains",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "How the NBA's approach affects player health and well-being",
-    "keyword": "player health",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Creating a safer and more positive environment in the NBA",
-    "keyword": "safe environment",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The role of education in the NBA's antidrug policy",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The importance of testing and treatment in the NBA's policy",
-    "keyword": "testing and treatment",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion on the NBA's approach to substance abuse",
-    "keyword": "sports training footage",
-    "identity_keyword": "NBA approach",
+    "text": "This context helps explain how decisions shape future performance.",
+    "keyword": "Future plans",
+    "identity_keyword": "Competitiveness",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "text": "Trade a sign of bigger things to come",
+    "keyword": "Future implications",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Fascinating to see how it all unfolds",
+    "keyword": "Unfolding story",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Impact on the team's future and fans",
+    "keyword": "Fan interest",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The story behind the trade and its significance",
+    "keyword": "Trade significance",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
