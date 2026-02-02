@@ -1,101 +1,102 @@
 [
   {
     "_type": "metadata",
-    "video_title": "IU Basketball",
+    "video_title": "IU's Gritty Win",
     "tags": [
       "college basketball",
-      "ucla",
-      "indiana university",
+      "IU basketball",
+      "UCLA",
+      "double overtime",
       "sports",
-      "athletics",
-      "hoops",
-      "ncaa",
-      "basketball teams",
-      "overtime games"
+      "basketball games",
+      "team sports",
+      "athletic competition",
+      "college athletics",
+      "basketball teams"
     ],
     "topic": "they left it all out there iu basketball displays character grit in double overtime win at ucla",
     "date": "February 02, 2026"
   },
   {
-    "text": "IU basketball gave it their all against UCLA, leaving everything on the court.",
+    "text": "IU basketball takes on UCLA in a high-energy game",
+    "keyword": "game night",
+    "identity_keyword": "",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "IU basketball has been working on their strategy all season",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball has been working on their strategy all season to find the perfect balance.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The team has been studying their opponents to outmaneuver them, especially against tough defenses like UCLA's.",
+    "text": "IU basketball adapts to different playing styles",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball's ability to adapt to different situations is impressive, whether it's a tough opponent or hostile crowd.",
-    "keyword": "sports training footage",
+    "text": "The game against UCLA is a test of IU basketball's character",
+    "keyword": "character test",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team is focused on building a culture of toughness and resilience, not just winning games.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "This approach can help the team develop character and overcome adversity in the long term.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The impact of this one game can be a turning point for the team's season and future.",
+    "text": "Games like this can be a turning point for a team",
     "keyword": "turning point",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "When a team shows heart and determination, it can define their identity and set them up for success.",
+    "text": "IU basketball's performance will impact their future",
+    "keyword": "future impact",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "IU basketball is focused on building their strength and endurance",
+    "keyword": "team building",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The game is a chance for IU basketball to prove themselves",
+    "keyword": "proving themselves",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "IU basketball studies their opponents to outmaneuver them",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The journey and growth of the team is what makes sports compelling, not just wins and losses.",
+    "text": "IU basketball's strategy is put to the test against UCLA",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball's performance against UCLA was a testament to their team chemistry and unity.",
+    "text": "The outcome of the game will show what IU basketball is capable of",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The team's ability to work together and adjust their game plan on the fly is a key to their success.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The outcome of this game may be over, but its impact on the team's future is just beginning to unfold.",
-    "keyword": "sports training footage",
+    "text": "IU basketball's experience will shape their rest of the season",
+    "keyword": "season impact",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
