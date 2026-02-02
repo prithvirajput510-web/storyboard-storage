@@ -1,102 +1,100 @@
 [
   {
     "_type": "metadata",
-    "video_title": "IU's Gritty Win",
+    "video_title": "Puerto Rico's WBC Dilemma",
     "tags": [
-      "college basketball",
-      "IU basketball",
-      "UCLA",
-      "double overtime",
+      "World Baseball Classic",
+      "Team Puerto Rico",
+      "baseball",
       "sports",
-      "basketball games",
-      "team sports",
-      "athletic competition",
-      "college athletics",
-      "basketball teams"
+      "tournament",
+      "insurance issues",
+      "team withdrawal",
+      "WBC"
     ],
-    "topic": "they left it all out there iu basketball displays character grit in double overtime win at ucla",
+    "topic": "team puerto rico considering withdrawal from world baseball classic amid insurance issues",
     "date": "February 02, 2026"
   },
   {
-    "text": "IU basketball takes on UCLA in a high-energy game",
-    "keyword": "game night",
+    "text": "This moment highlights how teams adjust their approach over time.",
+    "keyword": "World Baseball Classic",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball has been working on their strategy all season",
-    "keyword": "sports training footage",
+    "text": "Team Puerto Rico is considering withdrawing due to insurance issues.",
+    "keyword": "Team Puerto Rico",
     "identity_keyword": "",
     "duration": 3,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball adapts to different playing styles",
+    "text": "What kind of insurance do teams need to participate in the tournament?",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The game against UCLA is a test of IU basketball's character",
-    "keyword": "character test",
+    "text": "Teams need insurance for player injuries, equipment, and travel.",
+    "keyword": "player injuries",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Games like this can be a turning point for a team",
-    "keyword": "turning point",
+    "text": "Tournament organizers play a role in ensuring teams have the necessary insurance.",
+    "keyword": "tournament organizers",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball's performance will impact their future",
-    "keyword": "future impact",
+    "text": "Team Puerto Rico's situation highlights the strategic decisions teams must make.",
+    "keyword": "strategic decisions",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball is focused on building their strength and endurance",
-    "keyword": "team building",
+    "text": "Teams must weigh the benefits of competing against potential risks and costs.",
+    "keyword": "risks and costs",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The game is a chance for IU basketball to prove themselves",
-    "keyword": "proving themselves",
+    "text": "The World Baseball Classic is important for growing the game globally.",
+    "keyword": "global growth",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball studies their opponents to outmaneuver them",
+    "text": "If teams struggle to participate, it could impact the overall health of the sport.",
+    "keyword": "sport health",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Tournament organizers and teams must work together to find solutions.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "IU basketball's strategy is put to the test against UCLA",
-    "keyword": "sports training footage",
+    "text": "The future of the game depends on finding ways to overcome these challenges.",
+    "keyword": "future of the game",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "The outcome of the game will show what IU basketball is capable of",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "IU basketball's experience will shape their rest of the season",
-    "keyword": "season impact",
+    "text": "The World Baseball Classic brings together teams from around the world.",
+    "keyword": "international tournament",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
