@@ -4,100 +4,101 @@
     "video_title": "Illini Road Wins",
     "tags": [
       "college basketball",
-      "road games",
-      "frontcourt players",
-      "team performance",
+      "road wins",
+      "frontcourt",
+      "player grades",
+      "Wagler",
+      "Illini",
+      "top 5 teams",
       "sports analysis",
-      "Illini basketball",
-      "Big Ten conference",
-      "basketball strategy",
-      "player grades"
+      "team performance",
+      "basketball strategy"
     ],
     "topic": "player grades wagler stars again frontcourt shines in illinis second straight top5 road win",
     "date": "February 03, 2026"
   },
   {
+    "text": "College basketball teams can turn their season around and start winning big games on the road",
+    "keyword": "College Basketball",
+    "identity_keyword": "Team Performance",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The Illinois team has talented players, but their frontcourt stands out as the backbone of the team",
+    "keyword": "Illinois Team",
+    "identity_keyword": "Frontcourt",
+    "duration": 3,
+    "visual_type": "identity"
+  },
+  {
     "text": "This moment highlights how teams adjust their approach over time.",
     "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Situations like this often reveal deeper patterns in professional sports.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Experts often study moments like this to understand long-term strategy.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "This context helps explain how decisions shape future performance.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Key players stepping up to make big plays",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Coaching staff's role in preparing the team",
-    "keyword": "coaching staff",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Developments like this influence how teams plan ahead.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Such moments reflect how competitive environments continue to evolve.",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Assessing the team's chances in the long run",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Potential for a deep run in the tournament",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "The team's development and growth over time",
-    "keyword": "sports training footage",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Conclusion and future outlook for the Illini",
-    "keyword": "sports training footage",
-    "identity_keyword": "Illini",
+    "identity_keyword": "Balance",
     "duration": 4,
     "visual_type": "identity"
+  },
+  {
+    "text": "Player grades and Wagler stars are a key indicator of how well the team is performing",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Wins on the road against top teams can be a huge confidence booster for the team",
+    "keyword": "Road Wins",
+    "identity_keyword": "Confidence Booster",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "The team's performance on the road can set the tone for the rest of the season",
+    "keyword": "Season Trajectory",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The Illinois team's frontcourt is impressive to watch, with players working together like a well-oiled machine",
+    "keyword": "Illinois Frontcourt",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The team's ability to turn their season around is a fascinating story to follow",
+    "keyword": "Team Turnaround",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The players' approach to the game is a key factor in the team's success",
+    "keyword": "Player Approach",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The team's performance can define their trajectory, not just for the season, but beyond",
+    "keyword": "Team Trajectory",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The combination of talented players and a balanced strategy makes the Illinois team exciting to watch",
+    "keyword": "Exciting Team",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "The story of the Illinois team's turnaround is one of resilience and determination",
+    "keyword": "Team Story",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
   }
 ]
