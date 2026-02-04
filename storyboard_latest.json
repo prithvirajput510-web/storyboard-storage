@@ -1,100 +1,100 @@
 [
   {
     "_type": "metadata",
-    "video_title": "Harden Next",
+    "video_title": "Racing with ACL Injury",
     "tags": [
-      "NBA trades",
-      "James Harden",
-      "basketball news",
-      "sports updates",
-      "player movement",
-      "roster changes",
-      "team management",
-      "league rumors",
-      "player transactions"
+      "ACL injury",
+      "knee injury",
+      "sports medicine",
+      "athletic recovery",
+      "orthopedic surgery",
+      "physical therapy",
+      "sports rehabilitation",
+      "injury prevention",
+      "knee health"
     ],
-    "topic": "the nbas newest bigname trade candidate james harden",
+    "topic": "vonn confident she will race at olympics despite completely ruptured acl in left knee",
     "date": "February 04, 2026"
   },
   {
-    "text": "Introduction to James Harden's situation in the NBA",
-    "keyword": "James Harden",
-    "identity_keyword": "NBA",
+    "text": "Athletes often suffer career-ending injuries, but some come back stronger than ever.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
     "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Lindsey Vonn, a world-class skier, has had her fair share of injuries, including a ruptured ACL.",
+    "keyword": "Lindsey Vonn",
+    "identity_keyword": "",
+    "duration": 3,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Vonn is working hard to rehab her knee and get back on the slopes.",
+    "keyword": "sports training footage",
+    "identity_keyword": "Vonn",
+    "duration": 4,
     "visual_type": "identity"
   },
   {
-    "text": "Explaining James Harden's dominance in the league",
-    "keyword": "dominant player",
-    "identity_keyword": "",
-    "duration": 3,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Discussing James Harden's current situation and speculation about his future",
+    "text": "This moment highlights how teams adjust their approach over time.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Analyzing James Harden's career and playing style",
+    "text": "Situations like this often reveal deeper patterns in professional sports.",
+    "keyword": "sports training footage",
+    "identity_keyword": "Vonn",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Vonn's mindset and support system must be strong to stay positive and motivated during rehab.",
+    "keyword": "sports training footage",
+    "identity_keyword": "Vonn",
+    "duration": 4,
+    "visual_type": "identity"
+  },
+  {
+    "text": "Athletes like Vonn inspire fans with their comebacks from serious injuries.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Considering how James Harden's personality fits with different teams and coaches",
-    "keyword": "team fit",
-    "identity_keyword": "",
+    "text": "Vonn's comeback pushes the boundaries of what's possible in sports medicine and rehabilitation.",
+    "keyword": "sports medicine",
+    "identity_keyword": "Vonn",
     "duration": 4,
-    "visual_type": "emotion"
+    "visual_type": "identity"
   },
   {
-    "text": "Explaining the importance of finding the right team for James Harden",
-    "keyword": "right team",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Discussing the complications of finding a team that James Harden wants to play for",
+    "text": "The impact of Vonn's comeback can be felt for years to come, benefiting athletes and non-athletes alike.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Introducing the idea that James Harden's situation could shape the future of the NBA",
-    "keyword": "NBA future",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Explaining how James Harden's move could have a ripple effect throughout the league",
-    "keyword": "ripple effect",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Highlighting the significance of James Harden's situation beyond just one player or team",
-    "keyword": "bigger picture",
-    "identity_keyword": "",
-    "duration": 4,
-    "visual_type": "emotion"
-  },
-  {
-    "text": "Emphasizing the fascination of James Harden's situation and its potential outcomes",
+    "text": "Injuries can be a setback, but with the right mindset and support, athletes can overcome them.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
     "visual_type": "emotion"
   },
   {
-    "text": "Conclusion of James Harden's situation and its potential impact on the NBA",
+    "text": "The road to recovery is long and challenging, but athletes like Vonn show it's possible to come out stronger.",
+    "keyword": "sports training footage",
+    "identity_keyword": "",
+    "duration": 4,
+    "visual_type": "emotion"
+  },
+  {
+    "text": "Vonn's story is a testament to the human spirit and the power of determination and hard work.",
     "keyword": "sports training footage",
     "identity_keyword": "",
     "duration": 4,
